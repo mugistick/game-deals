@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24 11:49",
+  "updated_at": "2026-10-26 04:16",
   "total_count": 16,
   "affiliate": {
     "amazon_tag": "mugistick-22",
@@ -13,6 +13,11 @@
     {
       "appid": 2050650,
       "name": "BIOHAZARD RE:4",
+      "name_en": "Resident Evil 4",
+      "publishers": [
+        "CAPCOM Co., Ltd."
+      ],
+      "has_key_store": false,
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/header_japanese.jpg?t=1772502922",
       "screenshots": [
         "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/ss_59d1b19964cc532213df92c8287b75a0bffeb33c.600x338.jpg?t=1772502922",
@@ -26,7 +31,7 @@
       "final_formatted": "¥ 997",
       "review_desc": "非常に好評",
       "positive_rate": 89,
-      "total_reviews": 192219,
+      "total_reviews": 192557,
       "deal_score": 86,
       "genres": [
         "アクション",
@@ -52,13 +57,16 @@
       "gpu_hint": "Radeon RX 5700",
       "has_controller": true,
       "is_heavy_3d": true,
-      "steam_url": "https://store.steampowered.com/app/2050650/",
-      "name_en": "Resident Evil 4",
-      "has_key_store": false
+      "steam_url": "https://store.steampowered.com/app/2050650/"
     },
     {
       "appid": 1091500,
       "name": "サイバーパンク2077",
+      "name_en": "Cyberpunk 2077",
+      "publishers": [
+        "CD PROJEKT RED"
+      ],
+      "has_key_store": false,
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/48a93d6445a67520ea49833c93dae8f2e68fc540/header_alt_assets_9.jpg?t=1792682505",
       "screenshots": [
         "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_2f649b68d579bf87011487d29bc4ccbfdd97d34f.600x338.jpg?t=1792682505",
@@ -72,7 +80,7 @@
       "final_formatted": "¥ 2,633",
       "review_desc": "非常に好評",
       "positive_rate": 85,
-      "total_reviews": 901098,
+      "total_reviews": 902790,
       "deal_score": 82,
       "genres": [
         "RPG"
@@ -97,13 +105,16 @@
       "gpu_hint": "RTX 2060",
       "has_controller": true,
       "is_heavy_3d": true,
-      "steam_url": "https://store.steampowered.com/app/1091500/",
-      "name_en": "Cyberpunk 2077",
-      "has_key_store": false
+      "steam_url": "https://store.steampowered.com/app/1091500/"
     },
     {
       "appid": 3247750,
       "name": "Mycopunk: 俺たちキノコバスターズ",
+      "name_en": "Mycopunk",
+      "publishers": [
+        "Devolver Digital"
+      ],
+      "has_key_store": true,
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3247750/67b1dc819a93d4e855b213b518f25a9700f46434/header.jpg?t=1792787251",
       "screenshots": [
         "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3247750/96b7543e6d29105f92c5395000db2691910519fe/ss_96b7543e6d29105f92c5395000db2691910519fe.600x338.jpg?t=1792787251",
@@ -116,9 +127,9 @@
       "initial_formatted": "¥ 1,700",
       "final_formatted": "¥ 850",
       "review_desc": "非常に好評",
-      "positive_rate": 87,
-      "total_reviews": 4358,
-      "deal_score": 69,
+      "positive_rate": 88,
+      "total_reviews": 4463,
+      "deal_score": 70,
       "genres": [
         "アクション",
         "インディー"
@@ -130,7 +141,7 @@
         "オンライン協力プレイ",
         "Steam実績"
       ],
-      "release_date": "2026年10月21日",
+      "release_date": "2026年10月20日",
       "supported_japanese": true,
       "ai_overview": "\"武器やギアをマシマシにカスタマイズできるミッション制ルートシューターで、キノコのエイリアンどもをぶっ飛ばせ。 何百ものお手製アップグレード、4人協力プレイ、そしてちっちゃなゴキぶ…星人もいて、これが沼らないわけない！\"",
       "ai_pros": [
@@ -143,13 +154,65 @@
       "gpu_hint": "RTX 2080",
       "has_controller": true,
       "is_heavy_3d": true,
-      "steam_url": "https://store.steampowered.com/app/3247750/",
-      "name_en": "Mycopunk",
-      "has_key_store": true
+      "steam_url": "https://store.steampowered.com/app/3247750/"
+    },
+    {
+      "appid": 3892270,
+      "name": "Gamble With Your Friends",
+      "name_en": "Gamble With Your Friends",
+      "publishers": [
+        "TENSTACK"
+      ],
+      "has_key_store": false,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892270/395e6d7972474333a698b26f8aa5597bf38109a1/header.jpg?t=1792427976",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892270/46a2a2c1593b57eb3b8948a68be504e8d91d3912/ss_46a2a2c1593b57eb3b8948a68be504e8d91d3912.600x338.jpg?t=1792427976",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892270/e3514d1723232a988324d08834e8784e6ad355c2/ss_e3514d1723232a988324d08834e8784e6ad355c2.600x338.jpg?t=1792427976",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892270/feeb63575e000a1a2127c4440f11bf8e0c4e428b/ss_feeb63575e000a1a2127c4440f11bf8e0c4e428b.600x338.jpg?t=1792427976"
+      ],
+      "discount_percent": 38,
+      "initial_price": 920,
+      "final_price": 570,
+      "initial_formatted": "¥ 920",
+      "final_formatted": "¥ 570",
+      "review_desc": "非常に好評",
+      "positive_rate": 89,
+      "total_reviews": 21981,
+      "deal_score": 68,
+      "genres": [
+        "アドベンチャー",
+        "インディー",
+        "シミュレーション"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "マルチプレイヤー",
+        "協力プレイ",
+        "オンライン協力プレイ",
+        "Steam実績"
+      ],
+      "release_date": "2026年5月1日",
+      "supported_japanese": true,
+      "ai_overview": "最大6人の仲間と、銀行口座と莫大な借金を共有しながらギャンブルに挑む、オンライン協力型「カジノクローラー」。怪しげなアイテムを買い、最悪の選択を重ね、不吉なカジノタワーを登れ。5分以内に課されたノルマを達成しなければ――そのツケを払うことになる。",
+      "ai_pros": [
+        "オンライン協力プレイ対応で快適に遊べる設計",
+        "要求スペックは軽め（GTX 1070目安）で幅広いPCで快適動作"
+      ],
+      "ai_cons": [],
+      "picked_reviews": [],
+      "gpu_hint": "GTX 1070",
+      "has_controller": false,
+      "is_heavy_3d": false,
+      "steam_url": "https://store.steampowered.com/app/3892270/"
     },
     {
       "appid": 881020,
       "name": "GRANBLUE FANTASY: Relink",
+      "name_en": "Granblue Fantasy: Relink",
+      "publishers": [
+        "Cygames, Inc."
+      ],
+      "has_key_store": false,
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881020/header.jpg?t=1792403376",
       "screenshots": [
         "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881020/ss_cdda0cdcd1f5aec78bb9edea1fa7d80feaf46d77.600x338.jpg?t=1792403376",
@@ -163,7 +226,7 @@
       "final_formatted": "¥ 2,904",
       "review_desc": "非常に好評",
       "positive_rate": 82,
-      "total_reviews": 41373,
+      "total_reviews": 41392,
       "deal_score": 65,
       "genres": [
         "アクション",
@@ -190,13 +253,16 @@
       "gpu_hint": "ミドルクラスGPU",
       "has_controller": true,
       "is_heavy_3d": true,
-      "steam_url": "https://store.steampowered.com/app/881020/",
-      "name_en": "Granblue Fantasy: Relink",
-      "has_key_store": false
+      "steam_url": "https://store.steampowered.com/app/881020/"
     },
     {
       "appid": 3764200,
       "name": "BIOHAZARD requiem",
+      "name_en": "Resident Evil Requiem",
+      "publishers": [
+        "CAPCOM Co., Ltd."
+      ],
+      "has_key_store": false,
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3764200/46a28870620bab1c2bc4de903bdcbcf4e423c58b/header_japanese.jpg?t=1779840172",
       "screenshots": [
         "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3764200/08af4e9398b8e45152bfbedce3bc24d22e2c0990/ss_08af4e9398b8e45152bfbedce3bc24d22e2c0990.600x338.jpg?t=1779840172",
@@ -210,7 +276,7 @@
       "final_formatted": "¥ 6,293",
       "review_desc": "非常に好評",
       "positive_rate": 86,
-      "total_reviews": 109327,
+      "total_reviews": 109467,
       "deal_score": 64,
       "genres": [
         "アクション",
@@ -236,13 +302,16 @@
       "gpu_hint": "RTX 2060",
       "has_controller": true,
       "is_heavy_3d": true,
-      "steam_url": "https://store.steampowered.com/app/3764200/",
-      "name_en": "Resident Evil Requiem",
-      "has_key_store": false
+      "steam_url": "https://store.steampowered.com/app/3764200/"
     },
     {
       "appid": 294100,
       "name": "RimWorld",
+      "name_en": "RimWorld",
+      "publishers": [
+        "Ludeon Studios"
+      ],
+      "has_key_store": true,
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/76e0613b8197327299d5dbabb0a7fd7828a689a2/header.jpg?t=1782756789",
       "screenshots": [
         "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/80e383ef19353058791efe17a6485849246c9c17/ss_80e383ef19353058791efe17a6485849246c9c17.600x338.jpg?t=1782756789",
@@ -256,7 +325,7 @@
       "final_formatted": "¥ 3,120",
       "review_desc": "非常に好評",
       "positive_rate": 94,
-      "total_reviews": 210621,
+      "total_reviews": 210728,
       "deal_score": 64,
       "genres": [
         "インディー",
@@ -282,13 +351,16 @@
       "gpu_hint": "ミドルクラスGPU",
       "has_controller": true,
       "is_heavy_3d": false,
-      "steam_url": "https://store.steampowered.com/app/294100/",
-      "name_en": "RimWorld",
-      "has_key_store": true
+      "steam_url": "https://store.steampowered.com/app/294100/"
     },
     {
       "appid": 3357650,
       "name": "PRAGMATA",
+      "name_en": "PRAGMATA",
+      "publishers": [
+        "CAPCOM Co., Ltd."
+      ],
+      "has_key_store": false,
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3357650/e32e168b25ed68a0cf6264c220c07e96c2abfb56/header.jpg?t=1791454600",
       "screenshots": [
         "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3357650/9699288b90d0aad320e998f107b59edd27e9ea61/ss_9699288b90d0aad320e998f107b59edd27e9ea61.600x338.jpg?t=1791454600",
@@ -302,7 +374,7 @@
       "final_formatted": "¥ 6,392",
       "review_desc": "非常に好評",
       "positive_rate": 94,
-      "total_reviews": 34204,
+      "total_reviews": 34271,
       "deal_score": 62,
       "genres": [
         "アクション",
@@ -328,13 +400,121 @@
       "gpu_hint": "RTX 2060",
       "has_controller": true,
       "is_heavy_3d": true,
-      "steam_url": "https://store.steampowered.com/app/3357650/",
-      "name_en": "PRAGMATA",
-      "has_key_store": false
+      "steam_url": "https://store.steampowered.com/app/3357650/"
+    },
+    {
+      "appid": 5228920,
+      "name": "Brick by Brick: Tidy Up the Small Town!",
+      "name_en": "Brick by Brick: Tidy Up the Small Town!",
+      "publishers": [
+        "PaperPixel Games"
+      ],
+      "has_key_store": false,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5228920/8c57f18ab6a1940b328584fe5556f4c87839e1a0/header.jpg?t=1792780766",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5228920/647170e6eba8aa058034468d13a344736e4b262e/ss_647170e6eba8aa058034468d13a344736e4b262e.600x338.jpg?t=1792780766",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5228920/671e01b19c508b66209bb892bea0d05701c786ec/ss_671e01b19c508b66209bb892bea0d05701c786ec.600x338.jpg?t=1792780766",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5228920/10caf68824bb83de79b1283b260ea73a5fb6889f/ss_10caf68824bb83de79b1283b260ea73a5fb6889f.600x338.jpg?t=1792780766"
+      ],
+      "discount_percent": 38,
+      "initial_price": 1050,
+      "final_price": 651,
+      "initial_formatted": "¥ 1,050",
+      "final_formatted": "¥ 651",
+      "review_desc": "非常に好評",
+      "positive_rate": 88,
+      "total_reviews": 493,
+      "deal_score": 61,
+      "genres": [
+        "カジュアル",
+        "インディー",
+        "シミュレーション"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "マルチプレイヤー",
+        "協力プレイ",
+        "オンライン協力プレイ",
+        "Steam実績"
+      ],
+      "release_date": "2026年10月15日",
+      "supported_japanese": true,
+      "ai_overview": "Brick By Brickは、ひとりでも最大5人の協力プレイでも楽しめる、リラックスできるお片付けゲームです。18,490個のレンガを集め、分けて、置いて、かわいい町をもう一度組み立てましょう。便利な能力を解放し、レンガの山が建物に変わっていく様子を楽しめます。ひとつずつ、コツコツと！",
+      "ai_pros": [
+        "オンライン協力プレイ対応で快適に遊べる設計"
+      ],
+      "ai_cons": [
+        "高負荷3Dグラフィック：快適プレイには「GTX 1080」以上のPC環境を推奨"
+      ],
+      "picked_reviews": [],
+      "gpu_hint": "GTX 1080",
+      "has_controller": true,
+      "is_heavy_3d": true,
+      "steam_url": "https://store.steampowered.com/app/5228920/"
+    },
+    {
+      "appid": 2399830,
+      "name": "ARK: Survival Ascended",
+      "name_en": "ARK: Survival Ascended",
+      "publishers": [
+        "Studio Wildcard",
+        "Snail Games USA"
+      ],
+      "has_key_store": false,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/d934813ca531af0fce69fe36bc972f1c90d1aa19/header.jpg?t=1779293241",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_44f74e86ebd6620a4f0a1f3f8ea97f73dc215e69.600x338.jpg?t=1779293241",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_65c0de5ced28281764990a299eb3926629b2863e.600x338.jpg?t=1779293241",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_0ce49e629369dbf9e8fba324667167568c05c66f.600x338.jpg?t=1779293241"
+      ],
+      "discount_percent": 75,
+      "initial_price": 6760,
+      "final_price": 1690,
+      "initial_formatted": "¥ 6,760",
+      "final_formatted": "¥ 1,690",
+      "review_desc": "賛否両論",
+      "positive_rate": 53,
+      "total_reviews": 108820,
+      "deal_score": 60,
+      "genres": [
+        "アクション",
+        "アドベンチャー",
+        "インディー",
+        "MM（Massively Multiplayer）"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "マルチプレイヤー",
+        "MMO",
+        "PvP",
+        "オンラインPvP"
+      ],
+      "release_date": "2023年10月25日",
+      "supported_japanese": true,
+      "ai_overview": "ARKは、Unreal Engine 5を使用したこの次世代のビデオゲームテクノロジーのゼロから再考されます。部族を形成し、何百ものユニークな恐竜と原始の生き物を飼いならし、繁殖させ、食物鎖の頂上までの道を探索、工芸、建設し、戦います。あなたの新しい世界が待っています！",
+      "ai_pros": [
+        "マルチプレイ対応で快適に遊べる設計"
+      ],
+      "ai_cons": [
+        "好みが分かれる作品（好評率53%）：ゲームシステムや難易度の事前確認を推奨",
+        "高負荷3Dグラフィック：快適プレイには「Radeon RX 6800」以上のPC環境を推奨"
+      ],
+      "picked_reviews": [],
+      "gpu_hint": "Radeon RX 6800",
+      "has_controller": true,
+      "is_heavy_3d": true,
+      "steam_url": "https://store.steampowered.com/app/2399830/"
     },
     {
       "appid": 1374490,
       "name": "RuneScape: Dragonwilds ルーンスケープ：ドラゴンワイルズ",
+      "name_en": "RuneScape: Dragonwilds",
+      "publishers": [
+        "Jagex Ltd",
+        "H2 Interactive Co., Ltd.",
+        "Graph"
+      ],
+      "has_key_store": false,
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374490/3e27915a647dbf05e17f2ff98d33c9a0765da539/header.jpg?t=1791278745",
       "screenshots": [
         "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374490/8f802b85a8f1002967f4943f76e1d645d1ffb061/ss_8f802b85a8f1002967f4943f76e1d645d1ffb061.600x338.jpg?t=1791278745",
@@ -348,7 +528,7 @@
       "final_formatted": "¥ 2,380",
       "review_desc": "非常に好評",
       "positive_rate": 80,
-      "total_reviews": 32484,
+      "total_reviews": 32639,
       "deal_score": 60,
       "genres": [
         "アクション",
@@ -375,13 +555,16 @@
       "gpu_hint": "RTX 2070",
       "has_controller": true,
       "is_heavy_3d": true,
-      "steam_url": "https://store.steampowered.com/app/1374490/",
-      "name_en": "RuneScape: Dragonwilds",
-      "has_key_store": false
+      "steam_url": "https://store.steampowered.com/app/1374490/"
     },
     {
       "appid": 3240220,
       "name": "グランド・セフト・オートV エンハンスト",
+      "name_en": "Grand Theft Auto V Enhanced",
+      "publishers": [
+        "Rockstar Games"
+      ],
+      "has_key_store": false,
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header_japanese.jpg?t=1781187782",
       "screenshots": [
         "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/d61184a98c1cf2db2b08b2999c04b0519e3615bb/ss_d61184a98c1cf2db2b08b2999c04b0519e3615bb.600x338.jpg?t=1781187782",
@@ -395,7 +578,7 @@
       "final_formatted": "¥ 2,190",
       "review_desc": "やや好評",
       "positive_rate": 73,
-      "total_reviews": 219796,
+      "total_reviews": 220279,
       "deal_score": 59,
       "genres": [
         "アクション",
@@ -423,13 +606,16 @@
       "gpu_hint": "RTX 3060",
       "has_controller": true,
       "is_heavy_3d": true,
-      "steam_url": "https://store.steampowered.com/app/3240220/",
-      "name_en": "Grand Theft Auto V Enhanced",
-      "has_key_store": false
+      "steam_url": "https://store.steampowered.com/app/3240220/"
     },
     {
       "appid": 3839710,
       "name": "Winning Post 10 2026",
+      "name_en": "Winning Post 10 2026",
+      "publishers": [
+        "KOEI TECMO GAMES CO., LTD."
+      ],
+      "has_key_store": false,
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3839710/f35e3fc43f40a4a68b7693c2192d018200d1b0c5/header.jpg?t=1775696416",
       "screenshots": [
         "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3839710/6d60d91d6aa679e0c2dc33495f3b2076289c6d56/ss_6d60d91d6aa679e0c2dc33495f3b2076289c6d56.600x338.jpg?t=1775696416",
@@ -470,13 +656,16 @@
       "gpu_hint": "GTX 1660",
       "has_controller": true,
       "is_heavy_3d": true,
-      "steam_url": "https://store.steampowered.com/app/3839710/",
-      "name_en": "Winning Post 10 2026",
-      "has_key_store": false
+      "steam_url": "https://store.steampowered.com/app/3839710/"
     },
     {
       "appid": 381210,
       "name": "デッドバイデイライト",
+      "name_en": "Dead by Daylight",
+      "publishers": [
+        "Behaviour Interactive Inc."
+      ],
+      "has_key_store": false,
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/23fed9f741423413769ad1617e41519d1a466cdc/header_alt_assets_10.jpg?t=1791302579",
       "screenshots": [
         "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/5355ac410e985cac27f04b877280a984be4d28a6/ss_5355ac410e985cac27f04b877280a984be4d28a6.600x338.jpg?t=1791302579",
@@ -490,7 +679,7 @@
       "final_formatted": "¥ 999",
       "review_desc": "賛否両論",
       "positive_rate": 54,
-      "total_reviews": 690207,
+      "total_reviews": 690470,
       "deal_score": 54,
       "genres": [
         "アクション"
@@ -516,106 +705,17 @@
       "gpu_hint": "ミドルクラスGPU",
       "has_controller": true,
       "is_heavy_3d": false,
-      "steam_url": "https://store.steampowered.com/app/381210/",
-      "name_en": "Dead by Daylight",
-      "has_key_store": false
-    },
-    {
-      "appid": 3813350,
-      "name": "蒼き雷霆（アームドブルー） ガンヴォルト トライアングル エディション",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3813350/06941f8de5ed7bcb9d47b9701480053d3ad9c0da/header_japanese.jpg?t=1792652543",
-      "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3813350/df52492377d0bd8a7fa9ec6e33b7e0741f48eb65/ss_df52492377d0bd8a7fa9ec6e33b7e0741f48eb65.600x338.jpg?t=1792652543",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3813350/b5489215662f93c593a17ca884ec0d50e3814e4d/ss_b5489215662f93c593a17ca884ec0d50e3814e4d.600x338.jpg?t=1792652543",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3813350/74bf00d20ee05fe0a4882ad224fcf755d07deada/ss_74bf00d20ee05fe0a4882ad224fcf755d07deada.600x338.jpg?t=1792652543"
-      ],
-      "discount_percent": 30,
-      "initial_price": 4980,
-      "final_price": 3486,
-      "initial_formatted": "¥ 4,980",
-      "final_formatted": "¥ 3,486",
-      "review_desc": "やや好評",
-      "positive_rate": 78,
-      "total_reviews": 216,
-      "deal_score": 52,
-      "genres": [
-        "アクション",
-        "アドベンチャー"
-      ],
-      "categories": [
-        "シングルプレイヤー",
-        "Steam実績",
-        "フルコントローラサポート",
-        "ゲームパッド推奨",
-        "DUALSHOCKコントローラーサポート"
-      ],
-      "release_date": "2025年7月23日",
-      "supported_japanese": true,
-      "ai_overview": "本格横スクロール2Dアクションゲーム『蒼き雷霆（アームドブルー） ガンヴォルト』（2014年）、『蒼き雷霆（アームドブルー） ガンヴォルト 爪（ソウ）』（2016年）、『蒼き雷霆（アームドブルー） ガンヴォルト 鎖環（ギブス）』（2022年）の全3作品と全DLCを収録した完全版となります。",
-      "ai_pros": [
-        "フルコントローラー対応で快適に遊べる設計"
-      ],
-      "ai_cons": [
-        "高負荷3Dグラフィック：快適プレイには「ミドルクラスGPU」以上のPC環境を推奨"
-      ],
-      "picked_reviews": [],
-      "gpu_hint": "ミドルクラスGPU",
-      "has_controller": true,
-      "is_heavy_3d": true,
-      "steam_url": "https://store.steampowered.com/app/3813350/",
-      "name_en": "Azure Striker Gunvolt Trilogy Enhanced",
-      "has_key_store": false
-    },
-    {
-      "appid": 1295660,
-      "name": "シドマイヤーズ シヴィライゼーション VII",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1295660/header.jpg?t=1792718077",
-      "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1295660/a8e4b446968bd5b29c7d8562b1cdc655de2798bf/ss_a8e4b446968bd5b29c7d8562b1cdc655de2798bf.600x338.jpg?t=1792718077",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1295660/6461e684c0ddb02f3058ea0a4d3d7a7eb3167759/ss_6461e684c0ddb02f3058ea0a4d3d7a7eb3167759.600x338.jpg?t=1792718077",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1295660/925610202aa7ff380a8a62100262605e9049fd40/ss_925610202aa7ff380a8a62100262605e9049fd40.600x338.jpg?t=1792718077"
-      ],
-      "discount_percent": 50,
-      "initial_price": 8800,
-      "final_price": 4400,
-      "initial_formatted": "¥ 8,800",
-      "final_formatted": "¥ 4,400",
-      "review_desc": "賛否両論",
-      "positive_rate": 54,
-      "total_reviews": 45435,
-      "deal_score": 50,
-      "genres": [
-        "シミュレーション",
-        "ストラテジー"
-      ],
-      "categories": [
-        "シングルプレイヤー",
-        "マルチプレイヤー",
-        "PvP",
-        "オンラインPvP",
-        "LAN PvP"
-      ],
-      "release_date": "2025年2月10日",
-      "supported_japanese": true,
-      "ai_overview": "時代を超えて進化、あるいは存続する国家を導こう。『シドマイヤーズ シヴィライゼーション® VII』で新たな世界と物語を創ろう。あなたのターンで 歴史が生まれる。",
-      "ai_pros": [
-        "マルチプレイ対応で快適に遊べる設計"
-      ],
-      "ai_cons": [
-        "好みが分かれる作品（好評率54%）：ゲームシステムや難易度の事前確認を推奨",
-        "高負荷3Dグラフィック：快適プレイには「RTX 2060」以上のPC環境を推奨"
-      ],
-      "picked_reviews": [],
-      "gpu_hint": "RTX 2060",
-      "has_controller": true,
-      "is_heavy_3d": true,
-      "steam_url": "https://store.steampowered.com/app/1295660/",
-      "name_en": "Sid Meiers Civilization VII",
-      "has_key_store": true
+      "steam_url": "https://store.steampowered.com/app/381210/"
     },
     {
       "appid": 3845070,
       "name": " 虚言審判",
+      "name_en": "Dupery: A Game of Solo Deduction",
+      "publishers": [
+        "Yogscast Games",
+        "GamerSky Games"
+      ],
+      "has_key_store": true,
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3845070/97d1ed1ba272d34d951da38ad51b7ea5a73aae4c/header_alt_assets_1_japanese.jpg?t=1792574742",
       "screenshots": [
         "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3845070/f30eea8a6314b35027f3cc571b68ad430c4e810d/ss_f30eea8a6314b35027f3cc571b68ad430c4e810d.600x338.jpg?t=1792574742",
@@ -629,7 +729,7 @@
       "final_formatted": "¥ 1,840",
       "review_desc": "非常に好評",
       "positive_rate": 83,
-      "total_reviews": 624,
+      "total_reviews": 684,
       "deal_score": 50,
       "genres": [
         "カジュアル",
@@ -655,59 +755,16 @@
       "gpu_hint": "ミドルクラスGPU",
       "has_controller": false,
       "is_heavy_3d": false,
-      "steam_url": "https://store.steampowered.com/app/3845070/",
-      "name_en": "Dupery: A Game of Solo Deduction",
-      "has_key_store": true
-    },
-    {
-      "appid": 4356430,
-      "name": "『NBA 2K27』",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4356430/9152438fde7de9f4c20b4fd9072ba69f844dacab/header.jpg?t=1792163139",
-      "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4356430/0202201bff9e57adf4913e9c8a21062c730e0b27/ss_0202201bff9e57adf4913e9c8a21062c730e0b27.600x338.jpg?t=1792163139",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4356430/2a04508bf934834c93cfe5c91f27f45d3043a83d/ss_2a04508bf934834c93cfe5c91f27f45d3043a83d.600x338.jpg?t=1792163139",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4356430/57773a1574208a10b2a5a12fdf3e0be991461475/ss_57773a1574208a10b2a5a12fdf3e0be991461475.600x338.jpg?t=1792163139"
-      ],
-      "discount_percent": 30,
-      "initial_price": 9460,
-      "final_price": 6622,
-      "initial_formatted": "¥ 9,460",
-      "final_formatted": "¥ 6,622",
-      "review_desc": "賛否両論",
-      "positive_rate": 50,
-      "total_reviews": 2828,
-      "deal_score": 38,
-      "genres": [
-        "スポーツ"
-      ],
-      "categories": [
-        "シングルプレイヤー",
-        "マルチプレイヤー",
-        "PvP",
-        "オンラインPvP",
-        "共有／分割画面でのPvP"
-      ],
-      "release_date": "2026年9月3日",
-      "supported_japanese": true,
-      "ai_overview": "『NBA 2K27』で終わりなき興奮を駆け抜けろ。マイキャリア、マイチーム、マイNBAで24時間いつでも頂点を目指し、あなたが夢見たバスケットボールを現実のものに！",
-      "ai_pros": [
-        "マルチプレイ対応で快適に遊べる設計"
-      ],
-      "ai_cons": [
-        "好みが分かれる作品（好評率50%）：ゲームシステムや難易度の事前確認を推奨",
-        "高負荷3Dグラフィック：快適プレイには「RTX 2070」以上のPC環境を推奨"
-      ],
-      "picked_reviews": [],
-      "gpu_hint": "RTX 2070",
-      "has_controller": true,
-      "is_heavy_3d": true,
-      "steam_url": "https://store.steampowered.com/app/4356430/",
-      "name_en": "NBA 2K27",
-      "has_key_store": true
+      "steam_url": "https://store.steampowered.com/app/3845070/"
     },
     {
       "appid": 2246340,
       "name": "モンスターハンターワイルズ",
+      "name_en": "Monster Hunter Wilds",
+      "publishers": [
+        "CAPCOM Co., Ltd."
+      ],
+      "has_key_store": false,
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2246340/header.jpg?t=1787549555",
       "screenshots": [
         "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2246340/ss_31b5597fecf2d9a2904bc9bbf8011aacb18143db.600x338.jpg?t=1787549555",
@@ -721,7 +778,7 @@
       "final_formatted": "¥ 3,742",
       "review_desc": "やや不評",
       "positive_rate": 31,
-      "total_reviews": 203417,
+      "total_reviews": 203524,
       "deal_score": 35,
       "genres": [
         "アクション",
@@ -749,9 +806,7 @@
       "gpu_hint": "RTX 2060",
       "has_controller": true,
       "is_heavy_3d": true,
-      "steam_url": "https://store.steampowered.com/app/2246340/",
-      "name_en": "Monster Hunter Wilds",
-      "has_key_store": false
+      "steam_url": "https://store.steampowered.com/app/2246340/"
     }
   ]
 }
