@@ -1,0 +1,37 @@
+name: Daily Steam Deals Update
+
+on:
+  schedule:
+    # 毎日 04:00 AM (日本時間 / UTC 19:00) に自動実行（Steamの毎日午前2〜3時のセール切り替え直後）
+    - cron: '0 19 * * *'
+  workflow_dispatch: # GitHubの管理画面からいつでも手動1クリックで即時更新も可能
+
+permissions:
+  contents: write
+
+jobs:
+  update-deals:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Fetch latest Steam deals and generate HTML
+        run: python generate_site.py
+
+      - name: Commit and push updated site
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add index.html deals_data.json
+          if git diff --staged --quiet; then
+            echo "変更なし"
+          else
+            git commit -m "Auto-update Steam deals ($(date -u -d '+9 hours' +'%Y-%m-%d %H:%M JST'))"
+            git push
+          fi
