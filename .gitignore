@@ -1,0 +1,4 @@
+# 運営者専用のX投稿生成ツールは公開サイト(GitHub Pages)に含めない
+admin_x_tool.html
+__pycache__/
+*.pyc

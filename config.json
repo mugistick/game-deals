@@ -1,0 +1,15 @@
+{
+  "site_title": "Steam神セールAI調査団 | 割引＆日本語レビュー要約まとめ",
+  "site_subtitle": "毎日自動更新！Steamの特選セール情報をAIが日本語レビューまで分析してわかりやすく要約",
+  "max_games": 16,
+  "min_discount_percent": 20,
+  "gemini_api_key": "",
+  "affiliate": {
+    "amazon_tag": "your-amazon-tag-22",
+    "rakuten_id": "your-rakuten-id",
+    "fanatical_ref": "your-fanatical-ref",
+    "humble_partner": "your-humble-partner",
+    "gmg_ref": "your-gmg-ref",
+    "bto_pc_link": "https://px.a8.net/svt/ejp?a8mat=DUMMY_BTO_AFFILIATE_LINK"
+  }
+}
