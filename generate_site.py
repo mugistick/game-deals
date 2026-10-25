@@ -95,6 +95,16 @@ HTML_TEMPLATE = """<!DOCTYPE html>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>__SITE_TITLE__</title>
+  <meta name="description" content="__SITE_SUBTITLE__" />
+  <meta property="og:title" content="__SITE_TITLE__" />
+  <meta property="og:description" content="__SITE_SUBTITLE__" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://mugistick.github.io/steam-deals/" />
+  <meta property="og:image" content="__OG_IMAGE__" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="__SITE_TITLE__" />
+  <meta name="twitter:description" content="__SITE_SUBTITLE__" />
+  <meta name="twitter:image" content="__OG_IMAGE__" />
   <style>
     :root {
       /* ベースカラー（コントラスト比4.5:1以上を確保したダークテーマ） */
@@ -638,7 +648,10 @@ HTML_TEMPLATE = """<!DOCTYPE html>
       const fanaticalUrl = `https://www.fanatical.com/ja/search?search=${encodedEn}&ref=${aff.fanatical_ref || ''}`;
       const amazonControllerUrl = `https://www.amazon.co.jp/s?k=${ encodeURIComponent('PC ゲームパッド コントローラー') }&tag=${aff.amazon_tag || ''}`;
       const amazonGameUrl = `https://www.amazon.co.jp/s?k=${encodedJa}+ゲーム&tag=${aff.amazon_tag || ''}`;
-      const btoPcUrl = aff.bto_pc_link || `https://www.amazon.co.jp/s?k=${encodeURIComponent('ゲーミングPC ' + game.gpu_hint)}&tag=${aff.amazon_tag || ''}`;
+      const hasCustomBto = aff.bto_pc_link && !aff.bto_pc_link.includes("DUMMY_");
+      const btoPcUrl = hasCustomBto
+        ? aff.bto_pc_link
+        : `https://www.amazon.co.jp/s?k=${encodeURIComponent('ゲーミングPC ' + game.gpu_hint)}&tag=${aff.amazon_tag || ''}`;
       return { fanaticalUrl, amazonControllerUrl, amazonGameUrl, btoPcUrl };
     }
 
@@ -834,10 +847,9 @@ ADMIN_HTML_TEMPLATE = """<!DOCTYPE html>
     function copyPost(appid) {
       const g = DEALS_DATA.deals.find(x => x.appid === appid);
       if (!g) return;
-      const aff = DEALS_DATA.affiliate || {};
-      const fanaticalUrl = `https://www.fanatical.com/ja/search?search=${encodeURIComponent(g.name)}&ref=${aff.fanatical_ref || ''}`;
+      const siteUrl = "https://mugistick.github.io/steam-deals/";
       const prosText = (g.ai_pros && g.ai_pros[0]) ? "✔ " + g.ai_pros[0] : "";
-      const text = `【Steam特選セール🔥 ${g.discount_percent}%OFF】\\n『${g.name}』が ${g.initial_formatted} → ${g.final_formatted}！\\n\\n📊 評価：${g.review_desc}（好評率${g.positive_rate}%）\\n🤖 要約：${g.ai_overview.slice(0, 65)}...\\n${prosText}\\n\\n▼最安値比較＆セール詳細\\n${fanaticalUrl}\\n#Steamセール #Steam #PR`;
+      const text = `【Steam特選セール🔥 ${g.discount_percent}%OFF】\\n『${g.name}』が ${g.initial_formatted} → ${g.final_formatted}！\\n\\n📊 評価：${g.review_desc}（好評率${g.positive_rate}%）\\n🤖 要約：${g.ai_overview.slice(0, 65)}...\\n${prosText}\\n\\n▼AIレビュー分析＆セール一覧はこちら\\n${siteUrl}\\n#Steamセール #Steam #PCゲーム #PR`;
       navigator.clipboard.writeText(text).then(() => {
         const t = document.getElementById("toast");
         t.style.display = "block";
@@ -864,13 +876,19 @@ def generate_html():
     if os.path.exists(DATA_PATH):
         with open(DATA_PATH, "r", encoding="utf-8") as f:
             data = json.load(f)
+        data["affiliate"] = config.get("affiliate", {})
         data = refresh_existing_data(data)
     else:
         data = build_deals_dataset()
 
+    top_img = "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/header.jpg"
+    if data.get("deals") and data["deals"][0].get("header_image"):
+        top_img = data["deals"][0]["header_image"]
+
     html = HTML_TEMPLATE
     html = html.replace("__SITE_TITLE__", config.get("site_title", "Steam神セールAI調査団"))
     html = html.replace("__SITE_SUBTITLE__", config.get("site_subtitle", "毎日自動更新！Steamセール＆日本語レビュー要約"))
+    html = html.replace("__OG_IMAGE__", top_img)
     html = html.replace("__DEALS_JSON__", json.dumps(data, ensure_ascii=False))
 
     with open(HTML_OUTPUT_PATH, "w", encoding="utf-8") as f:
@@ -881,8 +899,8 @@ def generate_html():
     with open(admin_path, "w", encoding="utf-8") as f:
         f.write(admin_html)
 
-    print(f"✨ 公開用サイト生成完了: {HTML_OUTPUT_PATH}")
-    print(f"🔧 自分専用Xツール生成完了: {admin_path}")
+    print(f"[OK] 公開用サイト生成完了: {HTML_OUTPUT_PATH}")
+    print(f"[OK] 自分専用Xツール生成完了: {admin_path}")
 
 
 if __name__ == "__main__":
