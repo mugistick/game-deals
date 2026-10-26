@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26 04:16",
+  "updated_at": "2026-10-27 04:30",
   "total_count": 16,
   "affiliate": {
     "amazon_tag": "mugistick-22",
@@ -10,6 +10,55 @@
     "bto_pc_link": ""
   },
   "deals": [
+    {
+      "appid": 518790,
+      "name": "theHunter: Call of the Wild™",
+      "name_en": "theHunter: Call of the Wild",
+      "publishers": [
+        "Avalanche Studios"
+      ],
+      "has_key_store": false,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518790/00f0df3558439a6a2cc4fbd7a658b00fb71353ea/header.jpg?t=1791555374",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518790/0f3167bc08e561282213be7093596f3dd8a19959/ss_0f3167bc08e561282213be7093596f3dd8a19959.600x338.jpg?t=1791555374",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518790/684bedec219bd1f0f858a333ed6d6fae6a1cd387/ss_684bedec219bd1f0f858a333ed6d6fae6a1cd387.600x338.jpg?t=1791555374",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518790/19fbf2094d83b7cab24b8d7f5677d9fccc32a834/ss_19fbf2094d83b7cab24b8d7f5677d9fccc32a834.600x338.jpg?t=1791555374"
+      ],
+      "discount_percent": 80,
+      "initial_price": 2300,
+      "final_price": 460,
+      "initial_formatted": "¥ 2,300",
+      "final_formatted": "無料",
+      "review_desc": "非常に好評",
+      "positive_rate": 83,
+      "total_reviews": 171809,
+      "deal_score": 86,
+      "genres": [
+        "アドベンチャー",
+        "シミュレーション",
+        "スポーツ"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "マルチプレイヤー",
+        "協力プレイ",
+        "オンライン協力プレイ",
+        "Steam実績"
+      ],
+      "release_date": "2017年2月16日",
+      "supported_japanese": true,
+      "ai_overview": "あなたの行動一つひとつに反応してくれるダイナミックなオープンワールドで、本格的なハンティングゲームを体験しましょう。獲物を追跡し、予測不能な状況に備えながら、一人またはフレンドと一緒に狩りを極めましょう。",
+      "ai_pros": [
+        "オンライン協力プレイ対応で快適に遊べる設計",
+        "要求スペックは軽め（GTX 760目安）で幅広いPCで快適動作"
+      ],
+      "ai_cons": [],
+      "picked_reviews": [],
+      "gpu_hint": "GTX 760",
+      "has_controller": true,
+      "is_heavy_3d": false,
+      "steam_url": "https://store.steampowered.com/app/518790/"
+    },
     {
       "appid": 2050650,
       "name": "BIOHAZARD RE:4",
@@ -31,7 +80,7 @@
       "final_formatted": "¥ 997",
       "review_desc": "非常に好評",
       "positive_rate": 89,
-      "total_reviews": 192557,
+      "total_reviews": 192707,
       "deal_score": 86,
       "genres": [
         "アクション",
@@ -60,150 +109,54 @@
       "steam_url": "https://store.steampowered.com/app/2050650/"
     },
     {
-      "appid": 1091500,
-      "name": "サイバーパンク2077",
-      "name_en": "Cyberpunk 2077",
+      "appid": 251570,
+      "name": "7 Days to Die",
+      "name_en": "7 Days to Die",
       "publishers": [
-        "CD PROJEKT RED"
+        "The Fun Pimps Entertainment LLC"
       ],
-      "has_key_store": false,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/48a93d6445a67520ea49833c93dae8f2e68fc540/header_alt_assets_9.jpg?t=1792682505",
+      "has_key_store": true,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251570/header.jpg?t=1793041682",
       "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_2f649b68d579bf87011487d29bc4ccbfdd97d34f.600x338.jpg?t=1792682505",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/900f9bda156599fcd235f08ffb64667f9baa1afe/ss_900f9bda156599fcd235f08ffb64667f9baa1afe.600x338.jpg?t=1792682505",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/f678ed77c2fe7060ac9c64e32e1472e3ec3ab7dc/ss_f678ed77c2fe7060ac9c64e32e1472e3ec3ab7dc.600x338.jpg?t=1792682505"
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251570/766ed3debfe7b894fbb5650aa89fa213fa254d5d/ss_766ed3debfe7b894fbb5650aa89fa213fa254d5d.600x338.jpg?t=1793041682",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251570/2d243d95de4989b37df448f29de123f0d662088c/ss_2d243d95de4989b37df448f29de123f0d662088c.600x338.jpg?t=1793041682",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251570/33edbeefc7f5ff8ccda4bda274b01eff84eb4eb8/ss_33edbeefc7f5ff8ccda4bda274b01eff84eb4eb8.600x338.jpg?t=1793041682"
       ],
-      "discount_percent": 70,
-      "initial_price": 8778,
-      "final_price": 2633,
-      "initial_formatted": "¥ 8,778",
-      "final_formatted": "¥ 2,633",
+      "discount_percent": 45,
+      "initial_price": 4900,
+      "final_price": 2695,
+      "initial_formatted": "¥ 4,900",
+      "final_formatted": "¥ 2,695",
       "review_desc": "非常に好評",
-      "positive_rate": 85,
-      "total_reviews": 902790,
-      "deal_score": 82,
+      "positive_rate": 87,
+      "total_reviews": 280552,
+      "deal_score": 72,
       "genres": [
+        "アクション",
+        "アドベンチャー",
+        "インディー",
         "RPG"
       ],
       "categories": [
         "シングルプレイヤー",
-        "Steam実績",
-        "フルコントローラサポート",
-        "Steamトレーディングカード",
-        "テキストサイズの調整"
-      ],
-      "release_date": "2020年12月9日",
-      "supported_japanese": true,
-      "ai_overview": "『サイバーパンク2077』――未来の巨大都市ナイトシティを舞台にしたオープンワールド・アクションアドベンチャーRPG",
-      "ai_pros": [
-        "フルコントローラー対応で快適に遊べる設計"
-      ],
-      "ai_cons": [
-        "高負荷3Dグラフィック：快適プレイには「RTX 2060」以上のPC環境を推奨"
-      ],
-      "picked_reviews": [],
-      "gpu_hint": "RTX 2060",
-      "has_controller": true,
-      "is_heavy_3d": true,
-      "steam_url": "https://store.steampowered.com/app/1091500/"
-    },
-    {
-      "appid": 3247750,
-      "name": "Mycopunk: 俺たちキノコバスターズ",
-      "name_en": "Mycopunk",
-      "publishers": [
-        "Devolver Digital"
-      ],
-      "has_key_store": true,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3247750/67b1dc819a93d4e855b213b518f25a9700f46434/header.jpg?t=1792787251",
-      "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3247750/96b7543e6d29105f92c5395000db2691910519fe/ss_96b7543e6d29105f92c5395000db2691910519fe.600x338.jpg?t=1792787251",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3247750/964f7099f78eea50fd4906bec2ec64820da01e86/ss_964f7099f78eea50fd4906bec2ec64820da01e86.600x338.jpg?t=1792787251",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3247750/257dd18ac9f390ea45298cba4cdb697076a55274/ss_257dd18ac9f390ea45298cba4cdb697076a55274.600x338.jpg?t=1792787251"
-      ],
-      "discount_percent": 50,
-      "initial_price": 1700,
-      "final_price": 850,
-      "initial_formatted": "¥ 1,700",
-      "final_formatted": "¥ 850",
-      "review_desc": "非常に好評",
-      "positive_rate": 88,
-      "total_reviews": 4463,
-      "deal_score": 70,
-      "genres": [
-        "アクション",
-        "インディー"
-      ],
-      "categories": [
-        "シングルプレイヤー",
         "マルチプレイヤー",
-        "協力プレイ",
-        "オンライン協力プレイ",
-        "Steam実績"
+        "PvP",
+        "オンラインPvP",
+        "LAN PvP"
       ],
-      "release_date": "2026年10月20日",
+      "release_date": "2024年7月25日",
       "supported_japanese": true,
-      "ai_overview": "\"武器やギアをマシマシにカスタマイズできるミッション制ルートシューターで、キノコのエイリアンどもをぶっ飛ばせ。 何百ものお手製アップグレード、4人協力プレイ、そしてちっちゃなゴキぶ…星人もいて、これが沼らないわけない！\"",
+      "ai_overview": "『7 Days to Die』は、FPS、サバイバルホラー、タワーディフェンス、ロールプレイングゲームをユニークに組み合わせたオープンワールド型のゲームです。元祖ゾンビサバイバルなサンドボックスRPGゲームをプレイしましょう。ナベズゲインがあなたを待っています！",
       "ai_pros": [
-        "オンライン協力プレイ対応で快適に遊べる設計"
-      ],
-      "ai_cons": [
-        "高負荷3Dグラフィック：快適プレイには「RTX 2080」以上のPC環境を推奨"
-      ],
-      "picked_reviews": [],
-      "gpu_hint": "RTX 2080",
-      "has_controller": true,
-      "is_heavy_3d": true,
-      "steam_url": "https://store.steampowered.com/app/3247750/"
-    },
-    {
-      "appid": 3892270,
-      "name": "Gamble With Your Friends",
-      "name_en": "Gamble With Your Friends",
-      "publishers": [
-        "TENSTACK"
-      ],
-      "has_key_store": false,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892270/395e6d7972474333a698b26f8aa5597bf38109a1/header.jpg?t=1792427976",
-      "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892270/46a2a2c1593b57eb3b8948a68be504e8d91d3912/ss_46a2a2c1593b57eb3b8948a68be504e8d91d3912.600x338.jpg?t=1792427976",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892270/e3514d1723232a988324d08834e8784e6ad355c2/ss_e3514d1723232a988324d08834e8784e6ad355c2.600x338.jpg?t=1792427976",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892270/feeb63575e000a1a2127c4440f11bf8e0c4e428b/ss_feeb63575e000a1a2127c4440f11bf8e0c4e428b.600x338.jpg?t=1792427976"
-      ],
-      "discount_percent": 38,
-      "initial_price": 920,
-      "final_price": 570,
-      "initial_formatted": "¥ 920",
-      "final_formatted": "¥ 570",
-      "review_desc": "非常に好評",
-      "positive_rate": 89,
-      "total_reviews": 21981,
-      "deal_score": 68,
-      "genres": [
-        "アドベンチャー",
-        "インディー",
-        "シミュレーション"
-      ],
-      "categories": [
-        "シングルプレイヤー",
-        "マルチプレイヤー",
-        "協力プレイ",
-        "オンライン協力プレイ",
-        "Steam実績"
-      ],
-      "release_date": "2026年5月1日",
-      "supported_japanese": true,
-      "ai_overview": "最大6人の仲間と、銀行口座と莫大な借金を共有しながらギャンブルに挑む、オンライン協力型「カジノクローラー」。怪しげなアイテムを買い、最悪の選択を重ね、不吉なカジノタワーを登れ。5分以内に課されたノルマを達成しなければ――そのツケを払うことになる。",
-      "ai_pros": [
-        "オンライン協力プレイ対応で快適に遊べる設計",
-        "要求スペックは軽め（GTX 1070目安）で幅広いPCで快適動作"
+        "マルチプレイ対応で快適に遊べる設計",
+        "要求スペックは軽め（ミドルクラスGPU目安）で幅広いPCで快適動作"
       ],
       "ai_cons": [],
       "picked_reviews": [],
-      "gpu_hint": "GTX 1070",
-      "has_controller": false,
+      "gpu_hint": "ミドルクラスGPU",
+      "has_controller": true,
       "is_heavy_3d": false,
-      "steam_url": "https://store.steampowered.com/app/3892270/"
+      "steam_url": "https://store.steampowered.com/app/251570/"
     },
     {
       "appid": 881020,
@@ -226,7 +179,7 @@
       "final_formatted": "¥ 2,904",
       "review_desc": "非常に好評",
       "positive_rate": 82,
-      "total_reviews": 41392,
+      "total_reviews": 41400,
       "deal_score": 65,
       "genres": [
         "アクション",
@@ -276,7 +229,7 @@
       "final_formatted": "¥ 6,293",
       "review_desc": "非常に好評",
       "positive_rate": 86,
-      "total_reviews": 109467,
+      "total_reviews": 109537,
       "deal_score": 64,
       "genres": [
         "アクション",
@@ -325,7 +278,7 @@
       "final_formatted": "¥ 3,120",
       "review_desc": "非常に好評",
       "positive_rate": 94,
-      "total_reviews": 210728,
+      "total_reviews": 210787,
       "deal_score": 64,
       "genres": [
         "インディー",
@@ -354,103 +307,106 @@
       "steam_url": "https://store.steampowered.com/app/294100/"
     },
     {
-      "appid": 3357650,
-      "name": "PRAGMATA",
-      "name_en": "PRAGMATA",
+      "appid": 3024130,
+      "name": "どうぶつの町の食堂物語",
+      "name_en": "PAO PAO",
       "publishers": [
-        "CAPCOM Co., Ltd."
+        "Dreland Enterprises"
       ],
       "has_key_store": false,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3357650/e32e168b25ed68a0cf6264c220c07e96c2abfb56/header.jpg?t=1791454600",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3024130/5f671fe085a76c645453ce8c473a258c2a12be2d/header_japanese.jpg?t=1793023708",
       "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3357650/9699288b90d0aad320e998f107b59edd27e9ea61/ss_9699288b90d0aad320e998f107b59edd27e9ea61.600x338.jpg?t=1791454600",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3357650/62486c0475c7bf1a14889d61a51ad24f09e5f044/ss_62486c0475c7bf1a14889d61a51ad24f09e5f044.600x338.jpg?t=1791454600",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3357650/26773713a2435c8edc2eac5e7eb234324b3b002f/ss_26773713a2435c8edc2eac5e7eb234324b3b002f.600x338.jpg?t=1791454600"
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3024130/0603a7ea71645b98ad0b884db27ff3846fd0ce4e/ss_0603a7ea71645b98ad0b884db27ff3846fd0ce4e.600x338.jpg?t=1793023708",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3024130/7fd8562947f8f2efcbe36fc536c9d91d27a8632f/ss_7fd8562947f8f2efcbe36fc536c9d91d27a8632f.600x338.jpg?t=1793023708",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3024130/76f94a5a71f0ace04091872ef27ead0cf815db15/ss_76f94a5a71f0ace04091872ef27ead0cf815db15.600x338.jpg?t=1793023708"
       ],
-      "discount_percent": 20,
-      "initial_price": 7990,
-      "final_price": 6392,
-      "initial_formatted": "¥ 7,990",
-      "final_formatted": "¥ 6,392",
-      "review_desc": "非常に好評",
-      "positive_rate": 94,
-      "total_reviews": 34271,
-      "deal_score": 62,
+      "discount_percent": 40,
+      "initial_price": 2100,
+      "final_price": 1260,
+      "initial_formatted": "¥ 2,100",
+      "final_formatted": "¥ 1,260",
+      "review_desc": "好評",
+      "positive_rate": 90,
+      "total_reviews": 500,
+      "deal_score": 63,
       "genres": [
-        "アクション",
-        "アドベンチャー"
-      ],
-      "categories": [
-        "シングルプレイヤー",
-        "Steam実績",
-        "フルコントローラサポート",
-        "Steamトレーディングカード",
-        "キャプション使用可能"
-      ],
-      "release_date": "2026年4月16日",
-      "supported_japanese": true,
-      "ai_overview": "『プラグマタ』はカプコンが贈る完全新作タイトル。 パズルとアクションが融合した、新感覚のSFアクションアドベンチャーです。月で遭難した調査員\"ヒュー\"と、アンドロイドの少女\"ディアナ\"。AIに支配された近未来の月面世界を舞台に、二人は互いの力を頼りに地球への帰還を目指します。",
-      "ai_pros": [
-        "フルコントローラー対応で快適に遊べる設計"
-      ],
-      "ai_cons": [
-        "高負荷3Dグラフィック：快適プレイには「RTX 2060」以上のPC環境を推奨"
-      ],
-      "picked_reviews": [],
-      "gpu_hint": "RTX 2060",
-      "has_controller": true,
-      "is_heavy_3d": true,
-      "steam_url": "https://store.steampowered.com/app/3357650/"
-    },
-    {
-      "appid": 5228920,
-      "name": "Brick by Brick: Tidy Up the Small Town!",
-      "name_en": "Brick by Brick: Tidy Up the Small Town!",
-      "publishers": [
-        "PaperPixel Games"
-      ],
-      "has_key_store": false,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5228920/8c57f18ab6a1940b328584fe5556f4c87839e1a0/header.jpg?t=1792780766",
-      "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5228920/647170e6eba8aa058034468d13a344736e4b262e/ss_647170e6eba8aa058034468d13a344736e4b262e.600x338.jpg?t=1792780766",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5228920/671e01b19c508b66209bb892bea0d05701c786ec/ss_671e01b19c508b66209bb892bea0d05701c786ec.600x338.jpg?t=1792780766",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5228920/10caf68824bb83de79b1283b260ea73a5fb6889f/ss_10caf68824bb83de79b1283b260ea73a5fb6889f.600x338.jpg?t=1792780766"
-      ],
-      "discount_percent": 38,
-      "initial_price": 1050,
-      "final_price": 651,
-      "initial_formatted": "¥ 1,050",
-      "final_formatted": "¥ 651",
-      "review_desc": "非常に好評",
-      "positive_rate": 88,
-      "total_reviews": 493,
-      "deal_score": 61,
-      "genres": [
-        "カジュアル",
+        "アドベンチャー",
         "インディー",
-        "シミュレーション"
+        "シミュレーション",
+        "早期アクセス"
       ],
       "categories": [
         "シングルプレイヤー",
         "マルチプレイヤー",
         "協力プレイ",
         "オンライン協力プレイ",
-        "Steam実績"
+        "クロスプラットフォームマルチプレイヤー"
       ],
-      "release_date": "2026年10月15日",
+      "release_date": "2026年10月26日",
       "supported_japanese": true,
-      "ai_overview": "Brick By Brickは、ひとりでも最大5人の協力プレイでも楽しめる、リラックスできるお片付けゲームです。18,490個のレンガを集め、分けて、置いて、かわいい町をもう一度組み立てましょう。便利な能力を解放し、レンガの山が建物に変わっていく様子を楽しめます。ひとつずつ、コツコツと！",
+      "ai_overview": "PAO PAOへようこそ！小さな幸せにあふれる、居心地のよい海辺の町を探索しましょう！ひとりでも、最大3人の友達と協力プレイでも楽しめます。おいしい料理を作り、釣りを楽しみ、作物を育て、海辺に自分だけの家を作りましょう。",
       "ai_pros": [
         "オンライン協力プレイ対応で快適に遊べる設計"
       ],
       "ai_cons": [
-        "高負荷3Dグラフィック：快適プレイには「GTX 1080」以上のPC環境を推奨"
+        "高負荷3Dグラフィック：快適プレイには「RTX 3060」以上のPC環境を推奨"
       ],
       "picked_reviews": [],
-      "gpu_hint": "GTX 1080",
+      "gpu_hint": "RTX 3060",
       "has_controller": true,
       "is_heavy_3d": true,
-      "steam_url": "https://store.steampowered.com/app/5228920/"
+      "steam_url": "https://store.steampowered.com/app/3024130/"
+    },
+    {
+      "appid": 252490,
+      "name": "Rust",
+      "name_en": "Rust",
+      "publishers": [
+        "Facepunch Studios"
+      ],
+      "has_key_store": false,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/header.jpg?t=1781536981",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_271feae67943bdc141c1249aba116349397e9ba9.600x338.jpg?t=1781536981",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_e825b087b95e51c3534383cfd75ad6e8038147c3.600x338.jpg?t=1781536981",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_0e646f1a70e5cb8eed00efef8adb9579d40d5b2e.600x338.jpg?t=1781536981"
+      ],
+      "discount_percent": 50,
+      "initial_price": 4600,
+      "final_price": 2300,
+      "initial_formatted": "¥ 4,600",
+      "final_formatted": "¥ 2,300",
+      "review_desc": "やや好評",
+      "positive_rate": 77,
+      "total_reviews": 1177109,
+      "deal_score": 61,
+      "genres": [
+        "アクション",
+        "アドベンチャー",
+        "インディー",
+        "MM（Massively Multiplayer）"
+      ],
+      "categories": [
+        "マルチプレイヤー",
+        "MMO",
+        "PvP",
+        "オンラインPvP",
+        "協力プレイ"
+      ],
+      "release_date": "2018年2月8日",
+      "supported_japanese": true,
+      "ai_overview": "『Rust』における唯一の目的は、生き残ること。島の野生生物、そこに住む他の者たち、自然環境、そして他の生存者たち——あらゆるものがプレイヤーの命を狙う。どんな手を使ってでも、次の夜を生き延びろ。",
+      "ai_pros": [
+        "オンライン協力プレイ対応で快適に遊べる設計"
+      ],
+      "ai_cons": [
+        "高負荷3Dグラフィック：快適プレイには「Radeon RX 6600」以上のPC環境を推奨"
+      ],
+      "picked_reviews": [],
+      "gpu_hint": "Radeon RX 6600",
+      "has_controller": false,
+      "is_heavy_3d": true,
+      "steam_url": "https://store.steampowered.com/app/252490/"
     },
     {
       "appid": 2399830,
@@ -474,7 +430,7 @@
       "final_formatted": "¥ 1,690",
       "review_desc": "賛否両論",
       "positive_rate": 53,
-      "total_reviews": 108820,
+      "total_reviews": 108858,
       "deal_score": 60,
       "genres": [
         "アクション",
@@ -506,56 +462,56 @@
       "steam_url": "https://store.steampowered.com/app/2399830/"
     },
     {
-      "appid": 1374490,
-      "name": "RuneScape: Dragonwilds ルーンスケープ：ドラゴンワイルズ",
-      "name_en": "RuneScape: Dragonwilds",
+      "appid": 1737870,
+      "name": "REKA",
+      "name_en": "REKA",
       "publishers": [
-        "Jagex Ltd",
-        "H2 Interactive Co., Ltd.",
-        "Graph"
+        "Fireshine Games",
+        "Shochiku"
       ],
-      "has_key_store": false,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374490/3e27915a647dbf05e17f2ff98d33c9a0765da539/header.jpg?t=1791278745",
+      "has_key_store": true,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1737870/9042a11bc29c420fc324b62e763dd38c955f52c1/header_alt_assets_5_japanese.jpg?t=1793012900",
       "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374490/8f802b85a8f1002967f4943f76e1d645d1ffb061/ss_8f802b85a8f1002967f4943f76e1d645d1ffb061.600x338.jpg?t=1791278745",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374490/ae64662c060ee16121ab3783bd39efb21f8827a1/ss_ae64662c060ee16121ab3783bd39efb21f8827a1.600x338.jpg?t=1791278745",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374490/d16ec143fa679838d2a88c25798becde17990500/ss_d16ec143fa679838d2a88c25798becde17990500.600x338.jpg?t=1791278745"
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1737870/0aeb27b6d5d6bb1d6c78682e03b7467fad1b5a20/ss_0aeb27b6d5d6bb1d6c78682e03b7467fad1b5a20.600x338.jpg?t=1793012900",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1737870/af50ed15a2252417a2270595e9fda80173dbdb91/ss_af50ed15a2252417a2270595e9fda80173dbdb91.600x338.jpg?t=1793012900",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1737870/c7a181be725a556a88d73e36fc206f24862c0c6d/ss_c7a181be725a556a88d73e36fc206f24862c0c6d.600x338.jpg?t=1793012900"
       ],
-      "discount_percent": 30,
-      "initial_price": 3400,
-      "final_price": 2380,
-      "initial_formatted": "¥ 3,400",
-      "final_formatted": "¥ 2,380",
+      "discount_percent": 35,
+      "initial_price": 2300,
+      "final_price": 1495,
+      "initial_formatted": "¥ 2,300",
+      "final_formatted": "¥ 1,495",
       "review_desc": "非常に好評",
-      "positive_rate": 80,
-      "total_reviews": 32639,
+      "positive_rate": 82,
+      "total_reviews": 3109,
       "deal_score": 60,
       "genres": [
-        "アクション",
         "アドベンチャー",
+        "カジュアル",
+        "インディー",
         "RPG"
       ],
       "categories": [
         "シングルプレイヤー",
-        "マルチプレイヤー",
-        "協力プレイ",
-        "オンライン協力プレイ",
-        "テキストサイズの調整"
+        "DUALSHOCKコントローラーサポート",
+        "DUALSHOCKコントローラーサポート",
+        "DualSenseコントローラーサポート",
+        "DualSenseコントローラーサポート"
       ],
-      "release_date": "2026年9月15日",
+      "release_date": "2026年10月26日",
       "supported_japanese": true,
-      "ai_overview": "RuneScapeの忘れ去られた大陸、アシェンフォールで、ドラゴンが目覚めた。この協力型サバイバルアドベンチャーで資源を集め、建築し、スキルを磨き、クラフトを駆使しろ。サバイバル術を極めて古代の秘密を解き明かすことだけが、獰猛なドラゴンクイーンに立ち向かう希望を生み出す。",
+      "ai_overview": "スラヴの民間伝承に着想を得た、魔女の魔法とぬくもりに満ちた世界へ。霧に包まれた秋の森を旅しながら、歩く鶏の足小屋を建て、飾り付け、自分好みにカスタマイズしましょう。村人を助け、森の動物を手なずけ、偉大な魔女バーバ・ヤーガのもとで穏やかな魔法を学びましょう。",
       "ai_pros": [
-        "オンライン協力プレイ対応で快適に遊べる設計"
+        "コントローラー対応で快適に遊べる設計"
       ],
       "ai_cons": [
-        "高負荷3Dグラフィック：快適プレイには「RTX 2070」以上のPC環境を推奨"
+        "高負荷3Dグラフィック：快適プレイには「RTX 2060」以上のPC環境を推奨"
       ],
       "picked_reviews": [],
-      "gpu_hint": "RTX 2070",
+      "gpu_hint": "RTX 2060",
       "has_controller": true,
       "is_heavy_3d": true,
-      "steam_url": "https://store.steampowered.com/app/1374490/"
+      "steam_url": "https://store.steampowered.com/app/1737870/"
     },
     {
       "appid": 3240220,
@@ -578,7 +534,7 @@
       "final_formatted": "¥ 2,190",
       "review_desc": "やや好評",
       "positive_rate": 73,
-      "total_reviews": 220279,
+      "total_reviews": 220542,
       "deal_score": 59,
       "genres": [
         "アクション",
@@ -659,6 +615,57 @@
       "steam_url": "https://store.steampowered.com/app/3839710/"
     },
     {
+      "appid": 5321510,
+      "name": "肝試しオンライン",
+      "name_en": "Kimodameshi Online",
+      "publishers": [
+        "パン田"
+      ],
+      "has_key_store": false,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5321510/847e4f25495af22ae23801867151e97354415252/header_japanese.jpg?t=1793026818",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5321510/de931e803f061c75d9cc397081dbb8c80e16d18a/ss_de931e803f061c75d9cc397081dbb8c80e16d18a.600x338.jpg?t=1793026818",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5321510/c9c61b1d8843f7705aff0dd02d352f6804913799/ss_c9c61b1d8843f7705aff0dd02d352f6804913799.600x338.jpg?t=1793026818",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5321510/c5d919491722a4b3b339f82110b6d53e7d92d1c8/ss_c5d919491722a4b3b339f82110b6d53e7d92d1c8.600x338.jpg?t=1793026818"
+      ],
+      "discount_percent": 26,
+      "initial_price": 1200,
+      "final_price": 888,
+      "initial_formatted": "¥ 1,200",
+      "final_formatted": "¥ 888",
+      "review_desc": "非常に好評",
+      "positive_rate": 88,
+      "total_reviews": 500,
+      "deal_score": 56,
+      "genres": [
+        "アクション",
+        "カジュアル",
+        "インディー",
+        "ストラテジー"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "マルチプレイヤー",
+        "PvP",
+        "オンラインPvP",
+        "協力プレイ"
+      ],
+      "release_date": "2026年10月26日",
+      "supported_japanese": true,
+      "ai_overview": "夜の校舎で、肝試し配信。怖いほど、同接が伸びる。でも、仲間の中に裏切り者がいる。ボイスチャットをつないで遊ぶオンライン肝試し。舞台は、事故の日から時が止まった昭和の中学校。",
+      "ai_pros": [
+        "オンライン協力プレイ対応で快適に遊べる設計"
+      ],
+      "ai_cons": [
+        "高負荷3Dグラフィック：快適プレイには「RTX 3060」以上のPC環境を推奨"
+      ],
+      "picked_reviews": [],
+      "gpu_hint": "RTX 3060",
+      "has_controller": true,
+      "is_heavy_3d": true,
+      "steam_url": "https://store.steampowered.com/app/5321510/"
+    },
+    {
       "appid": 381210,
       "name": "デッドバイデイライト",
       "name_en": "Dead by Daylight",
@@ -679,7 +686,7 @@
       "final_formatted": "¥ 999",
       "review_desc": "賛否両論",
       "positive_rate": 54,
-      "total_reviews": 690470,
+      "total_reviews": 690614,
       "deal_score": 54,
       "genres": [
         "アクション"
@@ -716,11 +723,11 @@
         "GamerSky Games"
       ],
       "has_key_store": true,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3845070/97d1ed1ba272d34d951da38ad51b7ea5a73aae4c/header_alt_assets_1_japanese.jpg?t=1792574742",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3845070/97d1ed1ba272d34d951da38ad51b7ea5a73aae4c/header_alt_assets_1_japanese.jpg?t=1793011713",
       "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3845070/f30eea8a6314b35027f3cc571b68ad430c4e810d/ss_f30eea8a6314b35027f3cc571b68ad430c4e810d.600x338.jpg?t=1792574742",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3845070/d01162f12a93bcae6ddafc8a1ac05eb166db8baa/ss_d01162f12a93bcae6ddafc8a1ac05eb166db8baa.600x338.jpg?t=1792574742",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3845070/15acd32d61915b49bd09c846feb5b9f8440d5ffa/ss_15acd32d61915b49bd09c846feb5b9f8440d5ffa.600x338.jpg?t=1792574742"
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3845070/f30eea8a6314b35027f3cc571b68ad430c4e810d/ss_f30eea8a6314b35027f3cc571b68ad430c4e810d.600x338.jpg?t=1793011713",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3845070/d01162f12a93bcae6ddafc8a1ac05eb166db8baa/ss_d01162f12a93bcae6ddafc8a1ac05eb166db8baa.600x338.jpg?t=1793011713",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3845070/15acd32d61915b49bd09c846feb5b9f8440d5ffa/ss_15acd32d61915b49bd09c846feb5b9f8440d5ffa.600x338.jpg?t=1793011713"
       ],
       "discount_percent": 20,
       "initial_price": 2300,
@@ -729,7 +736,7 @@
       "final_formatted": "¥ 1,840",
       "review_desc": "非常に好評",
       "positive_rate": 83,
-      "total_reviews": 684,
+      "total_reviews": 722,
       "deal_score": 50,
       "genres": [
         "カジュアル",
@@ -778,7 +785,7 @@
       "final_formatted": "¥ 3,742",
       "review_desc": "やや不評",
       "positive_rate": 31,
-      "total_reviews": 203524,
+      "total_reviews": 203577,
       "deal_score": 35,
       "genres": [
         "アクション",
