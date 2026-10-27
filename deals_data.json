@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27 23:31",
+  "updated_at": "2026-10-28 04:31",
   "total_count": 16,
   "affiliate": {
     "amazon_tag": "mugistick-22",
@@ -31,7 +31,7 @@
       "final_formatted": "¥ 997",
       "review_desc": "非常に好評",
       "positive_rate": 89,
-      "total_reviews": 192834,
+      "total_reviews": 192881,
       "deal_score": 86,
       "genres": [
         "アクション",
@@ -80,7 +80,7 @@
       "final_formatted": "¥ 2,695",
       "review_desc": "非常に好評",
       "positive_rate": 87,
-      "total_reviews": 280592,
+      "total_reviews": 280609,
       "deal_score": 77,
       "genres": [
         "アクション",
@@ -130,9 +130,9 @@
       "initial_formatted": "¥ 1,200",
       "final_formatted": "¥ 480",
       "review_desc": "非常に好評",
-      "positive_rate": 85,
-      "total_reviews": 8585,
-      "deal_score": 72,
+      "positive_rate": 86,
+      "total_reviews": 8591,
+      "deal_score": 73,
       "genres": [
         "アクション",
         "アドベンチャー",
@@ -182,7 +182,7 @@
       "final_formatted": "¥ 780",
       "review_desc": "非常に好評",
       "positive_rate": 93,
-      "total_reviews": 346415,
+      "total_reviews": 346464,
       "deal_score": 70,
       "genres": [
         "アクション",
@@ -197,7 +197,7 @@
       ],
       "release_date": "2025年2月26日",
       "supported_japanese": false,
-      "ai_overview": "最大6人までプレイできるオンライン協力ホラーゲーム。貴重な、完全に物理ベースのオブジェクトを見つけて、作成者の欲求を満たすために取得および抽出するときに慎重に扱います。",
+      "ai_overview": "最大6人で遊べるオンライン協力ホラーゲーム。貴重な、完全に物理ベースのオブジェクトを見つけて、作成者の欲求を満たすために取得および抽出するときに慎重に扱います。",
       "ai_pros": [
         "オンライン協力プレイ対応で快適に遊べる設計"
       ],
@@ -231,7 +231,7 @@
       "final_formatted": "¥ 2,904",
       "review_desc": "非常に好評",
       "positive_rate": 82,
-      "total_reviews": 41402,
+      "total_reviews": 41407,
       "deal_score": 65,
       "genres": [
         "アクション",
@@ -261,57 +261,6 @@
       "steam_url": "https://store.steampowered.com/app/881020/"
     },
     {
-      "appid": 3024130,
-      "name": "どうぶつの町の食堂物語",
-      "name_en": "PAO PAO",
-      "publishers": [
-        "Dreland Enterprises"
-      ],
-      "has_key_store": false,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3024130/5f671fe085a76c645453ce8c473a258c2a12be2d/header_japanese.jpg?t=1793067220",
-      "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3024130/0603a7ea71645b98ad0b884db27ff3846fd0ce4e/ss_0603a7ea71645b98ad0b884db27ff3846fd0ce4e.600x338.jpg?t=1793067220",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3024130/7fd8562947f8f2efcbe36fc536c9d91d27a8632f/ss_7fd8562947f8f2efcbe36fc536c9d91d27a8632f.600x338.jpg?t=1793067220",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3024130/76f94a5a71f0ace04091872ef27ead0cf815db15/ss_76f94a5a71f0ace04091872ef27ead0cf815db15.600x338.jpg?t=1793067220"
-      ],
-      "discount_percent": 40,
-      "initial_price": 2100,
-      "final_price": 1260,
-      "initial_formatted": "¥ 2,100",
-      "final_formatted": "¥ 1,260",
-      "review_desc": "非常に好評",
-      "positive_rate": 94,
-      "total_reviews": 500,
-      "deal_score": 65,
-      "genres": [
-        "アドベンチャー",
-        "インディー",
-        "シミュレーション",
-        "早期アクセス"
-      ],
-      "categories": [
-        "シングルプレイヤー",
-        "マルチプレイヤー",
-        "協力プレイ",
-        "オンライン協力プレイ",
-        "クロスプラットフォームマルチプレイヤー"
-      ],
-      "release_date": "2026年10月26日",
-      "supported_japanese": true,
-      "ai_overview": "PAO PAOへようこそ！小さな幸せにあふれる、居心地のよい海辺の町を探索しましょう！ひとりでも、最大3人の友達と協力プレイでも楽しめます。おいしい料理を作り、釣りを楽しみ、作物を育て、海辺に自分だけの家を作りましょう。",
-      "ai_pros": [
-        "オンライン協力プレイ対応で快適に遊べる設計"
-      ],
-      "ai_cons": [
-        "高負荷3Dグラフィック：快適プレイには「RTX 3060」以上のPC環境を推奨"
-      ],
-      "picked_reviews": [],
-      "gpu_hint": "RTX 3060",
-      "has_controller": true,
-      "is_heavy_3d": true,
-      "steam_url": "https://store.steampowered.com/app/3024130/"
-    },
-    {
       "appid": 1737870,
       "name": "REKA",
       "name_en": "REKA",
@@ -320,11 +269,11 @@
         "Shochiku"
       ],
       "has_key_store": true,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1737870/9042a11bc29c420fc324b62e763dd38c955f52c1/header_alt_assets_5_japanese.jpg?t=1793081203",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1737870/9042a11bc29c420fc324b62e763dd38c955f52c1/header_alt_assets_5_japanese.jpg?t=1793120469",
       "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1737870/0aeb27b6d5d6bb1d6c78682e03b7467fad1b5a20/ss_0aeb27b6d5d6bb1d6c78682e03b7467fad1b5a20.600x338.jpg?t=1793081203",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1737870/af50ed15a2252417a2270595e9fda80173dbdb91/ss_af50ed15a2252417a2270595e9fda80173dbdb91.600x338.jpg?t=1793081203",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1737870/c7a181be725a556a88d73e36fc206f24862c0c6d/ss_c7a181be725a556a88d73e36fc206f24862c0c6d.600x338.jpg?t=1793081203"
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1737870/0aeb27b6d5d6bb1d6c78682e03b7467fad1b5a20/ss_0aeb27b6d5d6bb1d6c78682e03b7467fad1b5a20.600x338.jpg?t=1793120469",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1737870/af50ed15a2252417a2270595e9fda80173dbdb91/ss_af50ed15a2252417a2270595e9fda80173dbdb91.600x338.jpg?t=1793120469",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1737870/c7a181be725a556a88d73e36fc206f24862c0c6d/ss_c7a181be725a556a88d73e36fc206f24862c0c6d.600x338.jpg?t=1793120469"
       ],
       "discount_percent": 35,
       "initial_price": 2300,
@@ -333,7 +282,7 @@
       "final_formatted": "¥ 1,495",
       "review_desc": "非常に好評",
       "positive_rate": 82,
-      "total_reviews": 3138,
+      "total_reviews": 3143,
       "deal_score": 65,
       "genres": [
         "アドベンチャー",
@@ -364,6 +313,57 @@
       "steam_url": "https://store.steampowered.com/app/1737870/"
     },
     {
+      "appid": 3024130,
+      "name": "どうぶつの町の食堂物語",
+      "name_en": "PAO PAO",
+      "publishers": [
+        "Dreland Enterprises"
+      ],
+      "has_key_store": false,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3024130/5f671fe085a76c645453ce8c473a258c2a12be2d/header_japanese.jpg?t=1793067220",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3024130/0603a7ea71645b98ad0b884db27ff3846fd0ce4e/ss_0603a7ea71645b98ad0b884db27ff3846fd0ce4e.600x338.jpg?t=1793067220",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3024130/7fd8562947f8f2efcbe36fc536c9d91d27a8632f/ss_7fd8562947f8f2efcbe36fc536c9d91d27a8632f.600x338.jpg?t=1793067220",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3024130/76f94a5a71f0ace04091872ef27ead0cf815db15/ss_76f94a5a71f0ace04091872ef27ead0cf815db15.600x338.jpg?t=1793067220"
+      ],
+      "discount_percent": 40,
+      "initial_price": 2100,
+      "final_price": 1260,
+      "initial_formatted": "¥ 2,100",
+      "final_formatted": "¥ 1,260",
+      "review_desc": "非常に好評",
+      "positive_rate": 93,
+      "total_reviews": 111,
+      "deal_score": 64,
+      "genres": [
+        "アドベンチャー",
+        "インディー",
+        "シミュレーション",
+        "早期アクセス"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "マルチプレイヤー",
+        "協力プレイ",
+        "オンライン協力プレイ",
+        "クロスプラットフォームマルチプレイヤー"
+      ],
+      "release_date": "2026年10月26日",
+      "supported_japanese": true,
+      "ai_overview": "PAO PAOへようこそ！小さな幸せにあふれる、居心地のよい海辺の町を探索しましょう！ひとりでも、最大3人の友達と協力プレイでも楽しめます。おいしい料理を作り、釣りを楽しみ、作物を育て、海辺に自分だけの家を作りましょう。",
+      "ai_pros": [
+        "オンライン協力プレイ対応で快適に遊べる設計"
+      ],
+      "ai_cons": [
+        "高負荷3Dグラフィック：快適プレイには「RTX 3060」以上のPC環境を推奨"
+      ],
+      "picked_reviews": [],
+      "gpu_hint": "RTX 3060",
+      "has_controller": true,
+      "is_heavy_3d": true,
+      "steam_url": "https://store.steampowered.com/app/3024130/"
+    },
+    {
       "appid": 3764200,
       "name": "BIOHAZARD requiem",
       "name_en": "Resident Evil Requiem",
@@ -384,7 +384,7 @@
       "final_formatted": "¥ 6,293",
       "review_desc": "非常に好評",
       "positive_rate": 86,
-      "total_reviews": 109580,
+      "total_reviews": 109600,
       "deal_score": 64,
       "genres": [
         "アクション",
@@ -433,7 +433,7 @@
       "final_formatted": "¥ 2,300",
       "review_desc": "やや好評",
       "positive_rate": 77,
-      "total_reviews": 1177214,
+      "total_reviews": 1177262,
       "deal_score": 61,
       "genres": [
         "アクション",
@@ -485,7 +485,7 @@
       "final_formatted": "¥ 1,690",
       "review_desc": "賛否両論",
       "positive_rate": 53,
-      "total_reviews": 108896,
+      "total_reviews": 108910,
       "deal_score": 60,
       "genres": [
         "アクション",
@@ -671,11 +671,11 @@
         "Behaviour Interactive Inc."
       ],
       "has_key_store": false,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/23fed9f741423413769ad1617e41519d1a466cdc/header_alt_assets_10.jpg?t=1791302579",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/header.jpg?t=1793113581",
       "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/5355ac410e985cac27f04b877280a984be4d28a6/ss_5355ac410e985cac27f04b877280a984be4d28a6.600x338.jpg?t=1791302579",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/76776660827b2b6b73afc4a506c1267462cc70ff/ss_76776660827b2b6b73afc4a506c1267462cc70ff.600x338.jpg?t=1791302579",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/141a099b39afb31b864e8eda9570c344ad0c70f5/ss_141a099b39afb31b864e8eda9570c344ad0c70f5.600x338.jpg?t=1791302579"
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/5355ac410e985cac27f04b877280a984be4d28a6/ss_5355ac410e985cac27f04b877280a984be4d28a6.600x338.jpg?t=1793113581",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/76776660827b2b6b73afc4a506c1267462cc70ff/ss_76776660827b2b6b73afc4a506c1267462cc70ff.600x338.jpg?t=1793113581",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/141a099b39afb31b864e8eda9570c344ad0c70f5/ss_141a099b39afb31b864e8eda9570c344ad0c70f5.600x338.jpg?t=1793113581"
       ],
       "discount_percent": 60,
       "initial_price": 2499,
@@ -684,7 +684,7 @@
       "final_formatted": "¥ 999",
       "review_desc": "賛否両論",
       "positive_rate": 54,
-      "total_reviews": 690729,
+      "total_reviews": 690778,
       "deal_score": 54,
       "genres": [
         "アクション"
@@ -732,9 +732,9 @@
       "initial_formatted": "¥ 790",
       "final_formatted": "¥ 632",
       "review_desc": "やや好評",
-      "positive_rate": 78,
-      "total_reviews": 500,
-      "deal_score": 48,
+      "positive_rate": 76,
+      "total_reviews": 115,
+      "deal_score": 47,
       "genres": [
         "カジュアル",
         "インディー",
@@ -782,7 +782,7 @@
       "final_formatted": "¥ 3,742",
       "review_desc": "やや不評",
       "positive_rate": 31,
-      "total_reviews": 203628,
+      "total_reviews": 203638,
       "deal_score": 35,
       "genres": [
         "アクション",
