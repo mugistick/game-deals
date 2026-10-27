@@ -703,47 +703,104 @@ HTML_TEMPLATE = """<!DOCTYPE html>
         ? aff.bto_pc_link
         : `https://www.amazon.co.jp/s?k=${encodeURIComponent('ゲーミングPC ' + game.gpu_hint)}&tag=${aff.amazon_tag || ''}`;
 
-      // ゲームのジャンル・特徴・仕様にもとづいて「なぜこの商品がおすすめか」と「最適なAmazon検索リンク」を自動生成
-      const combinedText = [
-        game.name || "",
-        (game.publishers || []).join(" "),
-        (game.genres || []).join(" "),
-        (game.categories || []).join(" "),
-        game.ai_overview || ""
-      ].join(" ").toLowerCase();
+      // ゲームのジャンル・特徴・世界観を細かく判定し、14種類以上の多彩なおすすめ文言＆アイテムを出し分ける
+      const nameText = (game.name || "").toLowerCase();
+      const pubText = (game.publishers || []).join(" ").toLowerCase();
+      const genreText = (game.genres || []).join(" ").toLowerCase();
+      const catText = (game.categories || []).join(" ").toLowerCase();
+      const ovText = (game.ai_overview || "").toLowerCase();
+      const combinedText = [nameText, pubText, genreText, catText, ovText].join(" ");
 
-      const isJpMajorConsole = /capcom|カプコン|biohazard|バイオハザード|monster hunter|モンスターハンター|pragmata|プラグマタ|square enix|スクウェア|bandai|バンダイ|sega|セガ|koei|コーエー|konami|コナミ|cygames|granblue|atlus|アトラス|fromsoftware/.test(combinedText);
-      const isCoopOrSoundKey = /協力|マルチプレイヤー|pvp|ホラー|サバイバル|fps|シューティング|dead by daylight|rust|7 days|r\.e\.p\.o|mycopunk/.test(combinedText);
-      const isStrategyOrSim = /ストラテジー|シミュレーション|建築|運営|rimworld|civilization/.test(combinedText);
+      const isJpMajor = /capcom|カプコン|biohazard|バイオハザード|monster hunter|モンスターハンター|pragmata|プラグマタ|square enix|スクウェア|bandai|バンダイ|sega|セガ|koei|コーエー|winning post|ウイニングポスト|konami|コナミ|cygames|granblue|atlus|アトラス|fromsoftware/.test(combinedText);
+      const isCozyOrCooking = /食堂|料理|ほのぼの|小さな幸せ|居心地|牧場|農業|スローライフ|カフェ|どうぶつ|動物|癒やし|パズル/.test(combinedText);
+      const isIdleOrCasual = /放置|敗北条件なし|気楽|クリッカー|カジュアル/.test(combinedText) && !/ホラー|恐怖|殺人|死/.test(combinedText);
+      const isHorror = /ホラー|恐怖|肝試し|屍者|死と隣り合わせ|ジャンプスケア|汚染|ゾンビ|サバイバルホラー|r\.e\.p\.o|dead by daylight|デッドバイデイライト/.test(combinedText);
+      const isHardcorePvP = /rust|dead by daylight|デッドバイデイライト|pvp|オンラインpvp|fps/.test(combinedText);
+      const isCoop = /協力|マルチプレイヤー/.test(catText);
+      const isRogueOrPixel = /ローグライ|ピクセル|ドット|ダンジョン|ハクスラ/.test(combinedText);
+      const isSimOrStrategy = /シミュレーション|ストラテジー|運営|経営|歴史|競馬|civilization|rimworld/.test(combinedText);
+      const isUe5OrMassive = /unreal engine 5|ark:|cyberpunk|サイバーパンク|オープンワールド/.test(combinedText);
 
       let recReason = "";
       let recBtnLabel = "";
       let recQuery = "";
 
-      if (isJpMajorConsole) {
-        recReason = "💡 <strong>関連アイテム：</strong>家庭用機（PS5/Switch等）のパッケージ版や、公式設定資料集・サントラ・関連グッズも展開されている人気シリーズです";
-        recBtnLabel = "📦 Amazonで他機種版・関連グッズを見る ↗";
-        recQuery = `${game.name} ゲーム`;
-      } else if (isCoopOrSoundKey) {
-        recReason = "💡 <strong>このゲームにおすすめ：</strong>敵の足音・方角の聴き分けやフレンドとのVC連携が重要な作品！定位感の良いヘッドセットがあると生存率と没入感が段違いです";
-        recBtnLabel = "🎧 足音・VCに最適！定番ヘッドセットを見る ↗";
-        recQuery = "ゲーミングヘッドセット PC マイク付き サラウンド";
-      } else if (game.is_heavy_3d) {
-        recReason = `💡 <strong>このゲームにおすすめ：</strong>高精細3Dマップと大容量データを読み込む重量級タイトル！ロード時間を劇的に短縮する高速NVMe SSDの増設が快適プレイに直結します`;
-        recBtnLabel = "💾 ロード爆速化！PC増設用SSDを見る ↗";
+      if (isCozyOrCooking) {
+        if (isCoop) {
+          recReason = "💡 <strong>このゲームにおすすめ：</strong>友達とおしゃべりしながらのんびり遊べる癒やし系マルチ作品！耳を塞がず長時間でも疲れないオープンイヤー型イヤホンや卓上マイクがあると通話も快適です";
+          recBtnLabel = "🎙️ 長時間通話でも耳が疲れない快適イヤホン/マイクを見る ↗";
+          recQuery = "オープンイヤー イヤホン マイク付き PC 通話";
+        } else {
+          recReason = "💡 <strong>このゲームにおすすめ：</strong>休日にカフェ気分でまったり遊べる癒やし系タイトル！手首がふんわり休まる低反発リストレストがあると、何時間でもリラックスして楽しめます";
+          recBtnLabel = "☁️ まったり遊べる低反発リストレストを見る ↗";
+          recQuery = "リストレスト 低反発 マウス キーボード 手首クッション";
+        }
+      } else if (isIdleOrCasual) {
+        recReason = "💡 <strong>このゲームにおすすめ：</strong>気楽に眺めながら自分のペースで遊べる作品！メイン画面の横に置ける小型モバイルモニターやスタンドがあると「ながら遊び」が最高に捗ります";
+        recBtnLabel = "📱 ながら遊びが快適になるモバイルモニターを見る ↗";
+        recQuery = "モバイルモニター 15.6インチ サブモニター PC";
+      } else if (isJpMajor) {
+        if (/monster hunter|モンスターハンター|granblue|relink|アクションrpg/.test(combinedText)) {
+          recReason = "💡 <strong>関連＆快適環境：</strong>激しい連撃や回避アクションが醍醐味の超大作！他機種版・公式グッズのほか、PC版は背面ボタン付き高耐久コントローラーで遊ぶと操作が劇的に快適になります";
+          recBtnLabel = "🎮 Amazonで関連グッズ・推奨ゲームパッドを見る ↗";
+          recQuery = `${game.name} コントローラー グッズ`;
+        } else if (/winning post|ウイニングポスト|シミュレーション|koei|コーエー/.test(combinedText)) {
+          recReason = "💡 <strong>関連＆快適環境：</strong>じっくりデータを眺めながら何十時間も遊べるシリーズ最新作！パッケージ版・関連書籍のほか、長時間の画面閲覧には目元が疲れにくいデスクライトも好相性です";
+          recBtnLabel = "📦 Amazonでパッケージ版・関連品を見る ↗";
+          recQuery = `${game.name}`;
+        } else if ((game.appid || 0) % 2 === 0) {
+          recReason = "💡 <strong>関連アイテム：</strong>家庭用機（PS5/Switch等）のパッケージ版や、公式設定資料集・オリジナルサントラ・関連フィギュアも多数展開されている大人気シリーズです";
+          recBtnLabel = "📦 Amazonで他機種版・公式グッズを見る ↗";
+          recQuery = `${game.name} ゲーム`;
+        } else {
+          recReason = "💡 <strong>関連＆快適環境：</strong>暗闇の陰影と立体音響が緊張感を引き立てる人気シリーズ！他機種パッケージ版・関連グッズのほか、黒が引き締まる高コントラスト環境でのプレイもおすすめです";
+          recBtnLabel = "📦 Amazonでシリーズ関連品・周辺機器を見る ↗";
+          recQuery = `${game.name} ゲーム`;
+        }
+      } else if (isUe5OrMassive) {
+        recReason = "💡 <strong>このゲームにおすすめ：</strong>次世代エンジンによる広大なマップと大容量データを読み込む重量級タイトル！ロード時間を劇的に短縮する高速NVMe M.2 SSDの増設が快適プレイに直結します";
+        recBtnLabel = "💾 大容量ゲーム向け高速NVMe SSDを見る ↗";
         recQuery = "内蔵SSD 1TB 2TB NVMe M.2 PCゲーム";
-      } else if (game.has_controller || (game.genres || []).includes("アクション")) {
-        recReason = "💡 <strong>このゲームにおすすめ：</strong>素早い回避や直感的なキャラ操作が楽しいアクション作品！キーボードより高耐久スティック搭載のPCゲームパッドが圧倒的に快適です";
-        recBtnLabel = "🎮 このゲームが快適になる定番パッドを見る ↗";
+      } else if (isHorror && isCoop && !isHardcorePvP) {
+        if (/r\.e\.p\.o|物理|運搬/.test(combinedText)) {
+          recReason = "💡 <strong>このゲームにおすすめ：</strong>フレンドと声を掛け合いながらハプニングを楽しむ協力ホラー！長時間つけても耳が蒸れにくく、通話とゲーム音のバランスが取りやすい軽量ヘッドセットが快適です";
+          recBtnLabel = "🎧 協力プレイが快適になる軽量ヘッドセットを見る ↗";
+          recQuery = "ゲーミングヘッドセット 軽量 メッシュ マイク付き";
+        } else {
+          recReason = "💡 <strong>このゲームにおすすめ：</strong>暗闇での探索と仲間との連携がカギを握るサバイバルホラー！細かい環境音までクリアに聴こえるゲーミングイヤホンがあると緊張感と生存率がアップします";
+          recBtnLabel = "🎵 細かい音まで聴こえるゲーミングイヤホンを見る ↗";
+          recQuery = "ゲーミングイヤホン 有線 マイク付き PC 足音";
+        }
+      } else if (/ボイスチャット|配信|裏切り|人狼|肝試し/.test(combinedText)) {
+        recReason = "💡 <strong>このゲームにおすすめ：</strong>仲間とのボイスチャットや駆け引き・リアクションが一番盛り上がる作品！自分の声をクリアに届けて周囲の雑音を拾わないUSBコンデンサーマイクが最適です";
+        recBtnLabel = "🎙️ VC・配信が盛り上がる高音質USBマイクを見る ↗";
+        recQuery = "USB コンデンサーマイク PC ゲーム実況 通話";
+      } else if (isHardcorePvP) {
+        if (/7 days/.test(combinedText)) {
+          recReason = "💡 <strong>このゲームにおすすめ：</strong>銃撃戦・探索から拠点クラフトまで長時間熱中するサバイバル作品！視点移動がピタッと止まる大型ゲーミングマウスパッドと多ボタンマウスの組み合わせが快適です";
+          recBtnLabel = "🖱️ 建築＆銃撃が快適になる多ボタンマウスを見る ↗";
+          recQuery = "ゲーミングマウス 多ボタン サイドボタン PC";
+        } else {
+          recReason = "💡 <strong>このゲームにおすすめ：</strong>わずかな足音や心音、敵の接近方向の聴き分けが生死を分ける対戦作！立体音響（7.1chサラウンド）対応のゲーミングヘッドセットがあると索敵力が段違いです";
+          recBtnLabel = "🎧 足音・方向が分かるサラウンドヘッドセットを見る ↗";
+          recQuery = "ゲーミングヘッドセット 7.1ch サラウンド PC";
+        }
+      } else if (isRogueOrPixel) {
+        recReason = "💡 <strong>このゲームにおすすめ：</strong>繰り返し潜りたくなる中毒性抜群のローグライト！十字キーとボタンの押し心地が良い軽量ゲームパッドがあると、何十周でも指が疲れず快適に遊べます";
+        recBtnLabel = "🎮 ローグライトに最適な軽量ゲームパッドを見る ↗";
+        recQuery = "PC ゲームパッド 軽量 2Dゲーム コントローラー";
+      } else if (isSimOrStrategy) {
+        recReason = "💡 <strong>このゲームにおすすめ：</strong>気づけば数十〜数百時間溶ける中毒性の高い運営・戦略作！細かい指定を長時間続けても手首が疲れない軽量ワイヤレスマウスが相性抜群です";
+        recBtnLabel = "🖱️ 長時間でも手首が疲れない軽量マウスを見る ↗";
+        recQuery = "ワイヤレスマウス 軽量 エルゴノミクス 疲れない";
+      } else if (game.has_controller || /アクション/.test(genreText)) {
+        recReason = "💡 <strong>このゲームにおすすめ：</strong>素早い回避や直感的なキャラ操作が楽しいアクション作品！スティックのドリフトが起きないホールエフェクト搭載PCゲームパッドが圧倒的に快適です";
+        recBtnLabel = "🎮 高耐久スティック搭載の定番パッドを見る ↗";
         recQuery = "PC ゲームパッド コントローラー ホールエフェクト";
-      } else if (isStrategyOrSim) {
-        recReason = "💡 <strong>このゲームにおすすめ：</strong>1プレイが数十〜数百時間に及ぶ中毒性の高い作品！長時間マウス操作しても手首が疲れにくい軽量ワイヤレスマウスが相性抜群です";
-        recBtnLabel = "🖱️ 長時間でも疲れない軽量マウスを見る ↗";
-        recQuery = "ゲーミングマウス 軽量 ワイヤレス サイドボタン";
       } else {
-        recReason = "💡 <strong>このゲームにおすすめ：</strong>休日のじっくりプレイに最適な注目作！目の疲れを軽減するモニターライトや快適デスク環境を整えるとさらに集中して楽しめます";
-        recBtnLabel = "🖥️ 目の疲れを軽減！モニターライトを見る ↗";
-        recQuery = "モニターライト PC デスクライト";
+        recReason = "💡 <strong>このゲームにおすすめ：</strong>美しい世界観や物語にじっくり浸りたい注目作！画面に光が反射せず目元を優しく照らすPCモニター掛けライトがあると、長時間の探索も目が疲れません";
+        recBtnLabel = "💡 世界観に浸れるPCモニターライトを見る ↗";
+        recQuery = "モニターライト PC デスクライト 非対称配光";
       }
 
       const amazonRecUrl = `https://www.amazon.co.jp/s?k=${encodeURIComponent(recQuery)}&tag=${aff.amazon_tag || ''}`;
