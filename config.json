@@ -1,10 +1,10 @@
 {
-  "site_title": "Steam神セールAI調査団 | 割引＆日本語レビュー要約まとめ",
-  "site_subtitle": "毎日自動更新！Steamの特選セール情報をAIが日本語レビューまで分析してわかりやすく要約",
+  "site_title": "PCゲーム神セールAI調査団 | 割引＆日本語レビュー要約まとめ（むぎstick運営）",
+  "site_subtitle": "毎日自動更新！PCゲームの特選セール情報をAIが日本語レビューまで分析してわかりやすく要約（※非公式ファンサイト・ログイン不要）",
   "max_games": 16,
   "min_discount_percent": 20,
   "gemini_api_key": "",
-  "site_url": "https://mugistick.github.io/steam-deals/",
+  "site_url": "https://mugistick.github.io/game-deals/",
   "affiliate": {
     "amazon_tag": "mugistick-22",
     "rakuten_id": "your-rakuten-id",

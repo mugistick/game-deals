@@ -42,7 +42,9 @@ def refresh_existing_data(data):
         is_heavy_3d = g.get("is_heavy_3d", False)
         supported_ja = g.get("supported_japanese", True)
 
-        g["deal_score"] = calculate_deal_score(discount_pct, positive_rate, total_reviews)
+        g["deal_score"] = calculate_deal_score(
+            discount_pct, positive_rate, total_reviews, g.get("has_key_store", False)
+        )
 
         # ゲーム仕様の強み（上のバッジと重複しない具体的なプレイ特徴）
         pros = []
@@ -99,7 +101,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
   <meta property="og:title" content="__SITE_TITLE__" />
   <meta property="og:description" content="__SITE_SUBTITLE__" />
   <meta property="og:type" content="website" />
-  <meta property="og:url" content="https://mugistick.github.io/steam-deals/" />
+  <meta property="og:url" content="https://mugistick.github.io/game-deals/" />
   <meta property="og:image" content="__OG_IMAGE__" />
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="__SITE_TITLE__" />
@@ -187,29 +189,47 @@ HTML_TEMPLATE = """<!DOCTYPE html>
       border-radius: 999px;
     }
 
-    /* Slim Sticky Bar */
+    /* Slim Sticky Bar (スマホではフィルタ1行のみをスリム固定し、検索・ソートはスクロールで自然に流す) */
+    .non-sticky-controls {
+      background: #0e1420;
+      border-bottom: 1px solid rgba(51, 65, 85, 0.55);
+      padding: 8px 20px;
+    }
+    .non-sticky-inner {
+      max-width: 1380px;
+      margin: 0 auto;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
     .sticky-bar {
       position: sticky;
       top: 0;
       z-index: 50;
       background: rgba(11, 15, 23, 0.95);
       border-bottom: 1px solid var(--border);
-      padding: 8px 20px;
+      padding: 7px 20px;
       backdrop-filter: blur(10px);
     }
     .controls-wrap {
       max-width: 1380px;
       margin: 0 auto;
       display: flex;
-      flex-wrap: wrap;
-      gap: 10px;
-      justify-content: space-between;
       align-items: center;
     }
     .filter-group {
       display: flex;
-      flex-wrap: wrap;
+      flex-wrap: nowrap;
+      overflow-x: auto;
       gap: 6px;
+      width: 100%;
+      scrollbar-width: none;
+      -ms-overflow-style: none;
+    }
+    .filter-group::-webkit-scrollbar {
+      display: none;
     }
     .filter-btn {
       background: var(--bg-card);
@@ -217,10 +237,12 @@ HTML_TEMPLATE = """<!DOCTYPE html>
       color: var(--text-sub);
       padding: 5px 12px;
       border-radius: 6px;
-      font-size: 0.82rem;
+      font-size: 0.81rem;
       font-weight: 700;
       cursor: pointer;
       transition: all 0.15s;
+      white-space: nowrap;
+      flex-shrink: 0;
     }
     .filter-btn:hover, .filter-btn.active {
       background: rgba(56, 189, 248, 0.2);
@@ -562,6 +584,20 @@ HTML_TEMPLATE = """<!DOCTYPE html>
       transform: translateY(-1px);
     }
 
+    /* ゲーム内容に連動したおすすめ理由ボックス */
+    .rec-reason-box {
+      background: rgba(245, 158, 11, 0.08);
+      border: 1px solid rgba(245, 158, 11, 0.32);
+      border-radius: 7px;
+      padding: 6px 10px;
+      font-size: 0.78rem;
+      color: #fde68a;
+      line-height: 1.45;
+    }
+    .rec-reason-box strong {
+      color: #fbbf24;
+    }
+
     /* 下段の補足テキストリンク行 */
     .sub-links-row {
       display: flex;
@@ -593,7 +629,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
 </head>
 <body>
 
-  <!-- スクロールすると自然に上に隠れるタイトル部分 -->
+  <!-- スクロールすると自然に上に隠れるタイトル＆検索・並び替えエリア（スマホで画面を圧迫しない設計） -->
   <div class="top-banner">
     <div class="top-banner-inner">
       <div class="title-group">
@@ -604,7 +640,22 @@ HTML_TEMPLATE = """<!DOCTYPE html>
     </div>
   </div>
 
-  <!-- スクロール時に上部に固定されるスリム操作バー -->
+  <div class="non-sticky-controls">
+    <div class="non-sticky-inner">
+      <span style="font-size: 0.78rem; color: var(--text-muted);">🔍 タイトル・ジャンル絞り込み＆並び替え（スクロール時はフィルタのみ上部固定）</span>
+      <div class="search-sort-group">
+        <input type="text" id="searchInput" class="input-box" placeholder="🔍 ゲーム名・ジャンルで検索..." />
+        <select id="sortSelect" class="select-box">
+          <option value="score">AIお得度スコア順</option>
+          <option value="discount">割引率が高い順</option>
+          <option value="price_asc">価格が安い順</option>
+          <option value="rating">好評率が高い順</option>
+        </select>
+      </div>
+    </div>
+  </div>
+
+  <!-- スクロール時に上部に固定されるスリム1行フィルタバー -->
   <header class="sticky-bar">
     <div class="controls-wrap">
       <div class="filter-group" id="filterGroup">
@@ -614,16 +665,6 @@ HTML_TEMPLATE = """<!DOCTYPE html>
         <button class="filter-btn" data-filter="under1000">🪙 ¥1,000以下</button>
         <button class="filter-btn" data-filter="verypos">🏆 非常に好評以上</button>
         <button class="filter-btn" data-filter="ja">🗾 日本語対応</button>
-      </div>
-
-      <div class="search-sort-group">
-        <input type="text" id="searchInput" class="input-box" placeholder="🔍 ゲーム名・ジャンルで検索..." />
-        <select id="sortSelect" class="select-box">
-          <option value="score">AIお得度スコア順</option>
-          <option value="discount">割引率が高い順</option>
-          <option value="price_asc">価格が安い順</option>
-          <option value="rating">好評率が高い順</option>
-        </select>
       </div>
     </div>
   </header>
@@ -645,14 +686,69 @@ HTML_TEMPLATE = """<!DOCTYPE html>
       const aff = DEALS_DATA.affiliate || {};
       const encodedJa = encodeURIComponent(game.name);
       const encodedEn = encodeURIComponent(game.name_en || game.name);
-      const fanaticalUrl = `https://www.fanatical.com/ja/search?search=${encodedEn}&ref=${aff.fanatical_ref || ''}`;
-      const amazonControllerUrl = `https://www.amazon.co.jp/s?k=${ encodeURIComponent('PC ゲームパッド コントローラー') }&tag=${aff.amazon_tag || ''}`;
-      const amazonGameUrl = `https://www.amazon.co.jp/s?k=${encodedJa}+ゲーム&tag=${aff.amazon_tag || ''}`;
+
+      // 審査通過済みの公認キーショップIDがある場合のみ有効化
+      const hasApprovedFanatical = aff.fanatical_ref && !aff.fanatical_ref.startsWith("your-");
+      const hasApprovedGmg = aff.gmg_ref && !aff.gmg_ref.startsWith("your-");
+      const fanaticalUrl = hasApprovedFanatical
+        ? `https://www.fanatical.com/ja/search?search=${encodedEn}&ref=${aff.fanatical_ref}`
+        : "";
+      const gmgUrl = hasApprovedGmg
+        ? `https://www.greenmangaming.com/ja/search?query=${encodedEn}&tap_a=${aff.gmg_ref}`
+        : "";
+
+      const amazonControllerUrl = `https://www.amazon.co.jp/s?k=${encodeURIComponent('PC ゲームパッド コントローラー ホールエフェクト')}&tag=${aff.amazon_tag || ''}`;
       const hasCustomBto = aff.bto_pc_link && !aff.bto_pc_link.includes("DUMMY_");
       const btoPcUrl = hasCustomBto
         ? aff.bto_pc_link
         : `https://www.amazon.co.jp/s?k=${encodeURIComponent('ゲーミングPC ' + game.gpu_hint)}&tag=${aff.amazon_tag || ''}`;
-      return { fanaticalUrl, amazonControllerUrl, amazonGameUrl, btoPcUrl };
+
+      // ゲームのジャンル・特徴・仕様にもとづいて「なぜこの商品がおすすめか」と「最適なAmazon検索リンク」を自動生成
+      const combinedText = [
+        game.name || "",
+        (game.publishers || []).join(" "),
+        (game.genres || []).join(" "),
+        (game.categories || []).join(" "),
+        game.ai_overview || ""
+      ].join(" ").toLowerCase();
+
+      const isJpMajorConsole = /capcom|カプコン|biohazard|バイオハザード|monster hunter|モンスターハンター|pragmata|プラグマタ|square enix|スクウェア|bandai|バンダイ|sega|セガ|koei|コーエー|konami|コナミ|cygames|granblue|atlus|アトラス|fromsoftware/.test(combinedText);
+      const isCoopOrSoundKey = /協力|マルチプレイヤー|pvp|ホラー|サバイバル|fps|シューティング|dead by daylight|rust|7 days|r\.e\.p\.o|mycopunk/.test(combinedText);
+      const isStrategyOrSim = /ストラテジー|シミュレーション|建築|運営|rimworld|civilization/.test(combinedText);
+
+      let recReason = "";
+      let recBtnLabel = "";
+      let recQuery = "";
+
+      if (isJpMajorConsole) {
+        recReason = "💡 <strong>関連アイテム：</strong>家庭用機（PS5/Switch等）のパッケージ版や、公式設定資料集・サントラ・関連グッズも展開されている人気シリーズです";
+        recBtnLabel = "📦 Amazonで他機種版・関連グッズを見る ↗";
+        recQuery = `${game.name} ゲーム`;
+      } else if (isCoopOrSoundKey) {
+        recReason = "💡 <strong>このゲームにおすすめ：</strong>敵の足音・方角の聴き分けやフレンドとのVC連携が重要な作品！定位感の良いヘッドセットがあると生存率と没入感が段違いです";
+        recBtnLabel = "🎧 足音・VCに最適！定番ヘッドセットを見る ↗";
+        recQuery = "ゲーミングヘッドセット PC マイク付き サラウンド";
+      } else if (game.is_heavy_3d) {
+        recReason = `💡 <strong>このゲームにおすすめ：</strong>高精細3Dマップと大容量データを読み込む重量級タイトル！ロード時間を劇的に短縮する高速NVMe SSDの増設が快適プレイに直結します`;
+        recBtnLabel = "💾 ロード爆速化！PC増設用SSDを見る ↗";
+        recQuery = "内蔵SSD 1TB 2TB NVMe M.2 PCゲーム";
+      } else if (game.has_controller || (game.genres || []).includes("アクション")) {
+        recReason = "💡 <strong>このゲームにおすすめ：</strong>素早い回避や直感的なキャラ操作が楽しいアクション作品！キーボードより高耐久スティック搭載のPCゲームパッドが圧倒的に快適です";
+        recBtnLabel = "🎮 このゲームが快適になる定番パッドを見る ↗";
+        recQuery = "PC ゲームパッド コントローラー ホールエフェクト";
+      } else if (isStrategyOrSim) {
+        recReason = "💡 <strong>このゲームにおすすめ：</strong>1プレイが数十〜数百時間に及ぶ中毒性の高い作品！長時間マウス操作しても手首が疲れにくい軽量ワイヤレスマウスが相性抜群です";
+        recBtnLabel = "🖱️ 長時間でも疲れない軽量マウスを見る ↗";
+        recQuery = "ゲーミングマウス 軽量 ワイヤレス サイドボタン";
+      } else {
+        recReason = "💡 <strong>このゲームにおすすめ：</strong>休日のじっくりプレイに最適な注目作！目の疲れを軽減するモニターライトや快適デスク環境を整えるとさらに集中して楽しめます";
+        recBtnLabel = "🖥️ 目の疲れを軽減！モニターライトを見る ↗";
+        recQuery = "モニターライト PC デスクライト";
+      }
+
+      const amazonRecUrl = `https://www.amazon.co.jp/s?k=${encodeURIComponent(recQuery)}&tag=${aff.amazon_tag || ''}`;
+
+      return { fanaticalUrl, gmgUrl, amazonControllerUrl, amazonRecUrl, recReason, recBtnLabel, btoPcUrl };
     }
 
     function renderDeals() {
@@ -720,13 +816,17 @@ HTML_TEMPLATE = """<!DOCTYPE html>
           `<div class="point-item"><span class="${warnIconClass}">⚠️</span><span>${c}</span></div>`
         ).join("");
 
-        const keyStoreLink = game.has_key_store
-          ? `<a class="text-link" style="color:#34d399; font-weight:700;" href="${links.fanaticalUrl}" target="_blank" rel="noopener">🔑 Fanatical(公認キー)で価格比較 ↗</a>`
-          : "";
+        // 審査通過済みの公認キーショップ（Fanatical / GMG）のみ表示
+        const keyLinksArr = [];
+        if (game.has_key_store && links.fanaticalUrl) {
+          keyLinksArr.push(`<a class="text-link" style="color:#34d399; font-weight:700;" href="${links.fanaticalUrl}" target="_blank" rel="noopener">🔑 Fanatical(公認キー)で価格比較 ↗</a>`);
+        }
+        if (game.has_key_store && links.gmgUrl) {
+          keyLinksArr.push(`<a class="text-link" style="color:#34d399; font-weight:700;" href="${links.gmgUrl}" target="_blank" rel="noopener">🔑 GMG(公認キー)で価格比較 ↗</a>`);
+        }
+        const keyStoreLink = keyLinksArr.join(" ");
 
-        const hardwareLink = game.has_controller
-          ? `<a class="text-link" href="${links.amazonControllerUrl}" target="_blank" rel="noopener">🎮 おすすめパッド(Amazon) ↗</a>`
-          : `<a class="text-link" href="${links.amazonControllerUrl}" target="_blank" rel="noopener">🎧 ゲーミング周辺機器(Amazon) ↗</a>`;
+        const hardwareLink = `<a class="text-link" href="${links.amazonControllerUrl}" target="_blank" rel="noopener">🎮 定番PCゲームパッド(Amazon) ↗</a>`;
 
         const pcLink = `<a class="text-link" href="${links.btoPcUrl}" target="_blank" rel="noopener">💻 推奨:${game.gpu_hint} 快適PC ↗</a>`;
 
@@ -777,9 +877,10 @@ HTML_TEMPLATE = """<!DOCTYPE html>
             </div>
 
             <div class="cta-section">
+              <div class="rec-reason-box">${links.recReason}</div>
               <div class="primary-cta-row">
                 <a class="btn-steam-main" href="${game.steam_url}" target="_blank" rel="noopener">${steamBtnText}</a>
-                <a class="btn-amazon-main" href="${links.amazonGameUrl}" target="_blank" rel="noopener">📦 Amazonで他機種・関連品を見る ↗</a>
+                <a class="btn-amazon-main" href="${links.amazonRecUrl}" target="_blank" rel="noopener">${links.recBtnLabel}</a>
               </div>
               <div class="sub-links-row">
                 <div class="context-links">
@@ -847,7 +948,7 @@ ADMIN_HTML_TEMPLATE = """<!DOCTYPE html>
     function copyPost(appid) {
       const g = DEALS_DATA.deals.find(x => x.appid === appid);
       if (!g) return;
-      const siteUrl = "https://mugistick.github.io/steam-deals/";
+      const siteUrl = "https://mugistick.github.io/game-deals/";
       const prosText = (g.ai_pros && g.ai_pros[0]) ? "✔ " + g.ai_pros[0] : "";
       const text = `【Steam特選セール🔥 ${g.discount_percent}%OFF】\\n『${g.name}』が ${g.initial_formatted} → ${g.final_formatted}！\\n\\n📊 評価：${g.review_desc}（好評率${g.positive_rate}%）\\n🤖 要約：${g.ai_overview.slice(0, 65)}...\\n${prosText}\\n\\n▼AIレビュー分析＆セール一覧はこちら\\n${siteUrl}\\n#Steamセール #Steam #PCゲーム #PR`;
       navigator.clipboard.writeText(text).then(() => {

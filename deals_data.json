@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27 04:30",
+  "updated_at": "2026-10-27 23:31",
   "total_count": 16,
   "affiliate": {
     "amazon_tag": "mugistick-22",
@@ -10,55 +10,6 @@
     "bto_pc_link": ""
   },
   "deals": [
-    {
-      "appid": 518790,
-      "name": "theHunter: Call of the Wild™",
-      "name_en": "theHunter: Call of the Wild",
-      "publishers": [
-        "Avalanche Studios"
-      ],
-      "has_key_store": false,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518790/00f0df3558439a6a2cc4fbd7a658b00fb71353ea/header.jpg?t=1791555374",
-      "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518790/0f3167bc08e561282213be7093596f3dd8a19959/ss_0f3167bc08e561282213be7093596f3dd8a19959.600x338.jpg?t=1791555374",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518790/684bedec219bd1f0f858a333ed6d6fae6a1cd387/ss_684bedec219bd1f0f858a333ed6d6fae6a1cd387.600x338.jpg?t=1791555374",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518790/19fbf2094d83b7cab24b8d7f5677d9fccc32a834/ss_19fbf2094d83b7cab24b8d7f5677d9fccc32a834.600x338.jpg?t=1791555374"
-      ],
-      "discount_percent": 80,
-      "initial_price": 2300,
-      "final_price": 460,
-      "initial_formatted": "¥ 2,300",
-      "final_formatted": "無料",
-      "review_desc": "非常に好評",
-      "positive_rate": 83,
-      "total_reviews": 171809,
-      "deal_score": 86,
-      "genres": [
-        "アドベンチャー",
-        "シミュレーション",
-        "スポーツ"
-      ],
-      "categories": [
-        "シングルプレイヤー",
-        "マルチプレイヤー",
-        "協力プレイ",
-        "オンライン協力プレイ",
-        "Steam実績"
-      ],
-      "release_date": "2017年2月16日",
-      "supported_japanese": true,
-      "ai_overview": "あなたの行動一つひとつに反応してくれるダイナミックなオープンワールドで、本格的なハンティングゲームを体験しましょう。獲物を追跡し、予測不能な状況に備えながら、一人またはフレンドと一緒に狩りを極めましょう。",
-      "ai_pros": [
-        "オンライン協力プレイ対応で快適に遊べる設計",
-        "要求スペックは軽め（GTX 760目安）で幅広いPCで快適動作"
-      ],
-      "ai_cons": [],
-      "picked_reviews": [],
-      "gpu_hint": "GTX 760",
-      "has_controller": true,
-      "is_heavy_3d": false,
-      "steam_url": "https://store.steampowered.com/app/518790/"
-    },
     {
       "appid": 2050650,
       "name": "BIOHAZARD RE:4",
@@ -80,7 +31,7 @@
       "final_formatted": "¥ 997",
       "review_desc": "非常に好評",
       "positive_rate": 89,
-      "total_reviews": 192707,
+      "total_reviews": 192834,
       "deal_score": 86,
       "genres": [
         "アクション",
@@ -129,8 +80,8 @@
       "final_formatted": "¥ 2,695",
       "review_desc": "非常に好評",
       "positive_rate": 87,
-      "total_reviews": 280552,
-      "deal_score": 72,
+      "total_reviews": 280592,
+      "deal_score": 77,
       "genres": [
         "アクション",
         "アドベンチャー",
@@ -159,6 +110,107 @@
       "steam_url": "https://store.steampowered.com/app/251570/"
     },
     {
+      "appid": 2827200,
+      "name": "ミメシス",
+      "name_en": "MIMESIS",
+      "publishers": [
+        "ReLU Games, Inc.",
+        "KRAFTON, Inc."
+      ],
+      "has_key_store": false,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2827200/9108c2901a1d8ddc96bc68c6c5996fcb2b777ec0/header_alt_assets_2.jpg?t=1793079449",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2827200/12db504cd7da1646d1cf020802a97153abd69e74/ss_12db504cd7da1646d1cf020802a97153abd69e74.600x338.jpg?t=1793079449",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2827200/d6c6890ed47c1916e0c6710b5e52b5bc6cf25039/ss_d6c6890ed47c1916e0c6710b5e52b5bc6cf25039.600x338.jpg?t=1793079449",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2827200/e3b5f477b6b7c70008f9bf6f089c98d267545dad/ss_e3b5f477b6b7c70008f9bf6f089c98d267545dad.600x338.jpg?t=1793079449"
+      ],
+      "discount_percent": 60,
+      "initial_price": 1200,
+      "final_price": 480,
+      "initial_formatted": "¥ 1,200",
+      "final_formatted": "¥ 480",
+      "review_desc": "非常に好評",
+      "positive_rate": 85,
+      "total_reviews": 8585,
+      "deal_score": 72,
+      "genres": [
+        "アクション",
+        "アドベンチャー",
+        "カジュアル",
+        "インディー"
+      ],
+      "categories": [
+        "マルチプレイヤー",
+        "協力プレイ",
+        "オンライン協力プレイ",
+        "フルコントローラサポート",
+        "DUALSHOCKコントローラーサポート"
+      ],
+      "release_date": "2025年10月27日",
+      "supported_japanese": true,
+      "ai_overview": "4人協力オンラインサバイバルホラーゲーム。汚染された雨を避けてスクラップを集め、トラムへ戻ろう。仲間の声と行動をそのまま模倣するモンスターや様々な脅威が立ちはだかる。装備を整え、協力することだけが生き残る道だ。",
+      "ai_pros": [
+        "フルコントローラー対応・オンライン協力プレイ対応で快適に遊べる設計"
+      ],
+      "ai_cons": [
+        "高負荷3Dグラフィック：快適プレイには「GTX 1660」以上のPC環境を推奨"
+      ],
+      "picked_reviews": [],
+      "gpu_hint": "GTX 1660",
+      "has_controller": true,
+      "is_heavy_3d": true,
+      "steam_url": "https://store.steampowered.com/app/2827200/"
+    },
+    {
+      "appid": 3241660,
+      "name": "R.E.P.O.",
+      "name_en": "R.E.P.O.",
+      "publishers": [
+        "semiwork"
+      ],
+      "has_key_store": false,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/1ea445e044a2d5b09cfa8291350b63ebed6e5741/header.jpg?t=1791817973",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/ss_e6babaab52581f81df91e50768cee6a9334ef6ec.600x338.jpg?t=1791817973",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/ss_af7d8d6302d543d89019bad49ea853a970bb82de.600x338.jpg?t=1791817973",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/ss_a66715d57329c456d91aeb11fbd406e7d8c5dbc7.600x338.jpg?t=1791817973"
+      ],
+      "discount_percent": 35,
+      "initial_price": 1200,
+      "final_price": 780,
+      "initial_formatted": "¥ 1,200",
+      "final_formatted": "¥ 780",
+      "review_desc": "非常に好評",
+      "positive_rate": 93,
+      "total_reviews": 346415,
+      "deal_score": 70,
+      "genres": [
+        "アクション",
+        "早期アクセス"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "マルチプレイヤー",
+        "協力プレイ",
+        "オンライン協力プレイ",
+        "カメラの快適性"
+      ],
+      "release_date": "2025年2月26日",
+      "supported_japanese": false,
+      "ai_overview": "最大6人までプレイできるオンライン協力ホラーゲーム。貴重な、完全に物理ベースのオブジェクトを見つけて、作成者の欲求を満たすために取得および抽出するときに慎重に扱います。",
+      "ai_pros": [
+        "オンライン協力プレイ対応で快適に遊べる設計"
+      ],
+      "ai_cons": [
+        "公式ストア表記は日本語非対応（有志日本語化MOD等の有無を確認推奨）"
+      ],
+      "picked_reviews": [],
+      "gpu_hint": "GTX 1070",
+      "has_controller": false,
+      "is_heavy_3d": false,
+      "steam_url": "https://store.steampowered.com/app/3241660/"
+    },
+    {
       "appid": 881020,
       "name": "GRANBLUE FANTASY: Relink",
       "name_en": "Granblue Fantasy: Relink",
@@ -179,7 +231,7 @@
       "final_formatted": "¥ 2,904",
       "review_desc": "非常に好評",
       "positive_rate": 82,
-      "total_reviews": 41400,
+      "total_reviews": 41402,
       "deal_score": 65,
       "genres": [
         "アクション",
@@ -209,104 +261,6 @@
       "steam_url": "https://store.steampowered.com/app/881020/"
     },
     {
-      "appid": 3764200,
-      "name": "BIOHAZARD requiem",
-      "name_en": "Resident Evil Requiem",
-      "publishers": [
-        "CAPCOM Co., Ltd."
-      ],
-      "has_key_store": false,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3764200/46a28870620bab1c2bc4de903bdcbcf4e423c58b/header_japanese.jpg?t=1779840172",
-      "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3764200/08af4e9398b8e45152bfbedce3bc24d22e2c0990/ss_08af4e9398b8e45152bfbedce3bc24d22e2c0990.600x338.jpg?t=1779840172",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3764200/4921eb5fb45f6b7a3b62195e47c6d7b4175935a8/ss_4921eb5fb45f6b7a3b62195e47c6d7b4175935a8.600x338.jpg?t=1779840172",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3764200/e7b791b703759aebe774b813eb29a364008552b8/ss_e7b791b703759aebe774b813eb29a364008552b8.600x338.jpg?t=1779840172"
-      ],
-      "discount_percent": 30,
-      "initial_price": 8990,
-      "final_price": 6293,
-      "initial_formatted": "¥ 8,990",
-      "final_formatted": "¥ 6,293",
-      "review_desc": "非常に好評",
-      "positive_rate": 86,
-      "total_reviews": 109537,
-      "deal_score": 64,
-      "genres": [
-        "アクション",
-        "アドベンチャー"
-      ],
-      "categories": [
-        "シングルプレイヤー",
-        "Steam実績",
-        "フルコントローラサポート",
-        "Steamトレーディングカード",
-        "キャプション使用可能"
-      ],
-      "release_date": "2026年2月26日",
-      "supported_japanese": true,
-      "ai_overview": "生者に恐怖を。屍者に鎮魂（レクイエム）を。 「バイオハザード」シリーズ、そしてサバイバルホラーの新たな紀元を切り開く『バイオハザード レクイエム』。”レクイエム”はプレイヤーの精神（こころ）を激しく揺り動かす。",
-      "ai_pros": [
-        "フルコントローラー対応で快適に遊べる設計"
-      ],
-      "ai_cons": [
-        "高負荷3Dグラフィック：快適プレイには「RTX 2060」以上のPC環境を推奨"
-      ],
-      "picked_reviews": [],
-      "gpu_hint": "RTX 2060",
-      "has_controller": true,
-      "is_heavy_3d": true,
-      "steam_url": "https://store.steampowered.com/app/3764200/"
-    },
-    {
-      "appid": 294100,
-      "name": "RimWorld",
-      "name_en": "RimWorld",
-      "publishers": [
-        "Ludeon Studios"
-      ],
-      "has_key_store": true,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/76e0613b8197327299d5dbabb0a7fd7828a689a2/header.jpg?t=1782756789",
-      "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/80e383ef19353058791efe17a6485849246c9c17/ss_80e383ef19353058791efe17a6485849246c9c17.600x338.jpg?t=1782756789",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/a6158c5cef23ac8157b37dd3eb17f3c2d2649e93/ss_a6158c5cef23ac8157b37dd3eb17f3c2d2649e93.600x338.jpg?t=1782756789",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/cccfece4c643fd32d438642fbea1b980bc519a48/ss_cccfece4c643fd32d438642fbea1b980bc519a48.600x338.jpg?t=1782756789"
-      ],
-      "discount_percent": 20,
-      "initial_price": 3900,
-      "final_price": 3120,
-      "initial_formatted": "¥ 3,900",
-      "final_formatted": "¥ 3,120",
-      "review_desc": "非常に好評",
-      "positive_rate": 94,
-      "total_reviews": 210787,
-      "deal_score": 64,
-      "genres": [
-        "インディー",
-        "シミュレーション",
-        "ストラテジー"
-      ],
-      "categories": [
-        "シングルプレイヤー",
-        "Steamワークショップ",
-        "テキストサイズの調整",
-        "カメラの快適性",
-        "カスタム音量調整"
-      ],
-      "release_date": "2018年10月17日",
-      "supported_japanese": true,
-      "ai_overview": "知性のあるAIストーリーテラーによって織りなされるSFコロニーシミュレーションゲームです。人の性格、自然環境、銃撃戦、近接戦、気候、バイオーム、外交、対人関係、芸術、医学、貿易などをシミュレートし、ストーリーを生成します。",
-      "ai_pros": [
-        "MOD（Steamワークショップ）対応で快適に遊べる設計",
-        "要求スペックは軽め（ミドルクラスGPU目安）で幅広いPCで快適動作"
-      ],
-      "ai_cons": [],
-      "picked_reviews": [],
-      "gpu_hint": "ミドルクラスGPU",
-      "has_controller": true,
-      "is_heavy_3d": false,
-      "steam_url": "https://store.steampowered.com/app/294100/"
-    },
-    {
       "appid": 3024130,
       "name": "どうぶつの町の食堂物語",
       "name_en": "PAO PAO",
@@ -314,21 +268,21 @@
         "Dreland Enterprises"
       ],
       "has_key_store": false,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3024130/5f671fe085a76c645453ce8c473a258c2a12be2d/header_japanese.jpg?t=1793023708",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3024130/5f671fe085a76c645453ce8c473a258c2a12be2d/header_japanese.jpg?t=1793067220",
       "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3024130/0603a7ea71645b98ad0b884db27ff3846fd0ce4e/ss_0603a7ea71645b98ad0b884db27ff3846fd0ce4e.600x338.jpg?t=1793023708",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3024130/7fd8562947f8f2efcbe36fc536c9d91d27a8632f/ss_7fd8562947f8f2efcbe36fc536c9d91d27a8632f.600x338.jpg?t=1793023708",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3024130/76f94a5a71f0ace04091872ef27ead0cf815db15/ss_76f94a5a71f0ace04091872ef27ead0cf815db15.600x338.jpg?t=1793023708"
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3024130/0603a7ea71645b98ad0b884db27ff3846fd0ce4e/ss_0603a7ea71645b98ad0b884db27ff3846fd0ce4e.600x338.jpg?t=1793067220",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3024130/7fd8562947f8f2efcbe36fc536c9d91d27a8632f/ss_7fd8562947f8f2efcbe36fc536c9d91d27a8632f.600x338.jpg?t=1793067220",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3024130/76f94a5a71f0ace04091872ef27ead0cf815db15/ss_76f94a5a71f0ace04091872ef27ead0cf815db15.600x338.jpg?t=1793067220"
       ],
       "discount_percent": 40,
       "initial_price": 2100,
       "final_price": 1260,
       "initial_formatted": "¥ 2,100",
       "final_formatted": "¥ 1,260",
-      "review_desc": "好評",
-      "positive_rate": 90,
+      "review_desc": "非常に好評",
+      "positive_rate": 94,
       "total_reviews": 500,
-      "deal_score": 63,
+      "deal_score": 65,
       "genres": [
         "アドベンチャー",
         "インディー",
@@ -358,6 +312,107 @@
       "steam_url": "https://store.steampowered.com/app/3024130/"
     },
     {
+      "appid": 1737870,
+      "name": "REKA",
+      "name_en": "REKA",
+      "publishers": [
+        "Fireshine Games",
+        "Shochiku"
+      ],
+      "has_key_store": true,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1737870/9042a11bc29c420fc324b62e763dd38c955f52c1/header_alt_assets_5_japanese.jpg?t=1793081203",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1737870/0aeb27b6d5d6bb1d6c78682e03b7467fad1b5a20/ss_0aeb27b6d5d6bb1d6c78682e03b7467fad1b5a20.600x338.jpg?t=1793081203",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1737870/af50ed15a2252417a2270595e9fda80173dbdb91/ss_af50ed15a2252417a2270595e9fda80173dbdb91.600x338.jpg?t=1793081203",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1737870/c7a181be725a556a88d73e36fc206f24862c0c6d/ss_c7a181be725a556a88d73e36fc206f24862c0c6d.600x338.jpg?t=1793081203"
+      ],
+      "discount_percent": 35,
+      "initial_price": 2300,
+      "final_price": 1495,
+      "initial_formatted": "¥ 2,300",
+      "final_formatted": "¥ 1,495",
+      "review_desc": "非常に好評",
+      "positive_rate": 82,
+      "total_reviews": 3138,
+      "deal_score": 65,
+      "genres": [
+        "アドベンチャー",
+        "カジュアル",
+        "インディー",
+        "RPG"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "DUALSHOCKコントローラーサポート",
+        "DUALSHOCKコントローラーサポート",
+        "DualSenseコントローラーサポート",
+        "DualSenseコントローラーサポート"
+      ],
+      "release_date": "2026年10月26日",
+      "supported_japanese": true,
+      "ai_overview": "スラヴの民間伝承に着想を得た、魔女の魔法とぬくもりに満ちた世界へ。霧に包まれた秋の森を旅しながら、歩く鶏の足小屋を建て、飾り付け、自分好みにカスタマイズしましょう。村人を助け、森の動物を手なずけ、偉大な魔女バーバ・ヤーガのもとで穏やかな魔法を学びましょう。",
+      "ai_pros": [
+        "コントローラー対応で快適に遊べる設計"
+      ],
+      "ai_cons": [
+        "高負荷3Dグラフィック：快適プレイには「RTX 2060」以上のPC環境を推奨"
+      ],
+      "picked_reviews": [],
+      "gpu_hint": "RTX 2060",
+      "has_controller": true,
+      "is_heavy_3d": true,
+      "steam_url": "https://store.steampowered.com/app/1737870/"
+    },
+    {
+      "appid": 3764200,
+      "name": "BIOHAZARD requiem",
+      "name_en": "Resident Evil Requiem",
+      "publishers": [
+        "CAPCOM Co., Ltd."
+      ],
+      "has_key_store": false,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3764200/46a28870620bab1c2bc4de903bdcbcf4e423c58b/header_japanese.jpg?t=1779840172",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3764200/08af4e9398b8e45152bfbedce3bc24d22e2c0990/ss_08af4e9398b8e45152bfbedce3bc24d22e2c0990.600x338.jpg?t=1779840172",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3764200/4921eb5fb45f6b7a3b62195e47c6d7b4175935a8/ss_4921eb5fb45f6b7a3b62195e47c6d7b4175935a8.600x338.jpg?t=1779840172",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3764200/e7b791b703759aebe774b813eb29a364008552b8/ss_e7b791b703759aebe774b813eb29a364008552b8.600x338.jpg?t=1779840172"
+      ],
+      "discount_percent": 30,
+      "initial_price": 8990,
+      "final_price": 6293,
+      "initial_formatted": "¥ 8,990",
+      "final_formatted": "¥ 6,293",
+      "review_desc": "非常に好評",
+      "positive_rate": 86,
+      "total_reviews": 109580,
+      "deal_score": 64,
+      "genres": [
+        "アクション",
+        "アドベンチャー"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "Steam実績",
+        "フルコントローラサポート",
+        "Steamトレーディングカード",
+        "キャプション使用可能"
+      ],
+      "release_date": "2026年2月26日",
+      "supported_japanese": true,
+      "ai_overview": "生者に恐怖を。屍者に鎮魂（レクイエム）を。 「バイオハザード」シリーズ、そしてサバイバルホラーの新たな紀元を切り開く『バイオハザード レクイエム』。”レクイエム”はプレイヤーの精神（こころ）を激しく揺り動かす。",
+      "ai_pros": [
+        "フルコントローラー対応で快適に遊べる設計"
+      ],
+      "ai_cons": [
+        "高負荷3Dグラフィック：快適プレイには「RTX 2060」以上のPC環境を推奨"
+      ],
+      "picked_reviews": [],
+      "gpu_hint": "RTX 2060",
+      "has_controller": true,
+      "is_heavy_3d": true,
+      "steam_url": "https://store.steampowered.com/app/3764200/"
+    },
+    {
       "appid": 252490,
       "name": "Rust",
       "name_en": "Rust",
@@ -378,7 +433,7 @@
       "final_formatted": "¥ 2,300",
       "review_desc": "やや好評",
       "positive_rate": 77,
-      "total_reviews": 1177109,
+      "total_reviews": 1177214,
       "deal_score": 61,
       "genres": [
         "アクション",
@@ -430,7 +485,7 @@
       "final_formatted": "¥ 1,690",
       "review_desc": "賛否両論",
       "positive_rate": 53,
-      "total_reviews": 108858,
+      "total_reviews": 108896,
       "deal_score": 60,
       "genres": [
         "アクション",
@@ -462,107 +517,50 @@
       "steam_url": "https://store.steampowered.com/app/2399830/"
     },
     {
-      "appid": 1737870,
-      "name": "REKA",
-      "name_en": "REKA",
+      "appid": 4209630,
+      "name": "ELbab",
+      "name_en": "ELbab",
       "publishers": [
-        "Fireshine Games",
-        "Shochiku"
+        "makz"
       ],
-      "has_key_store": true,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1737870/9042a11bc29c420fc324b62e763dd38c955f52c1/header_alt_assets_5_japanese.jpg?t=1793012900",
+      "has_key_store": false,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4209630/bace802cf4e227a6adf41470875cd4d654191585/header_japanese.jpg?t=1793056663",
       "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1737870/0aeb27b6d5d6bb1d6c78682e03b7467fad1b5a20/ss_0aeb27b6d5d6bb1d6c78682e03b7467fad1b5a20.600x338.jpg?t=1793012900",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1737870/af50ed15a2252417a2270595e9fda80173dbdb91/ss_af50ed15a2252417a2270595e9fda80173dbdb91.600x338.jpg?t=1793012900",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1737870/c7a181be725a556a88d73e36fc206f24862c0c6d/ss_c7a181be725a556a88d73e36fc206f24862c0c6d.600x338.jpg?t=1793012900"
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4209630/85769acf1a90af4909b8cf09d52e093709592c74/ss_85769acf1a90af4909b8cf09d52e093709592c74.600x338.jpg?t=1793056663",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4209630/f3c182efdc2db21428a3bb87dcf158d3f7ff3c35/ss_f3c182efdc2db21428a3bb87dcf158d3f7ff3c35.600x338.jpg?t=1793056663",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4209630/0a0bb8ed803537b4d368568229712132a38364bc/ss_0a0bb8ed803537b4d368568229712132a38364bc.600x338.jpg?t=1793056663"
       ],
-      "discount_percent": 35,
-      "initial_price": 2300,
-      "final_price": 1495,
-      "initial_formatted": "¥ 2,300",
-      "final_formatted": "¥ 1,495",
-      "review_desc": "非常に好評",
-      "positive_rate": 82,
-      "total_reviews": 3109,
-      "deal_score": 60,
+      "discount_percent": 40,
+      "initial_price": 800,
+      "final_price": 480,
+      "initial_formatted": "¥ 800",
+      "final_formatted": "¥ 480",
+      "review_desc": "やや好評",
+      "positive_rate": 79,
+      "total_reviews": 141,
+      "deal_score": 58,
       "genres": [
-        "アドベンチャー",
-        "カジュアル",
         "インディー",
-        "RPG"
+        "RPG",
+        "シミュレーション"
       ],
       "categories": [
         "シングルプレイヤー",
-        "DUALSHOCKコントローラーサポート",
-        "DUALSHOCKコントローラーサポート",
-        "DualSenseコントローラーサポート",
-        "DualSenseコントローラーサポート"
+        "ファミリーシェアリング"
       ],
       "release_date": "2026年10月26日",
       "supported_japanese": true,
-      "ai_overview": "スラヴの民間伝承に着想を得た、魔女の魔法とぬくもりに満ちた世界へ。霧に包まれた秋の森を旅しながら、歩く鶏の足小屋を建て、飾り付け、自分好みにカスタマイズしましょう。村人を助け、森の動物を手なずけ、偉大な魔女バーバ・ヤーガのもとで穏やかな魔法を学びましょう。",
+      "ai_overview": "ELbab（エルバブ）は無限に続く図書館をモチーフにした、ピクセルアート系ローグライトゲームです。マス目を選択し進んでいくダンジョン系ゲームのような進行で、ハクスラのビルド設計ツールをプレイするといったプレイフィールになっています。戦闘は全てオートバトルなので、コーヒーを飲みながら、動画を観ながら、はたまた他のゲームをプレイしながら、ビルド構築を楽しんでください。",
       "ai_pros": [
-        "コントローラー対応で快適に遊べる設計"
+        "インディー / RPG好きなら抑えておきたい注目作",
+        "要求スペックは軽め（ミドルクラスGPU目安）で幅広いPCで快適動作"
       ],
-      "ai_cons": [
-        "高負荷3Dグラフィック：快適プレイには「RTX 2060」以上のPC環境を推奨"
-      ],
+      "ai_cons": [],
       "picked_reviews": [],
-      "gpu_hint": "RTX 2060",
-      "has_controller": true,
-      "is_heavy_3d": true,
-      "steam_url": "https://store.steampowered.com/app/1737870/"
-    },
-    {
-      "appid": 3240220,
-      "name": "グランド・セフト・オートV エンハンスト",
-      "name_en": "Grand Theft Auto V Enhanced",
-      "publishers": [
-        "Rockstar Games"
-      ],
-      "has_key_store": false,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header_japanese.jpg?t=1781187782",
-      "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/d61184a98c1cf2db2b08b2999c04b0519e3615bb/ss_d61184a98c1cf2db2b08b2999c04b0519e3615bb.600x338.jpg?t=1781187782",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/8340fd391012e12be7e4c02e65801a2648a6b60e/ss_8340fd391012e12be7e4c02e65801a2648a6b60e.600x338.jpg?t=1781187782",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/f2e70b5823510daa062293ff0b03821e1dee2d37/ss_f2e70b5823510daa062293ff0b03821e1dee2d37.600x338.jpg?t=1781187782"
-      ],
-      "discount_percent": 50,
-      "initial_price": 4380,
-      "final_price": 2190,
-      "initial_formatted": "¥ 4,380",
-      "final_formatted": "¥ 2,190",
-      "review_desc": "やや好評",
-      "positive_rate": 73,
-      "total_reviews": 220542,
-      "deal_score": 59,
-      "genres": [
-        "アクション",
-        "アドベンチャー",
-        "レース"
-      ],
-      "categories": [
-        "シングルプレイヤー",
-        "マルチプレイヤー",
-        "PvP",
-        "オンラインPvP",
-        "協力プレイ"
-      ],
-      "release_date": "2025年3月4日",
-      "supported_japanese": true,
-      "ai_overview": "大ヒットの『グランド・セフト・オートV』と「GTAオンライン」を体験しよう - 新世代用に美麗なグラフィック、短縮されたロード時間、3Dオーディオなどのアップグレード。さらに、「GTAオンライン」プレイヤー用の限定コンテンツなど。",
-      "ai_pros": [
-        "オンライン協力プレイ対応で快適に遊べる設計"
-      ],
-      "ai_cons": [
-        "好みが分かれる作品（好評率73%）：ゲームシステムや難易度の事前確認を推奨",
-        "高負荷3Dグラフィック：快適プレイには「RTX 3060」以上のPC環境を推奨"
-      ],
-      "picked_reviews": [],
-      "gpu_hint": "RTX 3060",
-      "has_controller": true,
-      "is_heavy_3d": true,
-      "steam_url": "https://store.steampowered.com/app/3240220/"
+      "gpu_hint": "ミドルクラスGPU",
+      "has_controller": false,
+      "is_heavy_3d": false,
+      "steam_url": "https://store.steampowered.com/app/4209630/"
     },
     {
       "appid": 3839710,
@@ -686,7 +684,7 @@
       "final_formatted": "¥ 999",
       "review_desc": "賛否両論",
       "positive_rate": 54,
-      "total_reviews": 690614,
+      "total_reviews": 690729,
       "deal_score": 54,
       "genres": [
         "アクション"
@@ -715,29 +713,28 @@
       "steam_url": "https://store.steampowered.com/app/381210/"
     },
     {
-      "appid": 3845070,
-      "name": " 虚言審判",
-      "name_en": "Dupery: A Game of Solo Deduction",
+      "appid": 4704520,
+      "name": "ShredDead",
+      "name_en": "ShredDead",
       "publishers": [
-        "Yogscast Games",
-        "GamerSky Games"
+        "Weird Penguin Games"
       ],
-      "has_key_store": true,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3845070/97d1ed1ba272d34d951da38ad51b7ea5a73aae4c/header_alt_assets_1_japanese.jpg?t=1793011713",
+      "has_key_store": false,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704520/481c251d90942aa2a768de63a65dee1a508a91a7/header.jpg?t=1793034266",
       "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3845070/f30eea8a6314b35027f3cc571b68ad430c4e810d/ss_f30eea8a6314b35027f3cc571b68ad430c4e810d.600x338.jpg?t=1793011713",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3845070/d01162f12a93bcae6ddafc8a1ac05eb166db8baa/ss_d01162f12a93bcae6ddafc8a1ac05eb166db8baa.600x338.jpg?t=1793011713",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3845070/15acd32d61915b49bd09c846feb5b9f8440d5ffa/ss_15acd32d61915b49bd09c846feb5b9f8440d5ffa.600x338.jpg?t=1793011713"
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704520/9aa9497e719388780e90e0aca470bdd282c846a9/ss_9aa9497e719388780e90e0aca470bdd282c846a9.600x338.jpg?t=1793034266",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704520/5a892f56a10db3e1523809198539d8d987477c79/ss_5a892f56a10db3e1523809198539d8d987477c79.600x338.jpg?t=1793034266",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704520/fec04ecf422ef2949dd55e7e6b70ef73b33f2873/ss_fec04ecf422ef2949dd55e7e6b70ef73b33f2873.600x338.jpg?t=1793034266"
       ],
       "discount_percent": 20,
-      "initial_price": 2300,
-      "final_price": 1840,
-      "initial_formatted": "¥ 2,300",
-      "final_formatted": "¥ 1,840",
-      "review_desc": "非常に好評",
-      "positive_rate": 83,
-      "total_reviews": 722,
-      "deal_score": 50,
+      "initial_price": 790,
+      "final_price": 632,
+      "initial_formatted": "¥ 790",
+      "final_formatted": "¥ 632",
+      "review_desc": "やや好評",
+      "positive_rate": 78,
+      "total_reviews": 500,
+      "deal_score": 48,
       "genres": [
         "カジュアル",
         "インディー",
@@ -746,23 +743,23 @@
       "categories": [
         "シングルプレイヤー",
         "Steam実績",
-        "カメラの快適性",
-        "カスタム音量調整",
-        "難易度の調整"
+        "フルコントローラサポート",
+        "DUALSHOCKコントローラーサポート",
+        "DUALSHOCKコントローラーサポート"
       ],
-      "release_date": "2026年10月15日",
+      "release_date": "2026年10月26日",
       "supported_japanese": true,
-      "ai_overview": "恐るべきシンジケートが社会に潜り込んでいます。このローグライク推理ゲームで、事件を調査し、市民たちの証言に耳を傾け、集めた情報をもとに善と悪を見抜きましょう。 あなたはシンジケートの首領を暴くことができるでしょうか？ それとも、他の者たちと同じように騙されてしまうのでしょうか?",
+      "ai_overview": "ShredDead は、敗北条件なしで気楽に遊べる、ちょっと風変わりな放置系ゾンビ粉砕ゲーム。終わりなきウェーブを倒し、戦利品を集め、スキルツリーを成長させ、ゾンビを進化させよう。",
       "ai_pros": [
-        "カジュアル / インディー好きなら抑えておきたい注目作",
+        "フルコントローラー対応で快適に遊べる設計",
         "要求スペックは軽め（ミドルクラスGPU目安）で幅広いPCで快適動作"
       ],
       "ai_cons": [],
       "picked_reviews": [],
       "gpu_hint": "ミドルクラスGPU",
-      "has_controller": false,
+      "has_controller": true,
       "is_heavy_3d": false,
-      "steam_url": "https://store.steampowered.com/app/3845070/"
+      "steam_url": "https://store.steampowered.com/app/4704520/"
     },
     {
       "appid": 2246340,
@@ -785,7 +782,7 @@
       "final_formatted": "¥ 3,742",
       "review_desc": "やや不評",
       "positive_rate": 31,
-      "total_reviews": 203577,
+      "total_reviews": 203628,
       "deal_score": 35,
       "genres": [
         "アクション",

@@ -344,8 +344,9 @@ def translate_review_desc(desc):
     return mapping.get(desc, desc or "非常に好評")
 
 
-def calculate_deal_score(discount_pct, positive_rate, total_reviews):
-    """60点の下限ロックを廃止し、高評価×高割引は90点台、不評作は40点台になるリアルなスコア算出"""
+def calculate_deal_score(discount_pct, positive_rate, total_reviews, has_key_store=False):
+    """60点の下限ロックを廃止し、高評価×高割引は90点台、不評作は40点台になるリアルなスコア算出
+    ＋日本で公認キー購入可能なタイトルには収益化優遇ボーナスを付与"""
     if positive_rate < 50:
         # やや不評以下は割引率が高くてもスコアを抑える（信頼性確保）
         base = (discount_pct * 0.35) + (positive_rate * 0.65)
@@ -360,6 +361,10 @@ def calculate_deal_score(discount_pct, positive_rate, total_reviews):
             bonus = 6
         elif total_reviews >= 2000:
             bonus = 3
+
+    # 公認キーショップ取扱あり（おま国でない海外・インディー有力作）を少し優遇
+    if has_key_store and positive_rate >= 70:
+        bonus += 5
 
     return min(98, max(35, int(round(base + bonus))))
 
@@ -402,8 +407,6 @@ def build_deals_dataset():
             ai_analysis = analyze_reviews_and_game(
                 app_data, discount_pct, initial_price, final_price, positive_rate, total_reviews
             )
-            deal_score = calculate_deal_score(discount_pct, positive_rate, total_reviews)
-
             genres = [g.get("description", "") for g in app_data.get("genres", [])][:4]
             categories = [c.get("description", "") for c in app_data.get("categories", [])][:5]
             screenshots = [s.get("path_thumbnail", "") for s in app_data.get("screenshots", [])[:3]]
@@ -411,6 +414,7 @@ def build_deals_dataset():
             publishers = app_data.get("publishers", [])
             developers = app_data.get("developers", [])
             name_en, has_key_store = fetch_english_name_and_key_info(appid, name_ja, publishers, developers)
+            deal_score = calculate_deal_score(discount_pct, positive_rate, total_reviews, has_key_store)
 
             deals.append({
                 "appid": appid,
