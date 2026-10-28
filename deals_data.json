@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-28 04:31",
-  "total_count": 16,
+  "updated_at": "2026-10-29 04:33",
+  "total_count": 15,
   "affiliate": {
     "amazon_tag": "mugistick-22",
     "rakuten_id": "your-rakuten-id",
@@ -31,7 +31,7 @@
       "final_formatted": "¥ 997",
       "review_desc": "非常に好評",
       "positive_rate": 89,
-      "total_reviews": 192881,
+      "total_reviews": 193010,
       "deal_score": 86,
       "genres": [
         "アクション",
@@ -60,6 +60,51 @@
       "steam_url": "https://store.steampowered.com/app/2050650/"
     },
     {
+      "appid": 568220,
+      "name": "Lobotomy Corporation | Monster Management Simulation",
+      "name_en": "Lobotomy Corporation  Monster Management Simulation",
+      "publishers": [
+        "ProjectMoon"
+      ],
+      "has_key_store": false,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/568220/header.jpg?t=1636694188",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/568220/ss_7f8118a7b224505b397f481e8187fb647a3a42c6.600x338.jpg?t=1636694188",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/568220/ss_71db0d954dcec5585f201a781db6dac2df041b85.600x338.jpg?t=1636694188",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/568220/ss_1ca2f5995f459084b023233f2fa47e315185ce4f.600x338.jpg?t=1636694188"
+      ],
+      "discount_percent": 66,
+      "initial_price": 2570,
+      "final_price": 873,
+      "initial_formatted": "¥ 2,570",
+      "final_formatted": "¥ 873",
+      "review_desc": "非常に好評",
+      "positive_rate": 92,
+      "total_reviews": 53567,
+      "deal_score": 84,
+      "genres": [
+        "インディー",
+        "シミュレーション"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "ファミリーシェアリング"
+      ],
+      "release_date": "2018年4月9日",
+      "supported_japanese": true,
+      "ai_overview": "予測不能の怪物たち。プレイヤーはモンスターを収容しているロボトミー社の管理人となり、様々な種類のモンスターを管理していきます。プレイヤーは職員たちに命令し、その結果を観察していきます。怪物からのエネルギーを集めて設備を拡張し、より多くの怪物を管理します。",
+      "ai_pros": [
+        "インディー / シミュレーション好きなら抑えておきたい注目作",
+        "要求スペックは軽め（GTX 550目安）で幅広いPCで快適動作"
+      ],
+      "ai_cons": [],
+      "picked_reviews": [],
+      "gpu_hint": "GTX 550",
+      "has_controller": false,
+      "is_heavy_3d": false,
+      "steam_url": "https://store.steampowered.com/app/568220/"
+    },
+    {
       "appid": 251570,
       "name": "7 Days to Die",
       "name_en": "7 Days to Die",
@@ -67,11 +112,11 @@
         "The Fun Pimps Entertainment LLC"
       ],
       "has_key_store": true,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251570/header.jpg?t=1793041682",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251570/header.jpg?t=1793138252",
       "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251570/766ed3debfe7b894fbb5650aa89fa213fa254d5d/ss_766ed3debfe7b894fbb5650aa89fa213fa254d5d.600x338.jpg?t=1793041682",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251570/2d243d95de4989b37df448f29de123f0d662088c/ss_2d243d95de4989b37df448f29de123f0d662088c.600x338.jpg?t=1793041682",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251570/33edbeefc7f5ff8ccda4bda274b01eff84eb4eb8/ss_33edbeefc7f5ff8ccda4bda274b01eff84eb4eb8.600x338.jpg?t=1793041682"
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251570/766ed3debfe7b894fbb5650aa89fa213fa254d5d/ss_766ed3debfe7b894fbb5650aa89fa213fa254d5d.600x338.jpg?t=1793138252",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251570/2d243d95de4989b37df448f29de123f0d662088c/ss_2d243d95de4989b37df448f29de123f0d662088c.600x338.jpg?t=1793138252",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251570/33edbeefc7f5ff8ccda4bda274b01eff84eb4eb8/ss_33edbeefc7f5ff8ccda4bda274b01eff84eb4eb8.600x338.jpg?t=1793138252"
       ],
       "discount_percent": 45,
       "initial_price": 4900,
@@ -80,7 +125,7 @@
       "final_formatted": "¥ 2,695",
       "review_desc": "非常に好評",
       "positive_rate": 87,
-      "total_reviews": 280609,
+      "total_reviews": 280639,
       "deal_score": 77,
       "genres": [
         "アクション",
@@ -131,7 +176,7 @@
       "final_formatted": "¥ 480",
       "review_desc": "非常に好評",
       "positive_rate": 86,
-      "total_reviews": 8591,
+      "total_reviews": 8618,
       "deal_score": 73,
       "genres": [
         "アクション",
@@ -182,7 +227,7 @@
       "final_formatted": "¥ 780",
       "review_desc": "非常に好評",
       "positive_rate": 93,
-      "total_reviews": 346464,
+      "total_reviews": 346620,
       "deal_score": 70,
       "genres": [
         "アクション",
@@ -211,6 +256,56 @@
       "steam_url": "https://store.steampowered.com/app/3241660/"
     },
     {
+      "appid": 2190220,
+      "name": "東方ダンマクカグラ ファンタジア・ロスト",
+      "name_en": "Touhou Danmaku Kagura Phantasia Lost",
+      "publishers": [
+        "Alliance Arts"
+      ],
+      "has_key_store": false,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2190220/header_japanese.jpg?t=1784265916",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2190220/ss_342025fcb6dc2473d9b1e729e0ec475efe6024da.600x338.jpg?t=1784265916",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2190220/ss_3b89027fc1403cef9c62cbc3b6c5a201fe06ef0c.600x338.jpg?t=1784265916",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2190220/ss_3b2079262d66acc4505aa579b9d403ec380d657c.600x338.jpg?t=1784265916"
+      ],
+      "discount_percent": 50,
+      "initial_price": 2650,
+      "final_price": 1325,
+      "initial_formatted": "¥ 2,650",
+      "final_formatted": "¥ 1,325",
+      "review_desc": "非常に好評",
+      "positive_rate": 83,
+      "total_reviews": 2291,
+      "deal_score": 67,
+      "genres": [
+        "アクション",
+        "アドベンチャー",
+        "カジュアル",
+        "インディー"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "Steam実績",
+        "フルコントローラサポート",
+        "Steamクラウド",
+        "ファミリーシェアリング"
+      ],
+      "release_date": "2024年2月7日",
+      "supported_japanese": true,
+      "ai_overview": "「幻想郷が毀れたのは、君のせいなんだよーー」毀れた幻想郷の復興を目指し、霊夢の旅が始まる。 東方Projectの人気アレンジ楽曲や原曲をプレイ可能な公認二次創作リズムアクションゲーム。",
+      "ai_pros": [
+        "フルコントローラー対応・クラウドセーブ対応で快適に遊べる設計",
+        "要求スペックは軽め（ミドルクラスGPU目安）で幅広いPCで快適動作"
+      ],
+      "ai_cons": [],
+      "picked_reviews": [],
+      "gpu_hint": "ミドルクラスGPU",
+      "has_controller": true,
+      "is_heavy_3d": false,
+      "steam_url": "https://store.steampowered.com/app/2190220/"
+    },
+    {
       "appid": 881020,
       "name": "GRANBLUE FANTASY: Relink",
       "name_en": "Granblue Fantasy: Relink",
@@ -231,7 +326,7 @@
       "final_formatted": "¥ 2,904",
       "review_desc": "非常に好評",
       "positive_rate": 82,
-      "total_reviews": 41407,
+      "total_reviews": 41415,
       "deal_score": 65,
       "genres": [
         "アクション",
@@ -261,58 +356,6 @@
       "steam_url": "https://store.steampowered.com/app/881020/"
     },
     {
-      "appid": 1737870,
-      "name": "REKA",
-      "name_en": "REKA",
-      "publishers": [
-        "Fireshine Games",
-        "Shochiku"
-      ],
-      "has_key_store": true,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1737870/9042a11bc29c420fc324b62e763dd38c955f52c1/header_alt_assets_5_japanese.jpg?t=1793120469",
-      "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1737870/0aeb27b6d5d6bb1d6c78682e03b7467fad1b5a20/ss_0aeb27b6d5d6bb1d6c78682e03b7467fad1b5a20.600x338.jpg?t=1793120469",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1737870/af50ed15a2252417a2270595e9fda80173dbdb91/ss_af50ed15a2252417a2270595e9fda80173dbdb91.600x338.jpg?t=1793120469",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1737870/c7a181be725a556a88d73e36fc206f24862c0c6d/ss_c7a181be725a556a88d73e36fc206f24862c0c6d.600x338.jpg?t=1793120469"
-      ],
-      "discount_percent": 35,
-      "initial_price": 2300,
-      "final_price": 1495,
-      "initial_formatted": "¥ 2,300",
-      "final_formatted": "¥ 1,495",
-      "review_desc": "非常に好評",
-      "positive_rate": 82,
-      "total_reviews": 3143,
-      "deal_score": 65,
-      "genres": [
-        "アドベンチャー",
-        "カジュアル",
-        "インディー",
-        "RPG"
-      ],
-      "categories": [
-        "シングルプレイヤー",
-        "DUALSHOCKコントローラーサポート",
-        "DUALSHOCKコントローラーサポート",
-        "DualSenseコントローラーサポート",
-        "DualSenseコントローラーサポート"
-      ],
-      "release_date": "2026年10月26日",
-      "supported_japanese": true,
-      "ai_overview": "スラヴの民間伝承に着想を得た、魔女の魔法とぬくもりに満ちた世界へ。霧に包まれた秋の森を旅しながら、歩く鶏の足小屋を建て、飾り付け、自分好みにカスタマイズしましょう。村人を助け、森の動物を手なずけ、偉大な魔女バーバ・ヤーガのもとで穏やかな魔法を学びましょう。",
-      "ai_pros": [
-        "コントローラー対応で快適に遊べる設計"
-      ],
-      "ai_cons": [
-        "高負荷3Dグラフィック：快適プレイには「RTX 2060」以上のPC環境を推奨"
-      ],
-      "picked_reviews": [],
-      "gpu_hint": "RTX 2060",
-      "has_controller": true,
-      "is_heavy_3d": true,
-      "steam_url": "https://store.steampowered.com/app/1737870/"
-    },
-    {
       "appid": 3024130,
       "name": "どうぶつの町の食堂物語",
       "name_en": "PAO PAO",
@@ -332,8 +375,8 @@
       "initial_formatted": "¥ 2,100",
       "final_formatted": "¥ 1,260",
       "review_desc": "非常に好評",
-      "positive_rate": 93,
-      "total_reviews": 111,
+      "positive_rate": 91,
+      "total_reviews": 178,
       "deal_score": 64,
       "genres": [
         "アドベンチャー",
@@ -384,7 +427,7 @@
       "final_formatted": "¥ 6,293",
       "review_desc": "非常に好評",
       "positive_rate": 86,
-      "total_reviews": 109600,
+      "total_reviews": 109667,
       "deal_score": 64,
       "genres": [
         "アクション",
@@ -433,7 +476,7 @@
       "final_formatted": "¥ 2,300",
       "review_desc": "やや好評",
       "positive_rate": 77,
-      "total_reviews": 1177262,
+      "total_reviews": 1177426,
       "deal_score": 61,
       "genres": [
         "アクション",
@@ -485,7 +528,7 @@
       "final_formatted": "¥ 1,690",
       "review_desc": "賛否両論",
       "positive_rate": 53,
-      "total_reviews": 108910,
+      "total_reviews": 108952,
       "deal_score": 60,
       "genres": [
         "アクション",
@@ -515,52 +558,6 @@
       "has_controller": true,
       "is_heavy_3d": true,
       "steam_url": "https://store.steampowered.com/app/2399830/"
-    },
-    {
-      "appid": 4209630,
-      "name": "ELbab",
-      "name_en": "ELbab",
-      "publishers": [
-        "makz"
-      ],
-      "has_key_store": false,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4209630/bace802cf4e227a6adf41470875cd4d654191585/header_japanese.jpg?t=1793056663",
-      "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4209630/85769acf1a90af4909b8cf09d52e093709592c74/ss_85769acf1a90af4909b8cf09d52e093709592c74.600x338.jpg?t=1793056663",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4209630/f3c182efdc2db21428a3bb87dcf158d3f7ff3c35/ss_f3c182efdc2db21428a3bb87dcf158d3f7ff3c35.600x338.jpg?t=1793056663",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4209630/0a0bb8ed803537b4d368568229712132a38364bc/ss_0a0bb8ed803537b4d368568229712132a38364bc.600x338.jpg?t=1793056663"
-      ],
-      "discount_percent": 40,
-      "initial_price": 800,
-      "final_price": 480,
-      "initial_formatted": "¥ 800",
-      "final_formatted": "¥ 480",
-      "review_desc": "やや好評",
-      "positive_rate": 79,
-      "total_reviews": 141,
-      "deal_score": 58,
-      "genres": [
-        "インディー",
-        "RPG",
-        "シミュレーション"
-      ],
-      "categories": [
-        "シングルプレイヤー",
-        "ファミリーシェアリング"
-      ],
-      "release_date": "2026年10月26日",
-      "supported_japanese": true,
-      "ai_overview": "ELbab（エルバブ）は無限に続く図書館をモチーフにした、ピクセルアート系ローグライトゲームです。マス目を選択し進んでいくダンジョン系ゲームのような進行で、ハクスラのビルド設計ツールをプレイするといったプレイフィールになっています。戦闘は全てオートバトルなので、コーヒーを飲みながら、動画を観ながら、はたまた他のゲームをプレイしながら、ビルド構築を楽しんでください。",
-      "ai_pros": [
-        "インディー / RPG好きなら抑えておきたい注目作",
-        "要求スペックは軽め（ミドルクラスGPU目安）で幅広いPCで快適動作"
-      ],
-      "ai_cons": [],
-      "picked_reviews": [],
-      "gpu_hint": "ミドルクラスGPU",
-      "has_controller": false,
-      "is_heavy_3d": false,
-      "steam_url": "https://store.steampowered.com/app/4209630/"
     },
     {
       "appid": 3839710,
@@ -671,11 +668,11 @@
         "Behaviour Interactive Inc."
       ],
       "has_key_store": false,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/header.jpg?t=1793113581",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/header.jpg?t=1793202236",
       "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/5355ac410e985cac27f04b877280a984be4d28a6/ss_5355ac410e985cac27f04b877280a984be4d28a6.600x338.jpg?t=1793113581",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/76776660827b2b6b73afc4a506c1267462cc70ff/ss_76776660827b2b6b73afc4a506c1267462cc70ff.600x338.jpg?t=1793113581",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/141a099b39afb31b864e8eda9570c344ad0c70f5/ss_141a099b39afb31b864e8eda9570c344ad0c70f5.600x338.jpg?t=1793113581"
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/5355ac410e985cac27f04b877280a984be4d28a6/ss_5355ac410e985cac27f04b877280a984be4d28a6.600x338.jpg?t=1793202236",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/76776660827b2b6b73afc4a506c1267462cc70ff/ss_76776660827b2b6b73afc4a506c1267462cc70ff.600x338.jpg?t=1793202236",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/141a099b39afb31b864e8eda9570c344ad0c70f5/ss_141a099b39afb31b864e8eda9570c344ad0c70f5.600x338.jpg?t=1793202236"
       ],
       "discount_percent": 60,
       "initial_price": 2499,
@@ -684,7 +681,7 @@
       "final_formatted": "¥ 999",
       "review_desc": "賛否両論",
       "positive_rate": 54,
-      "total_reviews": 690778,
+      "total_reviews": 690986,
       "deal_score": 54,
       "genres": [
         "アクション"
@@ -713,55 +710,6 @@
       "steam_url": "https://store.steampowered.com/app/381210/"
     },
     {
-      "appid": 4704520,
-      "name": "ShredDead",
-      "name_en": "ShredDead",
-      "publishers": [
-        "Weird Penguin Games"
-      ],
-      "has_key_store": false,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704520/481c251d90942aa2a768de63a65dee1a508a91a7/header.jpg?t=1793034266",
-      "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704520/9aa9497e719388780e90e0aca470bdd282c846a9/ss_9aa9497e719388780e90e0aca470bdd282c846a9.600x338.jpg?t=1793034266",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704520/5a892f56a10db3e1523809198539d8d987477c79/ss_5a892f56a10db3e1523809198539d8d987477c79.600x338.jpg?t=1793034266",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704520/fec04ecf422ef2949dd55e7e6b70ef73b33f2873/ss_fec04ecf422ef2949dd55e7e6b70ef73b33f2873.600x338.jpg?t=1793034266"
-      ],
-      "discount_percent": 20,
-      "initial_price": 790,
-      "final_price": 632,
-      "initial_formatted": "¥ 790",
-      "final_formatted": "¥ 632",
-      "review_desc": "やや好評",
-      "positive_rate": 76,
-      "total_reviews": 115,
-      "deal_score": 47,
-      "genres": [
-        "カジュアル",
-        "インディー",
-        "ストラテジー"
-      ],
-      "categories": [
-        "シングルプレイヤー",
-        "Steam実績",
-        "フルコントローラサポート",
-        "DUALSHOCKコントローラーサポート",
-        "DUALSHOCKコントローラーサポート"
-      ],
-      "release_date": "2026年10月26日",
-      "supported_japanese": true,
-      "ai_overview": "ShredDead は、敗北条件なしで気楽に遊べる、ちょっと風変わりな放置系ゾンビ粉砕ゲーム。終わりなきウェーブを倒し、戦利品を集め、スキルツリーを成長させ、ゾンビを進化させよう。",
-      "ai_pros": [
-        "フルコントローラー対応で快適に遊べる設計",
-        "要求スペックは軽め（ミドルクラスGPU目安）で幅広いPCで快適動作"
-      ],
-      "ai_cons": [],
-      "picked_reviews": [],
-      "gpu_hint": "ミドルクラスGPU",
-      "has_controller": true,
-      "is_heavy_3d": false,
-      "steam_url": "https://store.steampowered.com/app/4704520/"
-    },
-    {
       "appid": 2246340,
       "name": "モンスターハンターワイルズ",
       "name_en": "Monster Hunter Wilds",
@@ -782,7 +730,7 @@
       "final_formatted": "¥ 3,742",
       "review_desc": "やや不評",
       "positive_rate": 31,
-      "total_reviews": 203638,
+      "total_reviews": 203688,
       "deal_score": 35,
       "genres": [
         "アクション",
