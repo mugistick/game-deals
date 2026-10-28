@@ -109,35 +109,39 @@ HTML_TEMPLATE = """<!DOCTYPE html>
   <meta name="twitter:image" content="__OG_IMAGE__" />
   <style>
     :root {
-      /* ベースカラー（コントラスト比4.5:1以上を確保したダークテーマ） */
-      --bg-main: #0b0f17;
-      --bg-card: #151c28;
-      --bg-card-top3: #182232;
-      --bg-panel: #1d2636;
-      --bg-subtle: #253042;
-      --border: #334155;
+      /* 夜の猫カフェ・焙煎珈琲テーマ（コントラスト比4.5:1以上を確保した温かみのあるダークブラウン） */
+      --bg-main: #18120e;
+      --bg-card: #241b15;
+      --bg-card-top3: #2e2118;
+      --bg-panel: #2d221b;
+      --bg-subtle: #382a21;
+      --border: #4e3b2e;
       --border-gold: #f59e0b;
-      --text-main: #f8fafc;
-      --text-body: #e2e8f0;
-      --text-sub: #cbd5e1;
-      --text-muted: #94a3b8;
+      --text-main: #fdf8f2;
+      --text-body: #efe5dc;
+      --text-sub: #d7c5b5;
+      --text-muted: #a8907d;
 
-      /* 色相の完全分離：
-         1. 緑色は「メイン購入ボタン」専用（他には一切使わない！）
-         2. 割引バッジは「ホットオレンジ/レッド」でセール感を演出
-         3. 高評価・メリットは「スカイブルー」で清潔感を演出
+      /* 色相の分離：
+         1. 緑色は「メイン購入ボタン」専用
+         2. 割引バッジは「ホットオレンジ/アンバー」
+         3. 高評価・メリットは暖色ブラウンに馴染む「ハニーゴールド/スカイ」
       */
       --cta-green: #10b981;
       --cta-green-dark: #059669;
-      --discount-bg: #ea580c;
-      --discount-border: #fb923c;
-      --good-blue: #38bdf8;
-      --warn-amber: #fbbf24;
+      --discount-bg: #d97706;
+      --discount-border: #fbbf24;
+      --good-blue: #fbbf24;
+      --warn-amber: #fb923c;
       --bad-red: #f87171;
     }
     * { box-sizing: border-box; margin: 0; padding: 0; }
     body {
-      background: radial-gradient(circle at top, #17253b 0%, var(--bg-main) 65%);
+      background-color: var(--bg-main);
+      background-image:
+        radial-gradient(circle at 18% 0%, rgba(217, 119, 6, 0.14) 0%, transparent 45%),
+        radial-gradient(circle at 85% 15%, rgba(180, 83, 9, 0.10) 0%, transparent 40%),
+        url("data:image/svg+xml,%3Csvg width='120' height='120' viewBox='0 0 120 120' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='%23d97706' fill-opacity='0.028'%3E%3Cellipse cx='30' cy='34' rx='5' ry='4'/%3E%3Ccircle cx='23' cy='27' r='2.2'/%3E%3Ccircle cx='28' cy='25' r='2.2'/%3E%3Ccircle cx='33' cy='25' r='2.2'/%3E%3Ccircle cx='37' cy='28' r='2.2'/%3E%3Cellipse cx='90' cy='94' rx='5' ry='4'/%3E%3Ccircle cx='83' cy='87' r='2.2'/%3E%3Ccircle cx='88' cy='85' r='2.2'/%3E%3Ccircle cx='93' cy='85' r='2.2'/%3E%3Ccircle cx='97' cy='88' r='2.2'/%3E%3C/g%3E%3C/svg%3E");
       color: var(--text-main);
       font-family: "Segoe UI", "Hiragino Kaku Gothic ProN", "Meiryo", sans-serif;
       line-height: 1.55;
@@ -148,8 +152,9 @@ HTML_TEMPLATE = """<!DOCTYPE html>
 
     /* Top Title Area */
     .top-banner {
-      background: rgba(11, 15, 23, 0.92);
+      background: rgba(24, 18, 14, 0.94);
       padding: 12px 20px 8px;
+      border-bottom: 1px solid rgba(245, 158, 11, 0.15);
     }
     .top-banner-inner {
       max-width: 1380px;
@@ -162,14 +167,25 @@ HTML_TEMPLATE = """<!DOCTYPE html>
     }
     .title-group {
       display: flex;
-      align-items: baseline;
+      align-items: center;
       gap: 12px;
       flex-wrap: wrap;
+    }
+    .cat-cafe-emblem {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      background: #2b1f17;
+      border: 1px solid rgba(245, 158, 11, 0.45);
+      border-radius: 10px;
+      padding: 4px 8px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+      flex-shrink: 0;
     }
     .top-banner h1 {
       font-size: 1.28rem;
       font-weight: 900;
-      color: #fff;
+      color: #fff8f0;
       letter-spacing: -0.01em;
     }
     .top-banner p {
@@ -191,8 +207,8 @@ HTML_TEMPLATE = """<!DOCTYPE html>
 
     /* Slim Sticky Bar (スマホではフィルタ1行のみをスリム固定し、検索・ソートはスクロールで自然に流す) */
     .non-sticky-controls {
-      background: #0e1420;
-      border-bottom: 1px solid rgba(51, 65, 85, 0.55);
+      background: #1e1611;
+      border-bottom: 1px solid rgba(78, 59, 46, 0.65);
       padding: 8px 20px;
     }
     .non-sticky-inner {
@@ -208,7 +224,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
       position: sticky;
       top: 0;
       z-index: 50;
-      background: rgba(11, 15, 23, 0.95);
+      background: rgba(24, 18, 14, 0.95);
       border-bottom: 1px solid var(--border);
       padding: 7px 20px;
       backdrop-filter: blur(10px);
@@ -245,9 +261,9 @@ HTML_TEMPLATE = """<!DOCTYPE html>
       flex-shrink: 0;
     }
     .filter-btn:hover, .filter-btn.active {
-      background: rgba(56, 189, 248, 0.2);
+      background: rgba(245, 158, 11, 0.22);
       border-color: var(--good-blue);
-      color: #fff;
+      color: #fff8f0;
     }
     .search-sort-group {
       display: flex;
@@ -257,7 +273,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
     }
     .input-box, .select-box {
       background: var(--bg-subtle);
-      border: 1px solid #475569;
+      border: 1px solid #634b3b;
       color: #fff;
       padding: 5px 12px;
       border-radius: 6px;
@@ -402,7 +418,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
       display: flex;
       align-items: center;
       gap: 8px;
-      background: rgba(15, 23, 42, 0.75);
+      background: rgba(24, 18, 14, 0.78);
       padding: 4px 9px 4px 7px;
       border-radius: 7px;
       border: 1px solid var(--border);
@@ -461,9 +477,9 @@ HTML_TEMPLATE = """<!DOCTYPE html>
       font-weight: 700;
       padding: 2px 9px;
       border-radius: 5px;
-      background: rgba(56, 189, 248, 0.14);
-      color: var(--good-blue);
-      border: 1px solid rgba(56, 189, 248, 0.4);
+      background: rgba(251, 191, 36, 0.14);
+      color: #fde68a;
+      border: 1px solid rgba(251, 191, 36, 0.38);
     }
     .review-pill.mixed {
       background: rgba(251, 191, 36, 0.15);
@@ -625,6 +641,10 @@ HTML_TEMPLATE = """<!DOCTYPE html>
       color: var(--good-blue);
       text-decoration: underline;
     }
+    footer a {
+      color: var(--good-blue);
+      text-decoration: underline;
+    }
   </style>
 </head>
 <body>
@@ -633,10 +653,29 @@ HTML_TEMPLATE = """<!DOCTYPE html>
   <div class="top-banner">
     <div class="top-banner-inner">
       <div class="title-group">
-        <h1>__SITE_TITLE__</h1>
-        <p>__SITE_SUBTITLE__</p>
+        <!-- さりげない夜の猫カフェ風ミニエンブレム（茶トラむぎ＆黒猫黒丸のシルエット） -->
+        <span class="cat-cafe-emblem" title="むぎStick">
+          <svg width="36" height="22" viewBox="0 0 36 22" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+            <!-- 左：茶トラむぎシルエット -->
+            <polygon points="4,9 2,2 9,6" fill="#e8a14b"/>
+            <polygon points="16,9 18,2 11,6" fill="#e8a14b"/>
+            <circle cx="10" cy="12" r="7.5" fill="#e8a14b"/>
+            <circle cx="7.5" cy="11.5" r="1.1" fill="#18120e"/>
+            <circle cx="12.5" cy="11.5" r="1.1" fill="#18120e"/>
+            <!-- 右：黒猫黒丸シルエット -->
+            <polygon points="20,10 18,3 25,7" fill="#120e0b" stroke="#a8907d" stroke-width="0.8"/>
+            <polygon points="32,10 34,3 27,7" fill="#120e0b" stroke="#a8907d" stroke-width="0.8"/>
+            <circle cx="26" cy="13" r="7" fill="#120e0b" stroke="#a8907d" stroke-width="0.8"/>
+            <circle cx="23.8" cy="12.5" r="1.1" fill="#fbbf24"/>
+            <circle cx="28.2" cy="12.5" r="1.1" fill="#fbbf24"/>
+          </svg>
+        </span>
+        <div>
+          <h1>__SITE_TITLE__</h1>
+          <p>__SITE_SUBTITLE__</p>
+        </div>
       </div>
-      <div class="badge-top">⚡ 自動収集＆AI解析 ｜ 最終更新: <span id="updatedAt"></span></div>
+      <div class="badge-top">🐾 自動収集＆AI解析 ｜ 最終更新: <span id="updatedAt"></span></div>
     </div>
   </div>
 
@@ -672,6 +711,14 @@ HTML_TEMPLATE = """<!DOCTYPE html>
   <main class="container">
     <div class="deals-grid" id="dealsGrid"></div>
   </main>
+
+<footer style="max-width:1200px;margin:40px auto 0;padding:24px 16px 40px;border-top:1px solid rgba(255,255,255,.15);font-size:13px;line-height:1.8;opacity:.85">
+  <p><strong>PCゲーム神セールAI調査団</strong>（運営：むぎStick）</p>
+  <p>当サイトはSteam（Valve Corporation）とは関係のない非公式のファンサイトです。価格・割引率・在庫状況は各販売ストアの情報をご確認ください。</p>
+  <p><strong>広告について：</strong>当サイトは、Amazonアソシエイト・プログラムをはじめとするアフィリエイトプログラムに参加しています。当サイトのリンクを経由して商品が購入された場合、サイト運営者に紹介料が支払われることがあります。リンク先の価格が変わることはありません。</p>
+  <p><strong>プライバシーについて：</strong>当サイトの公開にはGitHub Pagesを利用しており、ホスティング事業者やリンク先ストアがIPアドレス等を取得しCookieを使う場合があります。個人を特定する情報は収集しません。詳細は<a href="privacy.html">プライバシーポリシー</a>をご確認ください。</p>
+  <p><strong>お問い合わせ：</strong>Instagram（<a href="https://www.instagram.com/mugistick_games/">@mugistick_games</a>）のDMまでお願いします。</p>
+</footer>
 
   <script>
     const DEALS_DATA = __DEALS_JSON__;
@@ -849,7 +896,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
         const isTopPick = (currentFilter === "all" && !currentSearch && currentSort === "score" && idx < 3 && game.deal_score >= 75);
         const topPickClass = isTopPick ? "top-pick" : "";
         const topPickRibbon = isTopPick
-          ? `<div class="top-pick-ribbon">👑 本日の目玉セール TOP${idx + 1}（お得度 ${game.deal_score}点）</div>`
+          ? `<div class="top-pick-ribbon">🐾 本日の目玉セール TOP${idx + 1}（お得度 ${game.deal_score}点）</div>`
           : "";
 
         // 好評率の3段階カラー分け（75%以上:スカイブルー / 50〜74%:アンバー / 49%以下:レッド）
