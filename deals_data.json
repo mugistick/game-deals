@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29 04:33",
+  "updated_at": "2026-10-30 04:35",
   "total_count": 15,
   "affiliate": {
     "amazon_tag": "mugistick-22",
@@ -31,7 +31,7 @@
       "final_formatted": "¥ 997",
       "review_desc": "非常に好評",
       "positive_rate": 89,
-      "total_reviews": 193010,
+      "total_reviews": 193158,
       "deal_score": 86,
       "genres": [
         "アクション",
@@ -60,51 +60,6 @@
       "steam_url": "https://store.steampowered.com/app/2050650/"
     },
     {
-      "appid": 568220,
-      "name": "Lobotomy Corporation | Monster Management Simulation",
-      "name_en": "Lobotomy Corporation  Monster Management Simulation",
-      "publishers": [
-        "ProjectMoon"
-      ],
-      "has_key_store": false,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/568220/header.jpg?t=1636694188",
-      "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/568220/ss_7f8118a7b224505b397f481e8187fb647a3a42c6.600x338.jpg?t=1636694188",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/568220/ss_71db0d954dcec5585f201a781db6dac2df041b85.600x338.jpg?t=1636694188",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/568220/ss_1ca2f5995f459084b023233f2fa47e315185ce4f.600x338.jpg?t=1636694188"
-      ],
-      "discount_percent": 66,
-      "initial_price": 2570,
-      "final_price": 873,
-      "initial_formatted": "¥ 2,570",
-      "final_formatted": "¥ 873",
-      "review_desc": "非常に好評",
-      "positive_rate": 92,
-      "total_reviews": 53567,
-      "deal_score": 84,
-      "genres": [
-        "インディー",
-        "シミュレーション"
-      ],
-      "categories": [
-        "シングルプレイヤー",
-        "ファミリーシェアリング"
-      ],
-      "release_date": "2018年4月9日",
-      "supported_japanese": true,
-      "ai_overview": "予測不能の怪物たち。プレイヤーはモンスターを収容しているロボトミー社の管理人となり、様々な種類のモンスターを管理していきます。プレイヤーは職員たちに命令し、その結果を観察していきます。怪物からのエネルギーを集めて設備を拡張し、より多くの怪物を管理します。",
-      "ai_pros": [
-        "インディー / シミュレーション好きなら抑えておきたい注目作",
-        "要求スペックは軽め（GTX 550目安）で幅広いPCで快適動作"
-      ],
-      "ai_cons": [],
-      "picked_reviews": [],
-      "gpu_hint": "GTX 550",
-      "has_controller": false,
-      "is_heavy_3d": false,
-      "steam_url": "https://store.steampowered.com/app/568220/"
-    },
-    {
       "appid": 251570,
       "name": "7 Days to Die",
       "name_en": "7 Days to Die",
@@ -125,7 +80,7 @@
       "final_formatted": "¥ 2,695",
       "review_desc": "非常に好評",
       "positive_rate": 87,
-      "total_reviews": 280639,
+      "total_reviews": 280669,
       "deal_score": 77,
       "genres": [
         "アクション",
@@ -176,7 +131,7 @@
       "final_formatted": "¥ 480",
       "review_desc": "非常に好評",
       "positive_rate": 86,
-      "total_reviews": 8618,
+      "total_reviews": 8637,
       "deal_score": 73,
       "genres": [
         "アクション",
@@ -214,11 +169,11 @@
         "semiwork"
       ],
       "has_key_store": false,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/1ea445e044a2d5b09cfa8291350b63ebed6e5741/header.jpg?t=1791817973",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/62177765c05399116f0453fe1177b00ceed698c4/header_alt_assets_3.jpg?t=1793278962",
       "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/ss_e6babaab52581f81df91e50768cee6a9334ef6ec.600x338.jpg?t=1791817973",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/ss_af7d8d6302d543d89019bad49ea853a970bb82de.600x338.jpg?t=1791817973",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/ss_a66715d57329c456d91aeb11fbd406e7d8c5dbc7.600x338.jpg?t=1791817973"
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/ss_e6babaab52581f81df91e50768cee6a9334ef6ec.600x338.jpg?t=1793278962",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/ss_af7d8d6302d543d89019bad49ea853a970bb82de.600x338.jpg?t=1793278962",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/ss_a66715d57329c456d91aeb11fbd406e7d8c5dbc7.600x338.jpg?t=1793278962"
       ],
       "discount_percent": 35,
       "initial_price": 1200,
@@ -227,7 +182,7 @@
       "final_formatted": "¥ 780",
       "review_desc": "非常に好評",
       "positive_rate": 93,
-      "total_reviews": 346620,
+      "total_reviews": 346877,
       "deal_score": 70,
       "genres": [
         "アクション",
@@ -238,20 +193,19 @@
         "マルチプレイヤー",
         "協力プレイ",
         "オンライン協力プレイ",
-        "カメラの快適性"
+        "フルコントローラサポート"
       ],
       "release_date": "2025年2月26日",
-      "supported_japanese": false,
+      "supported_japanese": true,
       "ai_overview": "最大6人で遊べるオンライン協力ホラーゲーム。貴重な、完全に物理ベースのオブジェクトを見つけて、作成者の欲求を満たすために取得および抽出するときに慎重に扱います。",
       "ai_pros": [
-        "オンライン協力プレイ対応で快適に遊べる設計"
+        "フルコントローラー対応・オンライン協力プレイ対応で快適に遊べる設計",
+        "要求スペックは軽め（GTX 1070目安）で幅広いPCで快適動作"
       ],
-      "ai_cons": [
-        "公式ストア表記は日本語非対応（有志日本語化MOD等の有無を確認推奨）"
-      ],
+      "ai_cons": [],
       "picked_reviews": [],
       "gpu_hint": "GTX 1070",
-      "has_controller": false,
+      "has_controller": true,
       "is_heavy_3d": false,
       "steam_url": "https://store.steampowered.com/app/3241660/"
     },
@@ -276,7 +230,7 @@
       "final_formatted": "¥ 1,325",
       "review_desc": "非常に好評",
       "positive_rate": 83,
-      "total_reviews": 2291,
+      "total_reviews": 2292,
       "deal_score": 67,
       "genres": [
         "アクション",
@@ -326,7 +280,7 @@
       "final_formatted": "¥ 2,904",
       "review_desc": "非常に好評",
       "positive_rate": 82,
-      "total_reviews": 41415,
+      "total_reviews": 41419,
       "deal_score": 65,
       "genres": [
         "アクション",
@@ -356,57 +310,6 @@
       "steam_url": "https://store.steampowered.com/app/881020/"
     },
     {
-      "appid": 3024130,
-      "name": "どうぶつの町の食堂物語",
-      "name_en": "PAO PAO",
-      "publishers": [
-        "Dreland Enterprises"
-      ],
-      "has_key_store": false,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3024130/5f671fe085a76c645453ce8c473a258c2a12be2d/header_japanese.jpg?t=1793067220",
-      "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3024130/0603a7ea71645b98ad0b884db27ff3846fd0ce4e/ss_0603a7ea71645b98ad0b884db27ff3846fd0ce4e.600x338.jpg?t=1793067220",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3024130/7fd8562947f8f2efcbe36fc536c9d91d27a8632f/ss_7fd8562947f8f2efcbe36fc536c9d91d27a8632f.600x338.jpg?t=1793067220",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3024130/76f94a5a71f0ace04091872ef27ead0cf815db15/ss_76f94a5a71f0ace04091872ef27ead0cf815db15.600x338.jpg?t=1793067220"
-      ],
-      "discount_percent": 40,
-      "initial_price": 2100,
-      "final_price": 1260,
-      "initial_formatted": "¥ 2,100",
-      "final_formatted": "¥ 1,260",
-      "review_desc": "非常に好評",
-      "positive_rate": 91,
-      "total_reviews": 178,
-      "deal_score": 64,
-      "genres": [
-        "アドベンチャー",
-        "インディー",
-        "シミュレーション",
-        "早期アクセス"
-      ],
-      "categories": [
-        "シングルプレイヤー",
-        "マルチプレイヤー",
-        "協力プレイ",
-        "オンライン協力プレイ",
-        "クロスプラットフォームマルチプレイヤー"
-      ],
-      "release_date": "2026年10月26日",
-      "supported_japanese": true,
-      "ai_overview": "PAO PAOへようこそ！小さな幸せにあふれる、居心地のよい海辺の町を探索しましょう！ひとりでも、最大3人の友達と協力プレイでも楽しめます。おいしい料理を作り、釣りを楽しみ、作物を育て、海辺に自分だけの家を作りましょう。",
-      "ai_pros": [
-        "オンライン協力プレイ対応で快適に遊べる設計"
-      ],
-      "ai_cons": [
-        "高負荷3Dグラフィック：快適プレイには「RTX 3060」以上のPC環境を推奨"
-      ],
-      "picked_reviews": [],
-      "gpu_hint": "RTX 3060",
-      "has_controller": true,
-      "is_heavy_3d": true,
-      "steam_url": "https://store.steampowered.com/app/3024130/"
-    },
-    {
       "appid": 3764200,
       "name": "BIOHAZARD requiem",
       "name_en": "Resident Evil Requiem",
@@ -427,7 +330,7 @@
       "final_formatted": "¥ 6,293",
       "review_desc": "非常に好評",
       "positive_rate": 86,
-      "total_reviews": 109667,
+      "total_reviews": 109723,
       "deal_score": 64,
       "genres": [
         "アクション",
@@ -476,7 +379,7 @@
       "final_formatted": "¥ 2,300",
       "review_desc": "やや好評",
       "positive_rate": 77,
-      "total_reviews": 1177426,
+      "total_reviews": 1177621,
       "deal_score": 61,
       "genres": [
         "アクション",
@@ -515,11 +418,11 @@
         "Snail Games USA"
       ],
       "has_key_store": false,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/d934813ca531af0fce69fe36bc972f1c90d1aa19/header.jpg?t=1779293241",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/d934813ca531af0fce69fe36bc972f1c90d1aa19/header.jpg?t=1793226168",
       "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_44f74e86ebd6620a4f0a1f3f8ea97f73dc215e69.600x338.jpg?t=1779293241",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_65c0de5ced28281764990a299eb3926629b2863e.600x338.jpg?t=1779293241",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_0ce49e629369dbf9e8fba324667167568c05c66f.600x338.jpg?t=1779293241"
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_44f74e86ebd6620a4f0a1f3f8ea97f73dc215e69.600x338.jpg?t=1793226168",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_65c0de5ced28281764990a299eb3926629b2863e.600x338.jpg?t=1793226168",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_0ce49e629369dbf9e8fba324667167568c05c66f.600x338.jpg?t=1793226168"
       ],
       "discount_percent": 75,
       "initial_price": 6760,
@@ -528,7 +431,7 @@
       "final_formatted": "¥ 1,690",
       "review_desc": "賛否両論",
       "positive_rate": 53,
-      "total_reviews": 108952,
+      "total_reviews": 109065,
       "deal_score": 60,
       "genres": [
         "アクション",
@@ -558,6 +461,57 @@
       "has_controller": true,
       "is_heavy_3d": true,
       "steam_url": "https://store.steampowered.com/app/2399830/"
+    },
+    {
+      "appid": 3240220,
+      "name": "グランド・セフト・オートV エンハンスト",
+      "name_en": "Grand Theft Auto V Enhanced",
+      "publishers": [
+        "Rockstar Games"
+      ],
+      "has_key_store": false,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header_japanese.jpg?t=1781187782",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/d61184a98c1cf2db2b08b2999c04b0519e3615bb/ss_d61184a98c1cf2db2b08b2999c04b0519e3615bb.600x338.jpg?t=1781187782",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/8340fd391012e12be7e4c02e65801a2648a6b60e/ss_8340fd391012e12be7e4c02e65801a2648a6b60e.600x338.jpg?t=1781187782",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/f2e70b5823510daa062293ff0b03821e1dee2d37/ss_f2e70b5823510daa062293ff0b03821e1dee2d37.600x338.jpg?t=1781187782"
+      ],
+      "discount_percent": 50,
+      "initial_price": 4380,
+      "final_price": 2190,
+      "initial_formatted": "¥ 4,380",
+      "final_formatted": "¥ 2,190",
+      "review_desc": "やや好評",
+      "positive_rate": 73,
+      "total_reviews": 221187,
+      "deal_score": 59,
+      "genres": [
+        "アクション",
+        "アドベンチャー",
+        "レース"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "マルチプレイヤー",
+        "PvP",
+        "オンラインPvP",
+        "協力プレイ"
+      ],
+      "release_date": "2025年3月4日",
+      "supported_japanese": true,
+      "ai_overview": "大ヒットの『グランド・セフト・オートV』と「GTAオンライン」を体験しよう - 新世代用に美麗なグラフィック、短縮されたロード時間、3Dオーディオなどのアップグレード。さらに、「GTAオンライン」プレイヤー用の限定コンテンツなど。",
+      "ai_pros": [
+        "オンライン協力プレイ対応で快適に遊べる設計"
+      ],
+      "ai_cons": [
+        "好みが分かれる作品（好評率73%）：ゲームシステムや難易度の事前確認を推奨",
+        "高負荷3Dグラフィック：快適プレイには「RTX 3060」以上のPC環境を推奨"
+      ],
+      "picked_reviews": [],
+      "gpu_hint": "RTX 3060",
+      "has_controller": true,
+      "is_heavy_3d": true,
+      "steam_url": "https://store.steampowered.com/app/3240220/"
     },
     {
       "appid": 3839710,
@@ -661,6 +615,54 @@
       "steam_url": "https://store.steampowered.com/app/5321510/"
     },
     {
+      "appid": 3151270,
+      "name": "One Turn Kill",
+      "name_en": "One Turn Kill",
+      "publishers": [
+        "Waku Waku Games"
+      ],
+      "has_key_store": false,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3151270/header.jpg?t=1789439061",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3151270/c602d767568e0668733a4c849d6c9c3aab923510/ss_c602d767568e0668733a4c849d6c9c3aab923510.600x338.jpg?t=1789439061",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3151270/209cfaaef3b6054d629479cda4c566ac6f98ec70/ss_209cfaaef3b6054d629479cda4c566ac6f98ec70.600x338.jpg?t=1789439061",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3151270/2306e6002e473d5a79ab326554b0981e122f4f00/ss_2306e6002e473d5a79ab326554b0981e122f4f00.600x338.jpg?t=1789439061"
+      ],
+      "discount_percent": 20,
+      "initial_price": 1200,
+      "final_price": 960,
+      "initial_formatted": "¥ 1,200",
+      "final_formatted": "¥ 960",
+      "review_desc": "圧倒的に好評",
+      "positive_rate": 95,
+      "total_reviews": 1523,
+      "deal_score": 56,
+      "genres": [
+        "ストラテジー"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "Steam実績",
+        "カスタム音量調整",
+        "マウスのみのオプション",
+        "ファミリーシェアリング"
+      ],
+      "release_date": "2026年1月15日",
+      "supported_japanese": true,
+      "ai_overview": "「One Turn Kill」は、カードドローとデッキコントロールが勝負の鍵を握るPvE型カードゲームです。１ターンに制限されたバトルには、緊張感とカードを展開し続ける爽快感があります。ピクセルアートで描かれる荒廃した世界のなかで、主人公と共に強敵に立ち向かい、物語の結末を見届けましょう。",
+      "ai_pros": [
+        "ストラテジー好きなら抑えておきたい注目作"
+      ],
+      "ai_cons": [
+        "高負荷3Dグラフィック：快適プレイには「ミドルクラスGPU」以上のPC環境を推奨"
+      ],
+      "picked_reviews": [],
+      "gpu_hint": "ミドルクラスGPU",
+      "has_controller": false,
+      "is_heavy_3d": true,
+      "steam_url": "https://store.steampowered.com/app/3151270/"
+    },
+    {
       "appid": 381210,
       "name": "デッドバイデイライト",
       "name_en": "Dead by Daylight",
@@ -681,7 +683,7 @@
       "final_formatted": "¥ 999",
       "review_desc": "賛否両論",
       "positive_rate": 54,
-      "total_reviews": 690986,
+      "total_reviews": 691288,
       "deal_score": 54,
       "genres": [
         "アクション"
@@ -730,7 +732,7 @@
       "final_formatted": "¥ 3,742",
       "review_desc": "やや不評",
       "positive_rate": 31,
-      "total_reviews": 203688,
+      "total_reviews": 203722,
       "deal_score": 35,
       "genres": [
         "アクション",
