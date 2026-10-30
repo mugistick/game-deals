@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-30 04:35",
-  "total_count": 15,
+  "updated_at": "2026-10-31 04:33",
+  "total_count": 16,
   "affiliate": {
     "amazon_tag": "mugistick-22",
     "rakuten_id": "your-rakuten-id",
@@ -31,7 +31,7 @@
       "final_formatted": "¥ 997",
       "review_desc": "非常に好評",
       "positive_rate": 89,
-      "total_reviews": 193158,
+      "total_reviews": 193315,
       "deal_score": 86,
       "genres": [
         "アクション",
@@ -80,7 +80,7 @@
       "final_formatted": "¥ 2,695",
       "review_desc": "非常に好評",
       "positive_rate": 87,
-      "total_reviews": 280669,
+      "total_reviews": 280692,
       "deal_score": 77,
       "genres": [
         "アクション",
@@ -130,9 +130,9 @@
       "initial_formatted": "¥ 1,200",
       "final_formatted": "¥ 480",
       "review_desc": "非常に好評",
-      "positive_rate": 86,
-      "total_reviews": 8637,
-      "deal_score": 73,
+      "positive_rate": 85,
+      "total_reviews": 8655,
+      "deal_score": 72,
       "genres": [
         "アクション",
         "アドベンチャー",
@@ -162,6 +162,55 @@
       "steam_url": "https://store.steampowered.com/app/2827200/"
     },
     {
+      "appid": 1477590,
+      "name": "EZ2ON REBOOT : R",
+      "name_en": "EZ2ON REBOOT : R",
+      "publishers": [
+        "Neonovice Co., Ltd."
+      ],
+      "has_key_store": false,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1477590/086013aa26296d382101d15acd8ec2208212ab6c/header.jpg?t=1793356000",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1477590/ss_bd0b9e6a48c44ce7abbb1220544424c024ea475f.600x338.jpg?t=1793356000",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1477590/ss_2668267325cae2a814f93cd4fc37604a9d0417ca.600x338.jpg?t=1793356000",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1477590/ss_de8cf27969eb9ff91a9ef5e033db208c3838a271.600x338.jpg?t=1793356000"
+      ],
+      "discount_percent": 50,
+      "initial_price": 4750,
+      "final_price": 2375,
+      "initial_formatted": "¥ 4,750",
+      "final_formatted": "¥ 2,375",
+      "review_desc": "非常に好評",
+      "positive_rate": 91,
+      "total_reviews": 6015,
+      "deal_score": 71,
+      "genres": [
+        "アクション",
+        "カジュアル",
+        "スポーツ"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "マルチプレイヤー",
+        "PvP",
+        "オンラインPvP",
+        "協力プレイ"
+      ],
+      "release_date": "2022年4月14日",
+      "supported_japanese": true,
+      "ai_overview": "EZ2ON REBOOT : R - 有名音楽ゲームのシリーズ「EZ2ON」の最新作がSteamで発売されます！ シリーズを網羅する名曲をプレーしながら、EZ2ONならではの楽しさを味わってみてください。",
+      "ai_pros": [
+        "オンライン協力プレイ対応で快適に遊べる設計",
+        "要求スペックは軽め（ミドルクラスGPU目安）で幅広いPCで快適動作"
+      ],
+      "ai_cons": [],
+      "picked_reviews": [],
+      "gpu_hint": "ミドルクラスGPU",
+      "has_controller": true,
+      "is_heavy_3d": false,
+      "steam_url": "https://store.steampowered.com/app/1477590/"
+    },
+    {
       "appid": 3241660,
       "name": "R.E.P.O.",
       "name_en": "R.E.P.O.",
@@ -182,7 +231,7 @@
       "final_formatted": "¥ 780",
       "review_desc": "非常に好評",
       "positive_rate": 93,
-      "total_reviews": 346877,
+      "total_reviews": 347274,
       "deal_score": 70,
       "genres": [
         "アクション",
@@ -217,11 +266,11 @@
         "Alliance Arts"
       ],
       "has_key_store": false,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2190220/header_japanese.jpg?t=1784265916",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2190220/header_japanese.jpg?t=1793351533",
       "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2190220/ss_342025fcb6dc2473d9b1e729e0ec475efe6024da.600x338.jpg?t=1784265916",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2190220/ss_3b89027fc1403cef9c62cbc3b6c5a201fe06ef0c.600x338.jpg?t=1784265916",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2190220/ss_3b2079262d66acc4505aa579b9d403ec380d657c.600x338.jpg?t=1784265916"
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2190220/ss_342025fcb6dc2473d9b1e729e0ec475efe6024da.600x338.jpg?t=1793351533",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2190220/ss_3b89027fc1403cef9c62cbc3b6c5a201fe06ef0c.600x338.jpg?t=1793351533",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2190220/ss_3b2079262d66acc4505aa579b9d403ec380d657c.600x338.jpg?t=1793351533"
       ],
       "discount_percent": 50,
       "initial_price": 2650,
@@ -230,7 +279,7 @@
       "final_formatted": "¥ 1,325",
       "review_desc": "非常に好評",
       "positive_rate": 83,
-      "total_reviews": 2292,
+      "total_reviews": 2294,
       "deal_score": 67,
       "genres": [
         "アクション",
@@ -280,7 +329,7 @@
       "final_formatted": "¥ 2,904",
       "review_desc": "非常に好評",
       "positive_rate": 82,
-      "total_reviews": 41419,
+      "total_reviews": 41431,
       "deal_score": 65,
       "genres": [
         "アクション",
@@ -310,6 +359,55 @@
       "steam_url": "https://store.steampowered.com/app/881020/"
     },
     {
+      "appid": 648800,
+      "name": "Raft",
+      "name_en": "Raft",
+      "publishers": [
+        "Axolot Games"
+      ],
+      "has_key_store": false,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/648800/header.jpg?t=1727184011",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/648800/ss_c22b2ff5ba5609f74e61b5feaa5b7a1d7fd1dbd3.600x338.jpg?t=1727184011",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/648800/ss_2adb248f4d501cf58344d9af1d8a9e56c74647ee.600x338.jpg?t=1727184011",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/648800/ss_56914c026da8c8411974bd0e2e8cb81a0331ba99.600x338.jpg?t=1727184011"
+      ],
+      "discount_percent": 33,
+      "initial_price": 2600,
+      "final_price": 1742,
+      "initial_formatted": "¥ 2,600",
+      "final_formatted": "¥ 1,742",
+      "review_desc": "非常に好評",
+      "positive_rate": 83,
+      "total_reviews": 325057,
+      "deal_score": 64,
+      "genres": [
+        "アドベンチャー",
+        "インディー",
+        "シミュレーション"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "マルチプレイヤー",
+        "協力プレイ",
+        "オンライン協力プレイ",
+        "Steam実績"
+      ],
+      "release_date": "2022年6月20日",
+      "supported_japanese": true,
+      "ai_overview": "Raft™ は、あなたと友達を壮大な海洋冒険に誘います。プレイヤーは一人で、または一緒に、広大な海を渡る危険な航海を生き残るために戦います。瓦礫を集め、サンゴ礁をあさり、自分だけの水上家を建てましょう。ただし、人食いサメには気をつけてください!",
+      "ai_pros": [
+        "オンライン協力プレイ対応で快適に遊べる設計",
+        "要求スペックは軽め（GTX 1050目安）で幅広いPCで快適動作"
+      ],
+      "ai_cons": [],
+      "picked_reviews": [],
+      "gpu_hint": "GTX 1050",
+      "has_controller": false,
+      "is_heavy_3d": false,
+      "steam_url": "https://store.steampowered.com/app/648800/"
+    },
+    {
       "appid": 3764200,
       "name": "BIOHAZARD requiem",
       "name_en": "Resident Evil Requiem",
@@ -330,7 +428,7 @@
       "final_formatted": "¥ 6,293",
       "review_desc": "非常に好評",
       "positive_rate": 86,
-      "total_reviews": 109723,
+      "total_reviews": 109789,
       "deal_score": 64,
       "genres": [
         "アクション",
@@ -379,7 +477,7 @@
       "final_formatted": "¥ 2,300",
       "review_desc": "やや好評",
       "positive_rate": 77,
-      "total_reviews": 1177621,
+      "total_reviews": 1177846,
       "deal_score": 61,
       "genres": [
         "アクション",
@@ -431,7 +529,7 @@
       "final_formatted": "¥ 1,690",
       "review_desc": "賛否両論",
       "positive_rate": 53,
-      "total_reviews": 109065,
+      "total_reviews": 109136,
       "deal_score": 60,
       "genres": [
         "アクション",
@@ -463,6 +561,55 @@
       "steam_url": "https://store.steampowered.com/app/2399830/"
     },
     {
+      "appid": 2362060,
+      "name": "CODE VEIN II",
+      "name_en": "CODE VEIN II",
+      "publishers": [
+        "Bandai Namco Entertainment Inc."
+      ],
+      "has_key_store": false,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2362060/080d9c431059b2151673d9e8605f238a1730187e/header_japanese.jpg?t=1790931038",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2362060/164032cfc179a005dcc601c2ba11e29faa407cf1/ss_164032cfc179a005dcc601c2ba11e29faa407cf1.600x338.jpg?t=1790931038",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2362060/ec1065b1ff496d896979cac644ff64b290ae7f94/ss_ec1065b1ff496d896979cac644ff64b290ae7f94.600x338.jpg?t=1790931038",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2362060/4d2af6716a9183c97ab6cee278b40f52f88bf414/ss_4d2af6716a9183c97ab6cee278b40f52f88bf414.600x338.jpg?t=1790931038"
+      ],
+      "discount_percent": 50,
+      "initial_price": 8910,
+      "final_price": 4455,
+      "initial_formatted": "¥ 8,910",
+      "final_formatted": "¥ 4,455",
+      "review_desc": "やや好評",
+      "positive_rate": 76,
+      "total_reviews": 5560,
+      "deal_score": 60,
+      "genres": [
+        "アクション",
+        "RPG"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "Steam実績",
+        "フルコントローラサポート",
+        "Steamトレーディングカード",
+        "ゲームパッド推奨"
+      ],
+      "release_date": "2026年1月29日",
+      "supported_japanese": true,
+      "ai_overview": "バディと共に世界を探索し、強大な吸血鬼との死闘と時間を越えた壮大な物語が待ち受ける「ドラマティック探索アクションRPG」",
+      "ai_pros": [
+        "フルコントローラー対応で快適に遊べる設計"
+      ],
+      "ai_cons": [
+        "高負荷3Dグラフィック：快適プレイには「RTX 3080」以上のPC環境を推奨"
+      ],
+      "picked_reviews": [],
+      "gpu_hint": "RTX 3080",
+      "has_controller": true,
+      "is_heavy_3d": true,
+      "steam_url": "https://store.steampowered.com/app/2362060/"
+    },
+    {
       "appid": 3240220,
       "name": "グランド・セフト・オートV エンハンスト",
       "name_en": "Grand Theft Auto V Enhanced",
@@ -483,7 +630,7 @@
       "final_formatted": "¥ 2,190",
       "review_desc": "やや好評",
       "positive_rate": 73,
-      "total_reviews": 221187,
+      "total_reviews": 221419,
       "deal_score": 59,
       "genres": [
         "アクション",
@@ -512,56 +659,6 @@
       "has_controller": true,
       "is_heavy_3d": true,
       "steam_url": "https://store.steampowered.com/app/3240220/"
-    },
-    {
-      "appid": 3839710,
-      "name": "Winning Post 10 2026",
-      "name_en": "Winning Post 10 2026",
-      "publishers": [
-        "KOEI TECMO GAMES CO., LTD."
-      ],
-      "has_key_store": false,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3839710/f35e3fc43f40a4a68b7693c2192d018200d1b0c5/header.jpg?t=1775696416",
-      "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3839710/6d60d91d6aa679e0c2dc33495f3b2076289c6d56/ss_6d60d91d6aa679e0c2dc33495f3b2076289c6d56.600x338.jpg?t=1775696416",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3839710/fb9d8622b73234b5caab05a3c34c2620ff2f81ed/ss_fb9d8622b73234b5caab05a3c34c2620ff2f81ed.600x338.jpg?t=1775696416",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3839710/a3443c255fc63d3bea910323beeef44d40d3f646/ss_a3443c255fc63d3bea910323beeef44d40d3f646.600x338.jpg?t=1775696416"
-      ],
-      "discount_percent": 36,
-      "initial_price": 10780,
-      "final_price": 6899,
-      "initial_formatted": "¥ 10,780",
-      "final_formatted": "¥ 6,899",
-      "review_desc": "非常に好評",
-      "positive_rate": 82,
-      "total_reviews": 500,
-      "deal_score": 57,
-      "genres": [
-        "レース",
-        "シミュレーション",
-        "スポーツ"
-      ],
-      "categories": [
-        "シングルプレイヤー",
-        "Steam実績",
-        "フルコントローラサポート",
-        "Steamトレーディングカード",
-        "アプリ内購入"
-      ],
-      "release_date": "2026年3月25日",
-      "supported_japanese": true,
-      "ai_overview": "その蹄跡を、歴史に刻め。競馬シミュレーションゲーム「ウイニングポスト」シリーズの最新作『Winning Post 10 2026』！オーナーブリーダーとなり、競馬世界に生きる馬や人々とのドラマを体験せよ。",
-      "ai_pros": [
-        "フルコントローラー対応で快適に遊べる設計"
-      ],
-      "ai_cons": [
-        "高負荷3Dグラフィック：快適プレイには「GTX 1660」以上のPC環境を推奨"
-      ],
-      "picked_reviews": [],
-      "gpu_hint": "GTX 1660",
-      "has_controller": true,
-      "is_heavy_3d": true,
-      "steam_url": "https://store.steampowered.com/app/3839710/"
     },
     {
       "appid": 5321510,
@@ -615,54 +712,6 @@
       "steam_url": "https://store.steampowered.com/app/5321510/"
     },
     {
-      "appid": 3151270,
-      "name": "One Turn Kill",
-      "name_en": "One Turn Kill",
-      "publishers": [
-        "Waku Waku Games"
-      ],
-      "has_key_store": false,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3151270/header.jpg?t=1789439061",
-      "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3151270/c602d767568e0668733a4c849d6c9c3aab923510/ss_c602d767568e0668733a4c849d6c9c3aab923510.600x338.jpg?t=1789439061",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3151270/209cfaaef3b6054d629479cda4c566ac6f98ec70/ss_209cfaaef3b6054d629479cda4c566ac6f98ec70.600x338.jpg?t=1789439061",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3151270/2306e6002e473d5a79ab326554b0981e122f4f00/ss_2306e6002e473d5a79ab326554b0981e122f4f00.600x338.jpg?t=1789439061"
-      ],
-      "discount_percent": 20,
-      "initial_price": 1200,
-      "final_price": 960,
-      "initial_formatted": "¥ 1,200",
-      "final_formatted": "¥ 960",
-      "review_desc": "圧倒的に好評",
-      "positive_rate": 95,
-      "total_reviews": 1523,
-      "deal_score": 56,
-      "genres": [
-        "ストラテジー"
-      ],
-      "categories": [
-        "シングルプレイヤー",
-        "Steam実績",
-        "カスタム音量調整",
-        "マウスのみのオプション",
-        "ファミリーシェアリング"
-      ],
-      "release_date": "2026年1月15日",
-      "supported_japanese": true,
-      "ai_overview": "「One Turn Kill」は、カードドローとデッキコントロールが勝負の鍵を握るPvE型カードゲームです。１ターンに制限されたバトルには、緊張感とカードを展開し続ける爽快感があります。ピクセルアートで描かれる荒廃した世界のなかで、主人公と共に強敵に立ち向かい、物語の結末を見届けましょう。",
-      "ai_pros": [
-        "ストラテジー好きなら抑えておきたい注目作"
-      ],
-      "ai_cons": [
-        "高負荷3Dグラフィック：快適プレイには「ミドルクラスGPU」以上のPC環境を推奨"
-      ],
-      "picked_reviews": [],
-      "gpu_hint": "ミドルクラスGPU",
-      "has_controller": false,
-      "is_heavy_3d": true,
-      "steam_url": "https://store.steampowered.com/app/3151270/"
-    },
-    {
       "appid": 381210,
       "name": "デッドバイデイライト",
       "name_en": "Dead by Daylight",
@@ -683,7 +732,7 @@
       "final_formatted": "¥ 999",
       "review_desc": "賛否両論",
       "positive_rate": 54,
-      "total_reviews": 691288,
+      "total_reviews": 691522,
       "deal_score": 54,
       "genres": [
         "アクション"
@@ -732,7 +781,7 @@
       "final_formatted": "¥ 3,742",
       "review_desc": "やや不評",
       "positive_rate": 31,
-      "total_reviews": 203722,
+      "total_reviews": 203747,
       "deal_score": 35,
       "genres": [
         "アクション",
