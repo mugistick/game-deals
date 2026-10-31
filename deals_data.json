@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31 04:33",
+  "updated_at": "2026-11-01 04:26",
   "total_count": 16,
   "affiliate": {
     "amazon_tag": "mugistick-22",
@@ -31,7 +31,7 @@
       "final_formatted": "¥ 997",
       "review_desc": "非常に好評",
       "positive_rate": 89,
-      "total_reviews": 193315,
+      "total_reviews": 193514,
       "deal_score": 86,
       "genres": [
         "アクション",
@@ -80,7 +80,7 @@
       "final_formatted": "¥ 2,695",
       "review_desc": "非常に好評",
       "positive_rate": 87,
-      "total_reviews": 280692,
+      "total_reviews": 280731,
       "deal_score": 77,
       "genres": [
         "アクション",
@@ -131,7 +131,7 @@
       "final_formatted": "¥ 480",
       "review_desc": "非常に好評",
       "positive_rate": 85,
-      "total_reviews": 8655,
+      "total_reviews": 8671,
       "deal_score": 72,
       "genres": [
         "アクション",
@@ -162,55 +162,6 @@
       "steam_url": "https://store.steampowered.com/app/2827200/"
     },
     {
-      "appid": 1477590,
-      "name": "EZ2ON REBOOT : R",
-      "name_en": "EZ2ON REBOOT : R",
-      "publishers": [
-        "Neonovice Co., Ltd."
-      ],
-      "has_key_store": false,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1477590/086013aa26296d382101d15acd8ec2208212ab6c/header.jpg?t=1793356000",
-      "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1477590/ss_bd0b9e6a48c44ce7abbb1220544424c024ea475f.600x338.jpg?t=1793356000",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1477590/ss_2668267325cae2a814f93cd4fc37604a9d0417ca.600x338.jpg?t=1793356000",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1477590/ss_de8cf27969eb9ff91a9ef5e033db208c3838a271.600x338.jpg?t=1793356000"
-      ],
-      "discount_percent": 50,
-      "initial_price": 4750,
-      "final_price": 2375,
-      "initial_formatted": "¥ 4,750",
-      "final_formatted": "¥ 2,375",
-      "review_desc": "非常に好評",
-      "positive_rate": 91,
-      "total_reviews": 6015,
-      "deal_score": 71,
-      "genres": [
-        "アクション",
-        "カジュアル",
-        "スポーツ"
-      ],
-      "categories": [
-        "シングルプレイヤー",
-        "マルチプレイヤー",
-        "PvP",
-        "オンラインPvP",
-        "協力プレイ"
-      ],
-      "release_date": "2022年4月14日",
-      "supported_japanese": true,
-      "ai_overview": "EZ2ON REBOOT : R - 有名音楽ゲームのシリーズ「EZ2ON」の最新作がSteamで発売されます！ シリーズを網羅する名曲をプレーしながら、EZ2ONならではの楽しさを味わってみてください。",
-      "ai_pros": [
-        "オンライン協力プレイ対応で快適に遊べる設計",
-        "要求スペックは軽め（ミドルクラスGPU目安）で幅広いPCで快適動作"
-      ],
-      "ai_cons": [],
-      "picked_reviews": [],
-      "gpu_hint": "ミドルクラスGPU",
-      "has_controller": true,
-      "is_heavy_3d": false,
-      "steam_url": "https://store.steampowered.com/app/1477590/"
-    },
-    {
       "appid": 3241660,
       "name": "R.E.P.O.",
       "name_en": "R.E.P.O.",
@@ -231,7 +182,7 @@
       "final_formatted": "¥ 780",
       "review_desc": "非常に好評",
       "positive_rate": 93,
-      "total_reviews": 347274,
+      "total_reviews": 347627,
       "deal_score": 70,
       "genres": [
         "アクション",
@@ -329,7 +280,7 @@
       "final_formatted": "¥ 2,904",
       "review_desc": "非常に好評",
       "positive_rate": 82,
-      "total_reviews": 41431,
+      "total_reviews": 41443,
       "deal_score": 65,
       "genres": [
         "アクション",
@@ -379,7 +330,7 @@
       "final_formatted": "¥ 1,742",
       "review_desc": "非常に好評",
       "positive_rate": 83,
-      "total_reviews": 325057,
+      "total_reviews": 325134,
       "deal_score": 64,
       "genres": [
         "アドベンチャー",
@@ -428,7 +379,7 @@
       "final_formatted": "¥ 6,293",
       "review_desc": "非常に好評",
       "positive_rate": 86,
-      "total_reviews": 109789,
+      "total_reviews": 109855,
       "deal_score": 64,
       "genres": [
         "アクション",
@@ -477,7 +428,7 @@
       "final_formatted": "¥ 2,300",
       "review_desc": "やや好評",
       "positive_rate": 77,
-      "total_reviews": 1177846,
+      "total_reviews": 1178069,
       "deal_score": 61,
       "genres": [
         "アクション",
@@ -529,7 +480,7 @@
       "final_formatted": "¥ 1,690",
       "review_desc": "賛否両論",
       "positive_rate": 53,
-      "total_reviews": 109136,
+      "total_reviews": 109194,
       "deal_score": 60,
       "genres": [
         "アクション",
@@ -580,8 +531,8 @@
       "initial_formatted": "¥ 8,910",
       "final_formatted": "¥ 4,455",
       "review_desc": "やや好評",
-      "positive_rate": 76,
-      "total_reviews": 5560,
+      "positive_rate": 75,
+      "total_reviews": 5566,
       "deal_score": 60,
       "genres": [
         "アクション",
@@ -610,106 +561,54 @@
       "steam_url": "https://store.steampowered.com/app/2362060/"
     },
     {
-      "appid": 3240220,
-      "name": "グランド・セフト・オートV エンハンスト",
-      "name_en": "Grand Theft Auto V Enhanced",
+      "appid": 3839710,
+      "name": "Winning Post 10 2026",
+      "name_en": "Winning Post 10 2026",
       "publishers": [
-        "Rockstar Games"
+        "KOEI TECMO GAMES CO., LTD."
       ],
       "has_key_store": false,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header_japanese.jpg?t=1781187782",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3839710/f35e3fc43f40a4a68b7693c2192d018200d1b0c5/header.jpg?t=1775696416",
       "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/d61184a98c1cf2db2b08b2999c04b0519e3615bb/ss_d61184a98c1cf2db2b08b2999c04b0519e3615bb.600x338.jpg?t=1781187782",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/8340fd391012e12be7e4c02e65801a2648a6b60e/ss_8340fd391012e12be7e4c02e65801a2648a6b60e.600x338.jpg?t=1781187782",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/f2e70b5823510daa062293ff0b03821e1dee2d37/ss_f2e70b5823510daa062293ff0b03821e1dee2d37.600x338.jpg?t=1781187782"
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3839710/6d60d91d6aa679e0c2dc33495f3b2076289c6d56/ss_6d60d91d6aa679e0c2dc33495f3b2076289c6d56.600x338.jpg?t=1775696416",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3839710/fb9d8622b73234b5caab05a3c34c2620ff2f81ed/ss_fb9d8622b73234b5caab05a3c34c2620ff2f81ed.600x338.jpg?t=1775696416",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3839710/a3443c255fc63d3bea910323beeef44d40d3f646/ss_a3443c255fc63d3bea910323beeef44d40d3f646.600x338.jpg?t=1775696416"
       ],
-      "discount_percent": 50,
-      "initial_price": 4380,
-      "final_price": 2190,
-      "initial_formatted": "¥ 4,380",
-      "final_formatted": "¥ 2,190",
-      "review_desc": "やや好評",
-      "positive_rate": 73,
-      "total_reviews": 221419,
-      "deal_score": 59,
-      "genres": [
-        "アクション",
-        "アドベンチャー",
-        "レース"
-      ],
-      "categories": [
-        "シングルプレイヤー",
-        "マルチプレイヤー",
-        "PvP",
-        "オンラインPvP",
-        "協力プレイ"
-      ],
-      "release_date": "2025年3月4日",
-      "supported_japanese": true,
-      "ai_overview": "大ヒットの『グランド・セフト・オートV』と「GTAオンライン」を体験しよう - 新世代用に美麗なグラフィック、短縮されたロード時間、3Dオーディオなどのアップグレード。さらに、「GTAオンライン」プレイヤー用の限定コンテンツなど。",
-      "ai_pros": [
-        "オンライン協力プレイ対応で快適に遊べる設計"
-      ],
-      "ai_cons": [
-        "好みが分かれる作品（好評率73%）：ゲームシステムや難易度の事前確認を推奨",
-        "高負荷3Dグラフィック：快適プレイには「RTX 3060」以上のPC環境を推奨"
-      ],
-      "picked_reviews": [],
-      "gpu_hint": "RTX 3060",
-      "has_controller": true,
-      "is_heavy_3d": true,
-      "steam_url": "https://store.steampowered.com/app/3240220/"
-    },
-    {
-      "appid": 5321510,
-      "name": "肝試しオンライン",
-      "name_en": "Kimodameshi Online",
-      "publishers": [
-        "パン田"
-      ],
-      "has_key_store": false,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5321510/847e4f25495af22ae23801867151e97354415252/header_japanese.jpg?t=1793026818",
-      "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5321510/de931e803f061c75d9cc397081dbb8c80e16d18a/ss_de931e803f061c75d9cc397081dbb8c80e16d18a.600x338.jpg?t=1793026818",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5321510/c9c61b1d8843f7705aff0dd02d352f6804913799/ss_c9c61b1d8843f7705aff0dd02d352f6804913799.600x338.jpg?t=1793026818",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5321510/c5d919491722a4b3b339f82110b6d53e7d92d1c8/ss_c5d919491722a4b3b339f82110b6d53e7d92d1c8.600x338.jpg?t=1793026818"
-      ],
-      "discount_percent": 26,
-      "initial_price": 1200,
-      "final_price": 888,
-      "initial_formatted": "¥ 1,200",
-      "final_formatted": "¥ 888",
+      "discount_percent": 36,
+      "initial_price": 10780,
+      "final_price": 6899,
+      "initial_formatted": "¥ 10,780",
+      "final_formatted": "¥ 6,899",
       "review_desc": "非常に好評",
-      "positive_rate": 88,
+      "positive_rate": 82,
       "total_reviews": 500,
-      "deal_score": 56,
+      "deal_score": 57,
       "genres": [
-        "アクション",
-        "カジュアル",
-        "インディー",
-        "ストラテジー"
+        "レース",
+        "シミュレーション",
+        "スポーツ"
       ],
       "categories": [
         "シングルプレイヤー",
-        "マルチプレイヤー",
-        "PvP",
-        "オンラインPvP",
-        "協力プレイ"
+        "Steam実績",
+        "フルコントローラサポート",
+        "Steamトレーディングカード",
+        "アプリ内購入"
       ],
-      "release_date": "2026年10月26日",
+      "release_date": "2026年3月25日",
       "supported_japanese": true,
-      "ai_overview": "夜の校舎で、肝試し配信。怖いほど、同接が伸びる。でも、仲間の中に裏切り者がいる。ボイスチャットをつないで遊ぶオンライン肝試し。舞台は、事故の日から時が止まった昭和の中学校。",
+      "ai_overview": "その蹄跡を、歴史に刻め。競馬シミュレーションゲーム「ウイニングポスト」シリーズの最新作『Winning Post 10 2026』！オーナーブリーダーとなり、競馬世界に生きる馬や人々とのドラマを体験せよ。",
       "ai_pros": [
-        "オンライン協力プレイ対応で快適に遊べる設計"
+        "フルコントローラー対応で快適に遊べる設計"
       ],
       "ai_cons": [
-        "高負荷3Dグラフィック：快適プレイには「RTX 3060」以上のPC環境を推奨"
+        "高負荷3Dグラフィック：快適プレイには「GTX 1660」以上のPC環境を推奨"
       ],
       "picked_reviews": [],
-      "gpu_hint": "RTX 3060",
+      "gpu_hint": "GTX 1660",
       "has_controller": true,
       "is_heavy_3d": true,
-      "steam_url": "https://store.steampowered.com/app/5321510/"
+      "steam_url": "https://store.steampowered.com/app/3839710/"
     },
     {
       "appid": 381210,
@@ -732,7 +631,7 @@
       "final_formatted": "¥ 999",
       "review_desc": "賛否両論",
       "positive_rate": 54,
-      "total_reviews": 691522,
+      "total_reviews": 691764,
       "deal_score": 54,
       "genres": [
         "アクション"
@@ -761,6 +660,107 @@
       "steam_url": "https://store.steampowered.com/app/381210/"
     },
     {
+      "appid": 4356430,
+      "name": "『NBA 2K27』",
+      "name_en": "NBA 2K27",
+      "publishers": [
+        "2K"
+      ],
+      "has_key_store": true,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4356430/9152438fde7de9f4c20b4fd9072ba69f844dacab/header.jpg?t=1792163139",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4356430/0202201bff9e57adf4913e9c8a21062c730e0b27/ss_0202201bff9e57adf4913e9c8a21062c730e0b27.600x338.jpg?t=1792163139",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4356430/2a04508bf934834c93cfe5c91f27f45d3043a83d/ss_2a04508bf934834c93cfe5c91f27f45d3043a83d.600x338.jpg?t=1792163139",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4356430/57773a1574208a10b2a5a12fdf3e0be991461475/ss_57773a1574208a10b2a5a12fdf3e0be991461475.600x338.jpg?t=1792163139"
+      ],
+      "discount_percent": 55,
+      "initial_price": 14080,
+      "final_price": 6336,
+      "initial_formatted": "¥ 14,080",
+      "final_formatted": "¥ 6,336",
+      "review_desc": "賛否両論",
+      "positive_rate": 50,
+      "total_reviews": 3046,
+      "deal_score": 50,
+      "genres": [
+        "スポーツ"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "マルチプレイヤー",
+        "PvP",
+        "オンラインPvP",
+        "共有／分割画面でのPvP"
+      ],
+      "release_date": "2026年9月3日",
+      "supported_japanese": true,
+      "ai_overview": "『NBA 2K27』で終わりなき興奮を駆け抜けろ。マイキャリア、マイチーム、マイNBAで24時間いつでも頂点を目指し、あなたが夢見たバスケットボールを現実のものに！",
+      "ai_pros": [
+        "マルチプレイ対応で快適に遊べる設計"
+      ],
+      "ai_cons": [
+        "好みが分かれる作品（好評率50%）：ゲームシステムや難易度の事前確認を推奨",
+        "高負荷3Dグラフィック：快適プレイには「RTX 2070」以上のPC環境を推奨"
+      ],
+      "picked_reviews": [],
+      "gpu_hint": "RTX 2070",
+      "has_controller": true,
+      "is_heavy_3d": true,
+      "steam_url": "https://store.steampowered.com/app/4356430/"
+    },
+    {
+      "appid": 5321510,
+      "name": "肝試しオンライン",
+      "name_en": "Kimodameshi Online",
+      "publishers": [
+        "パン田"
+      ],
+      "has_key_store": false,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5321510/847e4f25495af22ae23801867151e97354415252/header_japanese.jpg?t=1793409353",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5321510/de931e803f061c75d9cc397081dbb8c80e16d18a/ss_de931e803f061c75d9cc397081dbb8c80e16d18a.600x338.jpg?t=1793409353",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5321510/c9c61b1d8843f7705aff0dd02d352f6804913799/ss_c9c61b1d8843f7705aff0dd02d352f6804913799.600x338.jpg?t=1793409353",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5321510/c5d919491722a4b3b339f82110b6d53e7d92d1c8/ss_c5d919491722a4b3b339f82110b6d53e7d92d1c8.600x338.jpg?t=1793409353"
+      ],
+      "discount_percent": 26,
+      "initial_price": 1200,
+      "final_price": 888,
+      "initial_formatted": "¥ 1,200",
+      "final_formatted": "¥ 888",
+      "review_desc": "やや好評",
+      "positive_rate": 70,
+      "total_reviews": 500,
+      "deal_score": 47,
+      "genres": [
+        "アクション",
+        "カジュアル",
+        "インディー",
+        "ストラテジー"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "マルチプレイヤー",
+        "PvP",
+        "オンラインPvP",
+        "協力プレイ"
+      ],
+      "release_date": "2026年10月26日",
+      "supported_japanese": true,
+      "ai_overview": "撮れ高か、命か。 いわくつきの廃校に集まった覆面配信者たちの、真夜中の肝試し配信。 怪異を撮るほど同接は伸び、SAN値が削れるほど配信は熱を帯びる。 撮るだけ撮って逃げ切るか、最後まで居残って稼ぎきるか。 仲間の中には、幽霊に魅入られた裏切り者が紛れている。 最大8人で遊べるパーティホラーゲームです！",
+      "ai_pros": [
+        "オンライン協力プレイ対応で快適に遊べる設計"
+      ],
+      "ai_cons": [
+        "好みが分かれる作品（好評率70%）：ゲームシステムや難易度の事前確認を推奨",
+        "高負荷3Dグラフィック：快適プレイには「RTX 3060」以上のPC環境を推奨"
+      ],
+      "picked_reviews": [],
+      "gpu_hint": "RTX 3060",
+      "has_controller": true,
+      "is_heavy_3d": true,
+      "steam_url": "https://store.steampowered.com/app/5321510/"
+    },
+    {
       "appid": 2246340,
       "name": "モンスターハンターワイルズ",
       "name_en": "Monster Hunter Wilds",
@@ -781,7 +781,7 @@
       "final_formatted": "¥ 3,742",
       "review_desc": "やや不評",
       "positive_rate": 31,
-      "total_reviews": 203747,
+      "total_reviews": 203787,
       "deal_score": 35,
       "genres": [
         "アクション",
