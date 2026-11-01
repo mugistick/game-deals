@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01 04:26",
+  "updated_at": "2026-11-02 04:26",
   "total_count": 16,
   "affiliate": {
     "amazon_tag": "mugistick-22",
@@ -31,7 +31,7 @@
       "final_formatted": "¥ 997",
       "review_desc": "非常に好評",
       "positive_rate": 89,
-      "total_reviews": 193514,
+      "total_reviews": 193733,
       "deal_score": 86,
       "genres": [
         "アクション",
@@ -80,7 +80,7 @@
       "final_formatted": "¥ 2,695",
       "review_desc": "非常に好評",
       "positive_rate": 87,
-      "total_reviews": 280731,
+      "total_reviews": 280782,
       "deal_score": 77,
       "genres": [
         "アクション",
@@ -131,7 +131,7 @@
       "final_formatted": "¥ 480",
       "review_desc": "非常に好評",
       "positive_rate": 85,
-      "total_reviews": 8671,
+      "total_reviews": 8694,
       "deal_score": 72,
       "genres": [
         "アクション",
@@ -182,7 +182,7 @@
       "final_formatted": "¥ 780",
       "review_desc": "非常に好評",
       "positive_rate": 93,
-      "total_reviews": 347627,
+      "total_reviews": 347970,
       "deal_score": 70,
       "genres": [
         "アクション",
@@ -280,7 +280,7 @@
       "final_formatted": "¥ 2,904",
       "review_desc": "非常に好評",
       "positive_rate": 82,
-      "total_reviews": 41443,
+      "total_reviews": 41450,
       "deal_score": 65,
       "genres": [
         "アクション",
@@ -310,55 +310,6 @@
       "steam_url": "https://store.steampowered.com/app/881020/"
     },
     {
-      "appid": 648800,
-      "name": "Raft",
-      "name_en": "Raft",
-      "publishers": [
-        "Axolot Games"
-      ],
-      "has_key_store": false,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/648800/header.jpg?t=1727184011",
-      "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/648800/ss_c22b2ff5ba5609f74e61b5feaa5b7a1d7fd1dbd3.600x338.jpg?t=1727184011",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/648800/ss_2adb248f4d501cf58344d9af1d8a9e56c74647ee.600x338.jpg?t=1727184011",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/648800/ss_56914c026da8c8411974bd0e2e8cb81a0331ba99.600x338.jpg?t=1727184011"
-      ],
-      "discount_percent": 33,
-      "initial_price": 2600,
-      "final_price": 1742,
-      "initial_formatted": "¥ 2,600",
-      "final_formatted": "¥ 1,742",
-      "review_desc": "非常に好評",
-      "positive_rate": 83,
-      "total_reviews": 325134,
-      "deal_score": 64,
-      "genres": [
-        "アドベンチャー",
-        "インディー",
-        "シミュレーション"
-      ],
-      "categories": [
-        "シングルプレイヤー",
-        "マルチプレイヤー",
-        "協力プレイ",
-        "オンライン協力プレイ",
-        "Steam実績"
-      ],
-      "release_date": "2022年6月20日",
-      "supported_japanese": true,
-      "ai_overview": "Raft™ は、あなたと友達を壮大な海洋冒険に誘います。プレイヤーは一人で、または一緒に、広大な海を渡る危険な航海を生き残るために戦います。瓦礫を集め、サンゴ礁をあさり、自分だけの水上家を建てましょう。ただし、人食いサメには気をつけてください!",
-      "ai_pros": [
-        "オンライン協力プレイ対応で快適に遊べる設計",
-        "要求スペックは軽め（GTX 1050目安）で幅広いPCで快適動作"
-      ],
-      "ai_cons": [],
-      "picked_reviews": [],
-      "gpu_hint": "GTX 1050",
-      "has_controller": false,
-      "is_heavy_3d": false,
-      "steam_url": "https://store.steampowered.com/app/648800/"
-    },
-    {
       "appid": 3764200,
       "name": "BIOHAZARD requiem",
       "name_en": "Resident Evil Requiem",
@@ -379,7 +330,7 @@
       "final_formatted": "¥ 6,293",
       "review_desc": "非常に好評",
       "positive_rate": 86,
-      "total_reviews": 109855,
+      "total_reviews": 109929,
       "deal_score": 64,
       "genres": [
         "アクション",
@@ -408,6 +359,55 @@
       "steam_url": "https://store.steampowered.com/app/3764200/"
     },
     {
+      "appid": 3357650,
+      "name": "PRAGMATA",
+      "name_en": "PRAGMATA",
+      "publishers": [
+        "CAPCOM Co., Ltd."
+      ],
+      "has_key_store": false,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3357650/e32e168b25ed68a0cf6264c220c07e96c2abfb56/header.jpg?t=1791454600",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3357650/9699288b90d0aad320e998f107b59edd27e9ea61/ss_9699288b90d0aad320e998f107b59edd27e9ea61.600x338.jpg?t=1791454600",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3357650/62486c0475c7bf1a14889d61a51ad24f09e5f044/ss_62486c0475c7bf1a14889d61a51ad24f09e5f044.600x338.jpg?t=1791454600",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3357650/26773713a2435c8edc2eac5e7eb234324b3b002f/ss_26773713a2435c8edc2eac5e7eb234324b3b002f.600x338.jpg?t=1791454600"
+      ],
+      "discount_percent": 20,
+      "initial_price": 7990,
+      "final_price": 6392,
+      "initial_formatted": "¥ 7,990",
+      "final_formatted": "¥ 6,392",
+      "review_desc": "非常に好評",
+      "positive_rate": 94,
+      "total_reviews": 34463,
+      "deal_score": 62,
+      "genres": [
+        "アクション",
+        "アドベンチャー"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "Steam実績",
+        "フルコントローラサポート",
+        "Steamトレーディングカード",
+        "キャプション使用可能"
+      ],
+      "release_date": "2026年4月16日",
+      "supported_japanese": true,
+      "ai_overview": "『プラグマタ』はカプコンが贈る完全新作タイトル。 パズルとアクションが融合した、新感覚のSFアクションアドベンチャーです。月で遭難した調査員\"ヒュー\"と、アンドロイドの少女\"ディアナ\"。AIに支配された近未来の月面世界を舞台に、二人は互いの力を頼りに地球への帰還を目指します。",
+      "ai_pros": [
+        "フルコントローラー対応で快適に遊べる設計"
+      ],
+      "ai_cons": [
+        "高負荷3Dグラフィック：快適プレイには「RTX 2060」以上のPC環境を推奨"
+      ],
+      "picked_reviews": [],
+      "gpu_hint": "RTX 2060",
+      "has_controller": true,
+      "is_heavy_3d": true,
+      "steam_url": "https://store.steampowered.com/app/3357650/"
+    },
+    {
       "appid": 252490,
       "name": "Rust",
       "name_en": "Rust",
@@ -428,7 +428,7 @@
       "final_formatted": "¥ 2,300",
       "review_desc": "やや好評",
       "positive_rate": 77,
-      "total_reviews": 1178069,
+      "total_reviews": 1178353,
       "deal_score": 61,
       "genres": [
         "アクション",
@@ -480,7 +480,7 @@
       "final_formatted": "¥ 1,690",
       "review_desc": "賛否両論",
       "positive_rate": 53,
-      "total_reviews": 109194,
+      "total_reviews": 109269,
       "deal_score": 60,
       "genres": [
         "アクション",
@@ -532,7 +532,7 @@
       "final_formatted": "¥ 4,455",
       "review_desc": "やや好評",
       "positive_rate": 75,
-      "total_reviews": 5566,
+      "total_reviews": 5574,
       "deal_score": 60,
       "genres": [
         "アクション",
@@ -559,6 +559,53 @@
       "has_controller": true,
       "is_heavy_3d": true,
       "steam_url": "https://store.steampowered.com/app/2362060/"
+    },
+    {
+      "appid": 4950600,
+      "name": "HAPPY PROPAGANDA",
+      "name_en": "HAPPY PROPAGANDA",
+      "publishers": [
+        "Not a Dog"
+      ],
+      "has_key_store": false,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4950600/d0e3e8b4eb0414e4ad76152cf301b72702730b8b/header.jpg?t=1793133129",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4950600/61ea6f35434d4d650cf1dfd8455e697b16c6dc86/ss_61ea6f35434d4d650cf1dfd8455e697b16c6dc86.600x338.jpg?t=1793133129",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4950600/f7b961b735ba5abebed191082dbf4997b6e04e37/ss_f7b961b735ba5abebed191082dbf4997b6e04e37.600x338.jpg?t=1793133129",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4950600/f62916bfa4bb104cfec3224dfd453f359284463a/ss_f62916bfa4bb104cfec3224dfd453f359284463a.600x338.jpg?t=1793133129"
+      ],
+      "discount_percent": 20,
+      "initial_price": 750,
+      "final_price": 600,
+      "initial_formatted": "¥ 750",
+      "final_formatted": "¥ 600",
+      "review_desc": "非常に好評",
+      "positive_rate": 97,
+      "total_reviews": 123,
+      "deal_score": 58,
+      "genres": [
+        "シミュレーション"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "Steam実績",
+        "カメラの快適性",
+        "色のオプション",
+        "カスタム音量調整"
+      ],
+      "release_date": "2026年10月27日",
+      "supported_japanese": true,
+      "ai_overview": "『ハッピープロパガンダ』は、生放送のコメントを「承認」か「検閲」で裁く短編アドベンチャー。視聴者の不満とキャスターの心の間で揺れる5日間。検閲、特集の選択、彼女との会話が、複数の結末へとつながります。",
+      "ai_pros": [
+        "シミュレーション好きなら抑えておきたい注目作",
+        "要求スペックは軽め（ミドルクラスGPU目安）で幅広いPCで快適動作"
+      ],
+      "ai_cons": [],
+      "picked_reviews": [],
+      "gpu_hint": "ミドルクラスGPU",
+      "has_controller": false,
+      "is_heavy_3d": false,
+      "steam_url": "https://store.steampowered.com/app/4950600/"
     },
     {
       "appid": 3839710,
@@ -631,7 +678,7 @@
       "final_formatted": "¥ 999",
       "review_desc": "賛否両論",
       "positive_rate": 54,
-      "total_reviews": 691764,
+      "total_reviews": 692037,
       "deal_score": 54,
       "genres": [
         "アクション"
@@ -660,55 +707,6 @@
       "steam_url": "https://store.steampowered.com/app/381210/"
     },
     {
-      "appid": 4356430,
-      "name": "『NBA 2K27』",
-      "name_en": "NBA 2K27",
-      "publishers": [
-        "2K"
-      ],
-      "has_key_store": true,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4356430/9152438fde7de9f4c20b4fd9072ba69f844dacab/header.jpg?t=1792163139",
-      "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4356430/0202201bff9e57adf4913e9c8a21062c730e0b27/ss_0202201bff9e57adf4913e9c8a21062c730e0b27.600x338.jpg?t=1792163139",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4356430/2a04508bf934834c93cfe5c91f27f45d3043a83d/ss_2a04508bf934834c93cfe5c91f27f45d3043a83d.600x338.jpg?t=1792163139",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4356430/57773a1574208a10b2a5a12fdf3e0be991461475/ss_57773a1574208a10b2a5a12fdf3e0be991461475.600x338.jpg?t=1792163139"
-      ],
-      "discount_percent": 55,
-      "initial_price": 14080,
-      "final_price": 6336,
-      "initial_formatted": "¥ 14,080",
-      "final_formatted": "¥ 6,336",
-      "review_desc": "賛否両論",
-      "positive_rate": 50,
-      "total_reviews": 3046,
-      "deal_score": 50,
-      "genres": [
-        "スポーツ"
-      ],
-      "categories": [
-        "シングルプレイヤー",
-        "マルチプレイヤー",
-        "PvP",
-        "オンラインPvP",
-        "共有／分割画面でのPvP"
-      ],
-      "release_date": "2026年9月3日",
-      "supported_japanese": true,
-      "ai_overview": "『NBA 2K27』で終わりなき興奮を駆け抜けろ。マイキャリア、マイチーム、マイNBAで24時間いつでも頂点を目指し、あなたが夢見たバスケットボールを現実のものに！",
-      "ai_pros": [
-        "マルチプレイ対応で快適に遊べる設計"
-      ],
-      "ai_cons": [
-        "好みが分かれる作品（好評率50%）：ゲームシステムや難易度の事前確認を推奨",
-        "高負荷3Dグラフィック：快適プレイには「RTX 2070」以上のPC環境を推奨"
-      ],
-      "picked_reviews": [],
-      "gpu_hint": "RTX 2070",
-      "has_controller": true,
-      "is_heavy_3d": true,
-      "steam_url": "https://store.steampowered.com/app/4356430/"
-    },
-    {
       "appid": 5321510,
       "name": "肝試しオンライン",
       "name_en": "Kimodameshi Online",
@@ -716,11 +714,11 @@
         "パン田"
       ],
       "has_key_store": false,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5321510/847e4f25495af22ae23801867151e97354415252/header_japanese.jpg?t=1793409353",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5321510/847e4f25495af22ae23801867151e97354415252/header_japanese.jpg?t=1793481579",
       "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5321510/de931e803f061c75d9cc397081dbb8c80e16d18a/ss_de931e803f061c75d9cc397081dbb8c80e16d18a.600x338.jpg?t=1793409353",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5321510/c9c61b1d8843f7705aff0dd02d352f6804913799/ss_c9c61b1d8843f7705aff0dd02d352f6804913799.600x338.jpg?t=1793409353",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5321510/c5d919491722a4b3b339f82110b6d53e7d92d1c8/ss_c5d919491722a4b3b339f82110b6d53e7d92d1c8.600x338.jpg?t=1793409353"
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5321510/de931e803f061c75d9cc397081dbb8c80e16d18a/ss_de931e803f061c75d9cc397081dbb8c80e16d18a.600x338.jpg?t=1793481579",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5321510/c9c61b1d8843f7705aff0dd02d352f6804913799/ss_c9c61b1d8843f7705aff0dd02d352f6804913799.600x338.jpg?t=1793481579",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5321510/c5d919491722a4b3b339f82110b6d53e7d92d1c8/ss_c5d919491722a4b3b339f82110b6d53e7d92d1c8.600x338.jpg?t=1793481579"
       ],
       "discount_percent": 26,
       "initial_price": 1200,
@@ -728,9 +726,9 @@
       "initial_formatted": "¥ 1,200",
       "final_formatted": "¥ 888",
       "review_desc": "やや好評",
-      "positive_rate": 70,
+      "positive_rate": 72,
       "total_reviews": 500,
-      "deal_score": 47,
+      "deal_score": 48,
       "genres": [
         "アクション",
         "カジュアル",
@@ -738,11 +736,11 @@
         "ストラテジー"
       ],
       "categories": [
-        "シングルプレイヤー",
         "マルチプレイヤー",
         "PvP",
         "オンラインPvP",
-        "協力プレイ"
+        "協力プレイ",
+        "オンライン協力プレイ"
       ],
       "release_date": "2026年10月26日",
       "supported_japanese": true,
@@ -751,7 +749,7 @@
         "オンライン協力プレイ対応で快適に遊べる設計"
       ],
       "ai_cons": [
-        "好みが分かれる作品（好評率70%）：ゲームシステムや難易度の事前確認を推奨",
+        "好みが分かれる作品（好評率72%）：ゲームシステムや難易度の事前確認を推奨",
         "高負荷3Dグラフィック：快適プレイには「RTX 3060」以上のPC環境を推奨"
       ],
       "picked_reviews": [],
@@ -781,7 +779,7 @@
       "final_formatted": "¥ 3,742",
       "review_desc": "やや不評",
       "positive_rate": 31,
-      "total_reviews": 203787,
+      "total_reviews": 203832,
       "deal_score": 35,
       "genres": [
         "アクション",
