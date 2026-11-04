@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04 04:38",
+  "updated_at": "2026-11-05 04:44",
   "total_count": 16,
   "affiliate": {
     "amazon_tag": "mugistick-22",
@@ -61,105 +61,6 @@
       "steam_url": "https://store.steampowered.com/app/960170/"
     },
     {
-      "appid": 1942280,
-      "name": "Brotato",
-      "name_en": "Brotato",
-      "publishers": [
-        "Blobfish"
-      ],
-      "has_key_store": false,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1942280/bf970261a3a42f346624ae9c48b5b317fc724857/header_alt_assets_4.jpg?t=1793641955",
-      "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1942280/ss_79be0eea0299da76bc50cef160fb669509f74e0b.600x338.jpg?t=1793641955",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1942280/ss_61ad3d242282311207828c1a7d87c1c9d7b4d8bf.600x338.jpg?t=1793641955",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1942280/ss_9d7d1532397e65d39a3b63e3b25bd3adf7a81b37.600x338.jpg?t=1793641955"
-      ],
-      "discount_percent": 50,
-      "initial_price": 580,
-      "final_price": 290,
-      "initial_formatted": "¥ 580",
-      "final_formatted": "¥ 290",
-      "review_desc": "非常に好評",
-      "positive_rate": 91,
-      "total_reviews": 112842,
-      "deal_score": 76,
-      "genres": [
-        "アクション",
-        "カジュアル",
-        "インディー",
-        "RPG"
-      ],
-      "categories": [
-        "シングルプレイヤー",
-        "マルチプレイヤー",
-        "協力プレイ",
-        "共有／分割画面での協力プレイ",
-        "共有／分割画面"
-      ],
-      "release_date": "2023年6月23日",
-      "supported_japanese": true,
-      "ai_overview": "Brotatoは、トップダウン アリーナ シューターのローグライトです。一度に最大6つの武器を駆使してポテトを操作し、エイリアンの大群を撃退していきます。さまざまな特性とアイテムから選択して、自分だけのビルドにし、助けが来るまで生き残りましょう。",
-      "ai_pros": [
-        "オンライン協力プレイ対応で快適に遊べる設計",
-        "要求スペックは軽め（ミドルクラスGPU目安）で幅広いPCで快適動作"
-      ],
-      "ai_cons": [],
-      "picked_reviews": [],
-      "gpu_hint": "ミドルクラスGPU",
-      "has_controller": true,
-      "is_heavy_3d": false,
-      "steam_url": "https://store.steampowered.com/app/1942280/"
-    },
-    {
-      "appid": 3768760,
-      "name": "007 ファーストライト",
-      "name_en": "007 First Light",
-      "publishers": [
-        "IO Interactive A/S"
-      ],
-      "has_key_store": true,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/c5b553fd05ba41aefa6daeddac95849a10c93022/header_alt_assets_4.jpg?t=1791886607",
-      "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/ef374e5e4ede8c71f32d455652bc00f2fa7c035e/ss_ef374e5e4ede8c71f32d455652bc00f2fa7c035e.600x338.jpg?t=1791886607",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/18787f52adabf0e5248548ed83562e6aac88f94d/ss_18787f52adabf0e5248548ed83562e6aac88f94d.600x338.jpg?t=1791886607",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/43c8cf3875cb6643ac7d8244e9fd39381609814a/ss_43c8cf3875cb6643ac7d8244e9fd39381609814a.600x338.jpg?t=1791886607"
-      ],
-      "discount_percent": 40,
-      "initial_price": 9910,
-      "final_price": 5946,
-      "initial_formatted": "¥ 9,910",
-      "final_formatted": "¥ 5,946",
-      "review_desc": "非常に好評",
-      "positive_rate": 90,
-      "total_reviews": 35510,
-      "deal_score": 74,
-      "genres": [
-        "アクション",
-        "アドベンチャー"
-      ],
-      "categories": [
-        "シングルプレイヤー",
-        "Steam実績",
-        "フルコントローラサポート",
-        "カメラの快適性",
-        "カスタム音量調整"
-      ],
-      "release_date": "2026年5月26日",
-      "supported_japanese": true,
-      "ai_overview": "ナンバーを勝ち取れ。007 ファーストライト は、IO Interactiveが贈る究極のスパイアクションアドベンチャー。MI6の訓練生として、若く聡明だが、時に向こう見ずすぎる男、ジェームズ・ボンドを操り、世界最高のスパイ誕生のストーリーを目撃せよ。",
-      "ai_pros": [
-        "フルコントローラー対応で快適に遊べる設計"
-      ],
-      "ai_cons": [
-        "高負荷3Dグラフィック：快適プレイには「RTX 3060」以上のPC環境を推奨"
-      ],
-      "picked_reviews": [],
-      "gpu_hint": "RTX 3060",
-      "has_controller": true,
-      "is_heavy_3d": true,
-      "steam_url": "https://store.steampowered.com/app/3768760/"
-    },
-    {
       "appid": 3241660,
       "name": "R.E.P.O.",
       "name_en": "R.E.P.O.",
@@ -180,7 +81,7 @@
       "final_formatted": "¥ 780",
       "review_desc": "非常に好評",
       "positive_rate": 92,
-      "total_reviews": 348502,
+      "total_reviews": 348735,
       "deal_score": 70,
       "genres": [
         "アクション",
@@ -195,7 +96,7 @@
       ],
       "release_date": "2025年2月26日",
       "supported_japanese": true,
-      "ai_overview": "最大6人で遊べるオンライン協力ホラーゲーム。貴重な、完全に物理ベースのオブジェクトを見つけて、作成者の欲求を満たすために取得および抽出するときに慎重に扱います。",
+      "ai_overview": "最大6人までプレイできるオンライン協力ホラーゲーム。貴重な、完全に物理ベースのオブジェクトを見つけて、作成者の欲求を満たすために取得および抽出するときに慎重に扱います。",
       "ai_pros": [
         "フルコントローラー対応・オンライン協力プレイ対応で快適に遊べる設計",
         "要求スペックは軽め（GTX 1070目安）で幅広いPCで快適動作"
@@ -228,7 +129,7 @@
       "final_formatted": "¥ 1,325",
       "review_desc": "非常に好評",
       "positive_rate": 83,
-      "total_reviews": 2293,
+      "total_reviews": 2294,
       "deal_score": 67,
       "genres": [
         "アクション",
@@ -258,56 +159,6 @@
       "steam_url": "https://store.steampowered.com/app/2190220/"
     },
     {
-      "appid": 881020,
-      "name": "GRANBLUE FANTASY: Relink",
-      "name_en": "Granblue Fantasy: Relink",
-      "publishers": [
-        "Cygames, Inc."
-      ],
-      "has_key_store": false,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881020/header.jpg?t=1792403376",
-      "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881020/ss_cdda0cdcd1f5aec78bb9edea1fa7d80feaf46d77.600x338.jpg?t=1792403376",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881020/ss_26d3bbdddbf5f1b2c21c59bd0a1fe1fdd109cce4.600x338.jpg?t=1792403376",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881020/ss_0f2acb9ebaaee9380739587ccf5457047d9adfa6.600x338.jpg?t=1792403376"
-      ],
-      "discount_percent": 40,
-      "initial_price": 4840,
-      "final_price": 2904,
-      "initial_formatted": "¥ 4,840",
-      "final_formatted": "¥ 2,904",
-      "review_desc": "非常に好評",
-      "positive_rate": 82,
-      "total_reviews": 41467,
-      "deal_score": 65,
-      "genres": [
-        "アクション",
-        "アドベンチャー",
-        "RPG"
-      ],
-      "categories": [
-        "シングルプレイヤー",
-        "マルチプレイヤー",
-        "協力プレイ",
-        "オンライン協力プレイ",
-        "Steam実績"
-      ],
-      "release_date": "2024年1月31日",
-      "supported_japanese": true,
-      "ai_overview": "4人パーティで連携し戦う、本格派アクションRPG！ 独自のアクションスタイルを持つキャラクターが多数登場。キャラクター同士で次々と技を繰り出し、4人で集中攻撃する「リンクアタック」「奥義チェイン」で華麗に敵を打ち倒そう。 奥深いバトル、カスタマイズ性の高い育成システムに加えて、アクションゲーム初心者でもプレイスキルに合わせて楽しめるサポート機能も充実。 皆でパーティを組み、冒険とバトルを楽しもう！",
-      "ai_pros": [
-        "オンライン協力プレイ対応で快適に遊べる設計"
-      ],
-      "ai_cons": [
-        "高負荷3Dグラフィック：快適プレイには「ミドルクラスGPU」以上のPC環境を推奨"
-      ],
-      "picked_reviews": [],
-      "gpu_hint": "ミドルクラスGPU",
-      "has_controller": true,
-      "is_heavy_3d": true,
-      "steam_url": "https://store.steampowered.com/app/881020/"
-    },
-    {
       "appid": 2060160,
       "name": "農家は Replace() されました",
       "name_en": "The Farmer Was Replaced",
@@ -329,7 +180,7 @@
       "final_formatted": "¥ 840",
       "review_desc": "非常に好評",
       "positive_rate": 95,
-      "total_reviews": 9598,
+      "total_reviews": 9632,
       "deal_score": 64,
       "genres": [
         "カジュアル",
@@ -359,6 +210,105 @@
       "steam_url": "https://store.steampowered.com/app/2060160/"
     },
     {
+      "appid": 4179280,
+      "name": "Moonshiner Simulator",
+      "name_en": "Moonshiner Simulator",
+      "publishers": [
+        "Goosix Games"
+      ],
+      "has_key_store": false,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4179280/dbda7a8cd5e45288fc6e9f0ebf2bbbf4a1d4c42c/header.jpg?t=1793711064",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4179280/f1047f98c9a2a3e6bc2e42f7bb16874647aba0d2/ss_f1047f98c9a2a3e6bc2e42f7bb16874647aba0d2.600x338.jpg?t=1793711064",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4179280/94d4312b9c9c1f9cce285260de1e3526b2e03a9c/ss_94d4312b9c9c1f9cce285260de1e3526b2e03a9c.600x338.jpg?t=1793711064",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4179280/3cd2e77abddb6e1a1e00dccc62d23959bdc15073/ss_3cd2e77abddb6e1a1e00dccc62d23959bdc15073.600x338.jpg?t=1793711064"
+      ],
+      "discount_percent": 40,
+      "initial_price": 2100,
+      "final_price": 1260,
+      "initial_formatted": "¥ 2,100",
+      "final_formatted": "¥ 1,260",
+      "review_desc": "非常に好評",
+      "positive_rate": 87,
+      "total_reviews": 150,
+      "deal_score": 62,
+      "genres": [
+        "アクション",
+        "シミュレーション",
+        "ストラテジー"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "マルチプレイヤー",
+        "協力プレイ",
+        "オンライン協力プレイ",
+        "LAN協力プレイ"
+      ],
+      "release_date": "2026年11月3日",
+      "supported_japanese": true,
+      "ai_overview": "これは、アルコール飲料製造を深くシミュレートするゲームです。ゼロからスタートし、職人の技を極め、独自のレシピを生み出すことで、あなたの事業を繁栄する帝国へと変えましょう。しかし、忘れてはいけません。あなたの邪魔をしたがる者たちは、常に現れるということを。",
+      "ai_pros": [
+        "オンライン協力プレイ対応で快適に遊べる設計"
+      ],
+      "ai_cons": [
+        "高負荷3Dグラフィック：快適プレイには「RTX 3060」以上のPC環境を推奨"
+      ],
+      "picked_reviews": [],
+      "gpu_hint": "RTX 3060",
+      "has_controller": false,
+      "is_heavy_3d": true,
+      "steam_url": "https://store.steampowered.com/app/4179280/"
+    },
+    {
+      "appid": 1689620,
+      "name": "BLEACH Rebirth of Souls",
+      "name_en": "BLEACH Rebirth of Souls",
+      "publishers": [
+        "Bandai Namco Entertainment Inc."
+      ],
+      "has_key_store": false,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1689620/header.jpg?t=1765454766",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1689620/ss_8108c4ed643d4b044ae593c53ab90972f1f8f91c.600x338.jpg?t=1765454766",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1689620/ss_1c2da8e66d54596c8a890d9c838c4f87d23e779e.600x338.jpg?t=1765454766",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1689620/ss_7d219a884e0e9406681deb397b91c223fa453b63.600x338.jpg?t=1765454766"
+      ],
+      "discount_percent": 60,
+      "initial_price": 8360,
+      "final_price": 3344,
+      "initial_formatted": "¥ 8,360",
+      "final_formatted": "¥ 3,344",
+      "review_desc": "賛否両論",
+      "positive_rate": 68,
+      "total_reviews": 4953,
+      "deal_score": 61,
+      "genres": [
+        "アクション"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "マルチプレイヤー",
+        "PvP",
+        "オンラインPvP",
+        "共有／分割画面でのPvP"
+      ],
+      "release_date": "2025年3月20日",
+      "supported_japanese": true,
+      "ai_overview": "プレイアブルキャラクター全員が覚醒し極限の状況をひっくり返し逆転しあう、 『BLEACH』の“一撃必殺”ドラマティック対戦アクションを体感せよ！",
+      "ai_pros": [
+        "マルチプレイ対応で快適に遊べる設計"
+      ],
+      "ai_cons": [
+        "好みが分かれる作品（好評率68%）：ゲームシステムや難易度の事前確認を推奨",
+        "高負荷3Dグラフィック：快適プレイには「Radeon RX 6700」以上のPC環境を推奨"
+      ],
+      "picked_reviews": [],
+      "gpu_hint": "Radeon RX 6700",
+      "has_controller": true,
+      "is_heavy_3d": true,
+      "steam_url": "https://store.steampowered.com/app/1689620/"
+    },
+    {
       "appid": 252490,
       "name": "Rust",
       "name_en": "Rust",
@@ -379,7 +329,7 @@
       "final_formatted": "¥ 2,300",
       "review_desc": "やや好評",
       "positive_rate": 77,
-      "total_reviews": 1178796,
+      "total_reviews": 1179006,
       "deal_score": 61,
       "genres": [
         "アクション",
@@ -431,7 +381,7 @@
       "final_formatted": "¥ 1,690",
       "review_desc": "賛否両論",
       "positive_rate": 53,
-      "total_reviews": 109381,
+      "total_reviews": 109427,
       "deal_score": 60,
       "genres": [
         "アクション",
@@ -483,7 +433,7 @@
       "final_formatted": "¥ 1,045",
       "review_desc": "賛否両論",
       "positive_rate": 52,
-      "total_reviews": 33898,
+      "total_reviews": 33942,
       "deal_score": 60,
       "genres": [
         "アクション",
@@ -534,7 +484,7 @@
       "final_formatted": "¥ 4,455",
       "review_desc": "やや好評",
       "positive_rate": 76,
-      "total_reviews": 5586,
+      "total_reviews": 5591,
       "deal_score": 60,
       "genres": [
         "アクション",
@@ -563,144 +513,46 @@
       "steam_url": "https://store.steampowered.com/app/2362060/"
     },
     {
-      "appid": 3240220,
-      "name": "グランド・セフト・オートV エンハンスト",
-      "name_en": "Grand Theft Auto V Enhanced",
+      "appid": 4476270,
+      "name": "Crown & Coin: The Hundred Years（百年戦争）",
+      "name_en": "Crown and Coin: The Hundred Years",
       "publishers": [
-        "Rockstar Games"
+        "MUZINA GAMES"
       ],
       "has_key_store": false,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header_japanese.jpg?t=1781187782",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4476270/badbab5667917f5aeb41c40ae97dfc9ae9681c7b/header.jpg?t=1793729474",
       "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/d61184a98c1cf2db2b08b2999c04b0519e3615bb/ss_d61184a98c1cf2db2b08b2999c04b0519e3615bb.600x338.jpg?t=1781187782",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/8340fd391012e12be7e4c02e65801a2648a6b60e/ss_8340fd391012e12be7e4c02e65801a2648a6b60e.600x338.jpg?t=1781187782",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/f2e70b5823510daa062293ff0b03821e1dee2d37/ss_f2e70b5823510daa062293ff0b03821e1dee2d37.600x338.jpg?t=1781187782"
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4476270/f60fa8e9fb5a886231ff98822495b80d4530cd00/ss_f60fa8e9fb5a886231ff98822495b80d4530cd00.600x338.jpg?t=1793729474",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4476270/4e6156addb8aa9cbbb1c9dd1ad563955cd1bd4ef/ss_4e6156addb8aa9cbbb1c9dd1ad563955cd1bd4ef.600x338.jpg?t=1793729474",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4476270/9be85db990d66f134bad798af717f4f9f506c1f0/ss_9be85db990d66f134bad798af717f4f9f506c1f0.600x338.jpg?t=1793729474"
       ],
-      "discount_percent": 50,
-      "initial_price": 4380,
-      "final_price": 2190,
-      "initial_formatted": "¥ 4,380",
-      "final_formatted": "¥ 2,190",
-      "review_desc": "やや好評",
-      "positive_rate": 73,
-      "total_reviews": 222417,
+      "discount_percent": 20,
+      "initial_price": 3480,
+      "final_price": 2784,
+      "initial_formatted": "¥ 3,480",
+      "final_formatted": "¥ 2,784",
+      "review_desc": "好評",
+      "positive_rate": 100,
+      "total_reviews": 500,
       "deal_score": 59,
       "genres": [
-        "アクション",
-        "アドベンチャー",
-        "レース"
-      ],
-      "categories": [
-        "シングルプレイヤー",
-        "マルチプレイヤー",
-        "PvP",
-        "オンラインPvP",
-        "協力プレイ"
-      ],
-      "release_date": "2025年3月4日",
-      "supported_japanese": true,
-      "ai_overview": "大ヒットの『グランド・セフト・オートV』と「GTAオンライン」を体験しよう - 新世代用に美麗なグラフィック、短縮されたロード時間、3Dオーディオなどのアップグレード。さらに、「GTAオンライン」プレイヤー用の限定コンテンツなど。",
-      "ai_pros": [
-        "オンライン協力プレイ対応で快適に遊べる設計"
-      ],
-      "ai_cons": [
-        "好みが分かれる作品（好評率73%）：ゲームシステムや難易度の事前確認を推奨",
-        "高負荷3Dグラフィック：快適プレイには「RTX 3060」以上のPC環境を推奨"
-      ],
-      "picked_reviews": [],
-      "gpu_hint": "RTX 3060",
-      "has_controller": true,
-      "is_heavy_3d": true,
-      "steam_url": "https://store.steampowered.com/app/3240220/"
-    },
-    {
-      "appid": 4740930,
-      "name": "要塞英雄伝",
-      "name_en": "Legend of Defenders",
-      "publishers": [
-        "Gamersky Games"
-      ],
-      "has_key_store": false,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4740930/5e6ca6af01037ea16107c219d8fcca17a56c697b/header_alt_assets_1_japanese.jpg?t=1793690576",
-      "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4740930/6d0adfdf801949e0d0a79f1edff359713f50bd10/ss_6d0adfdf801949e0d0a79f1edff359713f50bd10.600x338.jpg?t=1793690576",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4740930/c650671820e2cb1d28ef6a60e0fab575af558807/ss_c650671820e2cb1d28ef6a60e0fab575af558807.600x338.jpg?t=1793690576",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4740930/4842addfba469ba4ff3d2e24d5bbeec29c90a4f3/ss_4842addfba469ba4ff3d2e24d5bbeec29c90a4f3.600x338.jpg?t=1793690576"
-      ],
-      "discount_percent": 30,
-      "initial_price": 1900,
-      "final_price": 1330,
-      "initial_formatted": "¥ 1,900",
-      "final_formatted": "¥ 1,330",
-      "review_desc": "非常に好評",
-      "positive_rate": 90,
-      "total_reviews": 164,
-      "deal_score": 58,
-      "genres": [
-        "カジュアル",
         "インディー",
+        "RPG",
+        "シミュレーション",
         "ストラテジー"
       ],
       "categories": [
         "シングルプレイヤー",
         "Steam実績",
-        "カスタム音量調整",
-        "マウスのみのオプション",
-        "#category_playable_at_your_own_pace"
-      ],
-      "release_date": "2026年11月2日",
-      "supported_japanese": true,
-      "ai_overview": "爽快タワーディフェンス！放置で戦力急上昇、課金のない純粋なシングルプレイ体験をお楽しみください！部隊を配置すれば、敵の大群を自動で撃退。放置中も資源がどんどん溜まる。スキマ時間でキャラクターを集め、タワーを強化し、防衛線を強固な要塞へ成長させよう！",
-      "ai_pros": [
-        "カジュアル / インディー好きなら抑えておきたい注目作"
-      ],
-      "ai_cons": [
-        "高負荷3Dグラフィック：快適プレイには「GTX 1060」以上のPC環境を推奨"
-      ],
-      "picked_reviews": [],
-      "gpu_hint": "GTX 1060",
-      "has_controller": false,
-      "is_heavy_3d": true,
-      "steam_url": "https://store.steampowered.com/app/4740930/"
-    },
-    {
-      "appid": 4950600,
-      "name": "HAPPY PROPAGANDA",
-      "name_en": "HAPPY PROPAGANDA",
-      "publishers": [
-        "Not a Dog"
-      ],
-      "has_key_store": false,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4950600/d0e3e8b4eb0414e4ad76152cf301b72702730b8b/header.jpg?t=1793725235",
-      "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4950600/61ea6f35434d4d650cf1dfd8455e697b16c6dc86/ss_61ea6f35434d4d650cf1dfd8455e697b16c6dc86.600x338.jpg?t=1793725235",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4950600/f7b961b735ba5abebed191082dbf4997b6e04e37/ss_f7b961b735ba5abebed191082dbf4997b6e04e37.600x338.jpg?t=1793725235",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4950600/f62916bfa4bb104cfec3224dfd453f359284463a/ss_f62916bfa4bb104cfec3224dfd453f359284463a.600x338.jpg?t=1793725235"
-      ],
-      "discount_percent": 20,
-      "initial_price": 750,
-      "final_price": 600,
-      "initial_formatted": "¥ 750",
-      "final_formatted": "¥ 600",
-      "review_desc": "非常に好評",
-      "positive_rate": 98,
-      "total_reviews": 180,
-      "deal_score": 58,
-      "genres": [
-        "シミュレーション"
-      ],
-      "categories": [
-        "シングルプレイヤー",
-        "Steam実績",
-        "カメラの快適性",
+        "テキストサイズの調整",
         "色のオプション",
-        "カスタム音量調整"
+        "#category_contrast_controls"
       ],
-      "release_date": "2026年10月27日",
+      "release_date": "2026年11月3日",
       "supported_japanese": true,
-      "ai_overview": "『ハッピープロパガンダ』は、生放送のコメントを「承認」か「検閲」で裁く短編アドベンチャー。視聴者の不満とキャスターの心の間で揺れる5日間。検閲、特集の選択、彼女との会話が、複数の結末へとつながります。",
+      "ai_overview": "百年戦争を生き抜く、圧倒的自由度の太閤ライク。ジャンヌ・ダルクから偽物のデザルモワーズまで、全1015人の実在人物でプレイ可能。騎士として名を刻むか、新国家を樹立し英仏を滅ぼすか、商人や野盗として乱世を貪るかはあなた次第。史実イベントはもちろん、マルチエンディングは22枚のタロットカードに対応するコレクション要素も。剣と金貨で、あなただけの歴史を紡ぎ出せ！",
       "ai_pros": [
-        "シミュレーション好きなら抑えておきたい注目作",
+        "インディー / RPG好きなら抑えておきたい注目作",
         "要求スペックは軽め（ミドルクラスGPU目安）で幅広いPCで快適動作"
       ],
       "ai_cons": [],
@@ -708,7 +560,56 @@
       "gpu_hint": "ミドルクラスGPU",
       "has_controller": false,
       "is_heavy_3d": false,
-      "steam_url": "https://store.steampowered.com/app/4950600/"
+      "steam_url": "https://store.steampowered.com/app/4476270/"
+    },
+    {
+      "appid": 5475960,
+      "name": "Incremental Traffic",
+      "name_en": "Incremental Traffic",
+      "publishers": [
+        "Rischer Kriebl"
+      ],
+      "has_key_store": false,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5475960/82902bbd900a8cb74f4d061b4bc9f67a3a24936b/header_japanese.jpg?t=1793602316",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5475960/e76680f7ccfc6afb7ea9e2b88eda8e6a0b64d435/ss_e76680f7ccfc6afb7ea9e2b88eda8e6a0b64d435.600x338.jpg?t=1793602316",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5475960/4e9d2e9d1a232928cecc3af48b5d245572588b58/ss_4e9d2e9d1a232928cecc3af48b5d245572588b58.600x338.jpg?t=1793602316",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5475960/4d0d68477e542916b6bf2c0be4ce615ff6ab0a07/ss_4d0d68477e542916b6bf2c0be4ce615ff6ab0a07.600x338.jpg?t=1793602316"
+      ],
+      "discount_percent": 30,
+      "initial_price": 1400,
+      "final_price": 980,
+      "initial_formatted": "¥ 1,400",
+      "final_formatted": "¥ 980",
+      "review_desc": "非常に好評",
+      "positive_rate": 89,
+      "total_reviews": 500,
+      "deal_score": 58,
+      "genres": [
+        "カジュアル",
+        "シミュレーション"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "Steam実績",
+        "フルコントローラサポート",
+        "テキストサイズの調整",
+        "カスタム音量調整"
+      ],
+      "release_date": "2026年11月1日",
+      "supported_japanese": true,
+      "ai_overview": "渋滞こそが最大の敵になる放置系物流ゲーム。畑や森、採石場から、自動生成された町を抜けて品物を運ぼう。配達するたびにお金が入り、トラックを買い足していくと、やがて自分のトラックで道路が大渋滞。そうなったら、交通ルールで流れを取り戻そう。",
+      "ai_pros": [
+        "フルコントローラー対応で快適に遊べる設計"
+      ],
+      "ai_cons": [
+        "高負荷3Dグラフィック：快適プレイには「GTX 1050」以上のPC環境を推奨"
+      ],
+      "picked_reviews": [],
+      "gpu_hint": "GTX 1050",
+      "has_controller": true,
+      "is_heavy_3d": true,
+      "steam_url": "https://store.steampowered.com/app/5475960/"
     },
     {
       "appid": 2291060,
@@ -760,6 +661,55 @@
       "steam_url": "https://store.steampowered.com/app/2291060/"
     },
     {
+      "appid": 4356430,
+      "name": "『NBA 2K27』",
+      "name_en": "NBA 2K27",
+      "publishers": [
+        "2K"
+      ],
+      "has_key_store": true,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4356430/9152438fde7de9f4c20b4fd9072ba69f844dacab/header.jpg?t=1792163139",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4356430/0202201bff9e57adf4913e9c8a21062c730e0b27/ss_0202201bff9e57adf4913e9c8a21062c730e0b27.600x338.jpg?t=1792163139",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4356430/2a04508bf934834c93cfe5c91f27f45d3043a83d/ss_2a04508bf934834c93cfe5c91f27f45d3043a83d.600x338.jpg?t=1792163139",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4356430/57773a1574208a10b2a5a12fdf3e0be991461475/ss_57773a1574208a10b2a5a12fdf3e0be991461475.600x338.jpg?t=1792163139"
+      ],
+      "discount_percent": 55,
+      "initial_price": 14080,
+      "final_price": 6336,
+      "initial_formatted": "¥ 14,080",
+      "final_formatted": "¥ 6,336",
+      "review_desc": "賛否両論",
+      "positive_rate": 49,
+      "total_reviews": 3176,
+      "deal_score": 51,
+      "genres": [
+        "スポーツ"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "マルチプレイヤー",
+        "PvP",
+        "オンラインPvP",
+        "共有／分割画面でのPvP"
+      ],
+      "release_date": "2026年9月3日",
+      "supported_japanese": true,
+      "ai_overview": "『NBA 2K27』で終わりなき興奮を駆け抜けろ。マイキャリア、マイチーム、マイNBAで24時間いつでも頂点を目指し、あなたが夢見たバスケットボールを現実のものに！",
+      "ai_pros": [
+        "マルチプレイ対応で快適に遊べる設計"
+      ],
+      "ai_cons": [
+        "直近レビューで賛否あり（好評率49%）：PC環境との相性や動作の重さに要注意",
+        "高負荷3Dグラフィック：快適プレイには「RTX 2070」以上のPC環境を推奨"
+      ],
+      "picked_reviews": [],
+      "gpu_hint": "RTX 2070",
+      "has_controller": true,
+      "is_heavy_3d": true,
+      "steam_url": "https://store.steampowered.com/app/4356430/"
+    },
+    {
       "appid": 1285190,
       "name": "ボーダーランズ®4",
       "name_en": "Borderlands 4",
@@ -780,7 +730,7 @@
       "final_formatted": "¥ 4,730",
       "review_desc": "賛否両論",
       "positive_rate": 55,
-      "total_reviews": 59175,
+      "total_reviews": 59208,
       "deal_score": 50,
       "genres": [
         "アクション",
@@ -809,6 +759,55 @@
       "has_controller": true,
       "is_heavy_3d": true,
       "steam_url": "https://store.steampowered.com/app/1285190/"
+    },
+    {
+      "appid": 2991310,
+      "name": "夢幻桜楼閣",
+      "name_en": "Eternal Palace Sakura",
+      "publishers": [
+        "Denneko Yuugi",
+        "Shochiku"
+      ],
+      "has_key_store": false,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2991310/header_japanese.jpg?t=1793805269",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2991310/d9703b71e7833f9cee77f4e7f7b374a5b614304e/ss_d9703b71e7833f9cee77f4e7f7b374a5b614304e.600x338.jpg?t=1793805269",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2991310/2f2b847a3a6084933ae572081a792c626f619fd5/ss_2f2b847a3a6084933ae572081a792c626f619fd5.600x338.jpg?t=1793805269",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2991310/c0cd38b6b6dd07750621ae795f6e05613f4899ff/ss_c0cd38b6b6dd07750621ae795f6e05613f4899ff.600x338.jpg?t=1793805269"
+      ],
+      "discount_percent": 20,
+      "initial_price": 1500,
+      "final_price": 1200,
+      "initial_formatted": "¥ 1,500",
+      "final_formatted": "¥ 1,200",
+      "review_desc": "好評",
+      "positive_rate": 83,
+      "total_reviews": 500,
+      "deal_score": 50,
+      "genres": [
+        "アクション"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "Steam実績",
+        "フルコントローラサポート",
+        "Steamクラウド",
+        "ファミリーシェアリング"
+      ],
+      "release_date": "2026年11月4日",
+      "supported_japanese": true,
+      "ai_overview": "刃を研ぎ澄まし、桜舞い散る永遠のダンジョン──『夢幻桜楼閣』へと足を踏み入れよ！　そこは安息を知らぬ怪異たちが彷徨う夢幻の迷宮。絶えず変化する領域を戦い抜き、報酬のアイテムで自身を強化！　ド派手なバトルと戦略で「エンドコンテンツ」に挑む、ローグライト3Dアクション！",
+      "ai_pros": [
+        "フルコントローラー対応・クラウドセーブ対応で快適に遊べる設計"
+      ],
+      "ai_cons": [
+        "高負荷3Dグラフィック：快適プレイには「GTX1050」以上のPC環境を推奨"
+      ],
+      "picked_reviews": [],
+      "gpu_hint": "GTX1050",
+      "has_controller": true,
+      "is_heavy_3d": true,
+      "steam_url": "https://store.steampowered.com/app/2991310/"
     }
   ]
 }
