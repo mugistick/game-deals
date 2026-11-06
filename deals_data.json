@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06 04:40",
+  "updated_at": "2026-11-07 04:39",
   "total_count": 16,
   "affiliate": {
     "amazon_tag": "mugistick-22",
@@ -31,7 +31,7 @@
       "final_formatted": "¥ 996",
       "review_desc": "非常に好評",
       "positive_rate": 91,
-      "total_reviews": 29966,
+      "total_reviews": 29968,
       "deal_score": 92,
       "genres": [
         "アクション",
@@ -61,54 +61,6 @@
       "steam_url": "https://store.steampowered.com/app/960170/"
     },
     {
-      "appid": 981750,
-      "name": "CRYSTAR -クライスタ-",
-      "name_en": "Crystar",
-      "publishers": [
-        "FURYU CORPORATION"
-      ],
-      "has_key_store": false,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/981750/header.jpg?t=1793825885",
-      "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/981750/ss_f9981daf2c77e2e1e282cd93c6dd90ca6cb30f10.600x338.jpg?t=1793825885",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/981750/ss_1244fa63224a5ffc200f8758836fde77305a24b3.600x338.jpg?t=1793825885",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/981750/ss_127679ae4acca353c0be9d976f794d3af1328604.600x338.jpg?t=1793825885"
-      ],
-      "discount_percent": 94,
-      "initial_price": 3100,
-      "final_price": 186,
-      "initial_formatted": "¥ 3,100",
-      "final_formatted": "¥ 186",
-      "review_desc": "やや好評",
-      "positive_rate": 75,
-      "total_reviews": 1438,
-      "deal_score": 80,
-      "genres": [
-        "アクション",
-        "RPG"
-      ],
-      "categories": [
-        "シングルプレイヤー",
-        "Steam実績",
-        "Steamトレーディングカード",
-        "DualSenseコントローラーサポート",
-        "部分的コントローラサポート"
-      ],
-      "release_date": "2019年8月27日",
-      "supported_japanese": true,
-      "ai_overview": "『涙に意味を与えてあげて。』 泣いて戦う異色のアクションRPG。",
-      "ai_pros": [
-        "コントローラー対応で快適に遊べる設計",
-        "要求スペックは軽め（ミドルクラスGPU目安）で幅広いPCで快適動作"
-      ],
-      "ai_cons": [],
-      "picked_reviews": [],
-      "gpu_hint": "ミドルクラスGPU",
-      "has_controller": true,
-      "is_heavy_3d": false,
-      "steam_url": "https://store.steampowered.com/app/981750/"
-    },
-    {
       "appid": 2175540,
       "name": "ドラゴンクエストモンスターズ３　魔族の王子とエルフの旅",
       "name_en": "DRAGON QUEST MONSTERS: The Dark Prince",
@@ -129,7 +81,7 @@
       "final_formatted": "¥ 996",
       "review_desc": "やや好評",
       "positive_rate": 71,
-      "total_reviews": 1261,
+      "total_reviews": 1262,
       "deal_score": 72,
       "genres": [
         "RPG"
@@ -178,7 +130,7 @@
       "final_formatted": "¥ 4,400",
       "review_desc": "非常に好評",
       "positive_rate": 93,
-      "total_reviews": 5121,
+      "total_reviews": 5130,
       "deal_score": 72,
       "genres": [
         "アクション",
@@ -227,7 +179,7 @@
       "final_formatted": "¥ 2,010",
       "review_desc": "非常に好評",
       "positive_rate": 91,
-      "total_reviews": 2620,
+      "total_reviews": 2696,
       "deal_score": 72,
       "genres": [
         "アクション",
@@ -243,7 +195,7 @@
       ],
       "release_date": "2026年11月4日",
       "supported_japanese": true,
-      "ai_overview": "ペースの速い弾幕ローグライト FPS 🔴 敵対的な AI によって駆動される容赦ないマシンと戦います。終わりのないサイクルから抜け出しましょう。ディープガン改造で無限の武器バリエーションを作成します。致命的な相乗効果を生み出します。環境破壊から抜け出す方法を切り開く /システムを破壊する /解放する",
+      "ai_overview": "Fast paced Bullet hell Roguelite FPS 🔴 Fight relentless machines driven by a hostile AI. Escape an endless cycle. Craft infinite weapon variants with deep gun modding. Forge deadly synergies. Carve your way out through enviro destruction /BREAK THE SYSTEM /BREAK FREE",
       "ai_pros": [
         "フルコントローラー対応で快適に遊べる設計"
       ],
@@ -277,7 +229,7 @@
       "final_formatted": "¥ 780",
       "review_desc": "非常に好評",
       "positive_rate": 92,
-      "total_reviews": 349001,
+      "total_reviews": 349245,
       "deal_score": 70,
       "genres": [
         "アクション",
@@ -292,7 +244,7 @@
       ],
       "release_date": "2025年2月26日",
       "supported_japanese": true,
-      "ai_overview": "最大6人で遊べるオンライン協力ホラーゲーム。貴重な、完全に物理ベースのオブジェクトを見つけて、作成者の欲求を満たすために取得および抽出するときに慎重に扱います。",
+      "ai_overview": "An online co-op horror game with up to 6 players. Locate valuable, fully physics-based objects and handle them with care as you retrieve and extract to satisfy your creator's desires.",
       "ai_pros": [
         "フルコントローラー対応・オンライン協力プレイ対応で快適に遊べる設計",
         "要求スペックは軽め（GTX 1070目安）で幅広いPCで快適動作"
@@ -305,104 +257,54 @@
       "steam_url": "https://store.steampowered.com/app/3241660/"
     },
     {
-      "appid": 1689620,
-      "name": "BLEACH Rebirth of Souls",
-      "name_en": "BLEACH Rebirth of Souls",
+      "appid": 1211600,
+      "name": "ZED ZONE",
+      "name_en": "ZED ZONE",
       "publishers": [
-        "Bandai Namco Entertainment Inc."
+        "INDIECN"
       ],
       "has_key_store": false,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1689620/header.jpg?t=1765454766",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1211600/aac7446006d1fb3898eccf697406d0c357cf20a3/header_alt_assets_2.jpg?t=1793949713",
       "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1689620/ss_8108c4ed643d4b044ae593c53ab90972f1f8f91c.600x338.jpg?t=1765454766",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1689620/ss_1c2da8e66d54596c8a890d9c838c4f87d23e779e.600x338.jpg?t=1765454766",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1689620/ss_7d219a884e0e9406681deb397b91c223fa453b63.600x338.jpg?t=1765454766"
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1211600/cbc24c2fbbd90d69381ddb1ee4ef98302bb396df/ss_cbc24c2fbbd90d69381ddb1ee4ef98302bb396df.600x338.jpg?t=1793949713",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1211600/c4975ff0a3c94e553fc9af9554ca4284f0f40b47/ss_c4975ff0a3c94e553fc9af9554ca4284f0f40b47.600x338.jpg?t=1793949713",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1211600/6c61e38ac72ac38ac8ce3a08d652d5b73da95fd6/ss_6c61e38ac72ac38ac8ce3a08d652d5b73da95fd6.600x338.jpg?t=1793949713"
       ],
-      "discount_percent": 70,
-      "initial_price": 10780,
-      "final_price": 3234,
-      "initial_formatted": "¥ 10,780",
-      "final_formatted": "¥ 3,234",
-      "review_desc": "賛否両論",
-      "positive_rate": 68,
-      "total_reviews": 4956,
-      "deal_score": 66,
+      "discount_percent": 40,
+      "initial_price": 1400,
+      "final_price": 840,
+      "initial_formatted": "¥ 1,400",
+      "final_formatted": "¥ 840",
+      "review_desc": "非常に好評",
+      "positive_rate": 82,
+      "total_reviews": 3673,
+      "deal_score": 62,
       "genres": [
-        "アクション"
+        "アクション",
+        "インディー",
+        "RPG",
+        "シミュレーション"
       ],
       "categories": [
         "シングルプレイヤー",
         "マルチプレイヤー",
-        "PvP",
-        "オンラインPvP",
-        "共有／分割画面でのPvP"
+        "協力プレイ",
+        "オンライン協力プレイ",
+        "LAN協力プレイ"
       ],
-      "release_date": "2025年3月20日",
+      "release_date": "2026年11月5日",
       "supported_japanese": true,
-      "ai_overview": "プレイアブルキャラクター全員が覚醒し極限の状況をひっくり返し逆転しあう、 『BLEACH』の“一撃必殺”ドラマティック対戦アクションを体感せよ！",
+      "ai_overview": "大災害が世界を襲った。任務中に乗っていた航空機が墜落し、あなたはZed Zoneに閉じ込められてしまう。 ゾンビと怪物が至るところにうろつく中、脱出を目指して資材を集め、スキルを磨き、シェルターを築き、ゾンビの大群と謎のメカを打ち倒しながら、かすかな希望を追い求めろ。",
       "ai_pros": [
-        "マルチプレイ対応で快適に遊べる設計"
-      ],
-      "ai_cons": [
-        "好みが分かれる作品（好評率68%）：ゲームシステムや難易度の事前確認を推奨",
-        "高負荷3Dグラフィック：快適プレイには「Radeon RX 6700」以上のPC環境を推奨"
-      ],
-      "picked_reviews": [],
-      "gpu_hint": "Radeon RX 6700",
-      "has_controller": true,
-      "is_heavy_3d": true,
-      "steam_url": "https://store.steampowered.com/app/1689620/"
-    },
-    {
-      "appid": 2060160,
-      "name": "農家は Replace() されました",
-      "name_en": "The Farmer Was Replaced",
-      "publishers": [
-        "Metaroot",
-        "Timon Herzog"
-      ],
-      "has_key_store": false,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2060160/1e8387bf15d13a06d385634000e630f840958be3/header_alt_assets_2_japanese.jpg?t=1793711051",
-      "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2060160/cbc6d11bbfc223effb9025e4ecdcc55317f0d9d5/ss_cbc6d11bbfc223effb9025e4ecdcc55317f0d9d5.600x338.jpg?t=1793711051",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2060160/4be56f9ead8c790fb331c192ed50f5ca07ac3551/ss_4be56f9ead8c790fb331c192ed50f5ca07ac3551.600x338.jpg?t=1793711051",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2060160/626c7fd80f4febd821a57499a936a331dd782b26/ss_626c7fd80f4febd821a57499a936a331dd782b26.600x338.jpg?t=1793711051"
-      ],
-      "discount_percent": 30,
-      "initial_price": 1200,
-      "final_price": 840,
-      "initial_formatted": "¥ 1,200",
-      "final_formatted": "¥ 840",
-      "review_desc": "非常に好評",
-      "positive_rate": 95,
-      "total_reviews": 9670,
-      "deal_score": 64,
-      "genres": [
-        "カジュアル",
-        "インディー",
-        "シミュレーション",
-        "ストラテジー"
-      ],
-      "categories": [
-        "シングルプレイヤー",
-        "Steam実績",
-        "テキストサイズの調整",
-        "カメラの快適性",
-        "カスタム音量調整"
-      ],
-      "release_date": "2025年10月10日",
-      "supported_japanese": true,
-      "ai_overview": "ドローンをプログラムし、最適化して農場を自動化し、仕事をするのを見守りましょう。資源を集めて上位テクノロジーをアンロックし、世界一効率的な農家を目指してください。問題解決とコーディングのスキルを上げましょう。",
-      "ai_pros": [
-        "カジュアル / インディー好きなら抑えておきたい注目作",
-        "要求スペックは軽め（ミドルクラスGPU目安）で幅広いPCで快適動作"
+        "オンライン協力プレイ対応で快適に遊べる設計",
+        "要求スペックは軽め（GTX 1060目安）で幅広いPCで快適動作"
       ],
       "ai_cons": [],
       "picked_reviews": [],
-      "gpu_hint": "ミドルクラスGPU",
-      "has_controller": false,
+      "gpu_hint": "GTX 1060",
+      "has_controller": true,
       "is_heavy_3d": false,
-      "steam_url": "https://store.steampowered.com/app/2060160/"
+      "steam_url": "https://store.steampowered.com/app/1211600/"
     },
     {
       "appid": 252490,
@@ -425,7 +327,7 @@
       "final_formatted": "¥ 2,300",
       "review_desc": "やや好評",
       "positive_rate": 77,
-      "total_reviews": 1179392,
+      "total_reviews": 1179733,
       "deal_score": 61,
       "genres": [
         "アクション",
@@ -477,7 +379,7 @@
       "final_formatted": "¥ 1,690",
       "review_desc": "賛否両論",
       "positive_rate": 53,
-      "total_reviews": 109468,
+      "total_reviews": 109526,
       "deal_score": 60,
       "genres": [
         "アクション",
@@ -509,6 +411,55 @@
       "steam_url": "https://store.steampowered.com/app/2399830/"
     },
     {
+      "appid": 2362060,
+      "name": "CODE VEIN II",
+      "name_en": "CODE VEIN II",
+      "publishers": [
+        "Bandai Namco Entertainment Inc."
+      ],
+      "has_key_store": false,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2362060/080d9c431059b2151673d9e8605f238a1730187e/header_japanese.jpg?t=1790931038",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2362060/164032cfc179a005dcc601c2ba11e29faa407cf1/ss_164032cfc179a005dcc601c2ba11e29faa407cf1.600x338.jpg?t=1790931038",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2362060/ec1065b1ff496d896979cac644ff64b290ae7f94/ss_ec1065b1ff496d896979cac644ff64b290ae7f94.600x338.jpg?t=1790931038",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2362060/4d2af6716a9183c97ab6cee278b40f52f88bf414/ss_4d2af6716a9183c97ab6cee278b40f52f88bf414.600x338.jpg?t=1790931038"
+      ],
+      "discount_percent": 50,
+      "initial_price": 8910,
+      "final_price": 4455,
+      "initial_formatted": "¥ 8,910",
+      "final_formatted": "¥ 4,455",
+      "review_desc": "やや好評",
+      "positive_rate": 76,
+      "total_reviews": 5600,
+      "deal_score": 60,
+      "genres": [
+        "アクション",
+        "RPG"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "Steam実績",
+        "フルコントローラサポート",
+        "Steamトレーディングカード",
+        "ゲームパッド推奨"
+      ],
+      "release_date": "2026年1月29日",
+      "supported_japanese": true,
+      "ai_overview": "バディと共に世界を探索し、強大な吸血鬼との死闘と時間を越えた壮大な物語が待ち受ける「ドラマティック探索アクションRPG」",
+      "ai_pros": [
+        "フルコントローラー対応で快適に遊べる設計"
+      ],
+      "ai_cons": [
+        "高負荷3Dグラフィック：快適プレイには「RTX 3080」以上のPC環境を推奨"
+      ],
+      "picked_reviews": [],
+      "gpu_hint": "RTX 3080",
+      "has_controller": true,
+      "is_heavy_3d": true,
+      "steam_url": "https://store.steampowered.com/app/2362060/"
+    },
+    {
       "appid": 1677110,
       "name": "Lightyear Frontier",
       "name_en": "Lightyear Frontier",
@@ -530,7 +481,7 @@
       "final_formatted": "¥ 2,720",
       "review_desc": "非常に好評",
       "positive_rate": 83,
-      "total_reviews": 4395,
+      "total_reviews": 4419,
       "deal_score": 58,
       "genres": [],
       "categories": [
@@ -556,53 +507,54 @@
       "steam_url": "https://store.steampowered.com/app/1677110/"
     },
     {
-      "appid": 5475960,
-      "name": "Incremental Traffic",
-      "name_en": "Incremental Traffic",
+      "appid": 4476270,
+      "name": "Crown & Coin: The Hundred Years（百年戦争）",
+      "name_en": "Crown and Coin: The Hundred Years",
       "publishers": [
-        "Rischer Kriebl"
+        "MUZINA GAMES"
       ],
       "has_key_store": false,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5475960/82902bbd900a8cb74f4d061b4bc9f67a3a24936b/header_japanese.jpg?t=1793872022",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4476270/badbab5667917f5aeb41c40ae97dfc9ae9681c7b/header.jpg?t=1793729474",
       "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5475960/e76680f7ccfc6afb7ea9e2b88eda8e6a0b64d435/ss_e76680f7ccfc6afb7ea9e2b88eda8e6a0b64d435.600x338.jpg?t=1793872022",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5475960/4e9d2e9d1a232928cecc3af48b5d245572588b58/ss_4e9d2e9d1a232928cecc3af48b5d245572588b58.600x338.jpg?t=1793872022",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5475960/4d0d68477e542916b6bf2c0be4ce615ff6ab0a07/ss_4d0d68477e542916b6bf2c0be4ce615ff6ab0a07.600x338.jpg?t=1793872022"
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4476270/f60fa8e9fb5a886231ff98822495b80d4530cd00/ss_f60fa8e9fb5a886231ff98822495b80d4530cd00.600x338.jpg?t=1793729474",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4476270/4e6156addb8aa9cbbb1c9dd1ad563955cd1bd4ef/ss_4e6156addb8aa9cbbb1c9dd1ad563955cd1bd4ef.600x338.jpg?t=1793729474",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4476270/9be85db990d66f134bad798af717f4f9f506c1f0/ss_9be85db990d66f134bad798af717f4f9f506c1f0.600x338.jpg?t=1793729474"
       ],
-      "discount_percent": 30,
-      "initial_price": 1400,
-      "final_price": 980,
-      "initial_formatted": "¥ 1,400",
-      "final_formatted": "¥ 980",
-      "review_desc": "非常に好評",
-      "positive_rate": 87,
-      "total_reviews": 143,
-      "deal_score": 57,
+      "discount_percent": 20,
+      "initial_price": 3480,
+      "final_price": 2784,
+      "initial_formatted": "¥ 3,480",
+      "final_formatted": "¥ 2,784",
+      "review_desc": "好評",
+      "positive_rate": 93,
+      "total_reviews": 500,
+      "deal_score": 56,
       "genres": [
-        "カジュアル",
-        "シミュレーション"
+        "インディー",
+        "RPG",
+        "シミュレーション",
+        "ストラテジー"
       ],
       "categories": [
         "シングルプレイヤー",
         "Steam実績",
-        "フルコントローラサポート",
         "テキストサイズの調整",
-        "カスタム音量調整"
+        "色のオプション",
+        "#category_contrast_controls"
       ],
-      "release_date": "2026年11月1日",
+      "release_date": "2026年11月3日",
       "supported_japanese": true,
-      "ai_overview": "渋滞こそが最大の敵になる交通・物流ゲーム。畑や森、採石場から、自動生成された町を抜けて品物を運ぼう。配達するたびにお金が入り、トラックを買い足していくと、やがて自分のトラックで道路が大渋滞。そうなったら、交通ルールで流れを取り戻そう。",
+      "ai_overview": "百年戦争を生き抜く、圧倒的自由度の太閤ライク。ジャンヌ・ダルクから偽物のデザルモワーズまで、全1015人の実在人物でプレイ可能。騎士として名を刻むか、新国家を樹立し英仏を滅ぼすか、商人や野盗として乱世を貪るかはあなた次第。史実イベントはもちろん、マルチエンディングは22枚のタロットカードに対応するコレクション要素も。剣と金貨で、あなただけの歴史を紡ぎ出せ！",
       "ai_pros": [
-        "フルコントローラー対応で快適に遊べる設計"
+        "インディー / RPG好きなら抑えておきたい注目作",
+        "要求スペックは軽め（ミドルクラスGPU目安）で幅広いPCで快適動作"
       ],
-      "ai_cons": [
-        "高負荷3Dグラフィック：快適プレイには「GTX 1050」以上のPC環境を推奨"
-      ],
+      "ai_cons": [],
       "picked_reviews": [],
-      "gpu_hint": "GTX 1050",
-      "has_controller": true,
-      "is_heavy_3d": true,
-      "steam_url": "https://store.steampowered.com/app/5475960/"
+      "gpu_hint": "ミドルクラスGPU",
+      "has_controller": false,
+      "is_heavy_3d": false,
+      "steam_url": "https://store.steampowered.com/app/4476270/"
     },
     {
       "appid": 2291060,
@@ -654,54 +606,51 @@
       "steam_url": "https://store.steampowered.com/app/2291060/"
     },
     {
-      "appid": 4476270,
-      "name": "Crown & Coin: The Hundred Years（百年戦争）",
-      "name_en": "Crown and Coin: The Hundred Years",
+      "appid": 3208460,
+      "name": "Rogue Braver | 勇者ローグ",
+      "name_en": "Rogue Braver | 勇者ローグ",
       "publishers": [
-        "MUZINA GAMES"
+        "DORASA.NET"
       ],
       "has_key_store": false,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4476270/badbab5667917f5aeb41c40ae97dfc9ae9681c7b/header.jpg?t=1793729474",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3208460/header_japanese.jpg?t=1793969991",
       "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4476270/f60fa8e9fb5a886231ff98822495b80d4530cd00/ss_f60fa8e9fb5a886231ff98822495b80d4530cd00.600x338.jpg?t=1793729474",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4476270/4e6156addb8aa9cbbb1c9dd1ad563955cd1bd4ef/ss_4e6156addb8aa9cbbb1c9dd1ad563955cd1bd4ef.600x338.jpg?t=1793729474",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4476270/9be85db990d66f134bad798af717f4f9f506c1f0/ss_9be85db990d66f134bad798af717f4f9f506c1f0.600x338.jpg?t=1793729474"
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3208460/490441157adf3293d9c1a17131edc7743e42922e/ss_490441157adf3293d9c1a17131edc7743e42922e.600x338.jpg?t=1793969991",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3208460/6c400dd910b79bad16212f7260948cfe0dab6067/ss_6c400dd910b79bad16212f7260948cfe0dab6067.600x338.jpg?t=1793969991",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3208460/010f114c3c0ffed99524e108d268fb5b6a8d88c1/ss_010f114c3c0ffed99524e108d268fb5b6a8d88c1.600x338.jpg?t=1793969991"
       ],
       "discount_percent": 20,
-      "initial_price": 3480,
-      "final_price": 2784,
-      "initial_formatted": "¥ 3,480",
-      "final_formatted": "¥ 2,784",
-      "review_desc": "好評",
-      "positive_rate": 86,
+      "initial_price": 1950,
+      "final_price": 1560,
+      "initial_formatted": "¥ 1,950",
+      "final_formatted": "¥ 1,560",
+      "review_desc": "非常に好評",
+      "positive_rate": 88,
       "total_reviews": 500,
-      "deal_score": 52,
+      "deal_score": 53,
       "genres": [
         "インディー",
         "RPG",
-        "シミュレーション",
-        "ストラテジー"
+        "シミュレーション"
       ],
       "categories": [
         "シングルプレイヤー",
-        "Steam実績",
-        "テキストサイズの調整",
-        "色のオプション",
-        "#category_contrast_controls"
+        "フルコントローラサポート",
+        "ファミリーシェアリング"
       ],
-      "release_date": "2026年11月3日",
+      "release_date": "2026年11月6日",
       "supported_japanese": true,
-      "ai_overview": "百年戦争を生き抜く、圧倒的自由度の太閤ライク。ジャンヌ・ダルクから偽物のデザルモワーズまで、全1015人の実在人物でプレイ可能。騎士として名を刻むか、新国家を樹立し英仏を滅ぼすか、商人や野盗として乱世を貪るかはあなた次第。史実イベントはもちろん、マルチエンディングは22枚のタロットカードに対応するコレクション要素も。剣と金貨で、あなただけの歴史を紡ぎ出せ！",
+      "ai_overview": "自動生成ダンジョンのターン制王道ローグライクRPG",
       "ai_pros": [
-        "インディー / RPG好きなら抑えておきたい注目作",
+        "フルコントローラー対応で快適に遊べる設計",
         "要求スペックは軽め（ミドルクラスGPU目安）で幅広いPCで快適動作"
       ],
       "ai_cons": [],
       "picked_reviews": [],
       "gpu_hint": "ミドルクラスGPU",
-      "has_controller": false,
+      "has_controller": true,
       "is_heavy_3d": false,
-      "steam_url": "https://store.steampowered.com/app/4476270/"
+      "steam_url": "https://store.steampowered.com/app/3208460/"
     },
     {
       "appid": 4356430,
@@ -724,7 +673,7 @@
       "final_formatted": "¥ 6,336",
       "review_desc": "賛否両論",
       "positive_rate": 49,
-      "total_reviews": 3205,
+      "total_reviews": 3235,
       "deal_score": 51,
       "genres": [
         "スポーツ"
@@ -753,6 +702,57 @@
       "steam_url": "https://store.steampowered.com/app/4356430/"
     },
     {
+      "appid": 1285190,
+      "name": "ボーダーランズ®4",
+      "name_en": "Borderlands 4",
+      "publishers": [
+        "2K"
+      ],
+      "has_key_store": true,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1285190/986a88d1b0e1420b00183def2a7034508353afa3/header.jpg?t=1793396913",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1285190/9e2b137a204b18b38ad65966b334e164338f1188/ss_9e2b137a204b18b38ad65966b334e164338f1188.600x338.jpg?t=1793396913",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1285190/fddecc4fa3cba9f54584eab765e13c8f660e06f5/ss_fddecc4fa3cba9f54584eab765e13c8f660e06f5.600x338.jpg?t=1793396913",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1285190/a0edeca7c1fbfd7cfa4419aa49d9787eabff09a6/ss_a0edeca7c1fbfd7cfa4419aa49d9787eabff09a6.600x338.jpg?t=1793396913"
+      ],
+      "discount_percent": 50,
+      "initial_price": 9460,
+      "final_price": 4730,
+      "initial_formatted": "¥ 9,460",
+      "final_formatted": "¥ 4,730",
+      "review_desc": "賛否両論",
+      "positive_rate": 55,
+      "total_reviews": 59254,
+      "deal_score": 50,
+      "genres": [
+        "アクション",
+        "アドベンチャー",
+        "RPG"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "マルチプレイヤー",
+        "協力プレイ",
+        "オンライン協力プレイ",
+        "クロスプラットフォームマルチプレイヤー"
+      ],
+      "release_date": "2025年9月11日",
+      "supported_japanese": true,
+      "ai_overview": "『ボーダーランズ 4』は数十億種類の武器を駆使し、ど迫力な協力アクションで凶悪な敵を倒しまくる、ヒャッハー満載の大人気シューティングRPGゲーム最新作。新たに登場した4人のバッドアスなヴォルト・ハンターの1人となり、秘められた危険な惑星で自由を勝ち取ろう！",
+      "ai_pros": [
+        "オンライン協力プレイ対応で快適に遊べる設計"
+      ],
+      "ai_cons": [
+        "好みが分かれる作品（好評率55%）：ゲームシステムや難易度の事前確認を推奨",
+        "高負荷3Dグラフィック：快適プレイには「RTX 3080」以上のPC環境を推奨"
+      ],
+      "picked_reviews": [],
+      "gpu_hint": "RTX 3080",
+      "has_controller": true,
+      "is_heavy_3d": true,
+      "steam_url": "https://store.steampowered.com/app/1285190/"
+    },
+    {
       "appid": 2991310,
       "name": "夢幻桜楼閣",
       "name_en": "Eternal Palace Sakura",
@@ -773,9 +773,9 @@
       "initial_formatted": "¥ 1,500",
       "final_formatted": "¥ 1,200",
       "review_desc": "非常に好評",
-      "positive_rate": 80,
+      "positive_rate": 82,
       "total_reviews": 500,
-      "deal_score": 49,
+      "deal_score": 50,
       "genres": [
         "アクション"
       ],
