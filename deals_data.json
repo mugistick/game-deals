@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08 04:29",
+  "updated_at": "2026-11-09 04:28",
   "total_count": 16,
   "affiliate": {
     "amazon_tag": "mugistick-22",
@@ -31,7 +31,7 @@
       "final_formatted": "¥ 996",
       "review_desc": "非常に好評",
       "positive_rate": 91,
-      "total_reviews": 29979,
+      "total_reviews": 29981,
       "deal_score": 92,
       "genres": [
         "アクション",
@@ -81,7 +81,7 @@
       "final_formatted": "¥ 745",
       "review_desc": "非常に好評",
       "positive_rate": 82,
-      "total_reviews": 3237,
+      "total_reviews": 3248,
       "deal_score": 83,
       "genres": [
         "アクション"
@@ -109,55 +109,6 @@
       "steam_url": "https://store.steampowered.com/app/2492040/"
     },
     {
-      "appid": 3768760,
-      "name": "007 ファーストライト",
-      "name_en": "007 First Light",
-      "publishers": [
-        "IO Interactive A/S"
-      ],
-      "has_key_store": true,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/be65391533f072e79699be70ef2d47b7b2ac57ee/header_alt_assets_5.jpg?t=1793979129",
-      "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/ef374e5e4ede8c71f32d455652bc00f2fa7c035e/ss_ef374e5e4ede8c71f32d455652bc00f2fa7c035e.600x338.jpg?t=1793979129",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/18787f52adabf0e5248548ed83562e6aac88f94d/ss_18787f52adabf0e5248548ed83562e6aac88f94d.600x338.jpg?t=1793979129",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/43c8cf3875cb6643ac7d8244e9fd39381609814a/ss_43c8cf3875cb6643ac7d8244e9fd39381609814a.600x338.jpg?t=1793979129"
-      ],
-      "discount_percent": 40,
-      "initial_price": 9910,
-      "final_price": 5946,
-      "initial_formatted": "¥ 9,910",
-      "final_formatted": "¥ 5,946",
-      "review_desc": "非常に好評",
-      "positive_rate": 90,
-      "total_reviews": 35706,
-      "deal_score": 74,
-      "genres": [
-        "アクション",
-        "アドベンチャー"
-      ],
-      "categories": [
-        "シングルプレイヤー",
-        "Steam実績",
-        "フルコントローラサポート",
-        "カメラの快適性",
-        "カスタム音量調整"
-      ],
-      "release_date": "2026年5月26日",
-      "supported_japanese": true,
-      "ai_overview": "ナンバーを勝ち取れ。007 ファーストライト は、IO Interactiveが贈る究極のスパイアクションアドベンチャー。MI6の訓練生として、若く聡明だが、時に向こう見ずすぎる男、ジェームズ・ボンドを操り、世界最高のスパイ誕生のストーリーを目撃せよ。",
-      "ai_pros": [
-        "フルコントローラー対応で快適に遊べる設計"
-      ],
-      "ai_cons": [
-        "高負荷3Dグラフィック：快適プレイには「RTX 3060」以上のPC環境を推奨"
-      ],
-      "picked_reviews": [],
-      "gpu_hint": "RTX 3060",
-      "has_controller": true,
-      "is_heavy_3d": true,
-      "steam_url": "https://store.steampowered.com/app/3768760/"
-    },
-    {
       "appid": 2175540,
       "name": "ドラゴンクエストモンスターズ３　魔族の王子とエルフの旅",
       "name_en": "DRAGON QUEST MONSTERS: The Dark Prince",
@@ -178,7 +129,7 @@
       "final_formatted": "¥ 996",
       "review_desc": "やや好評",
       "positive_rate": 71,
-      "total_reviews": 1265,
+      "total_reviews": 1268,
       "deal_score": 72,
       "genres": [
         "RPG"
@@ -227,7 +178,7 @@
       "final_formatted": "¥ 4,400",
       "review_desc": "非常に好評",
       "positive_rate": 93,
-      "total_reviews": 5139,
+      "total_reviews": 5148,
       "deal_score": 72,
       "genres": [
         "アクション",
@@ -276,7 +227,7 @@
       "final_formatted": "¥ 780",
       "review_desc": "非常に好評",
       "positive_rate": 92,
-      "total_reviews": 349517,
+      "total_reviews": 349827,
       "deal_score": 70,
       "genres": [
         "アクション",
@@ -291,7 +242,7 @@
       ],
       "release_date": "2025年2月26日",
       "supported_japanese": true,
-      "ai_overview": "最大6人で遊べるオンライン協力ホラーゲーム。貴重な、完全に物理ベースのオブジェクトを見つけて、作成者の欲求を満たすために取得および抽出するときに慎重に扱います。",
+      "ai_overview": "An online co-op horror game with up to 6 players. Locate valuable, fully physics-based objects and handle them with care as you retrieve and extract to satisfy your creator's desires.",
       "ai_pros": [
         "フルコントローラー対応・オンライン協力プレイ対応で快適に遊べる設計",
         "要求スペックは軽め（GTX 1070目安）で幅広いPCで快適動作"
@@ -325,7 +276,7 @@
       "final_formatted": "¥ 545",
       "review_desc": "非常に好評",
       "positive_rate": 88,
-      "total_reviews": 312281,
+      "total_reviews": 312520,
       "deal_score": 69,
       "genres": [
         "アクション",
@@ -375,7 +326,7 @@
       "final_formatted": "¥ 840",
       "review_desc": "非常に好評",
       "positive_rate": 81,
-      "total_reviews": 3756,
+      "total_reviews": 3879,
       "deal_score": 62,
       "genres": [
         "アクション",
@@ -425,7 +376,7 @@
       "final_formatted": "¥ 2,300",
       "review_desc": "やや好評",
       "positive_rate": 77,
-      "total_reviews": 1180050,
+      "total_reviews": 1180319,
       "deal_score": 61,
       "genres": [
         "アクション",
@@ -456,59 +407,6 @@
       "steam_url": "https://store.steampowered.com/app/252490/"
     },
     {
-      "appid": 2399830,
-      "name": "ARK: Survival Ascended",
-      "name_en": "ARK: Survival Ascended",
-      "publishers": [
-        "Studio Wildcard",
-        "Snail Games USA"
-      ],
-      "has_key_store": false,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/d934813ca531af0fce69fe36bc972f1c90d1aa19/header.jpg?t=1793226168",
-      "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_44f74e86ebd6620a4f0a1f3f8ea97f73dc215e69.600x338.jpg?t=1793226168",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_65c0de5ced28281764990a299eb3926629b2863e.600x338.jpg?t=1793226168",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/ss_0ce49e629369dbf9e8fba324667167568c05c66f.600x338.jpg?t=1793226168"
-      ],
-      "discount_percent": 75,
-      "initial_price": 6760,
-      "final_price": 1690,
-      "initial_formatted": "¥ 6,760",
-      "final_formatted": "¥ 1,690",
-      "review_desc": "賛否両論",
-      "positive_rate": 53,
-      "total_reviews": 109712,
-      "deal_score": 60,
-      "genres": [
-        "アクション",
-        "アドベンチャー",
-        "インディー",
-        "MM（Massively Multiplayer）"
-      ],
-      "categories": [
-        "シングルプレイヤー",
-        "マルチプレイヤー",
-        "MMO",
-        "PvP",
-        "オンラインPvP"
-      ],
-      "release_date": "2023年10月25日",
-      "supported_japanese": true,
-      "ai_overview": "ARKは、Unreal Engine 5を使用したこの次世代のビデオゲームテクノロジーのゼロから再考されます。部族を形成し、何百ものユニークな恐竜と原始の生き物を飼いならし、繁殖させ、食物鎖の頂上までの道を探索、工芸、建設し、戦います。あなたの新しい世界が待っています！",
-      "ai_pros": [
-        "マルチプレイ対応で快適に遊べる設計"
-      ],
-      "ai_cons": [
-        "好みが分かれる作品（好評率53%）：ゲームシステムや難易度の事前確認を推奨",
-        "高負荷3Dグラフィック：快適プレイには「Radeon RX 6800」以上のPC環境を推奨"
-      ],
-      "picked_reviews": [],
-      "gpu_hint": "Radeon RX 6800",
-      "has_controller": true,
-      "is_heavy_3d": true,
-      "steam_url": "https://store.steampowered.com/app/2399830/"
-    },
-    {
       "appid": 2362060,
       "name": "CODE VEIN II",
       "name_en": "CODE VEIN II",
@@ -529,7 +427,7 @@
       "final_formatted": "¥ 4,455",
       "review_desc": "やや好評",
       "positive_rate": 76,
-      "total_reviews": 5603,
+      "total_reviews": 5607,
       "deal_score": 60,
       "genres": [
         "アクション",
@@ -558,53 +456,6 @@
       "steam_url": "https://store.steampowered.com/app/2362060/"
     },
     {
-      "appid": 1677110,
-      "name": "Lightyear Frontier",
-      "name_en": "Lightyear Frontier",
-      "publishers": [
-        "FRAME BREAK",
-        "Coffee Stain Publishing"
-      ],
-      "has_key_store": true,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677110/f4aec944f634f189990fe69e6d353b5609787955/header_alt_assets_7.jpg?t=1793891345",
-      "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677110/2c3ca4c0415ebc5ef4ad1e3bd4b09fbf168c75ab/ss_2c3ca4c0415ebc5ef4ad1e3bd4b09fbf168c75ab.600x338.jpg?t=1793891345",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677110/5e11f0d738107beaa6a0a57b716141afdb00972a/ss_5e11f0d738107beaa6a0a57b716141afdb00972a.600x338.jpg?t=1793891345",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677110/7e6bbccfc2cba96aa3bcebb68f9ff733b5bee1c1/ss_7e6bbccfc2cba96aa3bcebb68f9ff733b5bee1c1.600x338.jpg?t=1793891345"
-      ],
-      "discount_percent": 20,
-      "initial_price": 3400,
-      "final_price": 2720,
-      "initial_formatted": "¥ 3,400",
-      "final_formatted": "¥ 2,720",
-      "review_desc": "非常に好評",
-      "positive_rate": 82,
-      "total_reviews": 4446,
-      "deal_score": 58,
-      "genres": [],
-      "categories": [
-        "シングルプレイヤー",
-        "マルチプレイヤー",
-        "協力プレイ",
-        "オンライン協力プレイ",
-        "クロスプラットフォームマルチプレイヤー"
-      ],
-      "release_date": "2026年11月4日",
-      "supported_japanese": true,
-      "ai_overview": "メカで豪快に農作業を楽しむ、のんびり遊べるオープンワールド農業ゲーム。理想の農場を築き、日々の作業を自動化しよう。メカをカスタマイズすれば、森を丸ごと切り開き、広大な畑を耕すことも。最大3人のフレンドと夕日を眺めながら、ゆったり過ごすのも自由だ。",
-      "ai_pros": [
-        "オンライン協力プレイ対応で快適に遊べる設計"
-      ],
-      "ai_cons": [
-        "高負荷3Dグラフィック：快適プレイには「Radeon RX 6600」以上のPC環境を推奨"
-      ],
-      "picked_reviews": [],
-      "gpu_hint": "Radeon RX 6600",
-      "has_controller": true,
-      "is_heavy_3d": true,
-      "steam_url": "https://store.steampowered.com/app/1677110/"
-    },
-    {
       "appid": 5475960,
       "name": "Incremental Traffic",
       "name_en": "Incremental Traffic",
@@ -624,9 +475,9 @@
       "initial_formatted": "¥ 1,400",
       "final_formatted": "¥ 980",
       "review_desc": "非常に好評",
-      "positive_rate": 87,
-      "total_reviews": 244,
-      "deal_score": 57,
+      "positive_rate": 88,
+      "total_reviews": 312,
+      "deal_score": 58,
       "genres": [
         "カジュアル",
         "シミュレーション"
@@ -654,9 +505,56 @@
       "steam_url": "https://store.steampowered.com/app/5475960/"
     },
     {
+      "appid": 1677110,
+      "name": "Lightyear Frontier",
+      "name_en": "Lightyear Frontier",
+      "publishers": [
+        "FRAME BREAK",
+        "Coffee Stain Publishing"
+      ],
+      "has_key_store": true,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677110/f4aec944f634f189990fe69e6d353b5609787955/header_alt_assets_7.jpg?t=1793891345",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677110/2c3ca4c0415ebc5ef4ad1e3bd4b09fbf168c75ab/ss_2c3ca4c0415ebc5ef4ad1e3bd4b09fbf168c75ab.600x338.jpg?t=1793891345",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677110/5e11f0d738107beaa6a0a57b716141afdb00972a/ss_5e11f0d738107beaa6a0a57b716141afdb00972a.600x338.jpg?t=1793891345",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677110/7e6bbccfc2cba96aa3bcebb68f9ff733b5bee1c1/ss_7e6bbccfc2cba96aa3bcebb68f9ff733b5bee1c1.600x338.jpg?t=1793891345"
+      ],
+      "discount_percent": 20,
+      "initial_price": 3400,
+      "final_price": 2720,
+      "initial_formatted": "¥ 3,400",
+      "final_formatted": "¥ 2,720",
+      "review_desc": "非常に好評",
+      "positive_rate": 82,
+      "total_reviews": 4476,
+      "deal_score": 58,
+      "genres": [],
+      "categories": [
+        "シングルプレイヤー",
+        "マルチプレイヤー",
+        "協力プレイ",
+        "オンライン協力プレイ",
+        "クロスプラットフォームマルチプレイヤー"
+      ],
+      "release_date": "2026年11月4日",
+      "supported_japanese": true,
+      "ai_overview": "メカで豪快に農作業を楽しむ、のんびり遊べるオープンワールド農業ゲーム。理想の農場を築き、日々の作業を自動化しよう。メカをカスタマイズすれば、森を丸ごと切り開き、広大な畑を耕すことも。最大3人のフレンドと夕日を眺めながら、ゆったり過ごすのも自由だ。",
+      "ai_pros": [
+        "オンライン協力プレイ対応で快適に遊べる設計"
+      ],
+      "ai_cons": [
+        "高負荷3Dグラフィック：快適プレイには「Radeon RX 6600」以上のPC環境を推奨"
+      ],
+      "picked_reviews": [],
+      "gpu_hint": "Radeon RX 6600",
+      "has_controller": true,
+      "is_heavy_3d": true,
+      "steam_url": "https://store.steampowered.com/app/1677110/"
+    },
+    {
       "appid": 3208460,
       "name": "Rogue Braver | 勇者ローグ",
-      "name_en": "Rogue Braver | 勇者ローグ",
+      "name_en": "Rogue Braver",
       "publishers": [
         "DORASA.NET"
       ],
@@ -673,9 +571,9 @@
       "initial_formatted": "¥ 1,950",
       "final_formatted": "¥ 1,560",
       "review_desc": "好評",
-      "positive_rate": 91,
+      "positive_rate": 92,
       "total_reviews": 500,
-      "deal_score": 54,
+      "deal_score": 55,
       "genres": [
         "インディー",
         "RPG",
@@ -750,6 +648,55 @@
       "steam_url": "https://store.steampowered.com/app/2291060/"
     },
     {
+      "appid": 4356430,
+      "name": "『NBA 2K27』",
+      "name_en": "NBA 2K27",
+      "publishers": [
+        "2K"
+      ],
+      "has_key_store": true,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4356430/9152438fde7de9f4c20b4fd9072ba69f844dacab/header.jpg?t=1792163139",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4356430/0202201bff9e57adf4913e9c8a21062c730e0b27/ss_0202201bff9e57adf4913e9c8a21062c730e0b27.600x338.jpg?t=1792163139",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4356430/2a04508bf934834c93cfe5c91f27f45d3043a83d/ss_2a04508bf934834c93cfe5c91f27f45d3043a83d.600x338.jpg?t=1792163139",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4356430/57773a1574208a10b2a5a12fdf3e0be991461475/ss_57773a1574208a10b2a5a12fdf3e0be991461475.600x338.jpg?t=1792163139"
+      ],
+      "discount_percent": 55,
+      "initial_price": 14080,
+      "final_price": 6336,
+      "initial_formatted": "¥ 14,080",
+      "final_formatted": "¥ 6,336",
+      "review_desc": "賛否両論",
+      "positive_rate": 49,
+      "total_reviews": 3303,
+      "deal_score": 51,
+      "genres": [
+        "スポーツ"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "マルチプレイヤー",
+        "PvP",
+        "オンラインPvP",
+        "共有／分割画面でのPvP"
+      ],
+      "release_date": "2026年9月3日",
+      "supported_japanese": true,
+      "ai_overview": "『NBA 2K27』で終わりなき興奮を駆け抜けろ。マイキャリア、マイチーム、マイNBAで24時間いつでも頂点を目指し、あなたが夢見たバスケットボールを現実のものに！",
+      "ai_pros": [
+        "マルチプレイ対応で快適に遊べる設計"
+      ],
+      "ai_cons": [
+        "直近レビューで賛否あり（好評率49%）：PC環境との相性や動作の重さに要注意",
+        "高負荷3Dグラフィック：快適プレイには「RTX 2070」以上のPC環境を推奨"
+      ],
+      "picked_reviews": [],
+      "gpu_hint": "RTX 2070",
+      "has_controller": true,
+      "is_heavy_3d": true,
+      "steam_url": "https://store.steampowered.com/app/4356430/"
+    },
+    {
       "appid": 2991310,
       "name": "夢幻桜楼閣",
       "name_en": "Eternal Palace Sakura",
@@ -770,9 +717,9 @@
       "initial_formatted": "¥ 1,500",
       "final_formatted": "¥ 1,200",
       "review_desc": "非常に好評",
-      "positive_rate": 83,
-      "total_reviews": 106,
-      "deal_score": 50,
+      "positive_rate": 80,
+      "total_reviews": 122,
+      "deal_score": 49,
       "genres": [
         "アクション"
       ],
@@ -797,6 +744,57 @@
       "has_controller": true,
       "is_heavy_3d": true,
       "steam_url": "https://store.steampowered.com/app/2991310/"
+    },
+    {
+      "appid": 1272080,
+      "name": "PAYDAY 3",
+      "name_en": "PAYDAY 3",
+      "publishers": [
+        "Starbreeze Entertainment"
+      ],
+      "has_key_store": true,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1272080/3d85d86a3d2c792046792b19df83ceca0e6c58d3/header_alt_assets_12.jpg?t=1793958317",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1272080/93626c274e5b9c39a8662d6146ceeba626bca59c/ss_93626c274e5b9c39a8662d6146ceeba626bca59c.600x338.jpg?t=1793958317",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1272080/ce3af6f81967e6afd7a7de31a58a6de282509402/ss_ce3af6f81967e6afd7a7de31a58a6de282509402.600x338.jpg?t=1793958317",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1272080/74dcb90adc6833dae7d78f858908b9414413b8a4/ss_74dcb90adc6833dae7d78f858908b9414413b8a4.600x338.jpg?t=1793958317"
+      ],
+      "discount_percent": 70,
+      "initial_price": 3500,
+      "final_price": 1050,
+      "initial_formatted": "¥ 3,500",
+      "final_formatted": "¥ 1,050",
+      "review_desc": "やや不評",
+      "positive_rate": 32,
+      "total_reviews": 50057,
+      "deal_score": 45,
+      "genres": [
+        "アクション",
+        "アドベンチャー",
+        "RPG"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "マルチプレイヤー",
+        "協力プレイ",
+        "オンライン協力プレイ",
+        "クロスプラットフォームマルチプレイヤー"
+      ],
+      "release_date": "2023年9月21日",
+      "supported_japanese": true,
+      "ai_overview": "『PAYDAY 3』は1〜4人協力プレイのFPSであり、世界一象徴的な街を舞台にした究極のヒーストファンタジーだ。痕跡を残さず消え去るか、銃弾の雨をくぐり抜けるか。どちらにせよ、獲物を手に脱出しろ。",
+      "ai_pros": [
+        "オンライン協力プレイ対応で快適に遊べる設計"
+      ],
+      "ai_cons": [
+        "直近レビューで賛否あり（好評率32%）：PC環境との相性や動作の重さに要注意",
+        "高負荷3Dグラフィック：快適プレイには「GTX 1080」以上のPC環境を推奨"
+      ],
+      "picked_reviews": [],
+      "gpu_hint": "GTX 1080",
+      "has_controller": true,
+      "is_heavy_3d": true,
+      "steam_url": "https://store.steampowered.com/app/1272080/"
     }
   ]
 }
