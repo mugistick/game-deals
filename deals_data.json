@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-10 04:44",
-  "total_count": 11,
+  "updated_at": "2026-11-11 04:38",
+  "total_count": 14,
   "affiliate": {
     "amazon_tag": "mugistick-22",
     "rakuten_id": "your-rakuten-id",
@@ -10,6 +10,55 @@
     "bto_pc_link": ""
   },
   "deals": [
+    {
+      "appid": 227300,
+      "name": "Euro Truck Simulator 2",
+      "name_en": "Euro Truck Simulator 2",
+      "publishers": [
+        "SCS Software"
+      ],
+      "has_key_store": false,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/9a81dc3126c56637297b654f9dcac057cfd79b77/header.jpg?t=1793285269",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/e040f74641ac21f15e3ec7c2415fc8b4de0b6bf9/ss_e040f74641ac21f15e3ec7c2415fc8b4de0b6bf9.600x338.jpg?t=1793285269",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/edbff61a062a49d1d97269e53b8afbffde05bb24/ss_edbff61a062a49d1d97269e53b8afbffde05bb24.600x338.jpg?t=1793285269",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/c610d985eb21cc22c26507b53cd843cfa0b3a00d/ss_c610d985eb21cc22c26507b53cd843cfa0b3a00d.600x338.jpg?t=1793285269"
+      ],
+      "discount_percent": 75,
+      "initial_price": 2999,
+      "final_price": 749,
+      "initial_formatted": "¥ 2,999",
+      "final_formatted": "¥ 749",
+      "review_desc": "非常に好評",
+      "positive_rate": 94,
+      "total_reviews": 794362,
+      "deal_score": 89,
+      "genres": [
+        "インディー",
+        "シミュレーション"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "マルチプレイヤー",
+        "協力プレイ",
+        "オンライン協力プレイ",
+        "Steam実績"
+      ],
+      "release_date": "2012年10月12日",
+      "supported_japanese": true,
+      "ai_overview": "重要な貨物を長距離輸送するトラック運転手、道路の王者としてヨーロッパを旅しましょう! 数十の都市を探索しながら、あなたの持久力、スキル、スピードをすべて限界まで試してください。",
+      "ai_pros": [
+        "オンライン協力プレイ対応で快適に遊べる設計"
+      ],
+      "ai_cons": [
+        "高負荷3Dグラフィック：快適プレイには「GTX 1660」以上のPC環境を推奨"
+      ],
+      "picked_reviews": [],
+      "gpu_hint": "GTX 1660",
+      "has_controller": true,
+      "is_heavy_3d": true,
+      "steam_url": "https://store.steampowered.com/app/227300/"
+    },
     {
       "appid": 2492040,
       "name": "餓狼伝説 City of the Wolves",
@@ -31,7 +80,7 @@
       "final_formatted": "¥ 745",
       "review_desc": "非常に好評",
       "positive_rate": 82,
-      "total_reviews": 3262,
+      "total_reviews": 3278,
       "deal_score": 83,
       "genres": [
         "アクション"
@@ -57,6 +106,55 @@
       "has_controller": true,
       "is_heavy_3d": true,
       "steam_url": "https://store.steampowered.com/app/2492040/"
+    },
+    {
+      "appid": 1669000,
+      "name": "Age of Wonders 4",
+      "name_en": "Age of Wonders 4",
+      "publishers": [
+        "Paradox Interactive"
+      ],
+      "has_key_store": true,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669000/e73403ff0ef5c9af8460fb1a456ff737e3f125c8/header_alt_assets_14_japanese.jpg?t=1794211708",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669000/5fdcf024343a66fa879c17c6de096bdd79145aa5/ss_5fdcf024343a66fa879c17c6de096bdd79145aa5.600x338.jpg?t=1794211708",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669000/169b45571e6c351e9e28af10e949522fa64e661a/ss_169b45571e6c351e9e28af10e949522fa64e661a.600x338.jpg?t=1794211708",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669000/095080aa7557639425bb21567bab428d9c11bdf7/ss_095080aa7557639425bb21567bab428d9c11bdf7.600x338.jpg?t=1794211708"
+      ],
+      "discount_percent": 60,
+      "initial_price": 6990,
+      "final_price": 2796,
+      "initial_formatted": "¥ 6,990",
+      "final_formatted": "¥ 2,796",
+      "review_desc": "非常に好評",
+      "positive_rate": 81,
+      "total_reviews": 17404,
+      "deal_score": 78,
+      "genres": [
+        "RPG",
+        "ストラテジー"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "マルチプレイヤー",
+        "PvP",
+        "オンラインPvP",
+        "協力プレイ"
+      ],
+      "release_date": "2023年5月2日",
+      "supported_japanese": true,
+      "ai_overview": "自分でデザインしたファンタジーの世界を統治しよう！ 4Xストラテジーと戦略的なターン制バトルが特異な融合を果たした「Age of Wonders」で、新たな魔法の世界を探検しよう。ターンごとに発展していく帝国とともに成長・変化する派閥を支配しよう！",
+      "ai_pros": [
+        "オンライン協力プレイ対応で快適に遊べる設計"
+      ],
+      "ai_cons": [
+        "高負荷3Dグラフィック：快適プレイには「GTX 1070」以上のPC環境を推奨"
+      ],
+      "picked_reviews": [],
+      "gpu_hint": "GTX 1070",
+      "has_controller": true,
+      "is_heavy_3d": true,
+      "steam_url": "https://store.steampowered.com/app/1669000/"
     },
     {
       "appid": 2175540,
@@ -128,7 +226,7 @@
       "final_formatted": "¥ 4,400",
       "review_desc": "非常に好評",
       "positive_rate": 93,
-      "total_reviews": 5157,
+      "total_reviews": 5166,
       "deal_score": 72,
       "genres": [
         "アクション",
@@ -157,57 +255,6 @@
       "steam_url": "https://store.steampowered.com/app/3375780/"
     },
     {
-      "appid": 2161440,
-      "name": "セーリング エラ Sailing Era",
-      "name_en": "Sailing Era",
-      "publishers": [
-        "bilibili"
-      ],
-      "has_key_store": false,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2161440/header_japanese.jpg?t=1727606618",
-      "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2161440/ss_a5bbb2bda54c864a07124ed32b9de505c8794427.600x338.jpg?t=1727606618",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2161440/ss_0f7af8b3d62a33ea57964879a02bf78c6c25f192.600x338.jpg?t=1727606618",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2161440/ss_521b1746ce7702fe05fda6f4c0062527472c5b3c.600x338.jpg?t=1727606618"
-      ],
-      "discount_percent": 55,
-      "initial_price": 2800,
-      "final_price": 1260,
-      "initial_formatted": "¥ 2,800",
-      "final_formatted": "¥ 1,260",
-      "review_desc": "非常に好評",
-      "positive_rate": 83,
-      "total_reviews": 4620,
-      "deal_score": 69,
-      "genres": [
-        "アドベンチャー",
-        "RPG",
-        "シミュレーション",
-        "ストラテジー"
-      ],
-      "categories": [
-        "シングルプレイヤー",
-        "Steam実績",
-        "フルコントローラサポート",
-        "Steamクラウド",
-        "ファミリーシェアリング"
-      ],
-      "release_date": "2023年1月11日",
-      "supported_japanese": true,
-      "ai_overview": "すべての船出が「航海だけじゃない」探検の旅になる！『セーリング エラ』は航海ストラテジー・アドベンチャーゲームです。あなたは航海者となり、船隊を率いて広大な大海原を思う存分探検します。のんびりと航海するもよし、商売で財産を築くのもよし、酒場の美女とのロマンチックな出会いをするのもよし、海賊を捕らえて砲火と刀剣が交わる海戦を楽しむもよし、さらに陸地の奥で文明の遺跡と隠された宝を見つけるもよし・・・・・・異国の文化や雰囲気を体験して、新しい事実の発見を証し、自分だけの自由な航路を進もう！",
-      "ai_pros": [
-        "フルコントローラー対応・クラウドセーブ対応で快適に遊べる設計"
-      ],
-      "ai_cons": [
-        "高負荷3Dグラフィック：快適プレイには「GTX 1050」以上のPC環境を推奨"
-      ],
-      "picked_reviews": [],
-      "gpu_hint": "GTX 1050",
-      "has_controller": true,
-      "is_heavy_3d": true,
-      "steam_url": "https://store.steampowered.com/app/2161440/"
-    },
-    {
       "appid": 3527290,
       "name": "PEAK",
       "name_en": "PEAK",
@@ -229,7 +276,7 @@
       "final_formatted": "¥ 545",
       "review_desc": "非常に好評",
       "positive_rate": 88,
-      "total_reviews": 312693,
+      "total_reviews": 312838,
       "deal_score": 69,
       "genres": [
         "アクション",
@@ -279,7 +326,7 @@
       "final_formatted": "¥ 840",
       "review_desc": "非常に好評",
       "positive_rate": 81,
-      "total_reviews": 3974,
+      "total_reviews": 4067,
       "deal_score": 62,
       "genres": [
         "アクション",
@@ -307,56 +354,6 @@
       "has_controller": true,
       "is_heavy_3d": false,
       "steam_url": "https://store.steampowered.com/app/1211600/"
-    },
-    {
-      "appid": 3499520,
-      "name": "Piano Glow",
-      "name_en": "PianoGlow",
-      "publishers": [
-        "TheAlanski"
-      ],
-      "has_key_store": false,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3499520/header.jpg?t=1794204025",
-      "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3499520/4c96c35c1b219def85036c7ec23827a84540f314/ss_4c96c35c1b219def85036c7ec23827a84540f314.600x338.jpg?t=1794204025",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3499520/1a871a37340b278751e640888037e8b3df12b2cd/ss_1a871a37340b278751e640888037e8b3df12b2cd.600x338.jpg?t=1794204025",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3499520/6947f95b7ed2231791afe87f0431befca9edff92/ss_6947f95b7ed2231791afe87f0431befca9edff92.600x338.jpg?t=1794204025"
-      ],
-      "discount_percent": 30,
-      "initial_price": 2800,
-      "final_price": 1960,
-      "initial_formatted": "¥ 2,800",
-      "final_formatted": "¥ 1,960",
-      "review_desc": "非常に好評",
-      "positive_rate": 96,
-      "total_reviews": 342,
-      "deal_score": 62,
-      "genres": [
-        "カジュアル",
-        "インディー",
-        "シミュレーション",
-        "アニメーション & モデリング"
-      ],
-      "categories": [
-        "シングルプレイヤー",
-        "マルチプレイヤー",
-        "PvP",
-        "オンラインPvP",
-        "協力プレイ"
-      ],
-      "release_date": "2026年11月6日",
-      "supported_japanese": true,
-      "ai_overview": "オンラインのマルチプレイロビーでピアノを演奏！ランキングや、聴音・楽譜・リズム・4K/7K・落下ノーツを使ったゲーム感覚のトレーニングも楽しめます。パソコンやノートPCのQWERTYキーボード、またはピアノで、どんな曲でも演奏可能。ピアノ動画や楽譜を落下ノーツのチュートリアルやMIDIに変換できます。",
-      "ai_pros": [
-        "オンライン協力プレイ対応で快適に遊べる設計",
-        "要求スペックは軽め（ミドルクラスGPU目安）で幅広いPCで快適動作"
-      ],
-      "ai_cons": [],
-      "picked_reviews": [],
-      "gpu_hint": "ミドルクラスGPU",
-      "has_controller": false,
-      "is_heavy_3d": false,
-      "steam_url": "https://store.steampowered.com/app/3499520/"
     },
     {
       "appid": 2362060,
@@ -408,18 +405,18 @@
       "steam_url": "https://store.steampowered.com/app/2362060/"
     },
     {
-      "appid": 5475960,
-      "name": "Incremental Traffic",
-      "name_en": "Incremental Traffic",
+      "appid": 4618570,
+      "name": "ブースターパックヒーロー",
+      "name_en": "Booster Pack Heroes",
       "publishers": [
-        "Rischer Kriebl"
+        "Funday Games"
       ],
       "has_key_store": false,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5475960/82902bbd900a8cb74f4d061b4bc9f67a3a24936b/header_japanese.jpg?t=1793908197",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4618570/ac07ef6abf96418c47dbb3ef356eb28e96035052/header_japanese.jpg?t=1794316433",
       "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5475960/e76680f7ccfc6afb7ea9e2b88eda8e6a0b64d435/ss_e76680f7ccfc6afb7ea9e2b88eda8e6a0b64d435.600x338.jpg?t=1793908197",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5475960/4e9d2e9d1a232928cecc3af48b5d245572588b58/ss_4e9d2e9d1a232928cecc3af48b5d245572588b58.600x338.jpg?t=1793908197",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5475960/4d0d68477e542916b6bf2c0be4ce615ff6ab0a07/ss_4d0d68477e542916b6bf2c0be4ce615ff6ab0a07.600x338.jpg?t=1793908197"
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4618570/9990b5ce49bc39f8e4dfbda03445aa9ed9db0f2a/ss_9990b5ce49bc39f8e4dfbda03445aa9ed9db0f2a.600x338.jpg?t=1794316433",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4618570/5bee537cb11220f37a1ee7e7a514137979b04b6f/ss_5bee537cb11220f37a1ee7e7a514137979b04b6f.600x338.jpg?t=1794316433",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4618570/f392a778d8b764ca407840892d01e4ea072c506e/ss_f392a778d8b764ca407840892d01e4ea072c506e.600x338.jpg?t=1794316433"
       ],
       "discount_percent": 30,
       "initial_price": 1400,
@@ -427,9 +424,207 @@
       "initial_formatted": "¥ 1,400",
       "final_formatted": "¥ 980",
       "review_desc": "非常に好評",
-      "positive_rate": 89,
-      "total_reviews": 344,
+      "positive_rate": 94,
+      "total_reviews": 500,
+      "deal_score": 60,
+      "genres": [
+        "カジュアル",
+        "ストラテジー"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "Steam実績",
+        "#category_contrast_controls",
+        "マウスのみのオプション",
+        "#category_playable_at_your_own_pace"
+      ],
+      "release_date": "2026年11月10日",
+      "supported_japanese": true,
+      "ai_overview": "ブースターパックを開けて、次のホイルヒーローを手に入れよう。『ブースターパックヒーロー』はインクリメンタルゲーム。1パックごとに、次の主力となるヒーローが眠っているかもしれない。果てしないモンスターの群れからタワーを守り、幾多のレルムを戦い抜け。",
+      "ai_pros": [
+        "カジュアル / ストラテジー好きなら抑えておきたい注目作",
+        "要求スペックは軽め（ミドルクラスGPU目安）で幅広いPCで快適動作"
+      ],
+      "ai_cons": [],
+      "picked_reviews": [],
+      "gpu_hint": "ミドルクラスGPU",
+      "has_controller": false,
+      "is_heavy_3d": false,
+      "steam_url": "https://store.steampowered.com/app/4618570/"
+    },
+    {
+      "appid": 4832970,
+      "name": "What the Buck?!",
+      "name_en": "What the Buck?!",
+      "publishers": [
+        "Loerting Games"
+      ],
+      "has_key_store": false,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4832970/ed62607b2b309bfd36bf34e5bd765558bea73307/header.jpg?t=1794261182",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4832970/0383db12362d97d23fac00db86cbdfb42e3925e1/ss_0383db12362d97d23fac00db86cbdfb42e3925e1.600x338.jpg?t=1794261182",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4832970/8b2aa4461bb85c0a019d727e4e84f4736e90ceb5/ss_8b2aa4461bb85c0a019d727e4e84f4736e90ceb5.600x338.jpg?t=1794261182",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4832970/cc72f5c645f65af37cf75b99f9f4df694168f846/ss_cc72f5c645f65af37cf75b99f9f4df694168f846.600x338.jpg?t=1794261182"
+      ],
+      "discount_percent": 30,
+      "initial_price": 905,
+      "final_price": 633,
+      "initial_formatted": "¥ 905",
+      "final_formatted": "¥ 633",
+      "review_desc": "非常に好評",
+      "positive_rate": 90,
+      "total_reviews": 500,
       "deal_score": 58,
+      "genres": [
+        "カジュアル",
+        "インディー",
+        "シミュレーション",
+        "ストラテジー"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "Steam実績",
+        "フルコントローラサポート",
+        "テキストサイズの調整",
+        "カメラの快適性"
+      ],
+      "release_date": "2026年11月9日",
+      "supported_japanese": true,
+      "ai_overview": "『What the Buck?!』は、お金を破壊する爽快なインクリメンタルゲーム。札束を裁断し、テーブル中に連鎖反応を巻き起こし、プレステージで永続的なアップグレードを手に入れ、お金の破壊を自動化しよう。体験版の進行状況を製品版に引き継ぎ可能。",
+      "ai_pros": [
+        "フルコントローラー対応で快適に遊べる設計",
+        "要求スペックは軽め（ミドルクラスGPU目安）で幅広いPCで快適動作"
+      ],
+      "ai_cons": [],
+      "picked_reviews": [],
+      "gpu_hint": "ミドルクラスGPU",
+      "has_controller": true,
+      "is_heavy_3d": false,
+      "steam_url": "https://store.steampowered.com/app/4832970/"
+    },
+    {
+      "appid": 2584270,
+      "name": "Mortal Shell II",
+      "name_en": "Mortal Shell II",
+      "publishers": [
+        "Playstack"
+      ],
+      "has_key_store": false,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2584270/0a4c23b70ced29fac344186ea564dae67c80cfd6/header.jpg?t=1794241756",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2584270/a38e76ebe240fb97b0d81e5a38569c0991d3ca63/ss_a38e76ebe240fb97b0d81e5a38569c0991d3ca63.600x338.jpg?t=1794241756",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2584270/25aef0e6c4291d8708b53c5e8aaa66bc9859592f/ss_25aef0e6c4291d8708b53c5e8aaa66bc9859592f.600x338.jpg?t=1794241756",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2584270/c00a163b2843460386cad95df44de5d47a79fc26/ss_c00a163b2843460386cad95df44de5d47a79fc26.600x338.jpg?t=1794241756"
+      ],
+      "discount_percent": 25,
+      "initial_price": 6480,
+      "final_price": 4860,
+      "initial_formatted": "¥ 6,480",
+      "final_formatted": "¥ 4,860",
+      "review_desc": "非常に好評",
+      "positive_rate": 80,
+      "total_reviews": 20915,
+      "deal_score": 57,
+      "genres": [
+        "アクション",
+        "RPG"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "Steam実績",
+        "フルコントローラサポート",
+        "テキストサイズの調整",
+        "#category_contrast_controls"
+      ],
+      "release_date": "2026年8月20日",
+      "supported_japanese": true,
+      "ai_overview": "誰かの体を自らの武器に。Mortal Shell IIは、続編ながら前作をプレイしていなくても楽しめるアクションRPGで、アドレナリン全開の手強い戦闘が特徴だ。非凡な戦士の力を借りて偽りの神々を追放し、荒れ果てた世界を救済しよう。",
+      "ai_pros": [
+        "フルコントローラー対応で快適に遊べる設計"
+      ],
+      "ai_cons": [
+        "高負荷3Dグラフィック：快適プレイには「RTX 2060」以上のPC環境を推奨"
+      ],
+      "picked_reviews": [],
+      "gpu_hint": "RTX 2060",
+      "has_controller": true,
+      "is_heavy_3d": true,
+      "steam_url": "https://store.steampowered.com/app/2584270/"
+    },
+    {
+      "appid": 3123410,
+      "name": "ユミアのアトリエ ～追憶の錬金術士と幻創の地～",
+      "name_en": "Atelier Yumia: The Alchemist of Memories and the Envisioned Land",
+      "publishers": [
+        "KOEI TECMO GAMES CO., LTD."
+      ],
+      "has_key_store": false,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123410/header_japanese.jpg?t=1793770079",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123410/ss_4339a64cb6ea53e9a05b3a6e34ce034360233a15.600x338.jpg?t=1793770079",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123410/ss_00f7ba10998b45ced533af354e5f28b06dfd9b46.600x338.jpg?t=1793770079",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123410/ss_43baac827a2da14a99ba0e0db7c19ddfe488165e.600x338.jpg?t=1793770079"
+      ],
+      "discount_percent": 50,
+      "initial_price": 9680,
+      "final_price": 4840,
+      "initial_formatted": "¥ 9,680",
+      "final_formatted": "¥ 4,840",
+      "review_desc": "賛否両論",
+      "positive_rate": 63,
+      "total_reviews": 2577,
+      "deal_score": 54,
+      "genres": [
+        "アクション",
+        "アドベンチャー",
+        "RPG"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "Steam実績",
+        "フルコントローラサポート",
+        "Steamクラウド",
+        "ファミリーシェアリング"
+      ],
+      "release_date": "2025年3月20日",
+      "supported_japanese": true,
+      "ai_overview": "錬金術RPG『ユミアのアトリエ』は「記憶」と向き合い、迷いながらも信じる道を進むユミアたちの物語。広大なフィールドを駆け巡り、素材を集めて調合。作成したアイテムで戦闘や探索を有利に進めよう。フィールド上で拠点を作る「ハウジング」などの機能も充実。",
+      "ai_pros": [
+        "フルコントローラー対応・クラウドセーブ対応で快適に遊べる設計"
+      ],
+      "ai_cons": [
+        "好みが分かれる作品（好評率63%）：ゲームシステムや難易度の事前確認を推奨",
+        "高負荷3Dグラフィック：快適プレイには「RTX 2060」以上のPC環境を推奨"
+      ],
+      "picked_reviews": [],
+      "gpu_hint": "RTX 2060",
+      "has_controller": true,
+      "is_heavy_3d": true,
+      "steam_url": "https://store.steampowered.com/app/3123410/"
+    },
+    {
+      "appid": 4876650,
+      "name": "色で仕分けるな",
+      "name_en": "Never Sort By Color",
+      "publishers": [
+        "Bryan Livingston"
+      ],
+      "has_key_store": false,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4876650/241ec2c062836619a035a998cd930cba7213b6fc/header_japanese.jpg?t=1794327933",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4876650/e776b444270b2fbe9a5a0faf4f48a4582e7216c7/ss_e776b444270b2fbe9a5a0faf4f48a4582e7216c7.600x338.jpg?t=1794327933",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4876650/75763a0ae5bea4c54fa447b8fb4e83f7d9a4bd2e/ss_75763a0ae5bea4c54fa447b8fb4e83f7d9a4bd2e.600x338.jpg?t=1794327933",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4876650/2ca98609ee2c5b9588378fe47a480644fcdb9032/ss_2ca98609ee2c5b9588378fe47a480644fcdb9032.600x338.jpg?t=1794327933"
+      ],
+      "discount_percent": 20,
+      "initial_price": 1400,
+      "final_price": 1120,
+      "initial_formatted": "¥ 1,400",
+      "final_formatted": "¥ 1,120",
+      "review_desc": "非常に好評",
+      "positive_rate": 88,
+      "total_reviews": 500,
+      "deal_score": 53,
       "genres": [
         "カジュアル",
         "シミュレーション"
@@ -438,73 +633,22 @@
         "シングルプレイヤー",
         "Steam実績",
         "フルコントローラサポート",
-        "テキストサイズの調整",
-        "カスタム音量調整"
+        "DUALSHOCKコントローラーサポート",
+        "DUALSHOCKコントローラーサポート"
       ],
-      "release_date": "2026年11月1日",
+      "release_date": "2026年11月10日",
       "supported_japanese": true,
-      "ai_overview": "渋滞こそが最大の敵になる交通・物流ゲーム。畑や森、採石場から、自動生成された町を抜けて品物を運ぼう。配達するたびにお金が入り、トラックを買い足していくと、やがて自分のトラックで道路が大渋滞。そうなったら、交通ルールで流れを取り戻そう。",
+      "ai_overview": "そのブロックの山の下のどこかに、あなたの床がある。マグネットグローブ、ふるい、そしてパーツを追う視覚で、攻略不能な「山」を仕分けよう。ラベル付きの引き出しを満たし、パーツを引き出し、MOCがブロックひとつずつ組み上がるのを見届けよう。心地よく、満たされる、たったひとつのルールに支配された世界、決して色で仕分けるな。",
       "ai_pros": [
-        "フルコントローラー対応で快適に遊べる設計"
-      ],
-      "ai_cons": [
-        "高負荷3Dグラフィック：快適プレイには「GTX 1050」以上のPC環境を推奨"
-      ],
-      "picked_reviews": [],
-      "gpu_hint": "GTX 1050",
-      "has_controller": true,
-      "is_heavy_3d": true,
-      "steam_url": "https://store.steampowered.com/app/5475960/"
-    },
-    {
-      "appid": 4476270,
-      "name": "Crown & Coin: The Hundred Years（百年戦争）",
-      "name_en": "Crown and Coin: The Hundred Years",
-      "publishers": [
-        "MUZINA GAMES"
-      ],
-      "has_key_store": false,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4476270/badbab5667917f5aeb41c40ae97dfc9ae9681c7b/header.jpg?t=1794198875",
-      "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4476270/f60fa8e9fb5a886231ff98822495b80d4530cd00/ss_f60fa8e9fb5a886231ff98822495b80d4530cd00.600x338.jpg?t=1794198875",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4476270/4e6156addb8aa9cbbb1c9dd1ad563955cd1bd4ef/ss_4e6156addb8aa9cbbb1c9dd1ad563955cd1bd4ef.600x338.jpg?t=1794198875",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4476270/9be85db990d66f134bad798af717f4f9f506c1f0/ss_9be85db990d66f134bad798af717f4f9f506c1f0.600x338.jpg?t=1794198875"
-      ],
-      "discount_percent": 20,
-      "initial_price": 3480,
-      "final_price": 2784,
-      "initial_formatted": "¥ 3,480",
-      "final_formatted": "¥ 2,784",
-      "review_desc": "非常に好評",
-      "positive_rate": 94,
-      "total_reviews": 500,
-      "deal_score": 56,
-      "genres": [
-        "インディー",
-        "RPG",
-        "シミュレーション",
-        "ストラテジー"
-      ],
-      "categories": [
-        "シングルプレイヤー",
-        "Steam実績",
-        "Steamワークショップ",
-        "テキストサイズの調整",
-        "色のオプション"
-      ],
-      "release_date": "2026年11月3日",
-      "supported_japanese": true,
-      "ai_overview": "百年戦争を生き抜く、圧倒的自由度の太閤ライク。ジャンヌ・ダルクから偽物のデザルモワーズまで、全1015人の実在人物でプレイ可能。騎士として名を刻むか、新国家を樹立し英仏を滅ぼすか、商人や野盗として乱世を貪るかはあなた次第。史実イベントはもちろん、マルチエンディングは22枚のタロットカードに対応するコレクション要素も。剣と金貨で、あなただけの歴史を紡ぎ出せ！",
-      "ai_pros": [
-        "MOD（Steamワークショップ）対応で快適に遊べる設計",
-        "要求スペックは軽め（ミドルクラスGPU目安）で幅広いPCで快適動作"
+        "フルコントローラー対応で快適に遊べる設計",
+        "要求スペックは軽め（GTX 960目安）で幅広いPCで快適動作"
       ],
       "ai_cons": [],
       "picked_reviews": [],
-      "gpu_hint": "ミドルクラスGPU",
-      "has_controller": false,
+      "gpu_hint": "GTX 960",
+      "has_controller": true,
       "is_heavy_3d": false,
-      "steam_url": "https://store.steampowered.com/app/4476270/"
+      "steam_url": "https://store.steampowered.com/app/4876650/"
     },
     {
       "appid": 1272080,
@@ -514,11 +658,11 @@
         "Starbreeze Entertainment"
       ],
       "has_key_store": true,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1272080/1d66ef7e731a18e40b037d39618f7c3dfd614a90/header.jpg?t=1793958317",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1272080/1d66ef7e731a18e40b037d39618f7c3dfd614a90/header.jpg?t=1794297037",
       "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1272080/93626c274e5b9c39a8662d6146ceeba626bca59c/ss_93626c274e5b9c39a8662d6146ceeba626bca59c.600x338.jpg?t=1793958317",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1272080/ce3af6f81967e6afd7a7de31a58a6de282509402/ss_ce3af6f81967e6afd7a7de31a58a6de282509402.600x338.jpg?t=1793958317",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1272080/74dcb90adc6833dae7d78f858908b9414413b8a4/ss_74dcb90adc6833dae7d78f858908b9414413b8a4.600x338.jpg?t=1793958317"
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1272080/93626c274e5b9c39a8662d6146ceeba626bca59c/ss_93626c274e5b9c39a8662d6146ceeba626bca59c.600x338.jpg?t=1794297037",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1272080/ce3af6f81967e6afd7a7de31a58a6de282509402/ss_ce3af6f81967e6afd7a7de31a58a6de282509402.600x338.jpg?t=1794297037",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1272080/74dcb90adc6833dae7d78f858908b9414413b8a4/ss_74dcb90adc6833dae7d78f858908b9414413b8a4.600x338.jpg?t=1794297037"
       ],
       "discount_percent": 70,
       "initial_price": 3500,
@@ -527,7 +671,7 @@
       "final_formatted": "¥ 1,050",
       "review_desc": "やや不評",
       "positive_rate": 32,
-      "total_reviews": 50212,
+      "total_reviews": 50354,
       "deal_score": 45,
       "genres": [
         "アクション",
