@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-11 04:38",
-  "total_count": 14,
+  "updated_at": "2026-11-12 04:45",
+  "total_count": 16,
   "affiliate": {
     "amazon_tag": "mugistick-22",
     "rakuten_id": "your-rakuten-id",
@@ -31,7 +31,7 @@
       "final_formatted": "¥ 749",
       "review_desc": "非常に好評",
       "positive_rate": 94,
-      "total_reviews": 794362,
+      "total_reviews": 794591,
       "deal_score": 89,
       "genres": [
         "インディー",
@@ -60,6 +60,55 @@
       "steam_url": "https://store.steampowered.com/app/227300/"
     },
     {
+      "appid": 270880,
+      "name": "American Truck Simulator",
+      "name_en": "American Truck Simulator",
+      "publishers": [
+        "SCS Software"
+      ],
+      "has_key_store": false,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/270880/a80e5a18363259677ca96c2a39503ea595d2a45f/header.jpg?t=1794418935",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/270880/ss_758470ddbd783e7ff0caac1a59b7fde4a74bbb67.600x338.jpg?t=1794418935",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/270880/ss_ba330377eb0a5bffcdbe10f89d3670b83ad55b3f.600x338.jpg?t=1794418935",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/270880/ss_f0c114cadf2c3c02f54608c6751d5936a534061c.600x338.jpg?t=1794418935"
+      ],
+      "discount_percent": 75,
+      "initial_price": 2999,
+      "final_price": 750,
+      "initial_formatted": "¥ 2,999",
+      "final_formatted": "¥ 750",
+      "review_desc": "非常に好評",
+      "positive_rate": 95,
+      "total_reviews": 170054,
+      "deal_score": 89,
+      "genres": [
+        "インディー",
+        "シミュレーション"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "マルチプレイヤー",
+        "協力プレイ",
+        "オンライン協力プレイ",
+        "Steam実績"
+      ],
+      "release_date": "2016年2月2日",
+      "supported_japanese": true,
+      "ai_overview": "伝説的なアメリカのトラックを体験し、太陽が輝くカリフォルニア、砂浜のネバダ、グランドキャニオンのアリゾナ州でさまざまな貨物を配達しましょう。American Truck Simulator は、息を呑むような風景とアメリカ全土の有名なランドマークを巡る旅へとあなたをお連れします。",
+      "ai_pros": [
+        "オンライン協力プレイ対応で快適に遊べる設計"
+      ],
+      "ai_cons": [
+        "高負荷3Dグラフィック：快適プレイには「GTX 1660」以上のPC環境を推奨"
+      ],
+      "picked_reviews": [],
+      "gpu_hint": "GTX 1660",
+      "has_controller": true,
+      "is_heavy_3d": true,
+      "steam_url": "https://store.steampowered.com/app/270880/"
+    },
+    {
       "appid": 2492040,
       "name": "餓狼伝説 City of the Wolves",
       "name_en": "FATAL FURY: City of the Wolves",
@@ -80,7 +129,7 @@
       "final_formatted": "¥ 745",
       "review_desc": "非常に好評",
       "positive_rate": 82,
-      "total_reviews": 3278,
+      "total_reviews": 3286,
       "deal_score": 83,
       "genres": [
         "アクション"
@@ -108,53 +157,51 @@
       "steam_url": "https://store.steampowered.com/app/2492040/"
     },
     {
-      "appid": 1669000,
-      "name": "Age of Wonders 4",
-      "name_en": "Age of Wonders 4",
+      "appid": 413420,
+      "name": "スーパーダンガンロンパ2 さよなら絶望学園",
+      "name_en": "Danganronpa 2: Goodbye Despair",
       "publishers": [
-        "Paradox Interactive"
+        "Spike Chunsoft Co., Ltd."
       ],
-      "has_key_store": true,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669000/e73403ff0ef5c9af8460fb1a456ff737e3f125c8/header_alt_assets_14_japanese.jpg?t=1794211708",
+      "has_key_store": false,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413420/header_japanese.jpg?t=1781085654",
       "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669000/5fdcf024343a66fa879c17c6de096bdd79145aa5/ss_5fdcf024343a66fa879c17c6de096bdd79145aa5.600x338.jpg?t=1794211708",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669000/169b45571e6c351e9e28af10e949522fa64e661a/ss_169b45571e6c351e9e28af10e949522fa64e661a.600x338.jpg?t=1794211708",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669000/095080aa7557639425bb21567bab428d9c11bdf7/ss_095080aa7557639425bb21567bab428d9c11bdf7.600x338.jpg?t=1794211708"
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413420/ss_ae539881f039547bd54a406cb077cf2d4f62fdee.600x338.jpg?t=1781085654",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413420/ss_46a1f84049a33f21967ed33f66c971f399e2d744.600x338.jpg?t=1781085654",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413420/ss_a2ea3324d77860ef71e92d388281dfaf77197796.600x338.jpg?t=1781085654"
       ],
       "discount_percent": 60,
-      "initial_price": 6990,
-      "final_price": 2796,
-      "initial_formatted": "¥ 6,990",
-      "final_formatted": "¥ 2,796",
+      "initial_price": 2138,
+      "final_price": 855,
+      "initial_formatted": "¥ 2,138",
+      "final_formatted": "¥ 855",
       "review_desc": "非常に好評",
-      "positive_rate": 81,
-      "total_reviews": 17404,
+      "positive_rate": 91,
+      "total_reviews": 31550,
       "deal_score": 78,
       "genres": [
-        "RPG",
-        "ストラテジー"
+        "アドベンチャー"
       ],
       "categories": [
         "シングルプレイヤー",
-        "マルチプレイヤー",
-        "PvP",
-        "オンラインPvP",
-        "協力プレイ"
+        "Steam実績",
+        "フルコントローラサポート",
+        "Steamトレーディングカード",
+        "DUALSHOCKコントローラーサポート"
       ],
-      "release_date": "2023年5月2日",
+      "release_date": "2016年4月18日",
       "supported_japanese": true,
-      "ai_overview": "自分でデザインしたファンタジーの世界を統治しよう！ 4Xストラテジーと戦略的なターン制バトルが特異な融合を果たした「Age of Wonders」で、新たな魔法の世界を探検しよう。ターンごとに発展していく帝国とともに成長・変化する派閥を支配しよう！",
+      "ai_overview": "ジャバウォック島でモノクマの陰謀によって絶望的なコロシアイを強いられる！ 生き残る手段は島の謎を解き明かすことだけだ。",
       "ai_pros": [
-        "オンライン協力プレイ対応で快適に遊べる設計"
+        "フルコントローラー対応で快適に遊べる設計",
+        "要求スペックは軽め（ミドルクラスGPU目安）で幅広いPCで快適動作"
       ],
-      "ai_cons": [
-        "高負荷3Dグラフィック：快適プレイには「GTX 1070」以上のPC環境を推奨"
-      ],
+      "ai_cons": [],
       "picked_reviews": [],
-      "gpu_hint": "GTX 1070",
+      "gpu_hint": "ミドルクラスGPU",
       "has_controller": true,
-      "is_heavy_3d": true,
-      "steam_url": "https://store.steampowered.com/app/1669000/"
+      "is_heavy_3d": false,
+      "steam_url": "https://store.steampowered.com/app/413420/"
     },
     {
       "appid": 2175540,
@@ -177,7 +224,7 @@
       "final_formatted": "¥ 996",
       "review_desc": "やや好評",
       "positive_rate": 71,
-      "total_reviews": 1269,
+      "total_reviews": 1272,
       "deal_score": 72,
       "genres": [
         "RPG"
@@ -226,7 +273,7 @@
       "final_formatted": "¥ 4,400",
       "review_desc": "非常に好評",
       "positive_rate": 93,
-      "total_reviews": 5166,
+      "total_reviews": 5175,
       "deal_score": 72,
       "genres": [
         "アクション",
@@ -255,55 +302,149 @@
       "steam_url": "https://store.steampowered.com/app/3375780/"
     },
     {
-      "appid": 3527290,
-      "name": "PEAK",
-      "name_en": "PEAK",
+      "appid": 567640,
+      "name": "ニューダンガンロンパV3 みんなのコロシアイ新学期",
+      "name_en": "Danganronpa V3: Killing Harmony",
       "publishers": [
-        "Aggro Crab",
-        "Evil Landfall?"
+        "Spike Chunsoft Co., Ltd."
       ],
       "has_key_store": false,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/31bac6b2eccf09b368f5e95ce510bae2baf3cfcd/header.jpg?t=1792684718",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/567640/header_japanese.jpg?t=1750134757",
       "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/aa39b41b105aac51f2312a92979a3b9cb9909a46/ss_aa39b41b105aac51f2312a92979a3b9cb9909a46.600x338.jpg?t=1792684718",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/9c500124c060f162f111afa679bf5d3a32b3fb40/ss_9c500124c060f162f111afa679bf5d3a32b3fb40.600x338.jpg?t=1792684718",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/bac7b90dffb456afecc4517a3e1d69362b95d15b/ss_bac7b90dffb456afecc4517a3e1d69362b95d15b.600x338.jpg?t=1792684718"
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/567640/ss_8ba683238c5ff9de9bf8856457d763da391f87aa.600x338.jpg?t=1750134757",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/567640/ss_298b5b5d9ad04b57610f035a8e144b16cd9dae8a.600x338.jpg?t=1750134757",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/567640/ss_2dfc1b68ad62de51d231daf2ac4ab93534143403.600x338.jpg?t=1750134757"
       ],
-      "discount_percent": 38,
-      "initial_price": 880,
-      "final_price": 545,
-      "initial_formatted": "¥ 880",
-      "final_formatted": "¥ 545",
-      "review_desc": "非常に好評",
-      "positive_rate": 88,
-      "total_reviews": 312838,
-      "deal_score": 69,
+      "discount_percent": 80,
+      "initial_price": 4190,
+      "final_price": 838,
+      "initial_formatted": "¥ 4,190",
+      "final_formatted": "¥ 838",
+      "review_desc": "賛否両論",
+      "positive_rate": 68,
+      "total_reviews": 22392,
+      "deal_score": 70,
       "genres": [
-        "アクション",
-        "アドベンチャー",
-        "インディー"
+        "アドベンチャー"
       ],
       "categories": [
         "シングルプレイヤー",
-        "マルチプレイヤー",
-        "協力プレイ",
-        "オンライン協力プレイ",
-        "Steam実績"
+        "Steam実績",
+        "フルコントローラサポート",
+        "Steamトレーディングカード",
+        "DUALSHOCKコントローラーサポート"
       ],
-      "release_date": "2025年6月16日",
+      "release_date": "2017年9月25日",
       "supported_japanese": true,
-      "ai_overview": "『PEAK』は、わずかなミスが命取りになる協力登山ゲームだ。道を失った自然探検隊（ソロまたはマルチ）としてプレイ。この不思議な島から脱出するには、島の中心にある山を登るしかない。君はその山頂に到達できるだろうか？",
+      "ai_overview": "新章開幕！！嘘、ハッタリ、騙し合い、もてる言葉の全てを使って論破せよ！！ 学級裁判で相手の矛盾を論破し、殺人事件の犯人を暴いていくハイスピード推理アクション『ダンガンロンパ』シリーズの最新作。",
       "ai_pros": [
-        "オンライン協力プレイ対応で快適に遊べる設計"
+        "フルコントローラー対応で快適に遊べる設計",
+        "要求スペックは軽め（GTX 960目安）で幅広いPCで快適動作"
       ],
       "ai_cons": [
-        "高負荷3Dグラフィック：快適プレイには「RTX 2060」以上のPC環境を推奨"
+        "好みが分かれる作品（好評率68%）：ゲームシステムや難易度の事前確認を推奨"
       ],
       "picked_reviews": [],
-      "gpu_hint": "RTX 2060",
+      "gpu_hint": "GTX 960",
+      "has_controller": true,
+      "is_heavy_3d": false,
+      "steam_url": "https://store.steampowered.com/app/567640/"
+    },
+    {
+      "appid": 1308700,
+      "name": "Wizardry外伝 五つの試練",
+      "name_en": "Wizardry: The Five Ordeals",
+      "publishers": [
+        "Game*Spark Publishing"
+      ],
+      "has_key_store": false,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1308700/header.jpg?t=1794335368",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1308700/ss_6e7ea052e2f16715d7bec97011a80ffc6a161eba.600x338.jpg?t=1794335368",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1308700/ss_17cb251e73cd817b0645fb42be9039e7b8ac84ed.600x338.jpg?t=1794335368",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1308700/ss_d16140961adcfeb6bc30213c5714216bd9930343.600x338.jpg?t=1794335368"
+      ],
+      "discount_percent": 55,
+      "initial_price": 3980,
+      "final_price": 1791,
+      "initial_formatted": "¥ 3,980",
+      "final_formatted": "¥ 1,791",
+      "review_desc": "非常に好評",
+      "positive_rate": 85,
+      "total_reviews": 534,
+      "deal_score": 67,
+      "genres": [
+        "インディー",
+        "RPG"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "テキストサイズの調整",
+        "カメラの快適性",
+        "色のオプション",
+        "#category_contrast_controls"
+      ],
+      "release_date": "2023年10月26日",
+      "supported_japanese": true,
+      "ai_overview": "シンプル&ハードコア。3DダンジョンRPGの深淵がここに。新作『ウィザードリィ外伝』Steamに登場！それぞれに独立した複数のシナリオで終わりなき冒険へと旅立て！",
+      "ai_pros": [
+        "インディー / RPG好きなら抑えておきたい注目作",
+        "要求スペックは軽め（ミドルクラスGPU目安）で幅広いPCで快適動作"
+      ],
+      "ai_cons": [],
+      "picked_reviews": [],
+      "gpu_hint": "ミドルクラスGPU",
+      "has_controller": true,
+      "is_heavy_3d": false,
+      "steam_url": "https://store.steampowered.com/app/1308700/"
+    },
+    {
+      "appid": 2178480,
+      "name": "不思議のダンジョン　風来のシレン６　とぐろ島探検録",
+      "name_en": "Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island",
+      "publishers": [
+        "Spike Chunsoft Co., Ltd."
+      ],
+      "has_key_store": false,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2178480/header_japanese.jpg?t=1738230227",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2178480/ss_f8af864fd9b70cea0d9464e7ae00702bcb19a934.600x338.jpg?t=1738230227",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2178480/ss_dd112c9415553fc7ad93b7d4869d771e874f6efe.600x338.jpg?t=1738230227",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2178480/ss_47eb883a64a3c6d373df3db8bbd72143fd3142a9.600x338.jpg?t=1738230227"
+      ],
+      "discount_percent": 55,
+      "initial_price": 5980,
+      "final_price": 2691,
+      "initial_formatted": "¥ 5,980",
+      "final_formatted": "¥ 2,691",
+      "review_desc": "非常に好評",
+      "positive_rate": 84,
+      "total_reviews": 547,
+      "deal_score": 67,
+      "genres": [
+        "RPG"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "Steam実績",
+        "フルコントローラサポート",
+        "Steamトレーディングカード",
+        "DUALSHOCKコントローラーサポート"
+      ],
+      "release_date": "2024年12月11日",
+      "supported_japanese": true,
+      "ai_overview": "シレンとコッパの新たな冒険が幕を開ける。",
+      "ai_pros": [
+        "フルコントローラー対応で快適に遊べる設計"
+      ],
+      "ai_cons": [
+        "高負荷3Dグラフィック：快適プレイには「GTX 1660」以上のPC環境を推奨"
+      ],
+      "picked_reviews": [],
+      "gpu_hint": "GTX 1660",
       "has_controller": true,
       "is_heavy_3d": true,
-      "steam_url": "https://store.steampowered.com/app/3527290/"
+      "steam_url": "https://store.steampowered.com/app/2178480/"
     },
     {
       "appid": 1211600,
@@ -325,8 +466,8 @@
       "initial_formatted": "¥ 1,400",
       "final_formatted": "¥ 840",
       "review_desc": "非常に好評",
-      "positive_rate": 81,
-      "total_reviews": 4067,
+      "positive_rate": 82,
+      "total_reviews": 4152,
       "deal_score": 62,
       "genres": [
         "アクション",
@@ -376,7 +517,7 @@
       "final_formatted": "¥ 4,455",
       "review_desc": "やや好評",
       "positive_rate": 76,
-      "total_reviews": 5611,
+      "total_reviews": 5613,
       "deal_score": 60,
       "genres": [
         "アクション",
@@ -424,9 +565,9 @@
       "initial_formatted": "¥ 1,400",
       "final_formatted": "¥ 980",
       "review_desc": "非常に好評",
-      "positive_rate": 94,
-      "total_reviews": 500,
-      "deal_score": 60,
+      "positive_rate": 91,
+      "total_reviews": 404,
+      "deal_score": 59,
       "genres": [
         "カジュアル",
         "ストラテジー"
@@ -453,54 +594,53 @@
       "steam_url": "https://store.steampowered.com/app/4618570/"
     },
     {
-      "appid": 4832970,
-      "name": "What the Buck?!",
-      "name_en": "What the Buck?!",
+      "appid": 5475960,
+      "name": "Incremental Traffic",
+      "name_en": "Incremental Traffic",
       "publishers": [
-        "Loerting Games"
+        "Rischer Kriebl"
       ],
       "has_key_store": false,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4832970/ed62607b2b309bfd36bf34e5bd765558bea73307/header.jpg?t=1794261182",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5475960/82902bbd900a8cb74f4d061b4bc9f67a3a24936b/header_japanese.jpg?t=1793908197",
       "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4832970/0383db12362d97d23fac00db86cbdfb42e3925e1/ss_0383db12362d97d23fac00db86cbdfb42e3925e1.600x338.jpg?t=1794261182",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4832970/8b2aa4461bb85c0a019d727e4e84f4736e90ceb5/ss_8b2aa4461bb85c0a019d727e4e84f4736e90ceb5.600x338.jpg?t=1794261182",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4832970/cc72f5c645f65af37cf75b99f9f4df694168f846/ss_cc72f5c645f65af37cf75b99f9f4df694168f846.600x338.jpg?t=1794261182"
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5475960/e76680f7ccfc6afb7ea9e2b88eda8e6a0b64d435/ss_e76680f7ccfc6afb7ea9e2b88eda8e6a0b64d435.600x338.jpg?t=1793908197",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5475960/4e9d2e9d1a232928cecc3af48b5d245572588b58/ss_4e9d2e9d1a232928cecc3af48b5d245572588b58.600x338.jpg?t=1793908197",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5475960/4d0d68477e542916b6bf2c0be4ce615ff6ab0a07/ss_4d0d68477e542916b6bf2c0be4ce615ff6ab0a07.600x338.jpg?t=1793908197"
       ],
       "discount_percent": 30,
-      "initial_price": 905,
-      "final_price": 633,
-      "initial_formatted": "¥ 905",
-      "final_formatted": "¥ 633",
+      "initial_price": 1400,
+      "final_price": 980,
+      "initial_formatted": "¥ 1,400",
+      "final_formatted": "¥ 980",
       "review_desc": "非常に好評",
       "positive_rate": 90,
-      "total_reviews": 500,
+      "total_reviews": 405,
       "deal_score": 58,
       "genres": [
         "カジュアル",
-        "インディー",
-        "シミュレーション",
-        "ストラテジー"
+        "シミュレーション"
       ],
       "categories": [
         "シングルプレイヤー",
         "Steam実績",
         "フルコントローラサポート",
         "テキストサイズの調整",
-        "カメラの快適性"
+        "カスタム音量調整"
       ],
-      "release_date": "2026年11月9日",
+      "release_date": "2026年11月1日",
       "supported_japanese": true,
-      "ai_overview": "『What the Buck?!』は、お金を破壊する爽快なインクリメンタルゲーム。札束を裁断し、テーブル中に連鎖反応を巻き起こし、プレステージで永続的なアップグレードを手に入れ、お金の破壊を自動化しよう。体験版の進行状況を製品版に引き継ぎ可能。",
+      "ai_overview": "渋滞こそが最大の敵になる交通・物流ゲーム。畑や森、採石場から、自動生成された町を抜けて品物を運ぼう。配達するたびにお金が入り、トラックを買い足していくと、やがて自分のトラックで道路が大渋滞。そうなったら、交通ルールで流れを取り戻そう。",
       "ai_pros": [
-        "フルコントローラー対応で快適に遊べる設計",
-        "要求スペックは軽め（ミドルクラスGPU目安）で幅広いPCで快適動作"
+        "フルコントローラー対応で快適に遊べる設計"
       ],
-      "ai_cons": [],
+      "ai_cons": [
+        "高負荷3Dグラフィック：快適プレイには「GTX 1050」以上のPC環境を推奨"
+      ],
       "picked_reviews": [],
-      "gpu_hint": "ミドルクラスGPU",
+      "gpu_hint": "GTX 1050",
       "has_controller": true,
-      "is_heavy_3d": false,
-      "steam_url": "https://store.steampowered.com/app/4832970/"
+      "is_heavy_3d": true,
+      "steam_url": "https://store.steampowered.com/app/5475960/"
     },
     {
       "appid": 2584270,
@@ -523,7 +663,7 @@
       "final_formatted": "¥ 4,860",
       "review_desc": "非常に好評",
       "positive_rate": 80,
-      "total_reviews": 20915,
+      "total_reviews": 20937,
       "deal_score": 57,
       "genres": [
         "アクション",
@@ -572,7 +712,7 @@
       "final_formatted": "¥ 4,840",
       "review_desc": "賛否両論",
       "positive_rate": 63,
-      "total_reviews": 2577,
+      "total_reviews": 2580,
       "deal_score": 54,
       "genres": [
         "アクション",
@@ -622,9 +762,9 @@
       "initial_formatted": "¥ 1,400",
       "final_formatted": "¥ 1,120",
       "review_desc": "非常に好評",
-      "positive_rate": 88,
+      "positive_rate": 82,
       "total_reviews": 500,
-      "deal_score": 53,
+      "deal_score": 50,
       "genres": [
         "カジュアル",
         "シミュレーション"
@@ -649,57 +789,6 @@
       "has_controller": true,
       "is_heavy_3d": false,
       "steam_url": "https://store.steampowered.com/app/4876650/"
-    },
-    {
-      "appid": 1272080,
-      "name": "PAYDAY 3",
-      "name_en": "PAYDAY 3",
-      "publishers": [
-        "Starbreeze Entertainment"
-      ],
-      "has_key_store": true,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1272080/1d66ef7e731a18e40b037d39618f7c3dfd614a90/header.jpg?t=1794297037",
-      "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1272080/93626c274e5b9c39a8662d6146ceeba626bca59c/ss_93626c274e5b9c39a8662d6146ceeba626bca59c.600x338.jpg?t=1794297037",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1272080/ce3af6f81967e6afd7a7de31a58a6de282509402/ss_ce3af6f81967e6afd7a7de31a58a6de282509402.600x338.jpg?t=1794297037",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1272080/74dcb90adc6833dae7d78f858908b9414413b8a4/ss_74dcb90adc6833dae7d78f858908b9414413b8a4.600x338.jpg?t=1794297037"
-      ],
-      "discount_percent": 70,
-      "initial_price": 3500,
-      "final_price": 1050,
-      "initial_formatted": "¥ 3,500",
-      "final_formatted": "¥ 1,050",
-      "review_desc": "やや不評",
-      "positive_rate": 32,
-      "total_reviews": 50354,
-      "deal_score": 45,
-      "genres": [
-        "アクション",
-        "アドベンチャー",
-        "RPG"
-      ],
-      "categories": [
-        "シングルプレイヤー",
-        "マルチプレイヤー",
-        "協力プレイ",
-        "オンライン協力プレイ",
-        "クロスプラットフォームマルチプレイヤー"
-      ],
-      "release_date": "2023年9月21日",
-      "supported_japanese": true,
-      "ai_overview": "『PAYDAY 3』は1〜4人協力プレイのFPSであり、世界一象徴的な街を舞台にした究極のヒーストファンタジーだ。痕跡を残さず消え去るか、銃弾の雨をくぐり抜けるか。どちらにせよ、獲物を手に脱出しろ。",
-      "ai_pros": [
-        "オンライン協力プレイ対応で快適に遊べる設計"
-      ],
-      "ai_cons": [
-        "直近レビューで賛否あり（好評率32%）：PC環境との相性や動作の重さに要注意",
-        "高負荷3Dグラフィック：快適プレイには「GTX 1080」以上のPC環境を推奨"
-      ],
-      "picked_reviews": [],
-      "gpu_hint": "GTX 1080",
-      "has_controller": true,
-      "is_heavy_3d": true,
-      "steam_url": "https://store.steampowered.com/app/1272080/"
     }
   ]
 }
