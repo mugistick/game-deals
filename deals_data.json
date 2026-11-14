@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14 04:39",
+  "updated_at": "2026-11-15 04:29",
   "total_count": 16,
   "affiliate": {
     "amazon_tag": "mugistick-22",
@@ -31,7 +31,7 @@
       "final_formatted": "¥ 2,097",
       "review_desc": "非常に好評",
       "positive_rate": 91,
-      "total_reviews": 330168,
+      "total_reviews": 330275,
       "deal_score": 90,
       "genres": [
         "シミュレーション",
@@ -46,7 +46,7 @@
       ],
       "release_date": "2016年6月6日",
       "supported_japanese": true,
-      "ai_overview": "勝利はあなたの指先にあります!国家を率いる能力は最高の武器です。ストラテジー ゲーム Hearts of Iron IV では、第二次世界大戦であらゆる国家を指揮することができます。世界史上最も魅力的な紛争。",
+      "ai_overview": "Victory is at your fingertips! Your ability to lead your nation is your supreme weapon, the strategy game Hearts of Iron IV lets you take command of any nation in World War II; the most engaging conflict in world history.",
       "ai_pros": [
         "オンライン協力プレイ対応で快適に遊べる設計",
         "要求スペックは軽め（GTX 570目安）で幅広いPCで快適動作"
@@ -79,7 +79,7 @@
       "final_formatted": "¥ 749",
       "review_desc": "非常に好評",
       "positive_rate": 94,
-      "total_reviews": 795209,
+      "total_reviews": 795557,
       "deal_score": 89,
       "genres": [
         "インディー",
@@ -128,7 +128,7 @@
       "final_formatted": "¥ 745",
       "review_desc": "非常に好評",
       "positive_rate": 82,
-      "total_reviews": 3305,
+      "total_reviews": 3317,
       "deal_score": 83,
       "genres": [
         "アクション"
@@ -176,7 +176,7 @@
       "final_formatted": "¥ 850",
       "review_desc": "非常に好評",
       "positive_rate": 89,
-      "total_reviews": 25485,
+      "total_reviews": 25519,
       "deal_score": 78,
       "genres": [
         "アクション",
@@ -205,6 +205,55 @@
       "steam_url": "https://store.steampowered.com/app/2062430/"
     },
     {
+      "appid": 2175540,
+      "name": "ドラゴンクエストモンスターズ３　魔族の王子とエルフの旅",
+      "name_en": "DRAGON QUEST MONSTERS: The Dark Prince",
+      "publishers": [
+        "Square Enix"
+      ],
+      "has_key_store": false,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2175540/header_japanese.jpg?t=1775105751",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2175540/ss_68ffc91e442f5a144914cc5941615b5723de524c.600x338.jpg?t=1775105751",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2175540/ss_9eb5ff777902590dc4c2336cab1da64b21cf574d.600x338.jpg?t=1775105751",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2175540/ss_ae4c492432a2a64d5dad80a34932f22f9b9e3cbb.600x338.jpg?t=1775105751"
+      ],
+      "discount_percent": 80,
+      "initial_price": 4980,
+      "final_price": 996,
+      "initial_formatted": "¥ 4,980",
+      "final_formatted": "¥ 996",
+      "review_desc": "やや好評",
+      "positive_rate": 71,
+      "total_reviews": 1279,
+      "deal_score": 72,
+      "genres": [
+        "RPG"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "Steam実績",
+        "Steamトレーディングカード",
+        "カメラの快適性",
+        "カスタム音量調整"
+      ],
+      "release_date": "2024年9月11日",
+      "supported_japanese": true,
+      "ai_overview": "『ドラゴンクエストモンスターズ３　魔族の王子とエルフの旅』がSteam®に登場！「ドラゴンクエスト」シリーズおなじみのモンスターでパーティを組み、モンスター同士の迫力バトルを楽しもう！",
+      "ai_pros": [
+        "RPG好きなら抑えておきたい注目作"
+      ],
+      "ai_cons": [
+        "好みが分かれる作品（好評率71%）：ゲームシステムや難易度の事前確認を推奨",
+        "高負荷3Dグラフィック：快適プレイには「GTX 950」以上のPC環境を推奨"
+      ],
+      "picked_reviews": [],
+      "gpu_hint": "GTX 950",
+      "has_controller": true,
+      "is_heavy_3d": true,
+      "steam_url": "https://store.steampowered.com/app/2175540/"
+    },
+    {
       "appid": 3375780,
       "name": "空の軌跡 the 1st",
       "name_en": "Trails in the Sky 1st Chapter",
@@ -224,8 +273,8 @@
       "initial_formatted": "¥ 8,800",
       "final_formatted": "¥ 4,400",
       "review_desc": "非常に好評",
-      "positive_rate": 93,
-      "total_reviews": 5184,
+      "positive_rate": 94,
+      "total_reviews": 5190,
       "deal_score": 72,
       "genres": [
         "アクション",
@@ -275,7 +324,7 @@
       "final_formatted": "¥ 545",
       "review_desc": "非常に好評",
       "positive_rate": 88,
-      "total_reviews": 313267,
+      "total_reviews": 313475,
       "deal_score": 69,
       "genres": [
         "アクション",
@@ -305,54 +354,6 @@
       "steam_url": "https://store.steampowered.com/app/3527290/"
     },
     {
-      "appid": 1308700,
-      "name": "Wizardry外伝 五つの試練",
-      "name_en": "Wizardry: The Five Ordeals",
-      "publishers": [
-        "Game*Spark Publishing"
-      ],
-      "has_key_store": false,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1308700/header.jpg?t=1794335368",
-      "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1308700/ss_6e7ea052e2f16715d7bec97011a80ffc6a161eba.600x338.jpg?t=1794335368",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1308700/ss_17cb251e73cd817b0645fb42be9039e7b8ac84ed.600x338.jpg?t=1794335368",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1308700/ss_d16140961adcfeb6bc30213c5714216bd9930343.600x338.jpg?t=1794335368"
-      ],
-      "discount_percent": 55,
-      "initial_price": 3980,
-      "final_price": 1791,
-      "initial_formatted": "¥ 3,980",
-      "final_formatted": "¥ 1,791",
-      "review_desc": "非常に好評",
-      "positive_rate": 85,
-      "total_reviews": 535,
-      "deal_score": 67,
-      "genres": [
-        "インディー",
-        "RPG"
-      ],
-      "categories": [
-        "シングルプレイヤー",
-        "テキストサイズの調整",
-        "カメラの快適性",
-        "色のオプション",
-        "#category_contrast_controls"
-      ],
-      "release_date": "2023年10月26日",
-      "supported_japanese": true,
-      "ai_overview": "シンプル&ハードコア。3DダンジョンRPGの深淵がここに。新作『ウィザードリィ外伝』Steamに登場！それぞれに独立した複数のシナリオで終わりなき冒険へと旅立て！",
-      "ai_pros": [
-        "インディー / RPG好きなら抑えておきたい注目作",
-        "要求スペックは軽め（ミドルクラスGPU目安）で幅広いPCで快適動作"
-      ],
-      "ai_cons": [],
-      "picked_reviews": [],
-      "gpu_hint": "ミドルクラスGPU",
-      "has_controller": true,
-      "is_heavy_3d": false,
-      "steam_url": "https://store.steampowered.com/app/1308700/"
-    },
-    {
       "appid": 2178480,
       "name": "不思議のダンジョン　風来のシレン６　とぐろ島探検録",
       "name_en": "Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island",
@@ -373,7 +374,7 @@
       "final_formatted": "¥ 2,691",
       "review_desc": "非常に好評",
       "positive_rate": 84,
-      "total_reviews": 548,
+      "total_reviews": 549,
       "deal_score": 67,
       "genres": [
         "RPG"
@@ -401,6 +402,54 @@
       "steam_url": "https://store.steampowered.com/app/2178480/"
     },
     {
+      "appid": 1308700,
+      "name": "Wizardry外伝 五つの試練",
+      "name_en": "Wizardry: The Five Ordeals",
+      "publishers": [
+        "Game*Spark Publishing"
+      ],
+      "has_key_store": false,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1308700/header.jpg?t=1794335368",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1308700/ss_6e7ea052e2f16715d7bec97011a80ffc6a161eba.600x338.jpg?t=1794335368",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1308700/ss_17cb251e73cd817b0645fb42be9039e7b8ac84ed.600x338.jpg?t=1794335368",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1308700/ss_d16140961adcfeb6bc30213c5714216bd9930343.600x338.jpg?t=1794335368"
+      ],
+      "discount_percent": 55,
+      "initial_price": 3980,
+      "final_price": 1791,
+      "initial_formatted": "¥ 3,980",
+      "final_formatted": "¥ 1,791",
+      "review_desc": "非常に好評",
+      "positive_rate": 85,
+      "total_reviews": 537,
+      "deal_score": 67,
+      "genres": [
+        "インディー",
+        "RPG"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "テキストサイズの調整",
+        "カメラの快適性",
+        "色のオプション",
+        "#category_contrast_controls"
+      ],
+      "release_date": "2023年10月26日",
+      "supported_japanese": true,
+      "ai_overview": "シンプル&ハードコア。3DダンジョンRPGの深淵がここに。新作『ウィザードリィ外伝』Steamに登場！それぞれに独立した複数のシナリオで終わりなき冒険へと旅立て！",
+      "ai_pros": [
+        "インディー / RPG好きなら抑えておきたい注目作",
+        "要求スペックは軽め（ミドルクラスGPU目安）で幅広いPCで快適動作"
+      ],
+      "ai_cons": [],
+      "picked_reviews": [],
+      "gpu_hint": "ミドルクラスGPU",
+      "has_controller": true,
+      "is_heavy_3d": false,
+      "steam_url": "https://store.steampowered.com/app/1308700/"
+    },
+    {
       "appid": 1211600,
       "name": "ZED ZONE",
       "name_en": "ZED ZONE",
@@ -420,8 +469,8 @@
       "initial_formatted": "¥ 1,400",
       "final_formatted": "¥ 840",
       "review_desc": "非常に好評",
-      "positive_rate": 82,
-      "total_reviews": 4338,
+      "positive_rate": 81,
+      "total_reviews": 4442,
       "deal_score": 62,
       "genres": [
         "アクション",
@@ -451,6 +500,56 @@
       "steam_url": "https://store.steampowered.com/app/1211600/"
     },
     {
+      "appid": 2536520,
+      "name": "「ディアブロ II リザレクテッド」 – 「獄炎エディション」",
+      "name_en": "Diablo II: Resurrected  Infernal Edition",
+      "publishers": [
+        "Blizzard Entertainment, Inc."
+      ],
+      "has_key_store": false,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2536520/d1c9cc9a6d51ad8e54348e66b19eb4fba0d3c4b4/header_japanese.jpg?t=1774399170",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2536520/3c2de7da286e32b55999e3728cf6de2e8bdcc322/ss_3c2de7da286e32b55999e3728cf6de2e8bdcc322.600x338.jpg?t=1774399170",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2536520/a242137e5b7fc5f5b831b0a34b8b07cb707a35d1/ss_a242137e5b7fc5f5b831b0a34b8b07cb707a35d1.600x338.jpg?t=1774399170",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2536520/2ddb9abab8b0b510b94f1ac9b6b750f23fda9f62/ss_2ddb9abab8b0b510b94f1ac9b6b750f23fda9f62.600x338.jpg?t=1774399170"
+      ],
+      "discount_percent": 35,
+      "initial_price": 4800,
+      "final_price": 3120,
+      "initial_formatted": "¥ 4,800",
+      "final_formatted": "¥ 3,120",
+      "review_desc": "非常に好評",
+      "positive_rate": 86,
+      "total_reviews": 6364,
+      "deal_score": 62,
+      "genres": [
+        "アクション",
+        "RPG",
+        "ストラテジー"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "マルチプレイヤー",
+        "協力プレイ",
+        "オンライン協力プレイ",
+        "クロスプラットフォームマルチプレイヤー"
+      ],
+      "release_date": "2026年2月11日",
+      "supported_japanese": true,
+      "ai_overview": "近代のアクションRPGジャンルを定義づけたダークファンタジーの名作を再発見できる完全リマスター版が登場。新クラス、新たなコンテンツ、快適性のアップグレード、刷新されたエンドゲームコンテンツを楽しめる。最大8名のプレイヤーで強力なスキルやアイテムのシナジーを繋げ、一大勢力として台頭し地獄の軍団を切り裂くことができる。",
+      "ai_pros": [
+        "オンライン協力プレイ対応で快適に遊べる設計"
+      ],
+      "ai_cons": [
+        "高負荷3Dグラフィック：快適プレイには「GTX 1060」以上のPC環境を推奨"
+      ],
+      "picked_reviews": [],
+      "gpu_hint": "GTX 1060",
+      "has_controller": true,
+      "is_heavy_3d": true,
+      "steam_url": "https://store.steampowered.com/app/2536520/"
+    },
+    {
       "appid": 4557380,
       "name": "バトモン対決",
       "name_en": "Batomon Showdown",
@@ -471,7 +570,7 @@
       "final_formatted": "¥ 1,235",
       "review_desc": "非常に好評",
       "positive_rate": 90,
-      "total_reviews": 1777,
+      "total_reviews": 1787,
       "deal_score": 61,
       "genres": [
         "カジュアル",
@@ -520,7 +619,7 @@
       "final_formatted": "¥ 980",
       "review_desc": "非常に好評",
       "positive_rate": 92,
-      "total_reviews": 945,
+      "total_reviews": 1223,
       "deal_score": 60,
       "genres": [
         "カジュアル",
@@ -548,155 +647,6 @@
       "steam_url": "https://store.steampowered.com/app/4618570/"
     },
     {
-      "appid": 2487190,
-      "name": "Main Sequence",
-      "name_en": "Main Sequence",
-      "publishers": [
-        "Mythwright"
-      ],
-      "has_key_store": true,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2487190/28ccc4a7ffadbd7efb2ca7aae158ce2fbe842e49/header_alt_assets_1_japanese.jpg?t=1794507021",
-      "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2487190/8bf63ef47ec9297b5d8dd651d1160c69ba43f177/ss_8bf63ef47ec9297b5d8dd651d1160c69ba43f177.600x338.jpg?t=1794507021",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2487190/0ca3147c3f99048208b2dc09507465a8db555004/ss_0ca3147c3f99048208b2dc09507465a8db555004.600x338.jpg?t=1794507021",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2487190/2186fcf22608737a5208d7466c50fde9d5d5146e/ss_2186fcf22608737a5208d7466c50fde9d5d5146e.600x338.jpg?t=1794507021"
-      ],
-      "discount_percent": 20,
-      "initial_price": 3190,
-      "final_price": 2552,
-      "initial_formatted": "¥ 3,190",
-      "final_formatted": "¥ 2,552",
-      "review_desc": "非常に好評",
-      "positive_rate": 82,
-      "total_reviews": 500,
-      "deal_score": 55,
-      "genres": [
-        "インディー",
-        "シミュレーション",
-        "ストラテジー",
-        "早期アクセス"
-      ],
-      "categories": [
-        "シングルプレイヤー",
-        "マルチプレイヤー",
-        "協力プレイ",
-        "オンライン協力プレイ",
-        "カスタム音量調整"
-      ],
-      "release_date": "2026年11月12日",
-      "supported_japanese": true,
-      "ai_overview": "『Main Sequence』は一人称視点のスペースシミュ・工場作りゲーム。宇宙船を設計したり、宇宙ステーションを建築したり、あらゆるものを自動化できます。一隻の船から駆け出し、銀河を股にかける工業帝国を築き上げ、己の名前を銀河史に刻みましょう。",
-      "ai_pros": [
-        "オンライン協力プレイ対応で快適に遊べる設計"
-      ],
-      "ai_cons": [
-        "高負荷3Dグラフィック：快適プレイには「RTX 3060」以上のPC環境を推奨"
-      ],
-      "picked_reviews": [],
-      "gpu_hint": "RTX 3060",
-      "has_controller": false,
-      "is_heavy_3d": true,
-      "steam_url": "https://store.steampowered.com/app/2487190/"
-    },
-    {
-      "appid": 5457010,
-      "name": "777勇者 〜時に抗う者〜",
-      "name_en": "777 HERO ~The One Who Defies Time~",
-      "publishers": [
-        "DOPAMINE GAMES"
-      ],
-      "has_key_store": false,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5457010/b8d59727989260f21f827c0d222d41284f5830dd/header_japanese.jpg?t=1794544205",
-      "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5457010/c6bb9388c1b816152e68761177670ac83ce7d58a/ss_c6bb9388c1b816152e68761177670ac83ce7d58a.600x338.jpg?t=1794544205",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5457010/a694533721b67338ea82c17b7661035c586b6fed/ss_a694533721b67338ea82c17b7661035c586b6fed.600x338.jpg?t=1794544205",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5457010/b60f87586cc25a4aacb2af84d81da58858500f55/ss_b60f87586cc25a4aacb2af84d81da58858500f55.600x338.jpg?t=1794544205"
-      ],
-      "discount_percent": 20,
-      "initial_price": 850,
-      "final_price": 680,
-      "initial_formatted": "¥ 850",
-      "final_formatted": "¥ 680",
-      "review_desc": "好評",
-      "positive_rate": 81,
-      "total_reviews": 500,
-      "deal_score": 50,
-      "genres": [
-        "カジュアル",
-        "インディー",
-        "RPG",
-        "シミュレーション"
-      ],
-      "categories": [
-        "シングルプレイヤー",
-        "Steam実績",
-        "カメラの快適性",
-        "カスタム音量調整",
-        "時間制限付き入力なしでプレイ可能"
-      ],
-      "release_date": "2026年11月12日",
-      "supported_japanese": true,
-      "ai_overview": "玉を撃って、抽選口に入れろ！玉が入るとリールが回り、同じ数字が3つ揃えば大当たり、時間が止まる！その瞬間、勇者がボスに突撃して怒涛の攻撃を浴びせる放置型RPG！パチンコのドキドキはそのまま、ギャンブル要素は一切なしのドット放置RPG！！リアルマネー課金も、ガチャもありません！！",
-      "ai_pros": [
-        "カジュアル / インディー好きなら抑えておきたい注目作",
-        "要求スペックは軽め（ミドルクラスGPU目安）で幅広いPCで快適動作"
-      ],
-      "ai_cons": [],
-      "picked_reviews": [],
-      "gpu_hint": "ミドルクラスGPU",
-      "has_controller": false,
-      "is_heavy_3d": false,
-      "steam_url": "https://store.steampowered.com/app/5457010/"
-    },
-    {
-      "appid": 4876650,
-      "name": "色で仕分けるな",
-      "name_en": "Never Sort By Color",
-      "publishers": [
-        "Bryan Livingston"
-      ],
-      "has_key_store": false,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4876650/241ec2c062836619a035a998cd930cba7213b6fc/header_japanese.jpg?t=1794327933",
-      "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4876650/e776b444270b2fbe9a5a0faf4f48a4582e7216c7/ss_e776b444270b2fbe9a5a0faf4f48a4582e7216c7.600x338.jpg?t=1794327933",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4876650/75763a0ae5bea4c54fa447b8fb4e83f7d9a4bd2e/ss_75763a0ae5bea4c54fa447b8fb4e83f7d9a4bd2e.600x338.jpg?t=1794327933",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4876650/2ca98609ee2c5b9588378fe47a480644fcdb9032/ss_2ca98609ee2c5b9588378fe47a480644fcdb9032.600x338.jpg?t=1794327933"
-      ],
-      "discount_percent": 20,
-      "initial_price": 1400,
-      "final_price": 1120,
-      "initial_formatted": "¥ 1,400",
-      "final_formatted": "¥ 1,120",
-      "review_desc": "非常に好評",
-      "positive_rate": 81,
-      "total_reviews": 172,
-      "deal_score": 50,
-      "genres": [
-        "カジュアル",
-        "シミュレーション"
-      ],
-      "categories": [
-        "シングルプレイヤー",
-        "Steam実績",
-        "フルコントローラサポート",
-        "DUALSHOCKコントローラーサポート",
-        "DUALSHOCKコントローラーサポート"
-      ],
-      "release_date": "2026年11月10日",
-      "supported_japanese": true,
-      "ai_overview": "そのブロックの山の下のどこかに、あなたの床がある。マグネットグローブ、ふるい、そしてパーツを追う視覚で、攻略不能な「山」を仕分けよう。ラベル付きの引き出しを満たし、パーツを引き出し、MOCがブロックひとつずつ組み上がるのを見届けよう。心地よく、満たされる、たったひとつのルールに支配された世界、決して色で仕分けるな。",
-      "ai_pros": [
-        "フルコントローラー対応で快適に遊べる設計",
-        "要求スペックは軽め（GTX 960目安）で幅広いPCで快適動作"
-      ],
-      "ai_cons": [],
-      "picked_reviews": [],
-      "gpu_hint": "GTX 960",
-      "has_controller": true,
-      "is_heavy_3d": false,
-      "steam_url": "https://store.steampowered.com/app/4876650/"
-    },
-    {
       "appid": 2868840,
       "name": "Slay the Spire 2",
       "name_en": "Slay the Spire 2",
@@ -717,7 +667,7 @@
       "final_formatted": "¥ 2,240",
       "review_desc": "やや好評",
       "positive_rate": 79,
-      "total_reviews": 216354,
+      "total_reviews": 216755,
       "deal_score": 48,
       "genres": [
         "インディー",
@@ -746,6 +696,57 @@
       "steam_url": "https://store.steampowered.com/app/2868840/"
     },
     {
+      "appid": 2406770,
+      "name": "Bodycam",
+      "name_en": "Bodycam",
+      "publishers": [
+        "Reissad"
+      ],
+      "has_key_store": false,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/b533bca55927692f0cf812ebb91c6e6e8f5cb4a6/header_alt_assets_4.jpg?t=1794683329",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/5689aeb849dc9ed3d9b70ad1b830d0c94c143138/ss_5689aeb849dc9ed3d9b70ad1b830d0c94c143138.600x338.jpg?t=1794683329",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/ad5579da682b0f91c23a895b37089a24dda24258/ss_ad5579da682b0f91c23a895b37089a24dda24258.600x338.jpg?t=1794683329",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/dcf7dfe29365b0bf8e3e30798f7c8be5ac9a3ea2/ss_dcf7dfe29365b0bf8e3e30798f7c8be5ac9a3ea2.600x338.jpg?t=1794683329"
+      ],
+      "discount_percent": 20,
+      "initial_price": 3900,
+      "final_price": 3120,
+      "initial_formatted": "¥ 3,900",
+      "final_formatted": "¥ 3,120",
+      "review_desc": "やや好評",
+      "positive_rate": 75,
+      "total_reviews": 70502,
+      "deal_score": 46,
+      "genres": [
+        "アクション",
+        "インディー",
+        "MM（Massively Multiplayer）",
+        "シミュレーション"
+      ],
+      "categories": [
+        "マルチプレイヤー",
+        "PvP",
+        "オンラインPvP",
+        "Steam実績",
+        "フルコントローラサポート"
+      ],
+      "release_date": "2024年6月7日",
+      "supported_japanese": true,
+      "ai_overview": "Bodycam は、Unreal Engine 5 での真のボディカメラ ビューを備えた初の戦術的マルチプレイヤー FPS です。接近戦は生々しくて騒々しいように感じられます。あらゆる角度、吹き出し、箇条書きが重要です。チームプレイ、戦術、クラッチ スキルが鍵となるフォトリアル マップで、デスマッチ、チーム デスマッチ、ウィングマンをプレイします HUDはありません。チームワークと戦術が勝敗を分けます。",
+      "ai_pros": [
+        "フルコントローラー対応・マルチプレイ対応で快適に遊べる設計"
+      ],
+      "ai_cons": [
+        "高負荷3Dグラフィック：快適プレイには「Radeon RX 6600」以上のPC環境を推奨"
+      ],
+      "picked_reviews": [],
+      "gpu_hint": "Radeon RX 6600",
+      "has_controller": true,
+      "is_heavy_3d": true,
+      "steam_url": "https://store.steampowered.com/app/2406770/"
+    },
+    {
       "appid": 949230,
       "name": "Cities: Skylines II",
       "name_en": "Cities: Skylines II",
@@ -766,7 +767,7 @@
       "final_formatted": "¥ 4,893",
       "review_desc": "賛否両論",
       "positive_rate": 56,
-      "total_reviews": 66534,
+      "total_reviews": 66572,
       "deal_score": 42,
       "genres": [
         "シミュレーション"
