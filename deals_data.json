@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15 04:29",
+  "updated_at": "2026-11-16 04:31",
   "total_count": 16,
   "affiliate": {
     "amazon_tag": "mugistick-22",
@@ -31,7 +31,7 @@
       "final_formatted": "¥ 2,097",
       "review_desc": "非常に好評",
       "positive_rate": 91,
-      "total_reviews": 330275,
+      "total_reviews": 330387,
       "deal_score": 90,
       "genres": [
         "シミュレーション",
@@ -46,7 +46,7 @@
       ],
       "release_date": "2016年6月6日",
       "supported_japanese": true,
-      "ai_overview": "Victory is at your fingertips! Your ability to lead your nation is your supreme weapon, the strategy game Hearts of Iron IV lets you take command of any nation in World War II; the most engaging conflict in world history.",
+      "ai_overview": "勝利はあなたの指先にあります!国家を率いる能力は最高の武器です。ストラテジー ゲーム Hearts of Iron IV では、第二次世界大戦であらゆる国家を指揮することができます。世界史上最も魅力的な紛争。",
       "ai_pros": [
         "オンライン協力プレイ対応で快適に遊べる設計",
         "要求スペックは軽め（GTX 570目安）で幅広いPCで快適動作"
@@ -79,7 +79,7 @@
       "final_formatted": "¥ 749",
       "review_desc": "非常に好評",
       "positive_rate": 94,
-      "total_reviews": 795557,
+      "total_reviews": 795935,
       "deal_score": 89,
       "genres": [
         "インディー",
@@ -128,7 +128,7 @@
       "final_formatted": "¥ 745",
       "review_desc": "非常に好評",
       "positive_rate": 82,
-      "total_reviews": 3317,
+      "total_reviews": 3327,
       "deal_score": 83,
       "genres": [
         "アクション"
@@ -176,7 +176,7 @@
       "final_formatted": "¥ 850",
       "review_desc": "非常に好評",
       "positive_rate": 89,
-      "total_reviews": 25519,
+      "total_reviews": 25554,
       "deal_score": 78,
       "genres": [
         "アクション",
@@ -225,7 +225,7 @@
       "final_formatted": "¥ 996",
       "review_desc": "やや好評",
       "positive_rate": 71,
-      "total_reviews": 1279,
+      "total_reviews": 1281,
       "deal_score": 72,
       "genres": [
         "RPG"
@@ -274,7 +274,7 @@
       "final_formatted": "¥ 4,400",
       "review_desc": "非常に好評",
       "positive_rate": 94,
-      "total_reviews": 5190,
+      "total_reviews": 5203,
       "deal_score": 72,
       "genres": [
         "アクション",
@@ -303,57 +303,6 @@
       "steam_url": "https://store.steampowered.com/app/3375780/"
     },
     {
-      "appid": 3527290,
-      "name": "PEAK",
-      "name_en": "PEAK",
-      "publishers": [
-        "Aggro Crab",
-        "Evil Landfall?"
-      ],
-      "has_key_store": false,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/31bac6b2eccf09b368f5e95ce510bae2baf3cfcd/header.jpg?t=1792684718",
-      "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/aa39b41b105aac51f2312a92979a3b9cb9909a46/ss_aa39b41b105aac51f2312a92979a3b9cb9909a46.600x338.jpg?t=1792684718",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/9c500124c060f162f111afa679bf5d3a32b3fb40/ss_9c500124c060f162f111afa679bf5d3a32b3fb40.600x338.jpg?t=1792684718",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/bac7b90dffb456afecc4517a3e1d69362b95d15b/ss_bac7b90dffb456afecc4517a3e1d69362b95d15b.600x338.jpg?t=1792684718"
-      ],
-      "discount_percent": 38,
-      "initial_price": 880,
-      "final_price": 545,
-      "initial_formatted": "¥ 880",
-      "final_formatted": "¥ 545",
-      "review_desc": "非常に好評",
-      "positive_rate": 88,
-      "total_reviews": 313475,
-      "deal_score": 69,
-      "genres": [
-        "アクション",
-        "アドベンチャー",
-        "インディー"
-      ],
-      "categories": [
-        "シングルプレイヤー",
-        "マルチプレイヤー",
-        "協力プレイ",
-        "オンライン協力プレイ",
-        "Steam実績"
-      ],
-      "release_date": "2025年6月16日",
-      "supported_japanese": true,
-      "ai_overview": "『PEAK』は、わずかなミスが命取りになる協力登山ゲームだ。道を失った自然探検隊（ソロまたはマルチ）としてプレイ。この不思議な島から脱出するには、島の中心にある山を登るしかない。君はその山頂に到達できるだろうか？",
-      "ai_pros": [
-        "オンライン協力プレイ対応で快適に遊べる設計"
-      ],
-      "ai_cons": [
-        "高負荷3Dグラフィック：快適プレイには「RTX 2060」以上のPC環境を推奨"
-      ],
-      "picked_reviews": [],
-      "gpu_hint": "RTX 2060",
-      "has_controller": true,
-      "is_heavy_3d": true,
-      "steam_url": "https://store.steampowered.com/app/3527290/"
-    },
-    {
       "appid": 2178480,
       "name": "不思議のダンジョン　風来のシレン６　とぐろ島探検録",
       "name_en": "Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island",
@@ -374,7 +323,7 @@
       "final_formatted": "¥ 2,691",
       "review_desc": "非常に好評",
       "positive_rate": 84,
-      "total_reviews": 549,
+      "total_reviews": 551,
       "deal_score": 67,
       "genres": [
         "RPG"
@@ -457,11 +406,11 @@
         "INDIECN"
       ],
       "has_key_store": false,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1211600/aac7446006d1fb3898eccf697406d0c357cf20a3/header_alt_assets_2.jpg?t=1794572263",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1211600/aac7446006d1fb3898eccf697406d0c357cf20a3/header_alt_assets_2.jpg?t=1794736210",
       "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1211600/cbc24c2fbbd90d69381ddb1ee4ef98302bb396df/ss_cbc24c2fbbd90d69381ddb1ee4ef98302bb396df.600x338.jpg?t=1794572263",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1211600/c4975ff0a3c94e553fc9af9554ca4284f0f40b47/ss_c4975ff0a3c94e553fc9af9554ca4284f0f40b47.600x338.jpg?t=1794572263",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1211600/6c61e38ac72ac38ac8ce3a08d652d5b73da95fd6/ss_6c61e38ac72ac38ac8ce3a08d652d5b73da95fd6.600x338.jpg?t=1794572263"
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1211600/cbc24c2fbbd90d69381ddb1ee4ef98302bb396df/ss_cbc24c2fbbd90d69381ddb1ee4ef98302bb396df.600x338.jpg?t=1794736210",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1211600/c4975ff0a3c94e553fc9af9554ca4284f0f40b47/ss_c4975ff0a3c94e553fc9af9554ca4284f0f40b47.600x338.jpg?t=1794736210",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1211600/6c61e38ac72ac38ac8ce3a08d652d5b73da95fd6/ss_6c61e38ac72ac38ac8ce3a08d652d5b73da95fd6.600x338.jpg?t=1794736210"
       ],
       "discount_percent": 40,
       "initial_price": 1400,
@@ -470,7 +419,7 @@
       "final_formatted": "¥ 840",
       "review_desc": "非常に好評",
       "positive_rate": 81,
-      "total_reviews": 4442,
+      "total_reviews": 4532,
       "deal_score": 62,
       "genres": [
         "アクション",
@@ -500,56 +449,6 @@
       "steam_url": "https://store.steampowered.com/app/1211600/"
     },
     {
-      "appid": 2536520,
-      "name": "「ディアブロ II リザレクテッド」 – 「獄炎エディション」",
-      "name_en": "Diablo II: Resurrected  Infernal Edition",
-      "publishers": [
-        "Blizzard Entertainment, Inc."
-      ],
-      "has_key_store": false,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2536520/d1c9cc9a6d51ad8e54348e66b19eb4fba0d3c4b4/header_japanese.jpg?t=1774399170",
-      "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2536520/3c2de7da286e32b55999e3728cf6de2e8bdcc322/ss_3c2de7da286e32b55999e3728cf6de2e8bdcc322.600x338.jpg?t=1774399170",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2536520/a242137e5b7fc5f5b831b0a34b8b07cb707a35d1/ss_a242137e5b7fc5f5b831b0a34b8b07cb707a35d1.600x338.jpg?t=1774399170",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2536520/2ddb9abab8b0b510b94f1ac9b6b750f23fda9f62/ss_2ddb9abab8b0b510b94f1ac9b6b750f23fda9f62.600x338.jpg?t=1774399170"
-      ],
-      "discount_percent": 35,
-      "initial_price": 4800,
-      "final_price": 3120,
-      "initial_formatted": "¥ 4,800",
-      "final_formatted": "¥ 3,120",
-      "review_desc": "非常に好評",
-      "positive_rate": 86,
-      "total_reviews": 6364,
-      "deal_score": 62,
-      "genres": [
-        "アクション",
-        "RPG",
-        "ストラテジー"
-      ],
-      "categories": [
-        "シングルプレイヤー",
-        "マルチプレイヤー",
-        "協力プレイ",
-        "オンライン協力プレイ",
-        "クロスプラットフォームマルチプレイヤー"
-      ],
-      "release_date": "2026年2月11日",
-      "supported_japanese": true,
-      "ai_overview": "近代のアクションRPGジャンルを定義づけたダークファンタジーの名作を再発見できる完全リマスター版が登場。新クラス、新たなコンテンツ、快適性のアップグレード、刷新されたエンドゲームコンテンツを楽しめる。最大8名のプレイヤーで強力なスキルやアイテムのシナジーを繋げ、一大勢力として台頭し地獄の軍団を切り裂くことができる。",
-      "ai_pros": [
-        "オンライン協力プレイ対応で快適に遊べる設計"
-      ],
-      "ai_cons": [
-        "高負荷3Dグラフィック：快適プレイには「GTX 1060」以上のPC環境を推奨"
-      ],
-      "picked_reviews": [],
-      "gpu_hint": "GTX 1060",
-      "has_controller": true,
-      "is_heavy_3d": true,
-      "steam_url": "https://store.steampowered.com/app/2536520/"
-    },
-    {
       "appid": 4557380,
       "name": "バトモン対決",
       "name_en": "Batomon Showdown",
@@ -570,7 +469,7 @@
       "final_formatted": "¥ 1,235",
       "review_desc": "非常に好評",
       "positive_rate": 90,
-      "total_reviews": 1787,
+      "total_reviews": 1795,
       "deal_score": 61,
       "genres": [
         "カジュアル",
@@ -619,7 +518,7 @@
       "final_formatted": "¥ 980",
       "review_desc": "非常に好評",
       "positive_rate": 92,
-      "total_reviews": 1223,
+      "total_reviews": 1462,
       "deal_score": 60,
       "genres": [
         "カジュアル",
@@ -647,6 +546,106 @@
       "steam_url": "https://store.steampowered.com/app/4618570/"
     },
     {
+      "appid": 2584270,
+      "name": "Mortal Shell II",
+      "name_en": "Mortal Shell II",
+      "publishers": [
+        "Playstack"
+      ],
+      "has_key_store": false,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2584270/0a4c23b70ced29fac344186ea564dae67c80cfd6/header.jpg?t=1794241756",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2584270/a38e76ebe240fb97b0d81e5a38569c0991d3ca63/ss_a38e76ebe240fb97b0d81e5a38569c0991d3ca63.600x338.jpg?t=1794241756",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2584270/25aef0e6c4291d8708b53c5e8aaa66bc9859592f/ss_25aef0e6c4291d8708b53c5e8aaa66bc9859592f.600x338.jpg?t=1794241756",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2584270/c00a163b2843460386cad95df44de5d47a79fc26/ss_c00a163b2843460386cad95df44de5d47a79fc26.600x338.jpg?t=1794241756"
+      ],
+      "discount_percent": 25,
+      "initial_price": 6480,
+      "final_price": 4860,
+      "initial_formatted": "¥ 6,480",
+      "final_formatted": "¥ 4,860",
+      "review_desc": "非常に好評",
+      "positive_rate": 80,
+      "total_reviews": 21097,
+      "deal_score": 57,
+      "genres": [
+        "アクション",
+        "RPG"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "Steam実績",
+        "フルコントローラサポート",
+        "テキストサイズの調整",
+        "#category_contrast_controls"
+      ],
+      "release_date": "2026年8月20日",
+      "supported_japanese": true,
+      "ai_overview": "誰かの体を自らの武器に。Mortal Shell IIは、続編ながら前作をプレイしていなくても楽しめるアクションRPGで、アドレナリン全開の手強い戦闘が特徴だ。非凡な戦士の力を借りて偽りの神々を追放し、荒れ果てた世界を救済しよう。",
+      "ai_pros": [
+        "フルコントローラー対応で快適に遊べる設計"
+      ],
+      "ai_cons": [
+        "高負荷3Dグラフィック：快適プレイには「RTX 2060」以上のPC環境を推奨"
+      ],
+      "picked_reviews": [],
+      "gpu_hint": "RTX 2060",
+      "has_controller": true,
+      "is_heavy_3d": true,
+      "steam_url": "https://store.steampowered.com/app/2584270/"
+    },
+    {
+      "appid": 3123410,
+      "name": "ユミアのアトリエ ～追憶の錬金術士と幻創の地～",
+      "name_en": "Atelier Yumia: The Alchemist of Memories and the Envisioned Land",
+      "publishers": [
+        "KOEI TECMO GAMES CO., LTD."
+      ],
+      "has_key_store": false,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123410/header_japanese.jpg?t=1793770079",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123410/ss_4339a64cb6ea53e9a05b3a6e34ce034360233a15.600x338.jpg?t=1793770079",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123410/ss_00f7ba10998b45ced533af354e5f28b06dfd9b46.600x338.jpg?t=1793770079",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123410/ss_43baac827a2da14a99ba0e0db7c19ddfe488165e.600x338.jpg?t=1793770079"
+      ],
+      "discount_percent": 50,
+      "initial_price": 9680,
+      "final_price": 4840,
+      "initial_formatted": "¥ 9,680",
+      "final_formatted": "¥ 4,840",
+      "review_desc": "賛否両論",
+      "positive_rate": 63,
+      "total_reviews": 2584,
+      "deal_score": 54,
+      "genres": [
+        "アクション",
+        "アドベンチャー",
+        "RPG"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "Steam実績",
+        "フルコントローラサポート",
+        "Steamクラウド",
+        "ファミリーシェアリング"
+      ],
+      "release_date": "2025年3月20日",
+      "supported_japanese": true,
+      "ai_overview": "錬金術RPG『ユミアのアトリエ』は「記憶」と向き合い、迷いながらも信じる道を進むユミアたちの物語。広大なフィールドを駆け巡り、素材を集めて調合。作成したアイテムで戦闘や探索を有利に進めよう。フィールド上で拠点を作る「ハウジング」などの機能も充実。",
+      "ai_pros": [
+        "フルコントローラー対応・クラウドセーブ対応で快適に遊べる設計"
+      ],
+      "ai_cons": [
+        "好みが分かれる作品（好評率63%）：ゲームシステムや難易度の事前確認を推奨",
+        "高負荷3Dグラフィック：快適プレイには「RTX 2060」以上のPC環境を推奨"
+      ],
+      "picked_reviews": [],
+      "gpu_hint": "RTX 2060",
+      "has_controller": true,
+      "is_heavy_3d": true,
+      "steam_url": "https://store.steampowered.com/app/3123410/"
+    },
+    {
       "appid": 2868840,
       "name": "Slay the Spire 2",
       "name_en": "Slay the Spire 2",
@@ -667,7 +666,7 @@
       "final_formatted": "¥ 2,240",
       "review_desc": "やや好評",
       "positive_rate": 79,
-      "total_reviews": 216755,
+      "total_reviews": 217127,
       "deal_score": 48,
       "genres": [
         "インディー",
@@ -716,7 +715,7 @@
       "final_formatted": "¥ 3,120",
       "review_desc": "やや好評",
       "positive_rate": 75,
-      "total_reviews": 70502,
+      "total_reviews": 71254,
       "deal_score": 46,
       "genres": [
         "アクション",
@@ -767,7 +766,7 @@
       "final_formatted": "¥ 4,893",
       "review_desc": "賛否両論",
       "positive_rate": 56,
-      "total_reviews": 66572,
+      "total_reviews": 66613,
       "deal_score": 42,
       "genres": [
         "シミュレーション"
