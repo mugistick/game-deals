@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 04:31",
+  "updated_at": "2026-11-17 04:45",
   "total_count": 16,
   "affiliate": {
     "amazon_tag": "mugistick-22",
@@ -31,7 +31,7 @@
       "final_formatted": "¥ 2,097",
       "review_desc": "非常に好評",
       "positive_rate": 91,
-      "total_reviews": 330387,
+      "total_reviews": 330459,
       "deal_score": 90,
       "genres": [
         "シミュレーション",
@@ -46,7 +46,7 @@
       ],
       "release_date": "2016年6月6日",
       "supported_japanese": true,
-      "ai_overview": "勝利はあなたの指先にあります!国家を率いる能力は最高の武器です。ストラテジー ゲーム Hearts of Iron IV では、第二次世界大戦であらゆる国家を指揮することができます。世界史上最も魅力的な紛争。",
+      "ai_overview": "Victory is at your fingertips! Your ability to lead your nation is your supreme weapon, the strategy game Hearts of Iron IV lets you take command of any nation in World War II; the most engaging conflict in world history.",
       "ai_pros": [
         "オンライン協力プレイ対応で快適に遊べる設計",
         "要求スペックは軽め（GTX 570目安）で幅広いPCで快適動作"
@@ -79,7 +79,7 @@
       "final_formatted": "¥ 749",
       "review_desc": "非常に好評",
       "positive_rate": 94,
-      "total_reviews": 795935,
+      "total_reviews": 796271,
       "deal_score": 89,
       "genres": [
         "インディー",
@@ -128,7 +128,7 @@
       "final_formatted": "¥ 745",
       "review_desc": "非常に好評",
       "positive_rate": 82,
-      "total_reviews": 3327,
+      "total_reviews": 3341,
       "deal_score": 83,
       "genres": [
         "アクション"
@@ -162,7 +162,7 @@
       "publishers": [
         "Devolver Digital"
       ],
-      "has_key_store": true,
+      "has_key_store": false,
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2062430/a157aa8de4bd9070194ddffb27c31636355dca05/header.jpg?t=1794503272",
       "screenshots": [
         "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2062430/a28844182780f12e79a6b8d5db69eb8677642440/ss_a28844182780f12e79a6b8d5db69eb8677642440.600x338.jpg?t=1794503272",
@@ -176,8 +176,8 @@
       "final_formatted": "¥ 850",
       "review_desc": "非常に好評",
       "positive_rate": 89,
-      "total_reviews": 25554,
-      "deal_score": 78,
+      "total_reviews": 25601,
+      "deal_score": 73,
       "genres": [
         "アクション",
         "インディー"
@@ -225,7 +225,7 @@
       "final_formatted": "¥ 996",
       "review_desc": "やや好評",
       "positive_rate": 71,
-      "total_reviews": 1281,
+      "total_reviews": 1285,
       "deal_score": 72,
       "genres": [
         "RPG"
@@ -254,55 +254,6 @@
       "steam_url": "https://store.steampowered.com/app/2175540/"
     },
     {
-      "appid": 3375780,
-      "name": "空の軌跡 the 1st",
-      "name_en": "Trails in the Sky 1st Chapter",
-      "publishers": [
-        "GungHo Online Entertainment America, Inc."
-      ],
-      "has_key_store": false,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3375780/header_japanese.jpg?t=1791225209",
-      "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3375780/ss_02baade482a0d73f550869aaf6329443a1ec1db0.600x338.jpg?t=1791225209",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3375780/ss_dee209de8d1276a118ab02964c07794518ce3d6b.600x338.jpg?t=1791225209",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3375780/ss_1b803f1665b9eef35e74773dbd87ae7a0cccaee0.600x338.jpg?t=1791225209"
-      ],
-      "discount_percent": 50,
-      "initial_price": 8800,
-      "final_price": 4400,
-      "initial_formatted": "¥ 8,800",
-      "final_formatted": "¥ 4,400",
-      "review_desc": "非常に好評",
-      "positive_rate": 94,
-      "total_reviews": 5203,
-      "deal_score": 72,
-      "genres": [
-        "アクション",
-        "アドベンチャー",
-        "RPG"
-      ],
-      "categories": [
-        "シングルプレイヤー",
-        "Steam実績",
-        "フルコントローラサポート",
-        "ゲームパッド推奨",
-        "DUALSHOCKコントローラーサポート"
-      ],
-      "release_date": "2025年9月19日",
-      "supported_japanese": true,
-      "ai_overview": "2024年に生誕20周年を迎えたストーリーRPG「軌跡」シリーズ。その記念すべき第１作、『英雄伝説 空の軌跡FC（ファーストチャプター）』を完全フルリメイク！",
-      "ai_pros": [
-        "フルコントローラー対応で快適に遊べる設計",
-        "要求スペックは軽め（ミドルクラスGPU目安）で幅広いPCで快適動作"
-      ],
-      "ai_cons": [],
-      "picked_reviews": [],
-      "gpu_hint": "ミドルクラスGPU",
-      "has_controller": true,
-      "is_heavy_3d": false,
-      "steam_url": "https://store.steampowered.com/app/3375780/"
-    },
-    {
       "appid": 2178480,
       "name": "不思議のダンジョン　風来のシレン６　とぐろ島探検録",
       "name_en": "Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island",
@@ -323,7 +274,7 @@
       "final_formatted": "¥ 2,691",
       "review_desc": "非常に好評",
       "positive_rate": 84,
-      "total_reviews": 551,
+      "total_reviews": 550,
       "deal_score": 67,
       "genres": [
         "RPG"
@@ -351,52 +302,55 @@
       "steam_url": "https://store.steampowered.com/app/2178480/"
     },
     {
-      "appid": 1308700,
-      "name": "Wizardry外伝 五つの試練",
-      "name_en": "Wizardry: The Five Ordeals",
+      "appid": 5037200,
+      "name": "just volleyball",
+      "name_en": "just volleyball",
       "publishers": [
-        "Game*Spark Publishing"
+        "temkosoft"
       ],
       "has_key_store": false,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1308700/header.jpg?t=1794335368",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5037200/cd1b5a290d15e7379b31dcacc12f1e5b25d37577/header.jpg?t=1794852941",
       "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1308700/ss_6e7ea052e2f16715d7bec97011a80ffc6a161eba.600x338.jpg?t=1794335368",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1308700/ss_17cb251e73cd817b0645fb42be9039e7b8ac84ed.600x338.jpg?t=1794335368",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1308700/ss_d16140961adcfeb6bc30213c5714216bd9930343.600x338.jpg?t=1794335368"
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5037200/7c817d292f4dc7333d2007576085a34550c632ea/ss_7c817d292f4dc7333d2007576085a34550c632ea.600x338.jpg?t=1794852941",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5037200/8fa2393b78e2b5db7a3cd8310fac160c4b1e6d76/ss_8fa2393b78e2b5db7a3cd8310fac160c4b1e6d76.600x338.jpg?t=1794852941",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5037200/4f3c081877347741dbffa1e17f0b18a3d352dd55/ss_4f3c081877347741dbffa1e17f0b18a3d352dd55.600x338.jpg?t=1794852941"
       ],
-      "discount_percent": 55,
-      "initial_price": 3980,
-      "final_price": 1791,
-      "initial_formatted": "¥ 3,980",
-      "final_formatted": "¥ 1,791",
+      "discount_percent": 38,
+      "initial_price": 1150,
+      "final_price": 713,
+      "initial_formatted": "¥ 1,150",
+      "final_formatted": "¥ 713",
       "review_desc": "非常に好評",
-      "positive_rate": 85,
-      "total_reviews": 537,
-      "deal_score": 67,
+      "positive_rate": 98,
+      "total_reviews": 231,
+      "deal_score": 66,
       "genres": [
+        "アクション",
+        "カジュアル",
         "インディー",
-        "RPG"
+        "スポーツ"
       ],
       "categories": [
         "シングルプレイヤー",
-        "テキストサイズの調整",
-        "カメラの快適性",
-        "色のオプション",
-        "#category_contrast_controls"
+        "マルチプレイヤー",
+        "PvP",
+        "オンラインPvP",
+        "LAN PvP"
       ],
-      "release_date": "2023年10月26日",
-      "supported_japanese": true,
-      "ai_overview": "シンプル&ハードコア。3DダンジョンRPGの深淵がここに。新作『ウィザードリィ外伝』Steamに登場！それぞれに独立した複数のシナリオで終わりなき冒険へと旅立て！",
+      "release_date": "2026年11月16日",
+      "supported_japanese": false,
+      "ai_overview": "just volleyball is an online and offline volleyball game with unique yet intuitive controls and deep player expression. take on others in anything from 1v1s & 2v2s to full team-based 6v6 matches. there's no right way to play, it's just volleyball!",
       "ai_pros": [
-        "インディー / RPG好きなら抑えておきたい注目作",
-        "要求スペックは軽め（ミドルクラスGPU目安）で幅広いPCで快適動作"
+        "マルチプレイ対応で快適に遊べる設計"
       ],
-      "ai_cons": [],
+      "ai_cons": [
+        "公式ストア表記は日本語非対応（有志日本語化MOD等の有無を確認推奨）"
+      ],
       "picked_reviews": [],
-      "gpu_hint": "ミドルクラスGPU",
+      "gpu_hint": "GTX 1050",
       "has_controller": true,
-      "is_heavy_3d": false,
-      "steam_url": "https://store.steampowered.com/app/1308700/"
+      "is_heavy_3d": true,
+      "steam_url": "https://store.steampowered.com/app/5037200/"
     },
     {
       "appid": 1211600,
@@ -406,11 +360,11 @@
         "INDIECN"
       ],
       "has_key_store": false,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1211600/aac7446006d1fb3898eccf697406d0c357cf20a3/header_alt_assets_2.jpg?t=1794736210",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1211600/aac7446006d1fb3898eccf697406d0c357cf20a3/header_alt_assets_2.jpg?t=1794807411",
       "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1211600/cbc24c2fbbd90d69381ddb1ee4ef98302bb396df/ss_cbc24c2fbbd90d69381ddb1ee4ef98302bb396df.600x338.jpg?t=1794736210",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1211600/c4975ff0a3c94e553fc9af9554ca4284f0f40b47/ss_c4975ff0a3c94e553fc9af9554ca4284f0f40b47.600x338.jpg?t=1794736210",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1211600/6c61e38ac72ac38ac8ce3a08d652d5b73da95fd6/ss_6c61e38ac72ac38ac8ce3a08d652d5b73da95fd6.600x338.jpg?t=1794736210"
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1211600/cbc24c2fbbd90d69381ddb1ee4ef98302bb396df/ss_cbc24c2fbbd90d69381ddb1ee4ef98302bb396df.600x338.jpg?t=1794807411",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1211600/c4975ff0a3c94e553fc9af9554ca4284f0f40b47/ss_c4975ff0a3c94e553fc9af9554ca4284f0f40b47.600x338.jpg?t=1794807411",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1211600/6c61e38ac72ac38ac8ce3a08d652d5b73da95fd6/ss_6c61e38ac72ac38ac8ce3a08d652d5b73da95fd6.600x338.jpg?t=1794807411"
       ],
       "discount_percent": 40,
       "initial_price": 1400,
@@ -419,7 +373,7 @@
       "final_formatted": "¥ 840",
       "review_desc": "非常に好評",
       "positive_rate": 81,
-      "total_reviews": 4532,
+      "total_reviews": 4593,
       "deal_score": 62,
       "genres": [
         "アクション",
@@ -449,55 +403,6 @@
       "steam_url": "https://store.steampowered.com/app/1211600/"
     },
     {
-      "appid": 4557380,
-      "name": "バトモン対決",
-      "name_en": "Batomon Showdown",
-      "publishers": [
-        "berrymint"
-      ],
-      "has_key_store": false,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4557380/6c25fc6647ef86f969b98b29a0d226fbddb4e614/header.jpg?t=1791378405",
-      "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4557380/e608005f00be3a3aaa2e2c50ebb71a6099f72448/ss_e608005f00be3a3aaa2e2c50ebb71a6099f72448.600x338.jpg?t=1791378405",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4557380/7b5fb81f7fecb2e31f9aeea295184b78dc19f4e4/ss_7b5fb81f7fecb2e31f9aeea295184b78dc19f4e4.600x338.jpg?t=1791378405",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4557380/343d7cc4ac54f77918e75ddd353ae737a275113c/ss_343d7cc4ac54f77918e75ddd353ae737a275113c.600x338.jpg?t=1791378405"
-      ],
-      "discount_percent": 35,
-      "initial_price": 1900,
-      "final_price": 1235,
-      "initial_formatted": "¥ 1,900",
-      "final_formatted": "¥ 1,235",
-      "review_desc": "非常に好評",
-      "positive_rate": 90,
-      "total_reviews": 1795,
-      "deal_score": 61,
-      "genres": [
-        "カジュアル",
-        "インディー",
-        "ストラテジー"
-      ],
-      "categories": [
-        "マルチプレイヤー",
-        "PvP",
-        "オンラインPvP",
-        "フルコントローラサポート",
-        "カスタム音量調整"
-      ],
-      "release_date": "2026年9月15日",
-      "supported_japanese": true,
-      "ai_overview": "数百種のバトモンを発見してバトルしよう！最強のチームを組んで他のプレイヤーに挑め！自分のペースで遊びながら、強力なコンボとシナジーを見つけ出そう！バトモンを極限まで鍛え上げて、ゲームをぶっ壊せ。",
-      "ai_pros": [
-        "フルコントローラー対応・マルチプレイ対応で快適に遊べる設計",
-        "要求スペックは軽め（ミドルクラスGPU目安）で幅広いPCで快適動作"
-      ],
-      "ai_cons": [],
-      "picked_reviews": [],
-      "gpu_hint": "ミドルクラスGPU",
-      "has_controller": true,
-      "is_heavy_3d": false,
-      "steam_url": "https://store.steampowered.com/app/4557380/"
-    },
-    {
       "appid": 4618570,
       "name": "ブースターパックヒーロー",
       "name_en": "Booster Pack Heroes",
@@ -518,7 +423,7 @@
       "final_formatted": "¥ 980",
       "review_desc": "非常に好評",
       "positive_rate": 92,
-      "total_reviews": 1462,
+      "total_reviews": 1640,
       "deal_score": 60,
       "genres": [
         "カジュアル",
@@ -546,104 +451,100 @@
       "steam_url": "https://store.steampowered.com/app/4618570/"
     },
     {
-      "appid": 2584270,
-      "name": "Mortal Shell II",
-      "name_en": "Mortal Shell II",
+      "appid": 5458210,
+      "name": "How They Built the Pyramids",
+      "name_en": "How They Built the Pyramids",
       "publishers": [
-        "Playstack"
+        "Pattez Games"
       ],
       "has_key_store": false,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2584270/0a4c23b70ced29fac344186ea564dae67c80cfd6/header.jpg?t=1794241756",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5458210/e8525d1cf30149534fbc6b2ee780a2dddc2f328b/header.jpg?t=1794589252",
       "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2584270/a38e76ebe240fb97b0d81e5a38569c0991d3ca63/ss_a38e76ebe240fb97b0d81e5a38569c0991d3ca63.600x338.jpg?t=1794241756",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2584270/25aef0e6c4291d8708b53c5e8aaa66bc9859592f/ss_25aef0e6c4291d8708b53c5e8aaa66bc9859592f.600x338.jpg?t=1794241756",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2584270/c00a163b2843460386cad95df44de5d47a79fc26/ss_c00a163b2843460386cad95df44de5d47a79fc26.600x338.jpg?t=1794241756"
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5458210/2149a16c83d6d27f2bf0aa7df1045471ce62d229/ss_2149a16c83d6d27f2bf0aa7df1045471ce62d229.600x338.jpg?t=1794589252",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5458210/ffd87a2fe42d61046433161fccec68a6c4703d34/ss_ffd87a2fe42d61046433161fccec68a6c4703d34.600x338.jpg?t=1794589252",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5458210/07e584502e25f71d53e38e5fd5f271f5439c0cf6/ss_07e584502e25f71d53e38e5fd5f271f5439c0cf6.600x338.jpg?t=1794589252"
       ],
-      "discount_percent": 25,
-      "initial_price": 6480,
-      "final_price": 4860,
-      "initial_formatted": "¥ 6,480",
-      "final_formatted": "¥ 4,860",
+      "discount_percent": 30,
+      "initial_price": 845,
+      "final_price": 591,
+      "initial_formatted": "¥ 845",
+      "final_formatted": "¥ 591",
       "review_desc": "非常に好評",
-      "positive_rate": 80,
-      "total_reviews": 21097,
-      "deal_score": 57,
+      "positive_rate": 94,
+      "total_reviews": 233,
+      "deal_score": 60,
       "genres": [
-        "アクション",
-        "RPG"
+        "カジュアル",
+        "インディー",
+        "シミュレーション"
       ],
       "categories": [
         "シングルプレイヤー",
-        "Steam実績",
-        "フルコントローラサポート",
-        "テキストサイズの調整",
-        "#category_contrast_controls"
+        "マルチプレイヤー",
+        "協力プレイ",
+        "オンライン協力プレイ",
+        "Steam実績"
       ],
-      "release_date": "2026年8月20日",
+      "release_date": "2026年11月13日",
       "supported_japanese": true,
-      "ai_overview": "誰かの体を自らの武器に。Mortal Shell IIは、続編ながら前作をプレイしていなくても楽しめるアクションRPGで、アドレナリン全開の手強い戦闘が特徴だ。非凡な戦士の力を借りて偽りの神々を追放し、荒れ果てた世界を救済しよう。",
+      "ai_overview": "1〜8人で遊べる、ハチャメチャなオンライン協力建築ゲーム。レンガを作り、巨大なピラミッドを建設しよう。生産ラインを自動化したり、仲間を雇ったり、あの手この手でレンガを頂上まで運ぼう！",
       "ai_pros": [
-        "フルコントローラー対応で快適に遊べる設計"
+        "オンライン協力プレイ対応で快適に遊べる設計",
+        "要求スペックは軽め（GTX 960目安）で幅広いPCで快適動作"
       ],
-      "ai_cons": [
-        "高負荷3Dグラフィック：快適プレイには「RTX 2060」以上のPC環境を推奨"
-      ],
+      "ai_cons": [],
       "picked_reviews": [],
-      "gpu_hint": "RTX 2060",
-      "has_controller": true,
-      "is_heavy_3d": true,
-      "steam_url": "https://store.steampowered.com/app/2584270/"
+      "gpu_hint": "GTX 960",
+      "has_controller": false,
+      "is_heavy_3d": false,
+      "steam_url": "https://store.steampowered.com/app/5458210/"
     },
     {
-      "appid": 3123410,
-      "name": "ユミアのアトリエ ～追憶の錬金術士と幻創の地～",
-      "name_en": "Atelier Yumia: The Alchemist of Memories and the Envisioned Land",
+      "appid": 2011180,
+      "name": "Terminus Historia | 境界戦役",
+      "name_en": "Terminus Historia",
       "publishers": [
-        "KOEI TECMO GAMES CO., LTD."
+        "IMYUIC"
       ],
       "has_key_store": false,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123410/header_japanese.jpg?t=1793770079",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2011180/d46d3056645741c8608ee0745c1fb2b3acc17009/header.jpg?t=1794710746",
       "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123410/ss_4339a64cb6ea53e9a05b3a6e34ce034360233a15.600x338.jpg?t=1793770079",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123410/ss_00f7ba10998b45ced533af354e5f28b06dfd9b46.600x338.jpg?t=1793770079",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123410/ss_43baac827a2da14a99ba0e0db7c19ddfe488165e.600x338.jpg?t=1793770079"
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2011180/c0d5513e7d253d2921fd7f164911144fa246b4bc/ss_c0d5513e7d253d2921fd7f164911144fa246b4bc.600x338.jpg?t=1794710746",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2011180/09bbceeb83e0ffff98292098b26074b3e95b6a0d/ss_09bbceeb83e0ffff98292098b26074b3e95b6a0d.600x338.jpg?t=1794710746",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2011180/51907ba574af249234af8edc54ebbdb3bc71af78/ss_51907ba574af249234af8edc54ebbdb3bc71af78.600x338.jpg?t=1794710746"
       ],
-      "discount_percent": 50,
-      "initial_price": 9680,
-      "final_price": 4840,
-      "initial_formatted": "¥ 9,680",
-      "final_formatted": "¥ 4,840",
-      "review_desc": "賛否両論",
-      "positive_rate": 63,
-      "total_reviews": 2584,
-      "deal_score": 54,
+      "discount_percent": 30,
+      "initial_price": 1870,
+      "final_price": 1309,
+      "initial_formatted": "¥ 1,870",
+      "final_formatted": "¥ 1,309",
+      "review_desc": "非常に好評",
+      "positive_rate": 88,
+      "total_reviews": 500,
+      "deal_score": 58,
       "genres": [
-        "アクション",
-        "アドベンチャー",
-        "RPG"
+        "インディー",
+        "RPG",
+        "早期アクセス"
       ],
       "categories": [
         "シングルプレイヤー",
-        "Steam実績",
-        "フルコントローラサポート",
-        "Steamクラウド",
+        "部分的コントローラサポート",
         "ファミリーシェアリング"
       ],
-      "release_date": "2025年3月20日",
+      "release_date": "2026年11月14日",
       "supported_japanese": true,
-      "ai_overview": "錬金術RPG『ユミアのアトリエ』は「記憶」と向き合い、迷いながらも信じる道を進むユミアたちの物語。広大なフィールドを駆け巡り、素材を集めて調合。作成したアイテムで戦闘や探索を有利に進めよう。フィールド上で拠点を作る「ハウジング」などの機能も充実。",
+      "ai_overview": "マルチルート × フリーシナリオ。ダークメルヘンなドット絵RPG。人と悪魔の世界のあわい“境界（Terminus）”を舞台に、所属や選択によって異なる物語へ――騎士団に残るか？ 傭兵として生きるか？ 飛空船に乗って空の海へ飛び立つか……それとも、どこにも属さず旅するか。さまざまな仲間と出会い、自らの旅を進めましょう。",
       "ai_pros": [
-        "フルコントローラー対応・クラウドセーブ対応で快適に遊べる設計"
+        "コントローラー対応で快適に遊べる設計",
+        "要求スペックは軽め（ミドルクラスGPU目安）で幅広いPCで快適動作"
       ],
-      "ai_cons": [
-        "好みが分かれる作品（好評率63%）：ゲームシステムや難易度の事前確認を推奨",
-        "高負荷3Dグラフィック：快適プレイには「RTX 2060」以上のPC環境を推奨"
-      ],
+      "ai_cons": [],
       "picked_reviews": [],
-      "gpu_hint": "RTX 2060",
+      "gpu_hint": "ミドルクラスGPU",
       "has_controller": true,
-      "is_heavy_3d": true,
-      "steam_url": "https://store.steampowered.com/app/3123410/"
+      "is_heavy_3d": false,
+      "steam_url": "https://store.steampowered.com/app/2011180/"
     },
     {
       "appid": 2868840,
@@ -666,7 +567,7 @@
       "final_formatted": "¥ 2,240",
       "review_desc": "やや好評",
       "positive_rate": 79,
-      "total_reviews": 217127,
+      "total_reviews": 217433,
       "deal_score": 48,
       "genres": [
         "インディー",
@@ -715,7 +616,7 @@
       "final_formatted": "¥ 3,120",
       "review_desc": "やや好評",
       "positive_rate": 75,
-      "total_reviews": 71254,
+      "total_reviews": 71905,
       "deal_score": 46,
       "genres": [
         "アクション",
@@ -753,7 +654,7 @@
         "Paradox Interactive"
       ],
       "has_key_store": true,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/949230/32fb7aeb36e9815a16e65b7c1bf2a4fdfa300764/header_alt_assets_9_japanese.jpg?t=1794506466",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/949230/header.jpg?t=1794506466",
       "screenshots": [
         "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/949230/ddeb0387afd486d345172a049da56f51aa08f38b/ss_ddeb0387afd486d345172a049da56f51aa08f38b.600x338.jpg?t=1794506466",
         "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/949230/cedb08924ea98f4707c566da3070a9dccd6fbc89/ss_cedb08924ea98f4707c566da3070a9dccd6fbc89.600x338.jpg?t=1794506466",
@@ -766,7 +667,7 @@
       "final_formatted": "¥ 4,893",
       "review_desc": "賛否両論",
       "positive_rate": 56,
-      "total_reviews": 66613,
+      "total_reviews": 66647,
       "deal_score": 42,
       "genres": [
         "シミュレーション"
@@ -793,6 +694,107 @@
       "has_controller": true,
       "is_heavy_3d": true,
       "steam_url": "https://store.steampowered.com/app/949230/"
+    },
+    {
+      "appid": 3321460,
+      "name": "紅の砂漠 Enhanced",
+      "name_en": "Crimson Desert Enhanced",
+      "publishers": [
+        "Pearl Abyss"
+      ],
+      "has_key_store": true,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321460/60c0c01e230db86558e019517c5ae51a8ac09675/header_japanese.jpg?t=1794478066",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321460/667d1763ae26137aafbc3140963621f530b43289/ss_667d1763ae26137aafbc3140963621f530b43289.600x338.jpg?t=1794478066",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321460/b154a083ff9a746c71a1513334042e1bb9403a8b/ss_b154a083ff9a746c71a1513334042e1bb9403a8b.600x338.jpg?t=1794478066",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321460/286938f408f5f0c6409f49584f33e8d497433123/ss_286938f408f5f0c6409f49584f33e8d497433123.600x338.jpg?t=1794478066"
+      ],
+      "discount_percent": 20,
+      "initial_price": 9680,
+      "final_price": 7744,
+      "initial_formatted": "¥ 9,680",
+      "final_formatted": "¥ 7,744",
+      "review_desc": "賛否両論",
+      "positive_rate": 65,
+      "total_reviews": 119721,
+      "deal_score": 42,
+      "genres": [
+        "アクション",
+        "アドベンチャー"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "Steam実績",
+        "フルコントローラサポート",
+        "カスタム音量調整",
+        "ゲームパッド推奨"
+      ],
+      "release_date": "2026年3月19日",
+      "supported_japanese": true,
+      "ai_overview": "ファイウェル大陸を舞台に繰り広げられるオープンワールド・アクションアドベンチャー「紅の砂漠」。 あなたは灰色たてがみのクリフとなり、失ったすべてを取り戻し、迫り来る脅威から世界を救うための旅へと踏み出します。 広大な荒野、隠された古代遺跡、神秘なる「アビス」の領域を駆け巡り、戦い、探索し、発見しながら、 自分だけの道を切り拓いてください。",
+      "ai_pros": [
+        "フルコントローラー対応で快適に遊べる設計"
+      ],
+      "ai_cons": [
+        "好みが分かれる作品（好評率65%）：ゲームシステムや難易度の事前確認を推奨",
+        "高負荷3Dグラフィック：快適プレイには「RTX 2080」以上のPC環境を推奨"
+      ],
+      "picked_reviews": [],
+      "gpu_hint": "RTX 2080",
+      "has_controller": true,
+      "is_heavy_3d": true,
+      "steam_url": "https://store.steampowered.com/app/3321460/"
+    },
+    {
+      "appid": 5318580,
+      "name": "Jyoka -城下-",
+      "name_en": "Jyoka -Castle town-",
+      "publishers": [
+        "sfvsoft"
+      ],
+      "has_key_store": false,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5318580/5c5b9c30dec06d49f81a289d9873d41bdb12285c/header.jpg?t=1794797485",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5318580/62bd757b628c51fe2f4ace12be7f55981528369c/ss_62bd757b628c51fe2f4ace12be7f55981528369c.600x338.jpg?t=1794797485",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5318580/d365f97a0d831f01b5ad7af23feccbc5c695b4eb/ss_d365f97a0d831f01b5ad7af23feccbc5c695b4eb.600x338.jpg?t=1794797485",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5318580/6eedfdb7f0ac7a4013bc26fdb0a09f9d6589c0fb/ss_6eedfdb7f0ac7a4013bc26fdb0a09f9d6589c0fb.600x338.jpg?t=1794797485"
+      ],
+      "discount_percent": 23,
+      "initial_price": 3850,
+      "final_price": 2964,
+      "initial_formatted": "¥ 3,850",
+      "final_formatted": "¥ 2,964",
+      "review_desc": "賛否両論",
+      "positive_rate": 46,
+      "total_reviews": 500,
+      "deal_score": 38,
+      "genres": [
+        "インディー",
+        "シミュレーション",
+        "ストラテジー"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "Steam実績",
+        "カメラの快適性",
+        "カスタム音量調整",
+        "難易度の調整"
+      ],
+      "release_date": "2026年11月15日",
+      "supported_japanese": true,
+      "ai_overview": "『Jyoka』は、戦国時代の日本が舞台の城下町建設ストラテジーゲーム。 190以上の施設で領地を発展させ、家臣に水田を分け与えて主従関係を構築。防衛設備を駆使して野盗や大名の侵略から城下町を守り抜きます。国が安定した後は、実在をモチーフとした70以上の敵城を落とす攻城戦へ挑み、日本統一を目指せます。",
+      "ai_pros": [
+        "インディー / シミュレーション好きなら抑えておきたい注目作",
+        "要求スペックは軽め（ミドルクラスGPU目安）で幅広いPCで快適動作"
+      ],
+      "ai_cons": [
+        "直近レビューで賛否あり（好評率46%）：PC環境との相性や動作の重さに要注意"
+      ],
+      "picked_reviews": [],
+      "gpu_hint": "ミドルクラスGPU",
+      "has_controller": false,
+      "is_heavy_3d": false,
+      "steam_url": "https://store.steampowered.com/app/5318580/"
     }
   ]
 }
