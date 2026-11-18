@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 04:51",
+  "updated_at": "2026-11-19 04:45",
   "total_count": 16,
   "affiliate": {
     "amazon_tag": "mugistick-22",
@@ -10,6 +10,54 @@
     "bto_pc_link": ""
   },
   "deals": [
+    {
+      "appid": 394360,
+      "name": "Hearts of Iron IV",
+      "name_en": "Hearts of Iron IV",
+      "publishers": [
+        "Paradox Interactive"
+      ],
+      "has_key_store": true,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394360/67bbd0057627fc2244793bcdd09260c2539499cf/header.jpg?t=1794491980",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394360/ss_242abc1c2ca21f7d8694ba8d9239d8944217b29f.600x338.jpg?t=1794491980",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394360/ss_679ae0d56f3a3b33591262839588c4b1dc6bef12.600x338.jpg?t=1794491980",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394360/ss_ebcec59e821aa1ee43c6d047eaef4e846af99358.600x338.jpg?t=1794491980"
+      ],
+      "discount_percent": 70,
+      "initial_price": 6990,
+      "final_price": 2097,
+      "initial_formatted": "¥ 6,990",
+      "final_formatted": "¥ 2,097",
+      "review_desc": "非常に好評",
+      "positive_rate": 91,
+      "total_reviews": 330565,
+      "deal_score": 90,
+      "genres": [
+        "シミュレーション",
+        "ストラテジー"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "マルチプレイヤー",
+        "協力プレイ",
+        "オンライン協力プレイ",
+        "クロスプラットフォームマルチプレイヤー"
+      ],
+      "release_date": "2016年6月6日",
+      "supported_japanese": true,
+      "ai_overview": "Victory is at your fingertips! Your ability to lead your nation is your supreme weapon, the strategy game Hearts of Iron IV lets you take command of any nation in World War II; the most engaging conflict in world history.",
+      "ai_pros": [
+        "オンライン協力プレイ対応で快適に遊べる設計",
+        "要求スペックは軽め（GTX 570目安）で幅広いPCで快適動作"
+      ],
+      "ai_cons": [],
+      "picked_reviews": [],
+      "gpu_hint": "GTX 570",
+      "has_controller": false,
+      "is_heavy_3d": false,
+      "steam_url": "https://store.steampowered.com/app/394360/"
+    },
     {
       "appid": 227300,
       "name": "Euro Truck Simulator 2",
@@ -31,7 +79,7 @@
       "final_formatted": "¥ 749",
       "review_desc": "非常に好評",
       "positive_rate": 94,
-      "total_reviews": 796534,
+      "total_reviews": 796800,
       "deal_score": 89,
       "genres": [
         "インディー",
@@ -80,7 +128,7 @@
       "final_formatted": "¥ 2,669",
       "review_desc": "非常に好評",
       "positive_rate": 87,
-      "total_reviews": 148543,
+      "total_reviews": 148624,
       "deal_score": 87,
       "genres": [
         "アクション",
@@ -130,7 +178,7 @@
       "final_formatted": "¥ 2,303",
       "review_desc": "非常に好評",
       "positive_rate": 92,
-      "total_reviews": 94262,
+      "total_reviews": 94298,
       "deal_score": 86,
       "genres": [
         "RPG"
@@ -177,7 +225,7 @@
       "final_formatted": "¥ 1,936",
       "review_desc": "非常に好評",
       "positive_rate": 84,
-      "total_reviews": 16554,
+      "total_reviews": 16558,
       "deal_score": 84,
       "genres": [
         "アクション",
@@ -227,7 +275,7 @@
       "final_formatted": "¥ 745",
       "review_desc": "非常に好評",
       "positive_rate": 81,
-      "total_reviews": 3357,
+      "total_reviews": 3373,
       "deal_score": 82,
       "genres": [
         "アクション"
@@ -275,7 +323,7 @@
       "final_formatted": "¥ 2,687",
       "review_desc": "非常に好評",
       "positive_rate": 91,
-      "total_reviews": 46133,
+      "total_reviews": 46162,
       "deal_score": 81,
       "genres": [
         "アドベンチャー",
@@ -304,56 +352,6 @@
       "steam_url": "https://store.steampowered.com/app/2161700/"
     },
     {
-      "appid": 2058190,
-      "name": "LOST JUDGMENT：裁かれざる記憶",
-      "name_en": "Lost Judgment",
-      "publishers": [
-        "SEGA"
-      ],
-      "has_key_store": false,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2058190/header_japanese.jpg?t=1781263270",
-      "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2058190/ss_fbc9cbe8c4e5864ed010606ff039e7b0fbc6766a.600x338.jpg?t=1781263270",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2058190/ss_e8a048bc0b746b5c51e2e705fbaf41a4e3ffa33e.600x338.jpg?t=1781263270",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2058190/ss_0e6499eea014409ea82d3651afe8280543fb1755.600x338.jpg?t=1781263270"
-      ],
-      "discount_percent": 80,
-      "initial_price": 4990,
-      "final_price": 998,
-      "initial_formatted": "¥ 4,990",
-      "final_formatted": "¥ 998",
-      "review_desc": "非常に好評",
-      "positive_rate": 83,
-      "total_reviews": 7616,
-      "deal_score": 80,
-      "genres": [
-        "アクション",
-        "アドベンチャー",
-        "RPG"
-      ],
-      "categories": [
-        "シングルプレイヤー",
-        "Steam実績",
-        "フルコントローラサポート",
-        "Steamトレーディングカード",
-        "DUALSHOCKコントローラーサポート"
-      ],
-      "release_date": "2022年9月14日",
-      "supported_japanese": true,
-      "ai_overview": "全世界が待っていた！木村拓哉主演、「ジャッジアイズ」シリーズ最新作！新たな舞台となる横浜で、元弁護士の探偵・八神隆之の活躍が描かれる。 平凡な裁判となるはずだった、とある事件から浮かび上がる謎に満ちた復讐劇。その物語は思わぬ方向に……。失われたのは真実。そして正義。“裁かれざる記憶”が八神に見せるものとは？ 前作を超える濃厚なリーガルサスペンス巨編をご堪能あれ！",
-      "ai_pros": [
-        "フルコントローラー対応で快適に遊べる設計"
-      ],
-      "ai_cons": [
-        "高負荷3Dグラフィック：快適プレイには「RTX 2060」以上のPC環境を推奨"
-      ],
-      "picked_reviews": [],
-      "gpu_hint": "RTX 2060",
-      "has_controller": true,
-      "is_heavy_3d": true,
-      "steam_url": "https://store.steampowered.com/app/2058190/"
-    },
-    {
       "appid": 1875830,
       "name": "真・女神転生Ⅴ Vengeance",
       "name_en": "Shin Megami Tensei V: Vengeance",
@@ -374,7 +372,7 @@
       "final_formatted": "¥ 2,963",
       "review_desc": "非常に好評",
       "positive_rate": 82,
-      "total_reviews": 8085,
+      "total_reviews": 8087,
       "deal_score": 76,
       "genres": [
         "アドベンチャー",
@@ -402,6 +400,58 @@
       "steam_url": "https://store.steampowered.com/app/1875830/"
     },
     {
+      "appid": 2864560,
+      "name": "龍の国 ルーンファクトリー",
+      "name_en": "Rune Factory: Guardians of Azuma",
+      "publishers": [
+        "XSEED Games",
+        "Marvelous USA, Inc.",
+        "Marvelous Europe"
+      ],
+      "has_key_store": false,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2864560/header_japanese.jpg?t=1771027230",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2864560/ss_a8e8d230ef88bd5d695bd85e3fbcdd2eadcfb924.600x338.jpg?t=1771027230",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2864560/ss_1cf4c82800e2c198159d6d986dd46414c743d5dd.600x338.jpg?t=1771027230",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2864560/ss_58973b611f0f0699cdfe98431cc3e7da3e759c78.600x338.jpg?t=1771027230"
+      ],
+      "discount_percent": 50,
+      "initial_price": 7678,
+      "final_price": 3839,
+      "initial_formatted": "¥ 7,678",
+      "final_formatted": "¥ 3,839",
+      "review_desc": "非常に好評",
+      "positive_rate": 82,
+      "total_reviews": 3011,
+      "deal_score": 66,
+      "genres": [
+        "アクション",
+        "アドベンチャー",
+        "RPG"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "Steam実績",
+        "フルコントローラサポート",
+        "Steamトレーディングカード",
+        "DUALSHOCKコントローラーサポート"
+      ],
+      "release_date": "2025年6月4日",
+      "supported_japanese": true,
+      "ai_overview": "ファンタジーの世界で冒険・生活の両方が楽しめるRPG 「ルーンファクトリー」シリーズの最新作。 畑仕事や釣り、里の復興といった日々の生活を送ったり、冒険を重ねることで、様々な人と出会うことができます。 あなただけの里を作り、生活・冒険を楽しもう！",
+      "ai_pros": [
+        "フルコントローラー対応で快適に遊べる設計"
+      ],
+      "ai_cons": [
+        "高負荷3Dグラフィック：快適プレイには「RTX 2060」以上のPC環境を推奨"
+      ],
+      "picked_reviews": [],
+      "gpu_hint": "RTX 2060",
+      "has_controller": true,
+      "is_heavy_3d": true,
+      "steam_url": "https://store.steampowered.com/app/2864560/"
+    },
+    {
       "appid": 5037200,
       "name": "just volleyball",
       "name_en": "just volleyball",
@@ -422,7 +472,7 @@
       "final_formatted": "¥ 713",
       "review_desc": "圧倒的に好評",
       "positive_rate": 98,
-      "total_reviews": 1087,
+      "total_reviews": 1651,
       "deal_score": 66,
       "genres": [
         "アクション",
@@ -453,57 +503,6 @@
       "steam_url": "https://store.steampowered.com/app/5037200/"
     },
     {
-      "appid": 499170,
-      "name": "Order of the Sinking Star",
-      "name_en": "Order of the Sinking Star",
-      "publishers": [
-        "Arc Games",
-        "Gamirror Games"
-      ],
-      "has_key_store": true,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/499170/deda420d9e42288f4734a068c707f4c156203969/header.jpg?t=1793039241",
-      "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/499170/44bbf392f454a49aa304917d30befad7f2bad8e3/ss_44bbf392f454a49aa304917d30befad7f2bad8e3.600x338.jpg?t=1793039241",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/499170/6227367e4defd4d5d43a852b43ff20994cb8cb32/ss_6227367e4defd4d5d43a852b43ff20994cb8cb32.600x338.jpg?t=1793039241",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/499170/a6be2dd33d8b2e23237ac848d52c176623244abb/ss_a6be2dd33d8b2e23237ac848d52c176623244abb.600x338.jpg?t=1793039241"
-      ],
-      "discount_percent": 20,
-      "initial_price": 3400,
-      "final_price": 2720,
-      "initial_formatted": "¥ 3,400",
-      "final_formatted": "¥ 2,720",
-      "review_desc": "圧倒的に好評",
-      "positive_rate": 96,
-      "total_reviews": 3851,
-      "deal_score": 65,
-      "genres": [
-        "アドベンチャー",
-        "インディー",
-        "ストラテジー"
-      ],
-      "categories": [
-        "シングルプレイヤー",
-        "Steam実績",
-        "フルコントローラサポート",
-        "DUALSHOCKコントローラーサポート",
-        "DUALSHOCKコントローラーサポート"
-      ],
-      "release_date": "2026年10月8日",
-      "supported_japanese": true,
-      "ai_overview": "『Braid』『The Witness』のディレクター、Jonathan Blowが贈る『Order of the Sinking Star』は、魔法と謎に満ちた世界を舞台にした物語型アドベンチャー。1000を超える手作りのパズルを解き、個性豊かなプレイアブルキャラクターを発見し、進化していく数々のゲームメカニクスを習得しながら、世界に隠された大いなる謎を読み解いていく。",
-      "ai_pros": [
-        "フルコントローラー対応で快適に遊べる設計"
-      ],
-      "ai_cons": [
-        "高負荷3Dグラフィック：快適プレイには「GTX 2070」以上のPC環境を推奨"
-      ],
-      "picked_reviews": [],
-      "gpu_hint": "GTX 2070",
-      "has_controller": true,
-      "is_heavy_3d": true,
-      "steam_url": "https://store.steampowered.com/app/499170/"
-    },
-    {
       "appid": 4618570,
       "name": "ブースターパックヒーロー",
       "name_en": "Booster Pack Heroes",
@@ -511,11 +510,11 @@
         "Funday Games"
       ],
       "has_key_store": false,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4618570/ac07ef6abf96418c47dbb3ef356eb28e96035052/header_japanese.jpg?t=1794920297",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4618570/ac07ef6abf96418c47dbb3ef356eb28e96035052/header_japanese.jpg?t=1794991220",
       "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4618570/9990b5ce49bc39f8e4dfbda03445aa9ed9db0f2a/ss_9990b5ce49bc39f8e4dfbda03445aa9ed9db0f2a.600x338.jpg?t=1794920297",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4618570/5bee537cb11220f37a1ee7e7a514137979b04b6f/ss_5bee537cb11220f37a1ee7e7a514137979b04b6f.600x338.jpg?t=1794920297",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4618570/f392a778d8b764ca407840892d01e4ea072c506e/ss_f392a778d8b764ca407840892d01e4ea072c506e.600x338.jpg?t=1794920297"
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4618570/9990b5ce49bc39f8e4dfbda03445aa9ed9db0f2a/ss_9990b5ce49bc39f8e4dfbda03445aa9ed9db0f2a.600x338.jpg?t=1794991220",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4618570/5bee537cb11220f37a1ee7e7a514137979b04b6f/ss_5bee537cb11220f37a1ee7e7a514137979b04b6f.600x338.jpg?t=1794991220",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4618570/f392a778d8b764ca407840892d01e4ea072c506e/ss_f392a778d8b764ca407840892d01e4ea072c506e.600x338.jpg?t=1794991220"
       ],
       "discount_percent": 30,
       "initial_price": 1400,
@@ -523,8 +522,8 @@
       "initial_formatted": "¥ 1,400",
       "final_formatted": "¥ 980",
       "review_desc": "非常に好評",
-      "positive_rate": 92,
-      "total_reviews": 1820,
+      "positive_rate": 93,
+      "total_reviews": 1987,
       "deal_score": 60,
       "genres": [
         "カジュアル",
@@ -552,57 +551,6 @@
       "steam_url": "https://store.steampowered.com/app/4618570/"
     },
     {
-      "appid": 3937550,
-      "name": "龍が如く 極３ / 龍が如く３外伝 Dark Ties",
-      "name_en": "Yakuza Kiwami 3 and Dark Ties",
-      "publishers": [
-        "SEGA"
-      ],
-      "has_key_store": false,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3937550/2f0ed95766e6b77f861ca57dfaef28e325206511/header_japanese.jpg?t=1781257873",
-      "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3937550/a0751c8f4adedccafc6ce8de3d09f3147e1c1ff7/ss_a0751c8f4adedccafc6ce8de3d09f3147e1c1ff7.600x338.jpg?t=1781257873",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3937550/68abbdfdf1699bea6dbd2c2dab03a47e76bf4e0e/ss_68abbdfdf1699bea6dbd2c2dab03a47e76bf4e0e.600x338.jpg?t=1781257873",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3937550/f6d5496302d2de4c46d55e782221f7e6f0f03ffb/ss_f6d5496302d2de4c46d55e782221f7e6f0f03ffb.600x338.jpg?t=1781257873"
-      ],
-      "discount_percent": 60,
-      "initial_price": 8990,
-      "final_price": 3596,
-      "initial_formatted": "¥ 8,990",
-      "final_formatted": "¥ 3,596",
-      "review_desc": "賛否両論",
-      "positive_rate": 63,
-      "total_reviews": 2342,
-      "deal_score": 58,
-      "genres": [
-        "アクション",
-        "アドベンチャー",
-        "RPG"
-      ],
-      "categories": [
-        "シングルプレイヤー",
-        "Steam実績",
-        "フルコントローラサポート",
-        "Steamトレーディングカード",
-        "テキストサイズの調整"
-      ],
-      "release_date": "2026年2月11日",
-      "supported_japanese": true,
-      "ai_overview": "2009年に発売された『龍が如く３』が、「極クオリティ」で鮮やかに蘇る。そして、もうひとつの物語――シリーズの人気キャラクター峯義孝を主人公とした『龍が如く３外伝 Dark Ties』も収録。桐生一馬と峯義孝。異なる道を進む二人の生き様は、やがて交わり、運命を大きく揺さぶっていく。",
-      "ai_pros": [
-        "フルコントローラー対応で快適に遊べる設計"
-      ],
-      "ai_cons": [
-        "好みが分かれる作品（好評率63%）：ゲームシステムや難易度の事前確認を推奨",
-        "高負荷3Dグラフィック：快適プレイには「RTX3060」以上のPC環境を推奨"
-      ],
-      "picked_reviews": [],
-      "gpu_hint": "RTX3060",
-      "has_controller": true,
-      "is_heavy_3d": true,
-      "steam_url": "https://store.steampowered.com/app/3937550/"
-    },
-    {
       "appid": 2868840,
       "name": "Slay the Spire 2",
       "name_en": "Slay the Spire 2",
@@ -623,7 +571,7 @@
       "final_formatted": "¥ 2,240",
       "review_desc": "やや好評",
       "positive_rate": 79,
-      "total_reviews": 217735,
+      "total_reviews": 217984,
       "deal_score": 48,
       "genres": [
         "インディー",
@@ -652,6 +600,55 @@
       "steam_url": "https://store.steampowered.com/app/2868840/"
     },
     {
+      "appid": 1778820,
+      "name": "鉄拳8",
+      "name_en": "TEKKEN 8",
+      "publishers": [
+        "Bandai Namco Entertainment"
+      ],
+      "has_key_store": false,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1778820/bb40124a525d6146a7c1ee4848bf3a14aa716224/header.jpg?t=1794438159",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1778820/ss_62e6ec252bc1a641e8e42dba07f23631d5da85e6.600x338.jpg?t=1794438159",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1778820/ss_99dabe34abc0f92adc39d7099908c9540be7eb3f.600x338.jpg?t=1794438159",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1778820/ss_bbd38a5fe748ec966cbc85ffcd4931f0f2da8ffd.600x338.jpg?t=1794438159"
+      ],
+      "discount_percent": 45,
+      "initial_price": 5940,
+      "final_price": 3267,
+      "initial_formatted": "¥ 5,940",
+      "final_formatted": "¥ 3,267",
+      "review_desc": "賛否両論",
+      "positive_rate": 43,
+      "total_reviews": 48333,
+      "deal_score": 44,
+      "genres": [
+        "アクション"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "マルチプレイヤー",
+        "PvP",
+        "オンラインPvP",
+        "共有／分割画面でのPvP"
+      ],
+      "release_date": "2024年1月25日",
+      "supported_japanese": true,
+      "ai_overview": "3D対戦格闘ゲームの最高峰「鉄拳」シリーズ ナンバリング最新作「鉄拳8」。総勢32名以上のキャラクターが激突。「鉄拳」サーガの新たな幕が開ける。シリーズ史上最高の壮快感あふれるバトル、ここに極まる。",
+      "ai_pros": [
+        "マルチプレイ対応で快適に遊べる設計"
+      ],
+      "ai_cons": [
+        "直近レビューで賛否あり（好評率43%）：PC環境との相性や動作の重さに要注意",
+        "高負荷3Dグラフィック：快適プレイには「RTX 2070」以上のPC環境を推奨"
+      ],
+      "picked_reviews": [],
+      "gpu_hint": "RTX 2070",
+      "has_controller": true,
+      "is_heavy_3d": true,
+      "steam_url": "https://store.steampowered.com/app/1778820/"
+    },
+    {
       "appid": 949230,
       "name": "Cities: Skylines II",
       "name_en": "Cities: Skylines II",
@@ -672,7 +669,7 @@
       "final_formatted": "¥ 4,893",
       "review_desc": "賛否両論",
       "positive_rate": 56,
-      "total_reviews": 66687,
+      "total_reviews": 66726,
       "deal_score": 42,
       "genres": [
         "シミュレーション"
@@ -721,7 +718,7 @@
       "final_formatted": "¥ 7,744",
       "review_desc": "賛否両論",
       "positive_rate": 65,
-      "total_reviews": 119809,
+      "total_reviews": 119916,
       "deal_score": 42,
       "genres": [
         "アクション",
@@ -770,9 +767,9 @@
       "initial_formatted": "¥ 3,850",
       "final_formatted": "¥ 2,964",
       "review_desc": "賛否両論",
-      "positive_rate": 52,
+      "positive_rate": 46,
       "total_reviews": 500,
-      "deal_score": 36,
+      "deal_score": 38,
       "genres": [
         "インディー",
         "シミュレーション",
@@ -793,7 +790,7 @@
         "要求スペックは軽め（ミドルクラスGPU目安）で幅広いPCで快適動作"
       ],
       "ai_cons": [
-        "好みが分かれる作品（好評率52%）：ゲームシステムや難易度の事前確認を推奨"
+        "直近レビューで賛否あり（好評率46%）：PC環境との相性や動作の重さに要注意"
       ],
       "picked_reviews": [],
       "gpu_hint": "ミドルクラスGPU",
