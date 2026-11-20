@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20 04:51",
+  "updated_at": "2026-11-21 04:47",
   "total_count": 16,
   "affiliate": {
     "amazon_tag": "mugistick-22",
@@ -31,7 +31,7 @@
       "final_formatted": "¥ 2,097",
       "review_desc": "非常に好評",
       "positive_rate": 91,
-      "total_reviews": 330634,
+      "total_reviews": 330714,
       "deal_score": 90,
       "genres": [
         "シミュレーション",
@@ -59,54 +59,54 @@
       "steam_url": "https://store.steampowered.com/app/394360/"
     },
     {
-      "appid": 1771300,
-      "name": "Kingdom Come: Deliverance II",
-      "name_en": "Kingdom Come: Deliverance II",
+      "appid": 1158310,
+      "name": "Crusader Kings III",
+      "name_en": "Crusader Kings III",
       "publishers": [
-        "Deep Silver"
+        "Paradox Interactive"
       ],
       "has_key_store": true,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771300/header.jpg?t=1777975568",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158310/882d03bcd957316ebbe733a58c923714008e40ed/header_alt_assets_12_japanese.jpg?t=1795167672",
       "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771300/ss_935ddb59f90bc2c21c706132cb9b446fe7851c19.600x338.jpg?t=1777975568",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771300/ss_709f3329562cd2cfe6db70bac908b3e72eaef83b.600x338.jpg?t=1777975568",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771300/ss_bd668f4d12300c019fa3fa73108aa62929fbf862.600x338.jpg?t=1777975568"
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158310/3b09e1315119b55abf4c5c475ff76c3b3f21e8f7/ss_3b09e1315119b55abf4c5c475ff76c3b3f21e8f7.600x338.jpg?t=1795167672",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158310/e2d683b4d91692332bd5bb1d0a6e0d51b9912b6f/ss_e2d683b4d91692332bd5bb1d0a6e0d51b9912b6f.600x338.jpg?t=1795167672",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158310/91c2699e030f7be2164ea142b4a4ec8272c86281/ss_91c2699e030f7be2164ea142b4a4ec8272c86281.600x338.jpg?t=1795167672"
       ],
-      "discount_percent": 67,
-      "initial_price": 8090,
-      "final_price": 2669,
-      "initial_formatted": "¥ 8,090",
-      "final_formatted": "¥ 2,669",
+      "discount_percent": 70,
+      "initial_price": 6990,
+      "final_price": 2097,
+      "initial_formatted": "¥ 6,990",
+      "final_formatted": "¥ 2,097",
       "review_desc": "非常に好評",
-      "positive_rate": 87,
-      "total_reviews": 148726,
-      "deal_score": 87,
+      "positive_rate": 86,
+      "total_reviews": 104396,
+      "deal_score": 88,
       "genres": [
-        "アクション",
-        "アドベンチャー",
-        "RPG"
+        "RPG",
+        "シミュレーション",
+        "ストラテジー"
       ],
       "categories": [
         "シングルプレイヤー",
-        "Steam実績",
-        "フルコントローラサポート",
-        "Steamトレーディングカード",
-        "カスタム音量調整"
+        "マルチプレイヤー",
+        "PvP",
+        "オンラインPvP",
+        "Steam実績"
       ],
-      "release_date": "2025年2月4日",
+      "release_date": "2020年9月1日",
       "supported_japanese": true,
-      "ai_overview": "15世紀中世ヨーロッパの豊かなオープンワールドを舞台にした、スリリングなストーリー主導のアクションRPGで、若きヘンリーとして究極の中世の冒険に旅立とう。",
+      "ai_overview": "愛と戦い、策略の果てに名声を手に入れる。壮大かつ荘厳な『Crusader Kings III』の世界で自らの一族が何を残せるか、それはあなた次第。生き生きと描かれる中世世界で、繁栄を極める王朝を築く長い旅。死はその始まりに過ぎません。",
       "ai_pros": [
-        "フルコントローラー対応で快適に遊べる設計"
+        "マルチプレイ対応で快適に遊べる設計"
       ],
       "ai_cons": [
-        "高負荷3Dグラフィック：快適プレイには「RTX 4070」以上のPC環境を推奨"
+        "高負荷3Dグラフィック：快適プレイには「GTX 970」以上のPC環境を推奨"
       ],
       "picked_reviews": [],
-      "gpu_hint": "RTX 4070",
-      "has_controller": true,
+      "gpu_hint": "GTX 970",
+      "has_controller": false,
       "is_heavy_3d": true,
-      "steam_url": "https://store.steampowered.com/app/1771300/"
+      "steam_url": "https://store.steampowered.com/app/1158310/"
     },
     {
       "appid": 2492040,
@@ -129,7 +129,7 @@
       "final_formatted": "¥ 745",
       "review_desc": "非常に好評",
       "positive_rate": 81,
-      "total_reviews": 3389,
+      "total_reviews": 3396,
       "deal_score": 82,
       "genres": [
         "アクション"
@@ -177,7 +177,7 @@
       "final_formatted": "¥ 2,687",
       "review_desc": "非常に好評",
       "positive_rate": 91,
-      "total_reviews": 46193,
+      "total_reviews": 46219,
       "deal_score": 81,
       "genres": [
         "アドベンチャー",
@@ -206,6 +206,55 @@
       "steam_url": "https://store.steampowered.com/app/2161700/"
     },
     {
+      "appid": 2215430,
+      "name": "Ghost of Tsushima DIRECTOR'S CUT",
+      "name_en": "Ghost of Tsushima DIRECTORS CUT",
+      "publishers": [
+        "PlayStation Publishing LLC"
+      ],
+      "has_key_store": true,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/header.jpg?t=1763409398",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/ss_51eb1a47a41271abb0aa781de576f704d95b601b.600x338.jpg?t=1763409398",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/ss_d60e16422fc1605181e0fedee3e2cfc1e02c750e.600x338.jpg?t=1763409398",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/ss_11409331d57966ef193d66ffcded569d02a4e034.600x338.jpg?t=1763409398"
+      ],
+      "discount_percent": 50,
+      "initial_price": 7590,
+      "final_price": 3795,
+      "initial_formatted": "¥ 7,590",
+      "final_formatted": "¥ 3,795",
+      "review_desc": "非常に好評",
+      "positive_rate": 90,
+      "total_reviews": 66247,
+      "deal_score": 80,
+      "genres": [
+        "アクション",
+        "アドベンチャー"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "マルチプレイヤー",
+        "PvP",
+        "オンラインPvP",
+        "協力プレイ"
+      ],
+      "release_date": "2024年5月16日",
+      "supported_japanese": true,
+      "ai_overview": "嵐が、来る。『Ghost of Tsushima DIRECTOR’S CUT』のPC用完全版でオープンワールド時代劇アクションアドベンチャーへ足を踏み入れ、自身の道を切り開こう。本作はSucker Punch Productions、Nixxes Software、PlayStation Studiosの共同制作でお届けします。",
+      "ai_pros": [
+        "オンライン協力プレイ対応で快適に遊べる設計"
+      ],
+      "ai_cons": [
+        "高負荷3Dグラフィック：快適プレイには「RTX 2060」以上のPC環境を推奨"
+      ],
+      "picked_reviews": [],
+      "gpu_hint": "RTX 2060",
+      "has_controller": true,
+      "is_heavy_3d": true,
+      "steam_url": "https://store.steampowered.com/app/2215430/"
+    },
+    {
       "appid": 2455640,
       "name": "ロマンシング サガ2 リベンジオブザセブン",
       "name_en": "Romancing SaGa 2: Revenge of the Seven",
@@ -226,7 +275,7 @@
       "final_formatted": "¥ 2,728",
       "review_desc": "圧倒的に好評",
       "positive_rate": 96,
-      "total_reviews": 4104,
+      "total_reviews": 4106,
       "deal_score": 78,
       "genres": [
         "RPG"
@@ -274,7 +323,7 @@
       "final_formatted": "¥ 3,300",
       "review_desc": "非常に好評",
       "positive_rate": 96,
-      "total_reviews": 7560,
+      "total_reviews": 7567,
       "deal_score": 74,
       "genres": [
         "アドベンチャー"
@@ -302,55 +351,6 @@
       "steam_url": "https://store.steampowered.com/app/2052410/"
     },
     {
-      "appid": 1295510,
-      "name": "ドラゴンクエストXI　過ぎ去りし時を求めて S",
-      "name_en": "DRAGON QUEST XI S: Echoes of an Elusive Age - Definitive Edition",
-      "publishers": [
-        "Square Enix"
-      ],
-      "has_key_store": false,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1295510/header.jpg?t=1774588986",
-      "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1295510/ss_dbc2a77c05f0bf8d17661b6bdf54f88e14fbfaeb.600x338.jpg?t=1774588986",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1295510/ss_5d68ba21e3e695cccee3a8528e905015faff23fe.600x338.jpg?t=1774588986",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1295510/ss_28e422cd3015ee445153c68aa7b70056cbd48071.600x338.jpg?t=1774588986"
-      ],
-      "discount_percent": 50,
-      "initial_price": 5478,
-      "final_price": 2739,
-      "initial_formatted": "¥ 5,478",
-      "final_formatted": "¥ 2,739",
-      "review_desc": "非常に好評",
-      "positive_rate": 90,
-      "total_reviews": 10592,
-      "deal_score": 74,
-      "genres": [
-        "アドベンチャー",
-        "RPG"
-      ],
-      "categories": [
-        "シングルプレイヤー",
-        "Steam実績",
-        "フルコントローラサポート",
-        "Steamトレーディングカード",
-        "カスタム音量調整"
-      ],
-      "release_date": "2020年12月4日",
-      "supported_japanese": false,
-      "ai_overview": "「ドラゴンクエスト」シリーズ11番目の物語が、今ふたたび動き出す！冒険を彩るシステムが盛りだくさんの『ドラゴンクエストXI S』が、Steam®でも楽しめる！",
-      "ai_pros": [
-        "フルコントローラー対応で快適に遊べる設計"
-      ],
-      "ai_cons": [
-        "公式ストア表記は日本語非対応（有志日本語化MOD等の有無を確認推奨）"
-      ],
-      "picked_reviews": [],
-      "gpu_hint": "GTX 960",
-      "has_controller": true,
-      "is_heavy_3d": false,
-      "steam_url": "https://store.steampowered.com/app/1295510/"
-    },
-    {
       "appid": 1462040,
       "name": "FINAL FANTASY VII REMAKE INTERGRADE",
       "name_en": "FINAL FANTASY VII REMAKE INTERGRADE",
@@ -371,7 +371,7 @@
       "final_formatted": "¥ 986",
       "review_desc": "賛否両論",
       "positive_rate": 66,
-      "total_reviews": 45922,
+      "total_reviews": 45976,
       "deal_score": 70,
       "genres": [
         "アクション",
@@ -402,6 +402,106 @@
       "steam_url": "https://store.steampowered.com/app/1462040/"
     },
     {
+      "appid": 3280350,
+      "name": "DEATH STRANDING 2: ON THE BEACH",
+      "name_en": "DEATH STRANDING 2: ON THE BEACH",
+      "publishers": [
+        "PlayStation Publishing LLC",
+        "KOJIMA PRODUCTIONS"
+      ],
+      "has_key_store": true,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3280350/6270c77b0729e2df0a17d660286eeddfd9169386/header.jpg?t=1774022345",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3280350/702c9ed8dc25f26be07539cd5cfb9f08046d210a/ss_702c9ed8dc25f26be07539cd5cfb9f08046d210a.600x338.jpg?t=1774022345",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3280350/9732214efafbe68e6618806556cd448578217a04/ss_9732214efafbe68e6618806556cd448578217a04.600x338.jpg?t=1774022345",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3280350/1a78ae746ca46713e3c2cb2e5c4f197fea72fe50/ss_1a78ae746ca46713e3c2cb2e5c4f197fea72fe50.600x338.jpg?t=1774022345"
+      ],
+      "discount_percent": 33,
+      "initial_price": 8980,
+      "final_price": 6016,
+      "initial_formatted": "¥ 8,980",
+      "final_formatted": "¥ 6,016",
+      "review_desc": "非常に好評",
+      "positive_rate": 89,
+      "total_reviews": 16239,
+      "deal_score": 70,
+      "genres": [
+        "アクション",
+        "アドベンチャー"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "Steam実績",
+        "フルコントローラサポート",
+        "DUALSHOCKコントローラーサポート",
+        "DUALSHOCKコントローラーサポート"
+      ],
+      "release_date": "2026年3月19日",
+      "supported_japanese": true,
+      "ai_overview": "「我々は繋ぐべきだったのか？」　サムは人類を絶滅から救うために、仲間とともに新たな旅を始める。 荒廃した世界、立ちふさがる敵、混迷する謎。あらゆるものが使命の達成を阻もうとする。人と人との繋がりの向こうに、何があるのか？比類なきゲームクリエイター小島秀夫が、ふたたび世界を変える。",
+      "ai_pros": [
+        "フルコントローラー対応で快適に遊べる設計"
+      ],
+      "ai_cons": [
+        "高負荷3Dグラフィック：快適プレイには「RTX 3070」以上のPC環境を推奨"
+      ],
+      "picked_reviews": [],
+      "gpu_hint": "RTX 3070",
+      "has_controller": true,
+      "is_heavy_3d": true,
+      "steam_url": "https://store.steampowered.com/app/3280350/"
+    },
+    {
+      "appid": 3489700,
+      "name": "Stellar Blade™",
+      "name_en": "Stellar Blade",
+      "publishers": [
+        "PlayStation Publishing LLC (excluding China)"
+      ],
+      "has_key_store": true,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489700/header.jpg?t=1776466244",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489700/ss_4291827e357008499d4d5a17bc50d3e93869dd43.600x338.jpg?t=1776466244",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489700/ss_9d4d62e118a167333d53db94354671e10416b25d.600x338.jpg?t=1776466244",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489700/ss_bcb3946482dc5a1221c024098d2ac09e80255f3e.600x338.jpg?t=1776466244"
+      ],
+      "discount_percent": 33,
+      "initial_price": 7980,
+      "final_price": 5346,
+      "initial_formatted": "¥ 7,980",
+      "final_formatted": "¥ 5,346",
+      "review_desc": "非常に好評",
+      "positive_rate": 85,
+      "total_reviews": 62775,
+      "deal_score": 70,
+      "genres": [
+        "アクション",
+        "アドベンチャー",
+        "RPG"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "Steam実績",
+        "フルコントローラサポート",
+        "Steamトレーディングカード",
+        "テキストサイズの調整"
+      ],
+      "release_date": "2025年6月11日",
+      "supported_japanese": true,
+      "ai_overview": "荒廃した世界が舞台のアクションアドベンチャー『Stellar Blade™』で、人類の存亡をかけた戦いが、いま幕を開ける。地球が荒廃した真相を解き明かしながら、激しい戦闘と複雑に絡み合った物語を体験しよう。",
+      "ai_pros": [
+        "フルコントローラー対応で快適に遊べる設計"
+      ],
+      "ai_cons": [
+        "高負荷3Dグラフィック：快適プレイには「RTX 2060」以上のPC環境を推奨"
+      ],
+      "picked_reviews": [],
+      "gpu_hint": "RTX 2060",
+      "has_controller": true,
+      "is_heavy_3d": true,
+      "steam_url": "https://store.steampowered.com/app/3489700/"
+    },
+    {
       "appid": 2909400,
       "name": "FINAL FANTASY VII REBIRTH",
       "name_en": "FINAL FANTASY VII REBIRTH",
@@ -422,7 +522,7 @@
       "final_formatted": "¥ 986",
       "review_desc": "賛否両論",
       "positive_rate": 50,
-      "total_reviews": 27127,
+      "total_reviews": 27154,
       "deal_score": 63,
       "genres": [
         "アクション",
@@ -451,54 +551,6 @@
       "has_controller": true,
       "is_heavy_3d": true,
       "steam_url": "https://store.steampowered.com/app/2909400/"
-    },
-    {
-      "appid": 4618570,
-      "name": "ブースターパックヒーロー",
-      "name_en": "Booster Pack Heroes",
-      "publishers": [
-        "Funday Games"
-      ],
-      "has_key_store": false,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4618570/ac07ef6abf96418c47dbb3ef356eb28e96035052/header_japanese.jpg?t=1794991220",
-      "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4618570/9990b5ce49bc39f8e4dfbda03445aa9ed9db0f2a/ss_9990b5ce49bc39f8e4dfbda03445aa9ed9db0f2a.600x338.jpg?t=1794991220",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4618570/5bee537cb11220f37a1ee7e7a514137979b04b6f/ss_5bee537cb11220f37a1ee7e7a514137979b04b6f.600x338.jpg?t=1794991220",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4618570/f392a778d8b764ca407840892d01e4ea072c506e/ss_f392a778d8b764ca407840892d01e4ea072c506e.600x338.jpg?t=1794991220"
-      ],
-      "discount_percent": 30,
-      "initial_price": 1400,
-      "final_price": 980,
-      "initial_formatted": "¥ 1,400",
-      "final_formatted": "¥ 980",
-      "review_desc": "非常に好評",
-      "positive_rate": 93,
-      "total_reviews": 2194,
-      "deal_score": 63,
-      "genres": [
-        "カジュアル",
-        "ストラテジー"
-      ],
-      "categories": [
-        "シングルプレイヤー",
-        "Steam実績",
-        "フルコントローラサポート",
-        "#category_contrast_controls",
-        "マウスのみのオプション"
-      ],
-      "release_date": "2026年11月10日",
-      "supported_japanese": true,
-      "ai_overview": "ブースターパックを開けて、次のホイルヒーローを手に入れよう。『ブースターパックヒーロー』はインクリメンタルゲーム。1パックごとに、次の主力となるヒーローが眠っているかもしれない。果てしないモンスターの群れからタワーを守り、幾多のレルムを戦い抜け。",
-      "ai_pros": [
-        "フルコントローラー対応で快適に遊べる設計",
-        "要求スペックは軽め（ミドルクラスGPU目安）で幅広いPCで快適動作"
-      ],
-      "ai_cons": [],
-      "picked_reviews": [],
-      "gpu_hint": "ミドルクラスGPU",
-      "has_controller": true,
-      "is_heavy_3d": false,
-      "steam_url": "https://store.steampowered.com/app/4618570/"
     },
     {
       "appid": 2499860,
@@ -550,30 +602,80 @@
       "steam_url": "https://store.steampowered.com/app/2499860/"
     },
     {
-      "appid": 2515020,
-      "name": "FINAL FANTASY XVI",
-      "name_en": "FINAL FANTASY XVI",
+      "appid": 1808500,
+      "name": "ARC Raiders",
+      "name_en": "ARC Raiders",
       "publishers": [
-        "Square Enix"
+        "Embark Studios"
       ],
-      "has_key_store": false,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2515020/header.jpg?t=1773294537",
+      "has_key_store": true,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808500/41ee6c5c81a5797132879892586465b917acc563/header_alt_assets_9.jpg?t=1794215815",
       "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2515020/ss_99530c1f839832ceeab2cf3450d5c0905312de47.600x338.jpg?t=1773294537",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2515020/ss_7620e893321e1661bdf821617f349196c2b0019f.600x338.jpg?t=1773294537",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2515020/ss_04ef537e3123d4a8dcbbadccc190cf87dee67783.600x338.jpg?t=1773294537"
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808500/1763664f3ea80080867eafa751685b7feec950c8/ss_1763664f3ea80080867eafa751685b7feec950c8.600x338.jpg?t=1794215815",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808500/5188aa2b07920afe9753409ea9fe3d1324cfc294/ss_5188aa2b07920afe9753409ea9fe3d1324cfc294.600x338.jpg?t=1794215815",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808500/155fc161a45949e61f41e473282f9ed7ec221efe/ss_155fc161a45949e61f41e473282f9ed7ec221efe.600x338.jpg?t=1794215815"
       ],
-      "discount_percent": 60,
-      "initial_price": 7700,
-      "final_price": 3080,
-      "initial_formatted": "¥ 7,700",
-      "final_formatted": "¥ 3,080",
+      "discount_percent": 50,
+      "initial_price": 6390,
+      "final_price": 3195,
+      "initial_formatted": "¥ 6,390",
+      "final_formatted": "¥ 3,195",
       "review_desc": "賛否両論",
-      "positive_rate": 68,
-      "total_reviews": 24785,
-      "deal_score": 61,
+      "positive_rate": 63,
+      "total_reviews": 310687,
+      "deal_score": 54,
+      "genres": [
+        "アクション"
+      ],
+      "categories": [
+        "マルチプレイヤー",
+        "PvP",
+        "オンラインPvP",
+        "協力プレイ",
+        "オンライン協力プレイ"
+      ],
+      "release_date": "2025年10月30日",
+      "supported_japanese": true,
+      "ai_overview": "『ARC Raiders』は、ARC と呼ばれる謎の機械によって荒廃した、危険に満ちた未来の地球を舞台とするマルチプレイヤー・エクストラクションアドベンチャーです。",
+      "ai_pros": [
+        "オンライン協力プレイ対応で快適に遊べる設計"
+      ],
+      "ai_cons": [
+        "好みが分かれる作品（好評率63%）：ゲームシステムや難易度の事前確認を推奨",
+        "高負荷3Dグラフィック：快適プレイには「RTX 2070」以上のPC環境を推奨"
+      ],
+      "picked_reviews": [],
+      "gpu_hint": "RTX 2070",
+      "has_controller": true,
+      "is_heavy_3d": true,
+      "steam_url": "https://store.steampowered.com/app/1808500/"
+    },
+    {
+      "appid": 3949290,
+      "name": "Ys X: Proud Nordics",
+      "name_en": "Ys X: Proud Nordics",
+      "publishers": [
+        "NIS America, Inc."
+      ],
+      "has_key_store": true,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3949290/e8b932d3512beeabb6d7509243ea10d8af145c8e/header_japanese.jpg?t=1788246310",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3949290/bea8f914b813dc5b166df5a6cf6f81087d9f2c36/ss_bea8f914b813dc5b166df5a6cf6f81087d9f2c36.600x338.jpg?t=1788246310",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3949290/9d5154dd07e75c513bf3f38d97bfee72ebc9e309/ss_9d5154dd07e75c513bf3f38d97bfee72ebc9e309.600x338.jpg?t=1788246310",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3949290/fb2d836e7b078fbbfb7a13f468ca7ef3c9806133/ss_fb2d836e7b078fbbfb7a13f468ca7ef3c9806133.600x338.jpg?t=1788246310"
+      ],
+      "discount_percent": 25,
+      "initial_price": 7600,
+      "final_price": 5700,
+      "initial_formatted": "¥ 7,600",
+      "final_formatted": "¥ 5,700",
+      "review_desc": "やや好評",
+      "positive_rate": 76,
+      "total_reviews": 174,
+      "deal_score": 54,
       "genres": [
         "アクション",
+        "アドベンチャー",
         "RPG"
       ],
       "categories": [
@@ -581,70 +683,22 @@
         "Steam実績",
         "フルコントローラサポート",
         "Steamトレーディングカード",
-        "キャプション使用可能"
+        "カスタム音量調整"
       ],
-      "release_date": "2024年9月17日",
+      "release_date": "2026年2月20日",
       "supported_japanese": true,
-      "ai_overview": "強大な召喚獣の力を操る「ドミナント」によって引き起こされた戦乱の時代を描く、重厚で壮大なファンタジーの世界。主人公クライヴ・ロズフィールドの生涯を辿りながら、過酷な運命の中で見つける正義、そして世界の真実に迫る。",
+      "ai_overview": "若かりし頃の冒険家アドル・クリスティン。 北の海・オベリア湾での新たなる冒険がいま始まる！",
       "ai_pros": [
         "フルコントローラー対応で快適に遊べる設計"
       ],
       "ai_cons": [
-        "好みが分かれる作品（好評率68%）：ゲームシステムや難易度の事前確認を推奨",
-        "高負荷3Dグラフィック：快適プレイには「RTX 2080」以上のPC環境を推奨"
+        "高負荷3Dグラフィック：快適プレイには「GTX 1650」以上のPC環境を推奨"
       ],
       "picked_reviews": [],
-      "gpu_hint": "RTX 2080",
+      "gpu_hint": "GTX 1650",
       "has_controller": true,
       "is_heavy_3d": true,
-      "steam_url": "https://store.steampowered.com/app/2515020/"
-    },
-    {
-      "appid": 2893570,
-      "name": "ドラゴンクエストI＆II",
-      "name_en": "DRAGON QUEST I and II HD-2D Remake",
-      "publishers": [
-        "Square Enix"
-      ],
-      "has_key_store": false,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2893570/f5f6e54fe65f51655c696fd8316102bb9361554e/header_japanese.jpg?t=1773044632",
-      "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2893570/bcc7e908b0dcef5ebf7c76d9a63f5e80db569a3e/ss_bcc7e908b0dcef5ebf7c76d9a63f5e80db569a3e.600x338.jpg?t=1773044632",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2893570/6fb386fd0fbfa9ff5dab40fa584206b4643894b7/ss_6fb386fd0fbfa9ff5dab40fa584206b4643894b7.600x338.jpg?t=1773044632",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2893570/f001285af551dfa2f7495d8f2232c6cb0b2fa424/ss_f001285af551dfa2f7495d8f2232c6cb0b2fa424.600x338.jpg?t=1773044632"
-      ],
-      "discount_percent": 35,
-      "initial_price": 7678,
-      "final_price": 4990,
-      "initial_formatted": "¥ 7,678",
-      "final_formatted": "¥ 4,990",
-      "review_desc": "非常に好評",
-      "positive_rate": 84,
-      "total_reviews": 1787,
-      "deal_score": 58,
-      "genres": [
-        "RPG"
-      ],
-      "categories": [
-        "シングルプレイヤー",
-        "Steam実績",
-        "Steamトレーディングカード",
-        "カメラの快適性",
-        "カスタム音量調整"
-      ],
-      "release_date": "2025年10月30日",
-      "supported_japanese": true,
-      "ai_overview": "継がれゆく、ロトの意志。",
-      "ai_pros": [
-        "RPG好きなら抑えておきたい注目作",
-        "要求スペックは軽め（GTX 1060目安）で幅広いPCで快適動作"
-      ],
-      "ai_cons": [],
-      "picked_reviews": [],
-      "gpu_hint": "GTX 1060",
-      "has_controller": true,
-      "is_heavy_3d": false,
-      "steam_url": "https://store.steampowered.com/app/2893570/"
+      "steam_url": "https://store.steampowered.com/app/3949290/"
     },
     {
       "appid": 4080220,
@@ -667,7 +721,7 @@
       "final_formatted": "¥ 4,900",
       "review_desc": "賛否両論",
       "positive_rate": 47,
-      "total_reviews": 13240,
+      "total_reviews": 13368,
       "deal_score": 48,
       "genres": [
         "シミュレーション",
@@ -717,7 +771,7 @@
       "final_formatted": "¥ 2,240",
       "review_desc": "やや好評",
       "positive_rate": 79,
-      "total_reviews": 218232,
+      "total_reviews": 218446,
       "deal_score": 48,
       "genres": [
         "インディー",
@@ -744,57 +798,6 @@
       "has_controller": true,
       "is_heavy_3d": false,
       "steam_url": "https://store.steampowered.com/app/2868840/"
-    },
-    {
-      "appid": 4027450,
-      "name": "トルネコの大冒険 不思議のダンジョン　ちょっとステキなリマスター",
-      "name_en": "Dragon Quest Heroes: Tornekos Mystery Dungeon -Classic HD-",
-      "publishers": [
-        "Square Enix"
-      ],
-      "has_key_store": false,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4027450/7b5bde623ecce1d6b063b5f9d8f9fbdba2170e39/header_japanese.jpg?t=1793308312",
-      "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4027450/4dd2a52ce4be3bab540d0ea8653ab59621216266/ss_4dd2a52ce4be3bab540d0ea8653ab59621216266.600x338.jpg?t=1793308312",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4027450/88a149a592b433c74f2e51f78ec55d1791ff7951/ss_88a149a592b433c74f2e51f78ec55d1791ff7951.600x338.jpg?t=1793308312",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4027450/95e1a07ebc5925e56b1918e528dd8d339b0433ec/ss_95e1a07ebc5925e56b1918e528dd8d339b0433ec.600x338.jpg?t=1793308312"
-      ],
-      "discount_percent": 20,
-      "initial_price": 3520,
-      "final_price": 2816,
-      "initial_formatted": "¥ 3,520",
-      "final_formatted": "¥ 2,816",
-      "review_desc": "賛否両論",
-      "positive_rate": 53,
-      "total_reviews": 275,
-      "deal_score": 36,
-      "genres": [
-        "RPG",
-        "シミュレーション",
-        "ストラテジー"
-      ],
-      "categories": [
-        "シングルプレイヤー",
-        "Steam実績",
-        "フルコントローラサポート",
-        "Steamトレーディングカード",
-        "カスタム音量調整"
-      ],
-      "release_date": "2026年9月9日",
-      "supported_japanese": true,
-      "ai_overview": "『トルネコの大冒険 不思議のダンジョン』が世紀を越えて復活！ “1000回遊べる”おもしろさはそのままに、さらに遊びやすくなった「ちょっとステキなリマスター」として登場！ トルネコが、長い年月をかけて、ついに探し当てた「不思議のダンジョン」。 果たして、トルネコはお宝を手にいれることができるのでしょうか？",
-      "ai_pros": [
-        "フルコントローラー対応で快適に遊べる設計",
-        "要求スペックは軽め（ミドルクラスGPU目安）で幅広いPCで快適動作"
-      ],
-      "ai_cons": [
-        "好みが分かれる作品（好評率53%）：ゲームシステムや難易度の事前確認を推奨"
-      ],
-      "picked_reviews": [],
-      "gpu_hint": "ミドルクラスGPU",
-      "has_controller": true,
-      "is_heavy_3d": false,
-      "steam_url": "https://store.steampowered.com/app/4027450/"
     }
   ]
 }
