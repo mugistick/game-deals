@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21 04:47",
+  "updated_at": "2026-11-22 04:35",
   "total_count": 16,
   "affiliate": {
     "amazon_tag": "mugistick-22",
@@ -31,7 +31,7 @@
       "final_formatted": "¥ 2,097",
       "review_desc": "非常に好評",
       "positive_rate": 91,
-      "total_reviews": 330714,
+      "total_reviews": 330785,
       "deal_score": 90,
       "genres": [
         "シミュレーション",
@@ -46,7 +46,7 @@
       ],
       "release_date": "2016年6月6日",
       "supported_japanese": true,
-      "ai_overview": "勝利はあなたの指先にあります!国家を率いる能力は最高の武器です。ストラテジー ゲーム Hearts of Iron IV では、第二次世界大戦であらゆる国家を指揮することができます。世界史上最も魅力的な紛争。",
+      "ai_overview": "Victory is at your fingertips! Your ability to lead your nation is your supreme weapon, the strategy game Hearts of Iron IV lets you take command of any nation in World War II; the most engaging conflict in world history.",
       "ai_pros": [
         "オンライン協力プレイ対応で快適に遊べる設計",
         "要求スペックは軽め（GTX 570目安）で幅広いPCで快適動作"
@@ -59,54 +59,53 @@
       "steam_url": "https://store.steampowered.com/app/394360/"
     },
     {
-      "appid": 1158310,
-      "name": "Crusader Kings III",
-      "name_en": "Crusader Kings III",
+      "appid": 227300,
+      "name": "Euro Truck Simulator 2",
+      "name_en": "Euro Truck Simulator 2",
       "publishers": [
-        "Paradox Interactive"
+        "SCS Software"
       ],
-      "has_key_store": true,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158310/882d03bcd957316ebbe733a58c923714008e40ed/header_alt_assets_12_japanese.jpg?t=1795167672",
+      "has_key_store": false,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/9a81dc3126c56637297b654f9dcac057cfd79b77/header.jpg?t=1794502925",
       "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158310/3b09e1315119b55abf4c5c475ff76c3b3f21e8f7/ss_3b09e1315119b55abf4c5c475ff76c3b3f21e8f7.600x338.jpg?t=1795167672",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158310/e2d683b4d91692332bd5bb1d0a6e0d51b9912b6f/ss_e2d683b4d91692332bd5bb1d0a6e0d51b9912b6f.600x338.jpg?t=1795167672",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158310/91c2699e030f7be2164ea142b4a4ec8272c86281/ss_91c2699e030f7be2164ea142b4a4ec8272c86281.600x338.jpg?t=1795167672"
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/e040f74641ac21f15e3ec7c2415fc8b4de0b6bf9/ss_e040f74641ac21f15e3ec7c2415fc8b4de0b6bf9.600x338.jpg?t=1794502925",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/edbff61a062a49d1d97269e53b8afbffde05bb24/ss_edbff61a062a49d1d97269e53b8afbffde05bb24.600x338.jpg?t=1794502925",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/c610d985eb21cc22c26507b53cd843cfa0b3a00d/ss_c610d985eb21cc22c26507b53cd843cfa0b3a00d.600x338.jpg?t=1794502925"
       ],
-      "discount_percent": 70,
-      "initial_price": 6990,
-      "final_price": 2097,
-      "initial_formatted": "¥ 6,990",
-      "final_formatted": "¥ 2,097",
+      "discount_percent": 75,
+      "initial_price": 2999,
+      "final_price": 749,
+      "initial_formatted": "¥ 2,999",
+      "final_formatted": "¥ 749",
       "review_desc": "非常に好評",
-      "positive_rate": 86,
-      "total_reviews": 104396,
-      "deal_score": 88,
+      "positive_rate": 94,
+      "total_reviews": 797516,
+      "deal_score": 89,
       "genres": [
-        "RPG",
-        "シミュレーション",
-        "ストラテジー"
+        "インディー",
+        "シミュレーション"
       ],
       "categories": [
         "シングルプレイヤー",
         "マルチプレイヤー",
-        "PvP",
-        "オンラインPvP",
+        "協力プレイ",
+        "オンライン協力プレイ",
         "Steam実績"
       ],
-      "release_date": "2020年9月1日",
+      "release_date": "2012年10月12日",
       "supported_japanese": true,
-      "ai_overview": "愛と戦い、策略の果てに名声を手に入れる。壮大かつ荘厳な『Crusader Kings III』の世界で自らの一族が何を残せるか、それはあなた次第。生き生きと描かれる中世世界で、繁栄を極める王朝を築く長い旅。死はその始まりに過ぎません。",
+      "ai_overview": "重要な貨物を長距離輸送するトラック運転手、道路の王者としてヨーロッパを旅しましょう! 数十の都市を探索しながら、あなたの持久力、スキル、スピードをすべて限界まで試してください。",
       "ai_pros": [
-        "マルチプレイ対応で快適に遊べる設計"
+        "オンライン協力プレイ対応で快適に遊べる設計"
       ],
       "ai_cons": [
-        "高負荷3Dグラフィック：快適プレイには「GTX 970」以上のPC環境を推奨"
+        "高負荷3Dグラフィック：快適プレイには「GTX 1660」以上のPC環境を推奨"
       ],
       "picked_reviews": [],
-      "gpu_hint": "GTX 970",
-      "has_controller": false,
+      "gpu_hint": "GTX 1660",
+      "has_controller": true,
       "is_heavy_3d": true,
-      "steam_url": "https://store.steampowered.com/app/1158310/"
+      "steam_url": "https://store.steampowered.com/app/227300/"
     },
     {
       "appid": 2492040,
@@ -123,13 +122,13 @@
         "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2492040/ss_b0be13dcea64db30c829f142e17d4433d3751504.600x338.jpg?t=1792688653"
       ],
       "discount_percent": 75,
-      "initial_price": 2980,
-      "final_price": 745,
-      "initial_formatted": "¥ 2,980",
-      "final_formatted": "¥ 745",
+      "initial_price": 5170,
+      "final_price": 1292,
+      "initial_formatted": "¥ 5,170",
+      "final_formatted": "¥ 1,292",
       "review_desc": "非常に好評",
       "positive_rate": 81,
-      "total_reviews": 3396,
+      "total_reviews": 3412,
       "deal_score": 82,
       "genres": [
         "アクション"
@@ -157,55 +156,6 @@
       "steam_url": "https://store.steampowered.com/app/2492040/"
     },
     {
-      "appid": 2161700,
-      "name": "ペルソナ３ リロード",
-      "name_en": "Persona 3 Reload",
-      "publishers": [
-        "SEGA"
-      ],
-      "has_key_store": false,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2161700/header.jpg?t=1764776430",
-      "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2161700/ss_5008215f9acb361883505e3f948c9432f03ec65e.600x338.jpg?t=1764776430",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2161700/ss_a5357e87ad2dae35811aa317a583ffe4332199e3.600x338.jpg?t=1764776430",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2161700/ss_2209414b6a7ebcc0adb376bd3f0a2e0d3a0c118a.600x338.jpg?t=1764776430"
-      ],
-      "discount_percent": 65,
-      "initial_price": 7678,
-      "final_price": 2687,
-      "initial_formatted": "¥ 7,678",
-      "final_formatted": "¥ 2,687",
-      "review_desc": "非常に好評",
-      "positive_rate": 91,
-      "total_reviews": 46219,
-      "deal_score": 81,
-      "genres": [
-        "アドベンチャー",
-        "RPG",
-        "ストラテジー"
-      ],
-      "categories": [
-        "シングルプレイヤー",
-        "Steam実績",
-        "フルコントローラサポート",
-        "Steamトレーディングカード",
-        "カスタム音量調整"
-      ],
-      "release_date": "2024年2月1日",
-      "supported_japanese": true,
-      "ai_overview": "『ペルソナ３』が、装いを新たに現行最新ハードにて生まれ変わる！",
-      "ai_pros": [
-        "フルコントローラー対応で快適に遊べる設計",
-        "要求スペックは軽め（GTX 1650目安）で幅広いPCで快適動作"
-      ],
-      "ai_cons": [],
-      "picked_reviews": [],
-      "gpu_hint": "GTX 1650",
-      "has_controller": true,
-      "is_heavy_3d": false,
-      "steam_url": "https://store.steampowered.com/app/2161700/"
-    },
-    {
       "appid": 2215430,
       "name": "Ghost of Tsushima DIRECTOR'S CUT",
       "name_en": "Ghost of Tsushima DIRECTORS CUT",
@@ -226,7 +176,7 @@
       "final_formatted": "¥ 3,795",
       "review_desc": "非常に好評",
       "positive_rate": 90,
-      "total_reviews": 66247,
+      "total_reviews": 66297,
       "deal_score": 80,
       "genres": [
         "アクション",
@@ -255,54 +205,6 @@
       "steam_url": "https://store.steampowered.com/app/2215430/"
     },
     {
-      "appid": 2455640,
-      "name": "ロマンシング サガ2 リベンジオブザセブン",
-      "name_en": "Romancing SaGa 2: Revenge of the Seven",
-      "publishers": [
-        "Square Enix"
-      ],
-      "has_key_store": false,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2455640/header_japanese.jpg?t=1777013886",
-      "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2455640/ss_d8a79ce4ed80d0b8148bc04a4d49e67433181c1d.600x338.jpg?t=1777013886",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2455640/ss_21fdcfbad9cf8435224d4d3dccd0d6cd6d1a0934.600x338.jpg?t=1777013886",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2455640/ss_8ce2dc4686afdcdc4783a38cae607a1529c289e7.600x338.jpg?t=1777013886"
-      ],
-      "discount_percent": 60,
-      "initial_price": 6820,
-      "final_price": 2728,
-      "initial_formatted": "¥ 6,820",
-      "final_formatted": "¥ 2,728",
-      "review_desc": "圧倒的に好評",
-      "positive_rate": 96,
-      "total_reviews": 4106,
-      "deal_score": 78,
-      "genres": [
-        "RPG"
-      ],
-      "categories": [
-        "シングルプレイヤー",
-        "Steam実績",
-        "フルコントローラサポート",
-        "Steamトレーディングカード",
-        "カメラの快適性"
-      ],
-      "release_date": "2024年10月24日",
-      "supported_japanese": true,
-      "ai_overview": "『ロマンシング サガ2』のフルリメイク！グラフィックは3D化、ゲームシステムは現代風にアレンジ、BGMアレンジ、ボイス対応。プレイヤーは歴代皇帝として、七英雄との数千年にわたる戦いに挑みます。",
-      "ai_pros": [
-        "フルコントローラー対応で快適に遊べる設計"
-      ],
-      "ai_cons": [
-        "高負荷3Dグラフィック：快適プレイには「GTX 1060」以上のPC環境を推奨"
-      ],
-      "picked_reviews": [],
-      "gpu_hint": "GTX 1060",
-      "has_controller": true,
-      "is_heavy_3d": true,
-      "steam_url": "https://store.steampowered.com/app/2455640/"
-    },
-    {
       "appid": 2052410,
       "name": "魔法使いの夜",
       "name_en": "WITCH ON THE HOLY NIGHT",
@@ -323,7 +225,7 @@
       "final_formatted": "¥ 3,300",
       "review_desc": "非常に好評",
       "positive_rate": 96,
-      "total_reviews": 7567,
+      "total_reviews": 7578,
       "deal_score": 74,
       "genres": [
         "アドベンチャー"
@@ -351,57 +253,6 @@
       "steam_url": "https://store.steampowered.com/app/2052410/"
     },
     {
-      "appid": 1462040,
-      "name": "FINAL FANTASY VII REMAKE INTERGRADE",
-      "name_en": "FINAL FANTASY VII REMAKE INTERGRADE",
-      "publishers": [
-        "Square Enix"
-      ],
-      "has_key_store": false,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462040/67aebedbdfc261278fc5e3cd45b519212ac0555a/header.jpg?t=1789446715",
-      "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462040/ss_20a352a2c20dd4bfb08fa131dc4c2e763510f584.600x338.jpg?t=1789446715",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462040/ss_55903e74751601e42fb7f858d5c07ec048386ce2.600x338.jpg?t=1789446715",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462040/ss_ac55306d00923f2902de20bb5ade7f9cc190e8cf.600x338.jpg?t=1789446715"
-      ],
-      "discount_percent": 82,
-      "initial_price": 5478,
-      "final_price": 986,
-      "initial_formatted": "¥ 5,478",
-      "final_formatted": "¥ 986",
-      "review_desc": "賛否両論",
-      "positive_rate": 66,
-      "total_reviews": 45976,
-      "deal_score": 70,
-      "genres": [
-        "アクション",
-        "アドベンチャー",
-        "RPG"
-      ],
-      "categories": [
-        "シングルプレイヤー",
-        "Steam実績",
-        "Steamトレーディングカード",
-        "カスタム音量調整",
-        "難易度の調整"
-      ],
-      "release_date": "2022年6月17日",
-      "supported_japanese": true,
-      "ai_overview": "バスターソードを背負う元ソルジャー・クラウドが魔晄都市ミッドガルに降り立つ。 最先端技術が駆使されたグラフィック映像、戦略性と直感的アクションが融合するバトル―― 不朽の名作『FINAL FANTASY VII』の世界が「新たな物語」として生まれ変わる。",
-      "ai_pros": [
-        "アクション / アドベンチャー好きなら抑えておきたい注目作"
-      ],
-      "ai_cons": [
-        "好みが分かれる作品（好評率66%）：ゲームシステムや難易度の事前確認を推奨",
-        "高負荷3Dグラフィック：快適プレイには「GTX 1080」以上のPC環境を推奨"
-      ],
-      "picked_reviews": [],
-      "gpu_hint": "GTX 1080",
-      "has_controller": true,
-      "is_heavy_3d": true,
-      "steam_url": "https://store.steampowered.com/app/1462040/"
-    },
-    {
       "appid": 3280350,
       "name": "DEATH STRANDING 2: ON THE BEACH",
       "name_en": "DEATH STRANDING 2: ON THE BEACH",
@@ -423,7 +274,7 @@
       "final_formatted": "¥ 6,016",
       "review_desc": "非常に好評",
       "positive_rate": 89,
-      "total_reviews": 16239,
+      "total_reviews": 16260,
       "deal_score": 70,
       "genres": [
         "アクション",
@@ -472,7 +323,7 @@
       "final_formatted": "¥ 5,346",
       "review_desc": "非常に好評",
       "positive_rate": 85,
-      "total_reviews": 62775,
+      "total_reviews": 62797,
       "deal_score": 70,
       "genres": [
         "アクション",
@@ -502,6 +353,57 @@
       "steam_url": "https://store.steampowered.com/app/3489700/"
     },
     {
+      "appid": 1462040,
+      "name": "FINAL FANTASY VII REMAKE INTERGRADE",
+      "name_en": "FINAL FANTASY VII REMAKE INTERGRADE",
+      "publishers": [
+        "Square Enix"
+      ],
+      "has_key_store": false,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462040/67aebedbdfc261278fc5e3cd45b519212ac0555a/header.jpg?t=1789446715",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462040/ss_20a352a2c20dd4bfb08fa131dc4c2e763510f584.600x338.jpg?t=1789446715",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462040/ss_55903e74751601e42fb7f858d5c07ec048386ce2.600x338.jpg?t=1789446715",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462040/ss_ac55306d00923f2902de20bb5ade7f9cc190e8cf.600x338.jpg?t=1789446715"
+      ],
+      "discount_percent": 82,
+      "initial_price": 5478,
+      "final_price": 986,
+      "initial_formatted": "¥ 5,478",
+      "final_formatted": "¥ 986",
+      "review_desc": "賛否両論",
+      "positive_rate": 65,
+      "total_reviews": 46046,
+      "deal_score": 69,
+      "genres": [
+        "アクション",
+        "アドベンチャー",
+        "RPG"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "Steam実績",
+        "Steamトレーディングカード",
+        "カスタム音量調整",
+        "難易度の調整"
+      ],
+      "release_date": "2022年6月17日",
+      "supported_japanese": true,
+      "ai_overview": "バスターソードを背負う元ソルジャー・クラウドが魔晄都市ミッドガルに降り立つ。 最先端技術が駆使されたグラフィック映像、戦略性と直感的アクションが融合するバトル―― 不朽の名作『FINAL FANTASY VII』の世界が「新たな物語」として生まれ変わる。",
+      "ai_pros": [
+        "アクション / アドベンチャー好きなら抑えておきたい注目作"
+      ],
+      "ai_cons": [
+        "好みが分かれる作品（好評率65%）：ゲームシステムや難易度の事前確認を推奨",
+        "高負荷3Dグラフィック：快適プレイには「GTX 1080」以上のPC環境を推奨"
+      ],
+      "picked_reviews": [],
+      "gpu_hint": "GTX 1080",
+      "has_controller": true,
+      "is_heavy_3d": true,
+      "steam_url": "https://store.steampowered.com/app/1462040/"
+    },
+    {
       "appid": 2909400,
       "name": "FINAL FANTASY VII REBIRTH",
       "name_en": "FINAL FANTASY VII REBIRTH",
@@ -522,7 +424,7 @@
       "final_formatted": "¥ 986",
       "review_desc": "賛否両論",
       "positive_rate": 50,
-      "total_reviews": 27154,
+      "total_reviews": 27197,
       "deal_score": 63,
       "genres": [
         "アクション",
@@ -553,53 +455,152 @@
       "steam_url": "https://store.steampowered.com/app/2909400/"
     },
     {
-      "appid": 2499860,
-      "name": "ドラゴンクエストVII Reimagined",
-      "name_en": "DRAGON QUEST VII Reimagined",
+      "appid": 2651280,
+      "name": "Marvel's Spider-Man 2",
+      "name_en": "Marvels Spider-Man 2",
       "publishers": [
-        "Square Enix"
+        "PlayStation Publishing LLC"
       ],
       "has_key_store": false,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2499860/62319fe1293d94155ad7455cbbfdef6317f7b6d0/header_japanese.jpg?t=1785474787",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/header.jpg?t=1763569811",
       "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2499860/61ecb8567de5ab0392bd229ffad5dec14eb29279/ss_61ecb8567de5ab0392bd229ffad5dec14eb29279.600x338.jpg?t=1785474787",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2499860/c03aa2077121ddeddfc38e0aae8b09fc605ca27d/ss_c03aa2077121ddeddfc38e0aae8b09fc605ca27d.600x338.jpg?t=1785474787",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2499860/6cc0486dd686c763f4cc2f8317edb7a5172b210a/ss_6cc0486dd686c763f4cc2f8317edb7a5172b210a.600x338.jpg?t=1785474787"
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/ss_e4b67059ddedaeebd91fce113745f3eb99736f56.600x338.jpg?t=1763569811",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/ss_b4be948946130b7e140be82f24f1f9ccefae9117.600x338.jpg?t=1763569811",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/ss_f4140ba12158b812d9c1adc86c484d8e84b92e92.600x338.jpg?t=1763569811"
       ],
-      "discount_percent": 35,
-      "initial_price": 8778,
-      "final_price": 5705,
-      "initial_formatted": "¥ 8,778",
-      "final_formatted": "¥ 5,705",
+      "discount_percent": 33,
+      "initial_price": 7590,
+      "final_price": 5085,
+      "initial_formatted": "¥ 7,590",
+      "final_formatted": "¥ 5,085",
       "review_desc": "非常に好評",
-      "positive_rate": 86,
-      "total_reviews": 2242,
-      "deal_score": 62,
+      "positive_rate": 84,
+      "total_reviews": 35425,
+      "deal_score": 63,
       "genres": [
-        "アドベンチャー",
-        "RPG"
+        "アクション",
+        "アドベンチャー"
       ],
       "categories": [
         "シングルプレイヤー",
         "Steam実績",
         "フルコントローラサポート",
-        "Steamトレーディングカード",
-        "色のオプション"
+        "テキストサイズの調整",
+        "カメラの快適性"
       ],
-      "release_date": "2026年2月5日",
+      "release_date": "2025年1月30日",
       "supported_japanese": true,
-      "ai_overview": "「海のむこうには　もっと広い世界がある　……オレたちが　証明するんだ！」 はじまりは孤島に住む少年少女たちの小さな好奇心。海を越え、時を超える大冒険が今、始まる。 原作の魅力はそのままに、遊びやすく\"Reimagined（再構築）\"。ドールルックに生まれ変わった仲間たちと、壮大な冒険へ出発しよう！",
+      "ai_overview": "Be Greater. Together. ピーター・パーカーとマイルズ・モラレスは、人々を救うという使命と、日常生活や友人関係とのバランスを取りながら、恐るべきシンビオートとの死闘に臨む。大人気「Marvel's Spider-Man」シリーズの続編がPCに登場。",
       "ai_pros": [
         "フルコントローラー対応で快適に遊べる設計"
       ],
       "ai_cons": [
-        "高負荷3Dグラフィック：快適プレイには「GTX 1070」以上のPC環境を推奨"
+        "高負荷3Dグラフィック：快適プレイには「RTX 3060」以上のPC環境を推奨"
       ],
       "picked_reviews": [],
-      "gpu_hint": "GTX 1070",
+      "gpu_hint": "RTX 3060",
       "has_controller": true,
       "is_heavy_3d": true,
-      "steam_url": "https://store.steampowered.com/app/2499860/"
+      "steam_url": "https://store.steampowered.com/app/2651280/"
+    },
+    {
+      "appid": 4618570,
+      "name": "ブースターパックヒーロー",
+      "name_en": "Booster Pack Heroes",
+      "publishers": [
+        "Funday Games"
+      ],
+      "has_key_store": false,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4618570/ac07ef6abf96418c47dbb3ef356eb28e96035052/header_japanese.jpg?t=1794991220",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4618570/9990b5ce49bc39f8e4dfbda03445aa9ed9db0f2a/ss_9990b5ce49bc39f8e4dfbda03445aa9ed9db0f2a.600x338.jpg?t=1794991220",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4618570/5bee537cb11220f37a1ee7e7a514137979b04b6f/ss_5bee537cb11220f37a1ee7e7a514137979b04b6f.600x338.jpg?t=1794991220",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4618570/f392a778d8b764ca407840892d01e4ea072c506e/ss_f392a778d8b764ca407840892d01e4ea072c506e.600x338.jpg?t=1794991220"
+      ],
+      "discount_percent": 30,
+      "initial_price": 1400,
+      "final_price": 980,
+      "initial_formatted": "¥ 1,400",
+      "final_formatted": "¥ 980",
+      "review_desc": "非常に好評",
+      "positive_rate": 93,
+      "total_reviews": 2559,
+      "deal_score": 63,
+      "genres": [
+        "カジュアル",
+        "ストラテジー"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "Steam実績",
+        "フルコントローラサポート",
+        "#category_contrast_controls",
+        "マウスのみのオプション"
+      ],
+      "release_date": "2026年11月10日",
+      "supported_japanese": true,
+      "ai_overview": "ブースターパックを開けて、次のホイルヒーローを手に入れよう。『ブースターパックヒーロー』はインクリメンタルゲーム。1パックごとに、次の主力となるヒーローが眠っているかもしれない。果てしないモンスターの群れからタワーを守り、幾多のレルムを戦い抜け。",
+      "ai_pros": [
+        "フルコントローラー対応で快適に遊べる設計",
+        "要求スペックは軽め（ミドルクラスGPU目安）で幅広いPCで快適動作"
+      ],
+      "ai_cons": [],
+      "picked_reviews": [],
+      "gpu_hint": "ミドルクラスGPU",
+      "has_controller": true,
+      "is_heavy_3d": false,
+      "steam_url": "https://store.steampowered.com/app/4618570/"
+    },
+    {
+      "appid": 3101040,
+      "name": "魔法少女ノ魔女裁判",
+      "name_en": "Magical Girl Witch Trials",
+      "publishers": [
+        "Re,AER",
+        "CIRCLE LINE GAMES"
+      ],
+      "has_key_store": false,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3101040/header.jpg?t=1789891545",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3101040/6b66a3dc43a2f99d365ce94dc0a28ff23e742b53/ss_6b66a3dc43a2f99d365ce94dc0a28ff23e742b53.600x338.jpg?t=1789891545",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3101040/5e02b3b022f7dc55abe50259ee6cca01b80d7b9b/ss_5e02b3b022f7dc55abe50259ee6cca01b80d7b9b.600x338.jpg?t=1789891545",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3101040/64ce6ae5d1d9c88307373f4a9429843659fe497d/ss_64ce6ae5d1d9c88307373f4a9429843659fe497d.600x338.jpg?t=1789891545"
+      ],
+      "discount_percent": 20,
+      "initial_price": 3500,
+      "final_price": 2800,
+      "initial_formatted": "¥ 3,500",
+      "final_formatted": "¥ 2,800",
+      "review_desc": "圧倒的に好評",
+      "positive_rate": 96,
+      "total_reviews": 31027,
+      "deal_score": 63,
+      "genres": [
+        "アドベンチャー",
+        "インディー",
+        "シミュレーション"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "カスタム音量調整",
+        "マウスのみのオプション",
+        "時間制限付き入力なしでプレイ可能",
+        "タッチのみのオプション"
+      ],
+      "release_date": "2025年7月18日",
+      "supported_japanese": true,
+      "ai_overview": "少女たちが目覚めると、そこは見知らぬ牢屋敷――。来るべき「魔女裁判」に向け、牢屋敷を捜査して、少女に混ざりこんだ魔女を炙り出せ。魔女の魔法と嘘を暴き、処刑せよ。「Acacia」が送る魔法議論×ADVミステリー。",
+      "ai_pros": [
+        "アドベンチャー / インディー好きなら抑えておきたい注目作"
+      ],
+      "ai_cons": [
+        "高負荷3Dグラフィック：快適プレイには「RTX 2060」以上のPC環境を推奨"
+      ],
+      "picked_reviews": [],
+      "gpu_hint": "RTX 2060",
+      "has_controller": false,
+      "is_heavy_3d": true,
+      "steam_url": "https://store.steampowered.com/app/3101040/"
     },
     {
       "appid": 1808500,
@@ -622,7 +623,7 @@
       "final_formatted": "¥ 3,195",
       "review_desc": "賛否両論",
       "positive_rate": 63,
-      "total_reviews": 310687,
+      "total_reviews": 310792,
       "deal_score": 54,
       "genres": [
         "アクション"
@@ -651,106 +652,6 @@
       "steam_url": "https://store.steampowered.com/app/1808500/"
     },
     {
-      "appid": 3949290,
-      "name": "Ys X: Proud Nordics",
-      "name_en": "Ys X: Proud Nordics",
-      "publishers": [
-        "NIS America, Inc."
-      ],
-      "has_key_store": true,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3949290/e8b932d3512beeabb6d7509243ea10d8af145c8e/header_japanese.jpg?t=1788246310",
-      "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3949290/bea8f914b813dc5b166df5a6cf6f81087d9f2c36/ss_bea8f914b813dc5b166df5a6cf6f81087d9f2c36.600x338.jpg?t=1788246310",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3949290/9d5154dd07e75c513bf3f38d97bfee72ebc9e309/ss_9d5154dd07e75c513bf3f38d97bfee72ebc9e309.600x338.jpg?t=1788246310",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3949290/fb2d836e7b078fbbfb7a13f468ca7ef3c9806133/ss_fb2d836e7b078fbbfb7a13f468ca7ef3c9806133.600x338.jpg?t=1788246310"
-      ],
-      "discount_percent": 25,
-      "initial_price": 7600,
-      "final_price": 5700,
-      "initial_formatted": "¥ 7,600",
-      "final_formatted": "¥ 5,700",
-      "review_desc": "やや好評",
-      "positive_rate": 76,
-      "total_reviews": 174,
-      "deal_score": 54,
-      "genres": [
-        "アクション",
-        "アドベンチャー",
-        "RPG"
-      ],
-      "categories": [
-        "シングルプレイヤー",
-        "Steam実績",
-        "フルコントローラサポート",
-        "Steamトレーディングカード",
-        "カスタム音量調整"
-      ],
-      "release_date": "2026年2月20日",
-      "supported_japanese": true,
-      "ai_overview": "若かりし頃の冒険家アドル・クリスティン。 北の海・オベリア湾での新たなる冒険がいま始まる！",
-      "ai_pros": [
-        "フルコントローラー対応で快適に遊べる設計"
-      ],
-      "ai_cons": [
-        "高負荷3Dグラフィック：快適プレイには「GTX 1650」以上のPC環境を推奨"
-      ],
-      "picked_reviews": [],
-      "gpu_hint": "GTX 1650",
-      "has_controller": true,
-      "is_heavy_3d": true,
-      "steam_url": "https://store.steampowered.com/app/3949290/"
-    },
-    {
-      "appid": 4080220,
-      "name": "EA SPORTS FC™ 27",
-      "name_en": "EA SPORTS FC 27",
-      "publishers": [
-        "Electronic Arts"
-      ],
-      "has_key_store": false,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080220/ff6a3779f1ca83aae8ad3878454f6c11008ea24d/header.jpg?t=1793610006",
-      "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080220/5adfa6a72f1ba6f269580d106ef6d6a760aa5119/ss_5adfa6a72f1ba6f269580d106ef6d6a760aa5119.600x338.jpg?t=1793610006",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080220/a6dc5c0e33a2c9b174120be6f7caa26fc9aa8288/ss_a6dc5c0e33a2c9b174120be6f7caa26fc9aa8288.600x338.jpg?t=1793610006",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080220/1a9117db4e8d864dbcee4c377aa12d832f6660c8/ss_1a9117db4e8d864dbcee4c377aa12d832f6660c8.600x338.jpg?t=1793610006"
-      ],
-      "discount_percent": 50,
-      "initial_price": 9800,
-      "final_price": 4900,
-      "initial_formatted": "¥ 9,800",
-      "final_formatted": "¥ 4,900",
-      "review_desc": "賛否両論",
-      "positive_rate": 47,
-      "total_reviews": 13368,
-      "deal_score": 48,
-      "genres": [
-        "シミュレーション",
-        "スポーツ"
-      ],
-      "categories": [
-        "シングルプレイヤー",
-        "マルチプレイヤー",
-        "PvP",
-        "オンラインPvP",
-        "共有／分割画面でのPvP"
-      ],
-      "release_date": "2026年9月24日",
-      "supported_japanese": true,
-      "ai_overview": "「EA SPORTS FC™ 27」の世界のゲームへようこそ。 「The Grounds」へ足を踏み入れましょう。ストリートとスタジアムが融合したサッカーのプレイグラウンドを体験しましょう。コミュニティ主導の革新によって、よりリアルなサッカーゲームプレイが実現され、あらゆるモードでより優れた操作性を体感できます。",
-      "ai_pros": [
-        "マルチプレイ対応で快適に遊べる設計"
-      ],
-      "ai_cons": [
-        "直近レビューで賛否あり（好評率47%）：PC環境との相性や動作の重さに要注意",
-        "高負荷3Dグラフィック：快適プレイには「GTX 1660」以上のPC環境を推奨"
-      ],
-      "picked_reviews": [],
-      "gpu_hint": "GTX 1660",
-      "has_controller": true,
-      "is_heavy_3d": true,
-      "steam_url": "https://store.steampowered.com/app/4080220/"
-    },
-    {
       "appid": 2868840,
       "name": "Slay the Spire 2",
       "name_en": "Slay the Spire 2",
@@ -771,7 +672,7 @@
       "final_formatted": "¥ 2,240",
       "review_desc": "やや好評",
       "positive_rate": 79,
-      "total_reviews": 218446,
+      "total_reviews": 218692,
       "deal_score": 48,
       "genres": [
         "インディー",
@@ -798,6 +699,107 @@
       "has_controller": true,
       "is_heavy_3d": false,
       "steam_url": "https://store.steampowered.com/app/2868840/"
+    },
+    {
+      "appid": 4080220,
+      "name": "EA SPORTS FC™ 27",
+      "name_en": "EA SPORTS FC 27",
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "has_key_store": false,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080220/ff6a3779f1ca83aae8ad3878454f6c11008ea24d/header.jpg?t=1793610006",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080220/5adfa6a72f1ba6f269580d106ef6d6a760aa5119/ss_5adfa6a72f1ba6f269580d106ef6d6a760aa5119.600x338.jpg?t=1793610006",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080220/a6dc5c0e33a2c9b174120be6f7caa26fc9aa8288/ss_a6dc5c0e33a2c9b174120be6f7caa26fc9aa8288.600x338.jpg?t=1793610006",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080220/1a9117db4e8d864dbcee4c377aa12d832f6660c8/ss_1a9117db4e8d864dbcee4c377aa12d832f6660c8.600x338.jpg?t=1793610006"
+      ],
+      "discount_percent": 50,
+      "initial_price": 9800,
+      "final_price": 4900,
+      "initial_formatted": "¥ 9,800",
+      "final_formatted": "¥ 4,900",
+      "review_desc": "賛否両論",
+      "positive_rate": 46,
+      "total_reviews": 13563,
+      "deal_score": 47,
+      "genres": [
+        "シミュレーション",
+        "スポーツ"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "マルチプレイヤー",
+        "PvP",
+        "オンラインPvP",
+        "共有／分割画面でのPvP"
+      ],
+      "release_date": "2026年9月24日",
+      "supported_japanese": true,
+      "ai_overview": "「EA SPORTS FC™ 27」の世界のゲームへようこそ。 「The Grounds」へ足を踏み入れましょう。ストリートとスタジアムが融合したサッカーのプレイグラウンドを体験しましょう。コミュニティ主導の革新によって、よりリアルなサッカーゲームプレイが実現され、あらゆるモードでより優れた操作性を体感できます。",
+      "ai_pros": [
+        "マルチプレイ対応で快適に遊べる設計"
+      ],
+      "ai_cons": [
+        "直近レビューで賛否あり（好評率46%）：PC環境との相性や動作の重さに要注意",
+        "高負荷3Dグラフィック：快適プレイには「GTX 1660」以上のPC環境を推奨"
+      ],
+      "picked_reviews": [],
+      "gpu_hint": "GTX 1660",
+      "has_controller": true,
+      "is_heavy_3d": true,
+      "steam_url": "https://store.steampowered.com/app/4080220/"
+    },
+    {
+      "appid": 2483190,
+      "name": "Forza Horizon 6",
+      "name_en": "Forza Horizon 6",
+      "publishers": [
+        "Xbox Game Studios"
+      ],
+      "has_key_store": false,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/c53fe3362cc3267a5d34aca3e796b90963e0e23f/header_alt_assets_6.jpg?t=1795104806",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/706eb79418b2a74192de059693ddcbfaa803108a/ss_706eb79418b2a74192de059693ddcbfaa803108a.600x338.jpg?t=1795104806",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/383ace7815eaa8f8f5128a58fd8ca7df911d3e14/ss_383ace7815eaa8f8f5128a58fd8ca7df911d3e14.600x338.jpg?t=1795104806",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/d4b81f0cafcfba410371e53bd696fb5cc9b434c0/ss_d4b81f0cafcfba410371e53bd696fb5cc9b434c0.600x338.jpg?t=1795104806"
+      ],
+      "discount_percent": 25,
+      "initial_price": 9800,
+      "final_price": 7350,
+      "initial_formatted": "¥ 9,800",
+      "final_formatted": "¥ 7,350",
+      "review_desc": "賛否両論",
+      "positive_rate": 55,
+      "total_reviews": 93026,
+      "deal_score": 39,
+      "genres": [
+        "レース",
+        "シミュレーション",
+        "スポーツ"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "マルチプレイヤー",
+        "PvP",
+        "オンラインPvP",
+        "協力プレイ"
+      ],
+      "release_date": "2026年5月18日",
+      "supported_japanese": true,
+      "ai_overview": "実際に存在する 550 台以上のマシンに乗って美しい景色を楽しみながら、Forza Horizon 史上最大のオープンワールド ドライビング アドベンチャーでレース界のレジェンドの座に上り詰めよう。",
+      "ai_pros": [
+        "オンライン協力プレイ対応で快適に遊べる設計"
+      ],
+      "ai_cons": [
+        "好みが分かれる作品（好評率55%）：ゲームシステムや難易度の事前確認を推奨",
+        "高負荷3Dグラフィック：快適プレイには「RTX 3060」以上のPC環境を推奨"
+      ],
+      "picked_reviews": [],
+      "gpu_hint": "RTX 3060",
+      "has_controller": true,
+      "is_heavy_3d": true,
+      "steam_url": "https://store.steampowered.com/app/2483190/"
     }
   ]
 }
