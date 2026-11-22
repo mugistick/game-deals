@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22 04:35",
+  "updated_at": "2026-11-23 04:39",
   "total_count": 16,
   "affiliate": {
     "amazon_tag": "mugistick-22",
@@ -31,7 +31,7 @@
       "final_formatted": "¥ 2,097",
       "review_desc": "非常に好評",
       "positive_rate": 91,
-      "total_reviews": 330785,
+      "total_reviews": 330867,
       "deal_score": 90,
       "genres": [
         "シミュレーション",
@@ -46,7 +46,7 @@
       ],
       "release_date": "2016年6月6日",
       "supported_japanese": true,
-      "ai_overview": "Victory is at your fingertips! Your ability to lead your nation is your supreme weapon, the strategy game Hearts of Iron IV lets you take command of any nation in World War II; the most engaging conflict in world history.",
+      "ai_overview": "勝利はあなたの指先にあります!国家を率いる能力は最高の武器です。ストラテジー ゲーム Hearts of Iron IV では、第二次世界大戦であらゆる国家を指揮することができます。世界史上最も魅力的な紛争。",
       "ai_pros": [
         "オンライン協力プレイ対応で快適に遊べる設計",
         "要求スペックは軽め（GTX 570目安）で幅広いPCで快適動作"
@@ -79,7 +79,7 @@
       "final_formatted": "¥ 749",
       "review_desc": "非常に好評",
       "positive_rate": 94,
-      "total_reviews": 797516,
+      "total_reviews": 797815,
       "deal_score": 89,
       "genres": [
         "インディー",
@@ -108,6 +108,56 @@
       "steam_url": "https://store.steampowered.com/app/227300/"
     },
     {
+      "appid": 1158310,
+      "name": "Crusader Kings III",
+      "name_en": "Crusader Kings III",
+      "publishers": [
+        "Paradox Interactive"
+      ],
+      "has_key_store": true,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158310/882d03bcd957316ebbe733a58c923714008e40ed/header_alt_assets_12_japanese.jpg?t=1795167672",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158310/3b09e1315119b55abf4c5c475ff76c3b3f21e8f7/ss_3b09e1315119b55abf4c5c475ff76c3b3f21e8f7.600x338.jpg?t=1795167672",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158310/e2d683b4d91692332bd5bb1d0a6e0d51b9912b6f/ss_e2d683b4d91692332bd5bb1d0a6e0d51b9912b6f.600x338.jpg?t=1795167672",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158310/91c2699e030f7be2164ea142b4a4ec8272c86281/ss_91c2699e030f7be2164ea142b4a4ec8272c86281.600x338.jpg?t=1795167672"
+      ],
+      "discount_percent": 70,
+      "initial_price": 6990,
+      "final_price": 2097,
+      "initial_formatted": "¥ 6,990",
+      "final_formatted": "¥ 2,097",
+      "review_desc": "非常に好評",
+      "positive_rate": 86,
+      "total_reviews": 104478,
+      "deal_score": 88,
+      "genres": [
+        "RPG",
+        "シミュレーション",
+        "ストラテジー"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "マルチプレイヤー",
+        "PvP",
+        "オンラインPvP",
+        "Steam実績"
+      ],
+      "release_date": "2020年9月1日",
+      "supported_japanese": true,
+      "ai_overview": "愛と戦い、策略の果てに名声を手に入れる。壮大かつ荘厳な『Crusader Kings III』の世界で自らの一族が何を残せるか、それはあなた次第。生き生きと描かれる中世世界で、繁栄を極める王朝を築く長い旅。死はその始まりに過ぎません。",
+      "ai_pros": [
+        "マルチプレイ対応で快適に遊べる設計"
+      ],
+      "ai_cons": [
+        "高負荷3Dグラフィック：快適プレイには「GTX 970」以上のPC環境を推奨"
+      ],
+      "picked_reviews": [],
+      "gpu_hint": "GTX 970",
+      "has_controller": false,
+      "is_heavy_3d": true,
+      "steam_url": "https://store.steampowered.com/app/1158310/"
+    },
+    {
       "appid": 2492040,
       "name": "餓狼伝説 City of the Wolves",
       "name_en": "FATAL FURY: City of the Wolves",
@@ -128,7 +178,7 @@
       "final_formatted": "¥ 1,292",
       "review_desc": "非常に好評",
       "positive_rate": 81,
-      "total_reviews": 3412,
+      "total_reviews": 3431,
       "deal_score": 82,
       "genres": [
         "アクション"
@@ -175,8 +225,8 @@
       "initial_formatted": "¥ 7,590",
       "final_formatted": "¥ 3,795",
       "review_desc": "非常に好評",
-      "positive_rate": 90,
-      "total_reviews": 66297,
+      "positive_rate": 89,
+      "total_reviews": 66376,
       "deal_score": 80,
       "genres": [
         "アクション",
@@ -205,6 +255,54 @@
       "steam_url": "https://store.steampowered.com/app/2215430/"
     },
     {
+      "appid": 2455640,
+      "name": "ロマンシング サガ2 リベンジオブザセブン",
+      "name_en": "Romancing SaGa 2: Revenge of the Seven",
+      "publishers": [
+        "Square Enix"
+      ],
+      "has_key_store": false,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2455640/header_japanese.jpg?t=1777013886",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2455640/ss_d8a79ce4ed80d0b8148bc04a4d49e67433181c1d.600x338.jpg?t=1777013886",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2455640/ss_21fdcfbad9cf8435224d4d3dccd0d6cd6d1a0934.600x338.jpg?t=1777013886",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2455640/ss_8ce2dc4686afdcdc4783a38cae607a1529c289e7.600x338.jpg?t=1777013886"
+      ],
+      "discount_percent": 60,
+      "initial_price": 6820,
+      "final_price": 2728,
+      "initial_formatted": "¥ 6,820",
+      "final_formatted": "¥ 2,728",
+      "review_desc": "圧倒的に好評",
+      "positive_rate": 96,
+      "total_reviews": 4110,
+      "deal_score": 78,
+      "genres": [
+        "RPG"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "Steam実績",
+        "フルコントローラサポート",
+        "Steamトレーディングカード",
+        "カメラの快適性"
+      ],
+      "release_date": "2024年10月24日",
+      "supported_japanese": true,
+      "ai_overview": "『ロマンシング サガ2』のフルリメイク！グラフィックは3D化、ゲームシステムは現代風にアレンジ、BGMアレンジ、ボイス対応。プレイヤーは歴代皇帝として、七英雄との数千年にわたる戦いに挑みます。",
+      "ai_pros": [
+        "フルコントローラー対応で快適に遊べる設計"
+      ],
+      "ai_cons": [
+        "高負荷3Dグラフィック：快適プレイには「GTX 1060」以上のPC環境を推奨"
+      ],
+      "picked_reviews": [],
+      "gpu_hint": "GTX 1060",
+      "has_controller": true,
+      "is_heavy_3d": true,
+      "steam_url": "https://store.steampowered.com/app/2455640/"
+    },
+    {
       "appid": 2052410,
       "name": "魔法使いの夜",
       "name_en": "WITCH ON THE HOLY NIGHT",
@@ -225,7 +323,7 @@
       "final_formatted": "¥ 3,300",
       "review_desc": "非常に好評",
       "positive_rate": 96,
-      "total_reviews": 7578,
+      "total_reviews": 7590,
       "deal_score": 74,
       "genres": [
         "アドベンチャー"
@@ -274,7 +372,7 @@
       "final_formatted": "¥ 6,016",
       "review_desc": "非常に好評",
       "positive_rate": 89,
-      "total_reviews": 16260,
+      "total_reviews": 16279,
       "deal_score": 70,
       "genres": [
         "アクション",
@@ -323,7 +421,7 @@
       "final_formatted": "¥ 5,346",
       "review_desc": "非常に好評",
       "positive_rate": 85,
-      "total_reviews": 62797,
+      "total_reviews": 62832,
       "deal_score": 70,
       "genres": [
         "アクション",
@@ -373,7 +471,7 @@
       "final_formatted": "¥ 986",
       "review_desc": "賛否両論",
       "positive_rate": 65,
-      "total_reviews": 46046,
+      "total_reviews": 46118,
       "deal_score": 69,
       "genres": [
         "アクション",
@@ -423,9 +521,9 @@
       "initial_formatted": "¥ 6,578",
       "final_formatted": "¥ 986",
       "review_desc": "賛否両論",
-      "positive_rate": 50,
-      "total_reviews": 27197,
-      "deal_score": 63,
+      "positive_rate": 51,
+      "total_reviews": 27236,
+      "deal_score": 64,
       "genres": [
         "アクション",
         "アドベンチャー",
@@ -445,7 +543,7 @@
         "フルコントローラー対応で快適に遊べる設計"
       ],
       "ai_cons": [
-        "好みが分かれる作品（好評率50%）：ゲームシステムや難易度の事前確認を推奨",
+        "好みが分かれる作品（好評率51%）：ゲームシステムや難易度の事前確認を推奨",
         "高負荷3Dグラフィック：快適プレイには「RTX 2070」以上のPC環境を推奨"
       ],
       "picked_reviews": [],
@@ -453,55 +551,6 @@
       "has_controller": true,
       "is_heavy_3d": true,
       "steam_url": "https://store.steampowered.com/app/2909400/"
-    },
-    {
-      "appid": 2651280,
-      "name": "Marvel's Spider-Man 2",
-      "name_en": "Marvels Spider-Man 2",
-      "publishers": [
-        "PlayStation Publishing LLC"
-      ],
-      "has_key_store": false,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/header.jpg?t=1763569811",
-      "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/ss_e4b67059ddedaeebd91fce113745f3eb99736f56.600x338.jpg?t=1763569811",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/ss_b4be948946130b7e140be82f24f1f9ccefae9117.600x338.jpg?t=1763569811",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/ss_f4140ba12158b812d9c1adc86c484d8e84b92e92.600x338.jpg?t=1763569811"
-      ],
-      "discount_percent": 33,
-      "initial_price": 7590,
-      "final_price": 5085,
-      "initial_formatted": "¥ 7,590",
-      "final_formatted": "¥ 5,085",
-      "review_desc": "非常に好評",
-      "positive_rate": 84,
-      "total_reviews": 35425,
-      "deal_score": 63,
-      "genres": [
-        "アクション",
-        "アドベンチャー"
-      ],
-      "categories": [
-        "シングルプレイヤー",
-        "Steam実績",
-        "フルコントローラサポート",
-        "テキストサイズの調整",
-        "カメラの快適性"
-      ],
-      "release_date": "2025年1月30日",
-      "supported_japanese": true,
-      "ai_overview": "Be Greater. Together. ピーター・パーカーとマイルズ・モラレスは、人々を救うという使命と、日常生活や友人関係とのバランスを取りながら、恐るべきシンビオートとの死闘に臨む。大人気「Marvel's Spider-Man」シリーズの続編がPCに登場。",
-      "ai_pros": [
-        "フルコントローラー対応で快適に遊べる設計"
-      ],
-      "ai_cons": [
-        "高負荷3Dグラフィック：快適プレイには「RTX 3060」以上のPC環境を推奨"
-      ],
-      "picked_reviews": [],
-      "gpu_hint": "RTX 3060",
-      "has_controller": true,
-      "is_heavy_3d": true,
-      "steam_url": "https://store.steampowered.com/app/2651280/"
     },
     {
       "appid": 4618570,
@@ -524,7 +573,7 @@
       "final_formatted": "¥ 980",
       "review_desc": "非常に好評",
       "positive_rate": 93,
-      "total_reviews": 2559,
+      "total_reviews": 2791,
       "deal_score": 63,
       "genres": [
         "カジュアル",
@@ -573,7 +622,7 @@
       "final_formatted": "¥ 2,800",
       "review_desc": "圧倒的に好評",
       "positive_rate": 96,
-      "total_reviews": 31027,
+      "total_reviews": 31047,
       "deal_score": 63,
       "genres": [
         "アドベンチャー",
@@ -623,7 +672,7 @@
       "final_formatted": "¥ 3,195",
       "review_desc": "賛否両論",
       "positive_rate": 63,
-      "total_reviews": 310792,
+      "total_reviews": 310932,
       "deal_score": 54,
       "genres": [
         "アクション"
@@ -672,7 +721,7 @@
       "final_formatted": "¥ 2,240",
       "review_desc": "やや好評",
       "positive_rate": 79,
-      "total_reviews": 218692,
+      "total_reviews": 218938,
       "deal_score": 48,
       "genres": [
         "インディー",
@@ -701,56 +750,6 @@
       "steam_url": "https://store.steampowered.com/app/2868840/"
     },
     {
-      "appid": 4080220,
-      "name": "EA SPORTS FC™ 27",
-      "name_en": "EA SPORTS FC 27",
-      "publishers": [
-        "Electronic Arts"
-      ],
-      "has_key_store": false,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080220/ff6a3779f1ca83aae8ad3878454f6c11008ea24d/header.jpg?t=1793610006",
-      "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080220/5adfa6a72f1ba6f269580d106ef6d6a760aa5119/ss_5adfa6a72f1ba6f269580d106ef6d6a760aa5119.600x338.jpg?t=1793610006",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080220/a6dc5c0e33a2c9b174120be6f7caa26fc9aa8288/ss_a6dc5c0e33a2c9b174120be6f7caa26fc9aa8288.600x338.jpg?t=1793610006",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080220/1a9117db4e8d864dbcee4c377aa12d832f6660c8/ss_1a9117db4e8d864dbcee4c377aa12d832f6660c8.600x338.jpg?t=1793610006"
-      ],
-      "discount_percent": 50,
-      "initial_price": 9800,
-      "final_price": 4900,
-      "initial_formatted": "¥ 9,800",
-      "final_formatted": "¥ 4,900",
-      "review_desc": "賛否両論",
-      "positive_rate": 46,
-      "total_reviews": 13563,
-      "deal_score": 47,
-      "genres": [
-        "シミュレーション",
-        "スポーツ"
-      ],
-      "categories": [
-        "シングルプレイヤー",
-        "マルチプレイヤー",
-        "PvP",
-        "オンラインPvP",
-        "共有／分割画面でのPvP"
-      ],
-      "release_date": "2026年9月24日",
-      "supported_japanese": true,
-      "ai_overview": "「EA SPORTS FC™ 27」の世界のゲームへようこそ。 「The Grounds」へ足を踏み入れましょう。ストリートとスタジアムが融合したサッカーのプレイグラウンドを体験しましょう。コミュニティ主導の革新によって、よりリアルなサッカーゲームプレイが実現され、あらゆるモードでより優れた操作性を体感できます。",
-      "ai_pros": [
-        "マルチプレイ対応で快適に遊べる設計"
-      ],
-      "ai_cons": [
-        "直近レビューで賛否あり（好評率46%）：PC環境との相性や動作の重さに要注意",
-        "高負荷3Dグラフィック：快適プレイには「GTX 1660」以上のPC環境を推奨"
-      ],
-      "picked_reviews": [],
-      "gpu_hint": "GTX 1660",
-      "has_controller": true,
-      "is_heavy_3d": true,
-      "steam_url": "https://store.steampowered.com/app/4080220/"
-    },
-    {
       "appid": 2483190,
       "name": "Forza Horizon 6",
       "name_en": "Forza Horizon 6",
@@ -771,7 +770,7 @@
       "final_formatted": "¥ 7,350",
       "review_desc": "賛否両論",
       "positive_rate": 55,
-      "total_reviews": 93026,
+      "total_reviews": 93157,
       "deal_score": 39,
       "genres": [
         "レース",
