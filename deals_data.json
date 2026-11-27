@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 10:59",
+  "updated_at": "2026-11-27 10:58",
   "total_count": 16,
   "affiliate": {
     "amazon_tag": "mugistick-22",
@@ -11,52 +11,102 @@
   },
   "deals": [
     {
-      "appid": 394360,
-      "name": "Hearts of Iron IV",
-      "name_en": "Hearts of Iron IV",
+      "appid": 2124490,
+      "name": "SILENT HILL 2",
+      "name_en": "Silent Hill 2",
       "publishers": [
-        "Paradox Interactive"
+        "KONAMI"
       ],
       "has_key_store": false,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394360/67bbd0057627fc2244793bcdd09260c2539499cf/header.jpg?t=1795531455",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2124490/header.jpg?t=1744248682",
       "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394360/ss_242abc1c2ca21f7d8694ba8d9239d8944217b29f.600x338.jpg?t=1795531455",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394360/ss_679ae0d56f3a3b33591262839588c4b1dc6bef12.600x338.jpg?t=1795531455",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394360/ss_ebcec59e821aa1ee43c6d047eaef4e846af99358.600x338.jpg?t=1795531455"
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2124490/ss_1fdda21610fa23d0ce20b5c44fab8aebd509c5cb.600x338.jpg?t=1744248682",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2124490/ss_b20363454a190d737e5ff8e6410d66f0034bd807.600x338.jpg?t=1744248682",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2124490/ss_7ba4f2993853179e3049a7f56d7b690b892f33bf.600x338.jpg?t=1744248682"
       ],
-      "discount_percent": 70,
-      "initial_price": 6990,
-      "final_price": 2097,
-      "initial_formatted": "¥ 6,990",
-      "final_formatted": "¥ 2,097",
+      "discount_percent": 72,
+      "initial_price": 8580,
+      "final_price": 2402,
+      "initial_formatted": "¥ 8,580",
+      "final_formatted": "¥ 2,402",
       "review_desc": "非常に好評",
-      "positive_rate": 91,
-      "total_reviews": 332005,
-      "deal_score": 85,
+      "positive_rate": 86,
+      "total_reviews": 45066,
+      "deal_score": 81,
       "genres": [
-        "シミュレーション",
-        "ストラテジー"
+        "アクション",
+        "アドベンチャー"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "Steam実績",
+        "フルコントローラサポート",
+        "ゲームパッド推奨",
+        "DUALSHOCKコントローラーサポート"
+      ],
+      "release_date": "2024年10月7日",
+      "supported_japanese": true,
+      "ai_overview": "死んだ妻から届いた手紙をきっかけに、思い出の街「サイレントヒル」を訪れたジェイムス。 街は深い霧に包まれ、異形のクリーチャーが徘徊するゴーストタウンとなっていた。 クリーチャーと戦い、謎を解きながら、妻の手がかりを求めて街を探索する『SILENT HILL 2』のリメイク作品です。",
+      "ai_pros": [
+        "フルコントローラー対応で快適に遊べる設計"
+      ],
+      "ai_cons": [
+        "高負荷3Dグラフィック：快適プレイには「ミドルクラスGPU」以上のPC環境を推奨"
+      ],
+      "picked_reviews": [],
+      "gpu_hint": "ミドルクラスGPU",
+      "has_controller": true,
+      "is_heavy_3d": true,
+      "steam_url": "https://store.steampowered.com/app/2124490/"
+    },
+    {
+      "appid": 2215430,
+      "name": "Ghost of Tsushima DIRECTOR'S CUT",
+      "name_en": "Ghost of Tsushima DIRECTORS CUT",
+      "publishers": [
+        "PlayStation Publishing LLC"
+      ],
+      "has_key_store": true,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/header.jpg?t=1763409398",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/ss_51eb1a47a41271abb0aa781de576f704d95b601b.600x338.jpg?t=1763409398",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/ss_d60e16422fc1605181e0fedee3e2cfc1e02c750e.600x338.jpg?t=1763409398",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/ss_11409331d57966ef193d66ffcded569d02a4e034.600x338.jpg?t=1763409398"
+      ],
+      "discount_percent": 50,
+      "initial_price": 7590,
+      "final_price": 3795,
+      "initial_formatted": "¥ 7,590",
+      "final_formatted": "¥ 3,795",
+      "review_desc": "非常に好評",
+      "positive_rate": 89,
+      "total_reviews": 66681,
+      "deal_score": 80,
+      "genres": [
+        "アクション",
+        "アドベンチャー"
       ],
       "categories": [
         "シングルプレイヤー",
         "マルチプレイヤー",
-        "協力プレイ",
-        "オンライン協力プレイ",
-        "クロスプラットフォームマルチプレイヤー"
+        "PvP",
+        "オンラインPvP",
+        "協力プレイ"
       ],
-      "release_date": "2016年6月6日",
+      "release_date": "2024年5月16日",
       "supported_japanese": true,
-      "ai_overview": "勝利はあなたの指先にあります!国家を率いる能力は最高の武器です。ストラテジー ゲーム Hearts of Iron IV では、第二次世界大戦であらゆる国家を指揮することができます。世界史上最も魅力的な紛争。",
+      "ai_overview": "嵐が、来る。『Ghost of Tsushima DIRECTOR’S CUT』のPC用完全版でオープンワールド時代劇アクションアドベンチャーへ足を踏み入れ、自身の道を切り開こう。本作はSucker Punch Productions、Nixxes Software、PlayStation Studiosの共同制作でお届けします。",
       "ai_pros": [
-        "オンライン協力プレイ対応で快適に遊べる設計",
-        "要求スペックは軽め（GTX 570目安）で幅広いPCで快適動作"
+        "オンライン協力プレイ対応で快適に遊べる設計"
       ],
-      "ai_cons": [],
+      "ai_cons": [
+        "高負荷3Dグラフィック：快適プレイには「RTX 2060」以上のPC環境を推奨"
+      ],
       "picked_reviews": [],
-      "gpu_hint": "GTX 570",
-      "has_controller": false,
-      "is_heavy_3d": false,
-      "steam_url": "https://store.steampowered.com/app/394360/"
+      "gpu_hint": "RTX 2060",
+      "has_controller": true,
+      "is_heavy_3d": true,
+      "steam_url": "https://store.steampowered.com/app/2215430/"
     },
     {
       "appid": 2052410,
@@ -79,7 +129,7 @@
       "final_formatted": "¥ 3,300",
       "review_desc": "非常に好評",
       "positive_rate": 96,
-      "total_reviews": 7624,
+      "total_reviews": 7635,
       "deal_score": 74,
       "genres": [
         "アドベンチャー"
@@ -127,7 +177,7 @@
       "final_formatted": "¥ 2,154",
       "review_desc": "やや好評",
       "positive_rate": 74,
-      "total_reviews": 874886,
+      "total_reviews": 877331,
       "deal_score": 71,
       "genres": [
         "アクション",
@@ -177,7 +227,7 @@
       "final_formatted": "¥ 2,402",
       "review_desc": "やや好評",
       "positive_rate": 75,
-      "total_reviews": 19763,
+      "total_reviews": 19782,
       "deal_score": 70,
       "genres": [
         "アクション",
@@ -227,7 +277,7 @@
       "final_formatted": "¥ 6,016",
       "review_desc": "非常に好評",
       "positive_rate": 89,
-      "total_reviews": 17717,
+      "total_reviews": 17983,
       "deal_score": 70,
       "genres": [
         "アクション",
@@ -256,56 +306,6 @@
       "steam_url": "https://store.steampowered.com/app/3280350/"
     },
     {
-      "appid": 3489700,
-      "name": "Stellar Blade™",
-      "name_en": "Stellar Blade",
-      "publishers": [
-        "PlayStation Publishing LLC (excluding China)"
-      ],
-      "has_key_store": true,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489700/header.jpg?t=1776466244",
-      "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489700/ss_4291827e357008499d4d5a17bc50d3e93869dd43.600x338.jpg?t=1776466244",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489700/ss_9d4d62e118a167333d53db94354671e10416b25d.600x338.jpg?t=1776466244",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489700/ss_bcb3946482dc5a1221c024098d2ac09e80255f3e.600x338.jpg?t=1776466244"
-      ],
-      "discount_percent": 33,
-      "initial_price": 7980,
-      "final_price": 5346,
-      "initial_formatted": "¥ 7,980",
-      "final_formatted": "¥ 5,346",
-      "review_desc": "非常に好評",
-      "positive_rate": 85,
-      "total_reviews": 62985,
-      "deal_score": 70,
-      "genres": [
-        "アクション",
-        "アドベンチャー",
-        "RPG"
-      ],
-      "categories": [
-        "シングルプレイヤー",
-        "Steam実績",
-        "フルコントローラサポート",
-        "Steamトレーディングカード",
-        "テキストサイズの調整"
-      ],
-      "release_date": "2025年6月11日",
-      "supported_japanese": true,
-      "ai_overview": "荒廃した世界が舞台のアクションアドベンチャー『Stellar Blade™』で、人類の存亡をかけた戦いが、いま幕を開ける。地球が荒廃した真相を解き明かしながら、激しい戦闘と複雑に絡み合った物語を体験しよう。",
-      "ai_pros": [
-        "フルコントローラー対応で快適に遊べる設計"
-      ],
-      "ai_cons": [
-        "高負荷3Dグラフィック：快適プレイには「RTX 2060」以上のPC環境を推奨"
-      ],
-      "picked_reviews": [],
-      "gpu_hint": "RTX 2060",
-      "has_controller": true,
-      "is_heavy_3d": true,
-      "steam_url": "https://store.steampowered.com/app/3489700/"
-    },
-    {
       "appid": 1462040,
       "name": "FINAL FANTASY VII REMAKE INTERGRADE",
       "name_en": "FINAL FANTASY VII REMAKE INTERGRADE",
@@ -326,7 +326,7 @@
       "final_formatted": "¥ 986",
       "review_desc": "賛否両論",
       "positive_rate": 65,
-      "total_reviews": 46345,
+      "total_reviews": 46411,
       "deal_score": 69,
       "genres": [
         "アクション",
@@ -377,7 +377,7 @@
       "final_formatted": "¥ 986",
       "review_desc": "賛否両論",
       "positive_rate": 50,
-      "total_reviews": 27371,
+      "total_reviews": 27405,
       "deal_score": 63,
       "genres": [
         "アクション",
@@ -429,7 +429,7 @@
       "final_formatted": "¥ 2,800",
       "review_desc": "圧倒的に好評",
       "positive_rate": 96,
-      "total_reviews": 31105,
+      "total_reviews": 31139,
       "deal_score": 63,
       "genres": [
         "アドベンチャー",
@@ -479,7 +479,7 @@
       "final_formatted": "¥ 2,851",
       "review_desc": "やや好評",
       "positive_rate": 73,
-      "total_reviews": 235311,
+      "total_reviews": 236796,
       "deal_score": 62,
       "genres": [
         "アクション",
@@ -510,77 +510,28 @@
       "steam_url": "https://store.steampowered.com/app/3240220/"
     },
     {
-      "appid": 2868840,
-      "name": "Slay the Spire 2",
-      "name_en": "Slay the Spire 2",
+      "appid": 4253570,
+      "name": "Reshine",
+      "name_en": "Reshine",
       "publishers": [
-        "Mega Crit"
+        "Quite OK Games"
       ],
       "has_key_store": false,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2868840/b0958d387dc366211e0f353443710cfcf9fdb020/header.jpg?t=1787169309",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4253570/646bb149524f3e9fbe8e294fccf88c6d91247ac2/header_alt_assets_1.jpg?t=1795708896",
       "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2868840/1a373a95229aab0cfd97f553ecbe86092364bb9c/ss_1a373a95229aab0cfd97f553ecbe86092364bb9c.600x338.jpg?t=1787169309",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2868840/f3af7cb9693b9c4b6a7555227db3fef943db3992/ss_f3af7cb9693b9c4b6a7555227db3fef943db3992.600x338.jpg?t=1787169309",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2868840/c3db69efd984ef012ae85c5b426663720152f0a4/ss_c3db69efd984ef012ae85c5b426663720152f0a4.600x338.jpg?t=1787169309"
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4253570/f0215872516b966d44bba9c3392e9e55c32a4868/ss_f0215872516b966d44bba9c3392e9e55c32a4868.600x338.jpg?t=1795708896",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4253570/cbaf797f385db8be5fbec496f334e13a014c7140/ss_cbaf797f385db8be5fbec496f334e13a014c7140.600x338.jpg?t=1795708896",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4253570/a25f36adff4aa06c5a60761022760dfcb9b4b831/ss_a25f36adff4aa06c5a60761022760dfcb9b4b831.600x338.jpg?t=1795708896"
       ],
       "discount_percent": 20,
-      "initial_price": 2800,
-      "final_price": 2240,
-      "initial_formatted": "¥ 2,800",
-      "final_formatted": "¥ 2,240",
+      "initial_price": 1280,
+      "final_price": 1024,
+      "initial_formatted": "¥ 1,280",
+      "final_formatted": "¥ 1,024",
       "review_desc": "非常に好評",
-      "positive_rate": 81,
-      "total_reviews": 233555,
+      "positive_rate": 99,
+      "total_reviews": 139,
       "deal_score": 58,
-      "genres": [
-        "インディー",
-        "ストラテジー",
-        "早期アクセス"
-      ],
-      "categories": [
-        "シングルプレイヤー",
-        "マルチプレイヤー",
-        "協力プレイ",
-        "オンライン協力プレイ",
-        "フルコントローラサポート"
-      ],
-      "release_date": "2026年3月5日",
-      "supported_japanese": true,
-      "ai_overview": "あの象徴的なデッキ構築型ローグライクが帰ってきた。Slay the Spire 2をプレイして、ユニークなデッキを構築し、奇怪な生物たちと出会い、圧倒的な力を秘めたレリックを発見しよう！",
-      "ai_pros": [
-        "フルコントローラー対応・オンライン協力プレイ対応で快適に遊べる設計",
-        "要求スペックは軽め（ミドルクラスGPU目安）で幅広いPCで快適動作"
-      ],
-      "ai_cons": [],
-      "picked_reviews": [],
-      "gpu_hint": "ミドルクラスGPU",
-      "has_controller": true,
-      "is_heavy_3d": false,
-      "steam_url": "https://store.steampowered.com/app/2868840/"
-    },
-    {
-      "appid": 5472080,
-      "name": "SHRED A BILLION",
-      "name_en": "SHRED A BILLION",
-      "publishers": [
-        "LightTriadGames"
-      ],
-      "has_key_store": false,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5472080/4584864fda356b4d391b69cc2c0ea73bc286db3d/header.jpg?t=1795542942",
-      "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5472080/ac0de7cdf6a9aa064000536aba49f7ea014cd44b/ss_ac0de7cdf6a9aa064000536aba49f7ea014cd44b.600x338.jpg?t=1795542942",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5472080/073ff3b6b092cb22e14b4916d0485c84a4d1db41/ss_073ff3b6b092cb22e14b4916d0485c84a4d1db41.600x338.jpg?t=1795542942",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5472080/6ad9bd8ad124ac4b627d82f71ebfc6a7519c53b4/ss_6ad9bd8ad124ac4b627d82f71ebfc6a7519c53b4.600x338.jpg?t=1795542942"
-      ],
-      "discount_percent": 20,
-      "initial_price": 985,
-      "final_price": 788,
-      "initial_formatted": "¥ 985",
-      "final_formatted": "¥ 788",
-      "review_desc": "圧倒的に好評",
-      "positive_rate": 96,
-      "total_reviews": 776,
-      "deal_score": 57,
       "genres": [
         "カジュアル",
         "インディー",
@@ -588,25 +539,24 @@
       ],
       "categories": [
         "シングルプレイヤー",
-        "マルチプレイヤー",
-        "協力プレイ",
-        "オンライン協力プレイ",
-        "Steam実績"
+        "Steam実績",
+        "フルコントローラサポート",
+        "テキストサイズの調整",
+        "カメラの快適性"
       ],
-      "release_date": "2026年11月24日",
+      "release_date": "2026年11月26日",
       "supported_japanese": true,
-      "ai_overview": "SHRED A BILLION は、お金の山を舞台にした一人称視点のインクリメンタルゲーム！お札を素手でつかみ、バケツですくい、レベルアップして10億ドルをシュレッダーに食わせよう。残りのお札は、たったの9億9999万9999枚！",
+      "ai_overview": "長年蓄積した埃や錆、そして経年変化を丁寧に取り除き、時代を経たものの本来の姿を取り戻しましょう。Reshineは、ミニマルで心安らぐ体験です。様々な道具を使って、長い年月分の汚れが目の前で落ちていく様子をご覧ください。管理するものもプレッシャーも一切ありません。長い時を経たものに自分の手で新しい命を与える達成感をお楽しみください。",
       "ai_pros": [
-        "オンライン協力プレイ対応で快適に遊べる設計"
+        "フルコントローラー対応で快適に遊べる設計",
+        "要求スペックは軽め（ミドルクラスGPU目安）で幅広いPCで快適動作"
       ],
-      "ai_cons": [
-        "高負荷3Dグラフィック：快適プレイには「GTX 1080」以上のPC環境を推奨"
-      ],
+      "ai_cons": [],
       "picked_reviews": [],
-      "gpu_hint": "GTX 1080",
+      "gpu_hint": "ミドルクラスGPU",
       "has_controller": true,
-      "is_heavy_3d": true,
-      "steam_url": "https://store.steampowered.com/app/5472080/"
+      "is_heavy_3d": false,
+      "steam_url": "https://store.steampowered.com/app/4253570/"
     },
     {
       "appid": 5527800,
@@ -627,9 +577,9 @@
       "final_price": 920,
       "initial_formatted": "¥ 1,150",
       "final_formatted": "¥ 920",
-      "review_desc": "非常に好評",
-      "positive_rate": 93,
-      "total_reviews": 483,
+      "review_desc": "圧倒的に好評",
+      "positive_rate": 95,
+      "total_reviews": 876,
       "deal_score": 56,
       "genres": [
         "カジュアル",
@@ -679,7 +629,7 @@
       "final_formatted": "¥ 9,592",
       "review_desc": "非常に好評",
       "positive_rate": 83,
-      "total_reviews": 23065,
+      "total_reviews": 23566,
       "deal_score": 56,
       "genres": [
         "アクション"
@@ -727,7 +677,7 @@
       "final_formatted": "¥ 3,195",
       "review_desc": "賛否両論",
       "positive_rate": 63,
-      "total_reviews": 312633,
+      "total_reviews": 312998,
       "deal_score": 54,
       "genres": [
         "アクション"
@@ -776,7 +726,7 @@
       "final_formatted": "¥ 4,900",
       "review_desc": "賛否両論",
       "positive_rate": 48,
-      "total_reviews": 15122,
+      "total_reviews": 15503,
       "deal_score": 49,
       "genres": [
         "シミュレーション",
@@ -804,6 +754,57 @@
       "has_controller": true,
       "is_heavy_3d": true,
       "steam_url": "https://store.steampowered.com/app/4080220/"
+    },
+    {
+      "appid": 2483190,
+      "name": "Forza Horizon 6",
+      "name_en": "Forza Horizon 6",
+      "publishers": [
+        "Xbox Game Studios"
+      ],
+      "has_key_store": false,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/c53fe3362cc3267a5d34aca3e796b90963e0e23f/header_alt_assets_6.jpg?t=1795104806",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/706eb79418b2a74192de059693ddcbfaa803108a/ss_706eb79418b2a74192de059693ddcbfaa803108a.600x338.jpg?t=1795104806",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/383ace7815eaa8f8f5128a58fd8ca7df911d3e14/ss_383ace7815eaa8f8f5128a58fd8ca7df911d3e14.600x338.jpg?t=1795104806",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/d4b81f0cafcfba410371e53bd696fb5cc9b434c0/ss_d4b81f0cafcfba410371e53bd696fb5cc9b434c0.600x338.jpg?t=1795104806"
+      ],
+      "discount_percent": 25,
+      "initial_price": 9800,
+      "final_price": 7350,
+      "initial_formatted": "¥ 9,800",
+      "final_formatted": "¥ 7,350",
+      "review_desc": "賛否両論",
+      "positive_rate": 56,
+      "total_reviews": 99889,
+      "deal_score": 39,
+      "genres": [
+        "レース",
+        "シミュレーション",
+        "スポーツ"
+      ],
+      "categories": [
+        "シングルプレイヤー",
+        "マルチプレイヤー",
+        "PvP",
+        "オンラインPvP",
+        "協力プレイ"
+      ],
+      "release_date": "2026年5月18日",
+      "supported_japanese": true,
+      "ai_overview": "実際に存在する 550 台以上のマシンに乗って美しい景色を楽しみながら、Forza Horizon 史上最大のオープンワールド ドライビング アドベンチャーでレース界のレジェンドの座に上り詰めよう。",
+      "ai_pros": [
+        "オンライン協力プレイ対応で快適に遊べる設計"
+      ],
+      "ai_cons": [
+        "好みが分かれる作品（好評率56%）：ゲームシステムや難易度の事前確認を推奨",
+        "高負荷3Dグラフィック：快適プレイには「RTX 3060」以上のPC環境を推奨"
+      ],
+      "picked_reviews": [],
+      "gpu_hint": "RTX 3060",
+      "has_controller": true,
+      "is_heavy_3d": true,
+      "steam_url": "https://store.steampowered.com/app/2483190/"
     }
   ]
 }
