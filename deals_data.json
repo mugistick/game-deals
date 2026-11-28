@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 10:58",
+  "updated_at": "2026-11-28 10:42",
   "total_count": 16,
   "affiliate": {
     "amazon_tag": "mugistick-22",
@@ -11,93 +11,43 @@
   },
   "deals": [
     {
-      "appid": 2124490,
-      "name": "SILENT HILL 2",
-      "name_en": "Silent Hill 2",
+      "appid": 1091500,
+      "name": "サイバーパンク2077",
+      "name_en": "Cyberpunk 2077",
       "publishers": [
-        "KONAMI"
+        "CD PROJEKT RED"
       ],
       "has_key_store": false,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2124490/header.jpg?t=1744248682",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/48a93d6445a67520ea49833c93dae8f2e68fc540/header_alt_assets_9.jpg?t=1794474878",
       "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2124490/ss_1fdda21610fa23d0ce20b5c44fab8aebd509c5cb.600x338.jpg?t=1744248682",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2124490/ss_b20363454a190d737e5ff8e6410d66f0034bd807.600x338.jpg?t=1744248682",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2124490/ss_7ba4f2993853179e3049a7f56d7b690b892f33bf.600x338.jpg?t=1744248682"
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_2f649b68d579bf87011487d29bc4ccbfdd97d34f.600x338.jpg?t=1794474878",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/900f9bda156599fcd235f08ffb64667f9baa1afe/ss_900f9bda156599fcd235f08ffb64667f9baa1afe.600x338.jpg?t=1794474878",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/f678ed77c2fe7060ac9c64e32e1472e3ec3ab7dc/ss_f678ed77c2fe7060ac9c64e32e1472e3ec3ab7dc.600x338.jpg?t=1794474878"
       ],
-      "discount_percent": 72,
-      "initial_price": 8580,
-      "final_price": 2402,
-      "initial_formatted": "¥ 8,580",
-      "final_formatted": "¥ 2,402",
+      "discount_percent": 70,
+      "initial_price": 8778,
+      "final_price": 2633,
+      "initial_formatted": "¥ 8,778",
+      "final_formatted": "¥ 2,633",
       "review_desc": "非常に好評",
-      "positive_rate": 86,
-      "total_reviews": 45066,
-      "deal_score": 81,
+      "positive_rate": 85,
+      "total_reviews": 918437,
+      "deal_score": 82,
       "genres": [
-        "アクション",
-        "アドベンチャー"
+        "RPG"
       ],
       "categories": [
         "シングルプレイヤー",
         "Steam実績",
         "フルコントローラサポート",
-        "ゲームパッド推奨",
-        "DUALSHOCKコントローラーサポート"
+        "Steamトレーディングカード",
+        "テキストサイズの調整"
       ],
-      "release_date": "2024年10月7日",
+      "release_date": "2020年12月9日",
       "supported_japanese": true,
-      "ai_overview": "死んだ妻から届いた手紙をきっかけに、思い出の街「サイレントヒル」を訪れたジェイムス。 街は深い霧に包まれ、異形のクリーチャーが徘徊するゴーストタウンとなっていた。 クリーチャーと戦い、謎を解きながら、妻の手がかりを求めて街を探索する『SILENT HILL 2』のリメイク作品です。",
+      "ai_overview": "『サイバーパンク2077』――未来の巨大都市ナイトシティを舞台にしたオープンワールド・アクションアドベンチャーRPG",
       "ai_pros": [
         "フルコントローラー対応で快適に遊べる設計"
-      ],
-      "ai_cons": [
-        "高負荷3Dグラフィック：快適プレイには「ミドルクラスGPU」以上のPC環境を推奨"
-      ],
-      "picked_reviews": [],
-      "gpu_hint": "ミドルクラスGPU",
-      "has_controller": true,
-      "is_heavy_3d": true,
-      "steam_url": "https://store.steampowered.com/app/2124490/"
-    },
-    {
-      "appid": 2215430,
-      "name": "Ghost of Tsushima DIRECTOR'S CUT",
-      "name_en": "Ghost of Tsushima DIRECTORS CUT",
-      "publishers": [
-        "PlayStation Publishing LLC"
-      ],
-      "has_key_store": true,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/header.jpg?t=1763409398",
-      "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/ss_51eb1a47a41271abb0aa781de576f704d95b601b.600x338.jpg?t=1763409398",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/ss_d60e16422fc1605181e0fedee3e2cfc1e02c750e.600x338.jpg?t=1763409398",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/ss_11409331d57966ef193d66ffcded569d02a4e034.600x338.jpg?t=1763409398"
-      ],
-      "discount_percent": 50,
-      "initial_price": 7590,
-      "final_price": 3795,
-      "initial_formatted": "¥ 7,590",
-      "final_formatted": "¥ 3,795",
-      "review_desc": "非常に好評",
-      "positive_rate": 89,
-      "total_reviews": 66681,
-      "deal_score": 80,
-      "genres": [
-        "アクション",
-        "アドベンチャー"
-      ],
-      "categories": [
-        "シングルプレイヤー",
-        "マルチプレイヤー",
-        "PvP",
-        "オンラインPvP",
-        "協力プレイ"
-      ],
-      "release_date": "2024年5月16日",
-      "supported_japanese": true,
-      "ai_overview": "嵐が、来る。『Ghost of Tsushima DIRECTOR’S CUT』のPC用完全版でオープンワールド時代劇アクションアドベンチャーへ足を踏み入れ、自身の道を切り開こう。本作はSucker Punch Productions、Nixxes Software、PlayStation Studiosの共同制作でお届けします。",
-      "ai_pros": [
-        "オンライン協力プレイ対応で快適に遊べる設計"
       ],
       "ai_cons": [
         "高負荷3Dグラフィック：快適プレイには「RTX 2060」以上のPC環境を推奨"
@@ -106,7 +56,7 @@
       "gpu_hint": "RTX 2060",
       "has_controller": true,
       "is_heavy_3d": true,
-      "steam_url": "https://store.steampowered.com/app/2215430/"
+      "steam_url": "https://store.steampowered.com/app/1091500/"
     },
     {
       "appid": 2052410,
@@ -116,11 +66,11 @@
         "Aniplex Inc."
       ],
       "has_key_store": false,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2052410/header_japanese.jpg?t=1753952335",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2052410/header_japanese.jpg?t=1795762391",
       "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2052410/ss_cb5774706384c0bd6e21f83979167cb54d9a4e77.600x338.jpg?t=1753952335",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2052410/ss_8d4f4929594b0f666e9e36971f3085fe9c17f38f.600x338.jpg?t=1753952335",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2052410/ss_9fe33923585b286c80bea857acf8ac2686edacce.600x338.jpg?t=1753952335"
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2052410/ss_cb5774706384c0bd6e21f83979167cb54d9a4e77.600x338.jpg?t=1795762391",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2052410/ss_8d4f4929594b0f666e9e36971f3085fe9c17f38f.600x338.jpg?t=1795762391",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2052410/ss_9fe33923585b286c80bea857acf8ac2686edacce.600x338.jpg?t=1795762391"
       ],
       "discount_percent": 50,
       "initial_price": 6600,
@@ -129,7 +79,7 @@
       "final_formatted": "¥ 3,300",
       "review_desc": "非常に好評",
       "positive_rate": 96,
-      "total_reviews": 7635,
+      "total_reviews": 7643,
       "deal_score": 74,
       "genres": [
         "アドベンチャー"
@@ -177,7 +127,7 @@
       "final_formatted": "¥ 2,154",
       "review_desc": "やや好評",
       "positive_rate": 74,
-      "total_reviews": 877331,
+      "total_reviews": 879422,
       "deal_score": 71,
       "genres": [
         "アクション",
@@ -227,7 +177,7 @@
       "final_formatted": "¥ 2,402",
       "review_desc": "やや好評",
       "positive_rate": 75,
-      "total_reviews": 19782,
+      "total_reviews": 19820,
       "deal_score": 70,
       "genres": [
         "アクション",
@@ -277,7 +227,7 @@
       "final_formatted": "¥ 6,016",
       "review_desc": "非常に好評",
       "positive_rate": 89,
-      "total_reviews": 17983,
+      "total_reviews": 18185,
       "deal_score": 70,
       "genres": [
         "アクション",
@@ -326,7 +276,7 @@
       "final_formatted": "¥ 986",
       "review_desc": "賛否両論",
       "positive_rate": 65,
-      "total_reviews": 46411,
+      "total_reviews": 46495,
       "deal_score": 69,
       "genres": [
         "アクション",
@@ -377,7 +327,7 @@
       "final_formatted": "¥ 986",
       "review_desc": "賛否両論",
       "positive_rate": 50,
-      "total_reviews": 27405,
+      "total_reviews": 27444,
       "deal_score": 63,
       "genres": [
         "アクション",
@@ -429,7 +379,7 @@
       "final_formatted": "¥ 2,800",
       "review_desc": "圧倒的に好評",
       "positive_rate": 96,
-      "total_reviews": 31139,
+      "total_reviews": 31166,
       "deal_score": 63,
       "genres": [
         "アドベンチャー",
@@ -478,8 +428,8 @@
       "initial_formatted": "¥ 6,480",
       "final_formatted": "¥ 2,851",
       "review_desc": "やや好評",
-      "positive_rate": 73,
-      "total_reviews": 236796,
+      "positive_rate": 74,
+      "total_reviews": 238272,
       "deal_score": 62,
       "genres": [
         "アクション",
@@ -500,7 +450,7 @@
         "オンライン協力プレイ対応で快適に遊べる設計"
       ],
       "ai_cons": [
-        "好みが分かれる作品（好評率73%）：ゲームシステムや難易度の事前確認を推奨",
+        "好みが分かれる作品（好評率74%）：ゲームシステムや難易度の事前確認を推奨",
         "高負荷3Dグラフィック：快適プレイには「RTX 3060」以上のPC環境を推奨"
       ],
       "picked_reviews": [],
@@ -517,11 +467,11 @@
         "Quite OK Games"
       ],
       "has_key_store": false,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4253570/646bb149524f3e9fbe8e294fccf88c6d91247ac2/header_alt_assets_1.jpg?t=1795708896",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4253570/646bb149524f3e9fbe8e294fccf88c6d91247ac2/header_alt_assets_1.jpg?t=1795802478",
       "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4253570/f0215872516b966d44bba9c3392e9e55c32a4868/ss_f0215872516b966d44bba9c3392e9e55c32a4868.600x338.jpg?t=1795708896",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4253570/cbaf797f385db8be5fbec496f334e13a014c7140/ss_cbaf797f385db8be5fbec496f334e13a014c7140.600x338.jpg?t=1795708896",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4253570/a25f36adff4aa06c5a60761022760dfcb9b4b831/ss_a25f36adff4aa06c5a60761022760dfcb9b4b831.600x338.jpg?t=1795708896"
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4253570/f0215872516b966d44bba9c3392e9e55c32a4868/ss_f0215872516b966d44bba9c3392e9e55c32a4868.600x338.jpg?t=1795802478",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4253570/cbaf797f385db8be5fbec496f334e13a014c7140/ss_cbaf797f385db8be5fbec496f334e13a014c7140.600x338.jpg?t=1795802478",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4253570/a25f36adff4aa06c5a60761022760dfcb9b4b831/ss_a25f36adff4aa06c5a60761022760dfcb9b4b831.600x338.jpg?t=1795802478"
       ],
       "discount_percent": 20,
       "initial_price": 1280,
@@ -529,9 +479,9 @@
       "initial_formatted": "¥ 1,280",
       "final_formatted": "¥ 1,024",
       "review_desc": "非常に好評",
-      "positive_rate": 99,
-      "total_reviews": 139,
-      "deal_score": 58,
+      "positive_rate": 96,
+      "total_reviews": 453,
+      "deal_score": 57,
       "genres": [
         "カジュアル",
         "インディー",
@@ -566,11 +516,11 @@
         "Unruled Games"
       ],
       "has_key_store": false,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5527800/d62c870790fcce767edd856ce3e7e6df2a9b1395/header.jpg?t=1795542925",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5527800/d62c870790fcce767edd856ce3e7e6df2a9b1395/header.jpg?t=1795785016",
       "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5527800/1557480638a245a74dcb7210220ca5a2eae66ecb/ss_1557480638a245a74dcb7210220ca5a2eae66ecb.600x338.jpg?t=1795542925",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5527800/6d01f427dfeb37082da8d430b5d5b12b3b67636c/ss_6d01f427dfeb37082da8d430b5d5b12b3b67636c.600x338.jpg?t=1795542925",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5527800/f4b361b1955b12e7b2dd3bc37eeb9fc03431ef1d/ss_f4b361b1955b12e7b2dd3bc37eeb9fc03431ef1d.600x338.jpg?t=1795542925"
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5527800/1557480638a245a74dcb7210220ca5a2eae66ecb/ss_1557480638a245a74dcb7210220ca5a2eae66ecb.600x338.jpg?t=1795785016",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5527800/6d01f427dfeb37082da8d430b5d5b12b3b67636c/ss_6d01f427dfeb37082da8d430b5d5b12b3b67636c.600x338.jpg?t=1795785016",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5527800/f4b361b1955b12e7b2dd3bc37eeb9fc03431ef1d/ss_f4b361b1955b12e7b2dd3bc37eeb9fc03431ef1d.600x338.jpg?t=1795785016"
       ],
       "discount_percent": 20,
       "initial_price": 1150,
@@ -579,7 +529,7 @@
       "final_formatted": "¥ 920",
       "review_desc": "圧倒的に好評",
       "positive_rate": 95,
-      "total_reviews": 876,
+      "total_reviews": 1241,
       "deal_score": 56,
       "genres": [
         "カジュアル",
@@ -629,7 +579,7 @@
       "final_formatted": "¥ 9,592",
       "review_desc": "非常に好評",
       "positive_rate": 83,
-      "total_reviews": 23566,
+      "total_reviews": 23931,
       "deal_score": 56,
       "genres": [
         "アクション"
@@ -657,53 +607,100 @@
       "steam_url": "https://store.steampowered.com/app/2288340/"
     },
     {
-      "appid": 1808500,
-      "name": "ARC Raiders",
-      "name_en": "ARC Raiders",
+      "appid": 4013270,
+      "name": "偽りのアリス -Retold Tale-",
+      "name_en": "The False Alice -Retold Tale-",
       "publishers": [
-        "Embark Studios"
+        "VISUAL ARTS"
       ],
-      "has_key_store": true,
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808500/28261332e481ebd131af413063dbda81f145641b/header_alt_assets_10.jpg?t=1795511323",
+      "has_key_store": false,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4013270/b7994f0192a1637ee54a3adcc4dc692bc4fcdc7e/header_japanese.jpg?t=1795742617",
       "screenshots": [
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808500/1763664f3ea80080867eafa751685b7feec950c8/ss_1763664f3ea80080867eafa751685b7feec950c8.600x338.jpg?t=1795511323",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808500/5188aa2b07920afe9753409ea9fe3d1324cfc294/ss_5188aa2b07920afe9753409ea9fe3d1324cfc294.600x338.jpg?t=1795511323",
-        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808500/155fc161a45949e61f41e473282f9ed7ec221efe/ss_155fc161a45949e61f41e473282f9ed7ec221efe.600x338.jpg?t=1795511323"
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4013270/8ea36412db107e44baba0995af3ce79e55d278a9/ss_8ea36412db107e44baba0995af3ce79e55d278a9.600x338.jpg?t=1795742617",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4013270/b5a657ba1c6ca3236615a5dd51d8675c5517c557/ss_b5a657ba1c6ca3236615a5dd51d8675c5517c557.600x338.jpg?t=1795742617",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4013270/40bab79a4920ac232d3b3b14fcc8be45697d12cb/ss_40bab79a4920ac232d3b3b14fcc8be45697d12cb.600x338.jpg?t=1795742617"
       ],
-      "discount_percent": 50,
-      "initial_price": 6390,
-      "final_price": 3195,
-      "initial_formatted": "¥ 6,390",
-      "final_formatted": "¥ 3,195",
-      "review_desc": "賛否両論",
-      "positive_rate": 63,
-      "total_reviews": 312998,
+      "discount_percent": 20,
+      "initial_price": 3500,
+      "final_price": 2800,
+      "initial_formatted": "¥ 3,500",
+      "final_formatted": "¥ 2,800",
+      "review_desc": "好評",
+      "positive_rate": 91,
+      "total_reviews": 500,
       "deal_score": 54,
       "genres": [
-        "アクション"
+        "アドベンチャー"
       ],
       "categories": [
+        "シングルプレイヤー",
+        "Steam実績",
+        "カスタム音量調整",
+        "キーボードのみのオプション",
+        "マウスのみのオプション"
+      ],
+      "release_date": "2026年11月26日",
+      "supported_japanese": true,
+      "ai_overview": "そこは失敗作が集められた塵箱。目を覚ました『あなた』が出会うのは、三人の偽物の『アリス』。たった一人の本物になるために、偽物は殺し合う。――どの『アリス』が本物になるのか？　『あなた』の選択が、物語の結末を変えるダークファンタジーADV。",
+      "ai_pros": [
+        "アドベンチャー好きなら抑えておきたい注目作",
+        "要求スペックは軽め（ミドルクラスGPU目安）で幅広いPCで快適動作"
+      ],
+      "ai_cons": [],
+      "picked_reviews": [],
+      "gpu_hint": "ミドルクラスGPU",
+      "has_controller": true,
+      "is_heavy_3d": false,
+      "steam_url": "https://store.steampowered.com/app/4013270/"
+    },
+    {
+      "appid": 4356430,
+      "name": "『NBA 2K27』",
+      "name_en": "NBA 2K27",
+      "publishers": [
+        "2K"
+      ],
+      "has_key_store": true,
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4356430/9152438fde7de9f4c20b4fd9072ba69f844dacab/header.jpg?t=1795798696",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4356430/0202201bff9e57adf4913e9c8a21062c730e0b27/ss_0202201bff9e57adf4913e9c8a21062c730e0b27.600x338.jpg?t=1795798696",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4356430/2a04508bf934834c93cfe5c91f27f45d3043a83d/ss_2a04508bf934834c93cfe5c91f27f45d3043a83d.600x338.jpg?t=1795798696",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4356430/57773a1574208a10b2a5a12fdf3e0be991461475/ss_57773a1574208a10b2a5a12fdf3e0be991461475.600x338.jpg?t=1795798696"
+      ],
+      "discount_percent": 55,
+      "initial_price": 9460,
+      "final_price": 4257,
+      "initial_formatted": "¥ 9,460",
+      "final_formatted": "¥ 4,257",
+      "review_desc": "賛否両論",
+      "positive_rate": 50,
+      "total_reviews": 3909,
+      "deal_score": 50,
+      "genres": [
+        "スポーツ"
+      ],
+      "categories": [
+        "シングルプレイヤー",
         "マルチプレイヤー",
         "PvP",
         "オンラインPvP",
-        "協力プレイ",
-        "オンライン協力プレイ"
+        "共有／分割画面でのPvP"
       ],
-      "release_date": "2025年10月30日",
+      "release_date": "2026年9月3日",
       "supported_japanese": true,
-      "ai_overview": "『ARC Raiders』は、ARC と呼ばれる謎の機械によって荒廃した、危険に満ちた未来の地球を舞台とするマルチプレイヤー・エクストラクションアドベンチャーです。",
+      "ai_overview": "『NBA 2K27』で終わりなき興奮を駆け抜けろ。マイキャリア、マイチーム、マイNBAで24時間いつでも頂点を目指し、あなたが夢見たバスケットボールを現実のものに！",
       "ai_pros": [
-        "オンライン協力プレイ対応で快適に遊べる設計"
+        "マルチプレイ対応で快適に遊べる設計"
       ],
       "ai_cons": [
-        "好みが分かれる作品（好評率63%）：ゲームシステムや難易度の事前確認を推奨",
+        "好みが分かれる作品（好評率50%）：ゲームシステムや難易度の事前確認を推奨",
         "高負荷3Dグラフィック：快適プレイには「RTX 2070」以上のPC環境を推奨"
       ],
       "picked_reviews": [],
       "gpu_hint": "RTX 2070",
       "has_controller": true,
       "is_heavy_3d": true,
-      "steam_url": "https://store.steampowered.com/app/1808500/"
+      "steam_url": "https://store.steampowered.com/app/4356430/"
     },
     {
       "appid": 4080220,
@@ -726,7 +723,7 @@
       "final_formatted": "¥ 4,900",
       "review_desc": "賛否両論",
       "positive_rate": 48,
-      "total_reviews": 15503,
+      "total_reviews": 15809,
       "deal_score": 49,
       "genres": [
         "シミュレーション",
@@ -776,7 +773,7 @@
       "final_formatted": "¥ 7,350",
       "review_desc": "賛否両論",
       "positive_rate": 56,
-      "total_reviews": 99889,
+      "total_reviews": 100813,
       "deal_score": 39,
       "genres": [
         "レース",
